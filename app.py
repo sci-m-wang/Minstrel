@@ -1,5 +1,5 @@
-from pages.generate import generate
-from pages.test import test
+from showcases.generate import generate
+from showcases.test import test
 from models.openai import Generator
 import streamlit as st
 

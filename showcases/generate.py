@@ -62,7 +62,7 @@ def generate():
         st.subheader("基本信息")
         state.role_name = st.text_input("助手名称","",help="例如：大模型、助手等")
         state.author = st.text_input("作者","LangGPT")
-        state.version = st.number_input("版本",min_value=0.1,value=1.0,step=0.1)
+        state.version = st.number_input("版本",min_value=0.1,value=0.1,step=0.1)
         state.description = st.text_area("描述","这是一个LangGPT生成的助手",height=100)
         st.subheader("模块控制")
         if "modules" not in state:
