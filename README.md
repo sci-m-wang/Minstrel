@@ -1,6 +1,6 @@
-# LangGPT-generator
+# Minstrel
 
-LangGPT-generator 是一个多代理系统，用于生成LangGPT提示。该项目旨在通过多个智能代理协作生成高质量的LangGPT提示，以提高生成文本的准确性和多样性。
+Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构化提示。该项目旨在通过多个智能代理协作生成高质量的LangGPT提示，以提高生成文本的准确性和多样性。
 
 ## 功能特性
 
