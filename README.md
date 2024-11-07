@@ -74,4 +74,8 @@ Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构�
 - 电子邮件: sci.m.wang@gmail.com
 - GitHub: [sci-m-wang](https://github.com/sci-m-wang)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sci-m-wang/Minstrel&type=Date)](https://star-history.com/#sci-m-wang/Minstrel&Date)
+
 感谢您使用 LangGPT-generator！
