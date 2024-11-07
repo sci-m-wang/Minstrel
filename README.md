@@ -76,6 +76,6 @@ Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sci-m-wang/Minstrel&type=Date)](https://star-history.com/#sci-m-wang/Minstrel&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=sci-m-wang/Minstrel&type=Date)
 
 感谢您使用 LangGPT-generator！
