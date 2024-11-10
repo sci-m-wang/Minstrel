@@ -65,6 +65,16 @@ Minstrel 是一个多智能体系统，用于生成基于LangGPT格式的结构�
       primaryClass={cs.SE},
       url={https://arxiv.org/abs/2402.16929}, 
 }
+
+@misc{wang2024minstrelstructuralpromptgeneration,
+      title={Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts}, 
+      author={Ming Wang and Yuanzhong Liu and Xiaoyu Liang and Yijie Huang and Daling Wang and Xiaocui Yang and Sijia Shen and Shi Feng and Xiaoming Zhang and Chaofeng Guan and Yifei Zhang},
+      year={2024},
+      eprint={2409.13449},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.13449}, 
+}
 ```
 
 ## 联系方式
