@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T07:57:17.197007+00:00",
+  "run_name": "panel-d",
+  "research_ready": true,
+  "read_only_execution": true,
+  "character_ids": [
+    "ce_huafei",
+    "ce_luzhiqiao",
+    "ce_laomo",
+    "ce_zhuchaoyang",
+    "ce_mengyanchen",
+    "ce_xuhongdou"
+  ],
+  "conditions": [
+    "none",
+    "personality",
+    "raw",
+    "summary",
+    "gold",
+    "ours"
+  ],
+  "coverage_requirement": {
+    "min_comments": 500,
+    "min_platforms": 2,
+    "min_authors": 100
+  },
+  "coverage_audit": {
+    "ready": true,
+    "characters": [
+      {
+        "character_id": "ce_huafei",
+        "comments": 504,
+        "platforms": 3,
+        "authors": 426,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_laomo",
+        "comments": 544,
+        "platforms": 3,
+        "authors": 462,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_luzhiqiao",
+        "comments": 660,
+        "platforms": 2,
+        "authors": 596,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_mengyanchen",
+        "comments": 632,
+        "platforms": 2,
+        "authors": 431,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_xuhongdou",
+        "comments": 501,
+        "platforms": 2,
+        "authors": 428,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_zhuchaoyang",
+        "comments": 744,
+        "platforms": 2,
+        "authors": 650,
+        "ready": true,
+        "failures": []
+      }
+    ]
+  },
+  "benchmark_examples": {
+    "ce_huafei": 14,
+    "ce_luzhiqiao": 102,
+    "ce_laomo": 22,
+    "ce_zhuchaoyang": 87,
+    "ce_mengyanchen": 30,
+    "ce_xuhongdou": 51
+  },
+  "source_audit": [
+    {
+      "character_id": "ce_huafei",
+      "platform": "baidu_tieba",
+      "license_note": "Publicly visible Baidu Tieba post retained privately for research audit; canonical thread/post URL preserved; redistribution is not authorized.",
+      "comments": 17,
+      "authors": 3
+    },
+    {
+      "character_id": "ce_huafei",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; canonical video URL preserved; redistribution is not authorized.",
+      "comments": 40,
+      "authors": 40
+    },
+    {
+      "character_id": "ce_huafei",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; public video and comment identifiers preserved; redistribution is not authorized.",
+      "comments": 355,
+      "authors": 296
+    },
+    {
+      "character_id": "ce_huafei",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 92,
+      "authors": 87
+    },
+    {
+      "character_id": "ce_laomo",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; public video and comment identifiers preserved; redistribution is not authorized.",
+      "comments": 541,
+      "authors": 459
+    },
+    {
+      "character_id": "ce_laomo",
+      "platform": "hupu",
+      "license_note": "Publicly visible Hupu post retained privately for research audit; canonical thread and public author identifiers preserved in the temporary capture only; redistribution is not authorized.",
+      "comments": 1,
+      "authors": 1
+    },
+    {
+      "character_id": "ce_laomo",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 2,
+      "authors": 2
+    },
+    {
+      "character_id": "ce_luzhiqiao",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; public video and comment identifiers preserved; redistribution is not authorized.",
+      "comments": 572,
+      "authors": 514
+    },
+    {
+      "character_id": "ce_luzhiqiao",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 88,
+      "authors": 82
+    },
+    {
+      "character_id": "ce_mengyanchen",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; public video and comment identifiers preserved; redistribution is not authorized.",
+      "comments": 536,
+      "authors": 359
+    },
+    {
+      "character_id": "ce_mengyanchen",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 96,
+      "authors": 72
+    },
+    {
+      "character_id": "ce_xuhongdou",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; public video and comment identifiers preserved; redistribution is not authorized.",
+      "comments": 452,
+      "authors": 384
+    },
+    {
+      "character_id": "ce_xuhongdou",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 49,
+      "authors": 44
+    },
+    {
+      "character_id": "ce_zhuchaoyang",
+      "platform": "bilibili",
+      "license_note": "Publicly visible Bilibili comment retained privately for research audit; public video and comment identifiers preserved; redistribution is not authorized.",
+      "comments": 611,
+      "authors": 548
+    },
+    {
+      "character_id": "ce_zhuchaoyang",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 133,
+      "authors": 102
+    }
+  ],
+  "artifacts": [
+    {
+      "kind": "config",
+      "path": "configs/offline/panel-d.yaml",
+      "bytes": 1427,
+      "sha256": "5e372645d96f4537b741c549ffc959361976dd1d952008bb8ceeed18f46cbef3"
+    },
+    {
+      "kind": "corpus_db",
+      "path": "data/corpus/comments.sqlite",
+      "bytes": 15032320,
+      "sha256": "56332dd625464189018e295b03eb7f2321d03d568481ed2beaac3a85920e938f"
+    },
+    {
+      "kind": "catalog",
+      "path": "data/catalog/characters.panel_d.json",
+      "bytes": 17302,
+      "sha256": "0c99c04fbd2ce7c6f2e4e57d021f9beee564f98c3fba305173b36a09add68e40"
+    },
+    {
+      "kind": "benchmark",
+      "path": "data/benchmarks/panel_d.jsonl",
+      "bytes": 530728,
+      "sha256": "d16ac9c6cc82c269a8b9a2cddafc3e4a4377a744d22bd9019d065ed3313955f7"
+    },
+    {
+      "kind": "executable_scope",
+      "path": "configs/scope.yaml",
+      "bytes": 1378,
+      "sha256": "7b04d4c69dee1793381c376cdd28d020c3ae4f1e66a7a096d042cfb692650626"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/sources/official_inputs.json",
+      "bytes": 880,
+      "sha256": "ea8093972074f753532bab9a513c83ae36be28cf9f1fca478b07296d2f702895"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/sources/collection_targets.json",
+      "bytes": 6537,
+      "sha256": "ed7b7a64a2de5a9bbd4f84dc5d6406fc3ba2068c22170fed29a143ced746612e"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/sources/feasibility.md",
+      "bytes": 4510,
+      "sha256": "38a0fdb5af121c21e4e029a57405d2fd687da3b272add601db8ec4afded51249"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/corpus_inventory.json",
+      "bytes": 294281,
+      "sha256": "f08fce6be51085842f9f8c10e3623f00c81f917969e790ab5d06a8bf419b409d"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/experiment_inventory.json",
+      "bytes": 10002,
+      "sha256": "e86aecf64975136da2428705ea63a012427e0168636c56cae83d1a90db229cd8"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/vector_store/qwen3-embedding-0.6b.sqlite",
+      "bytes": 50024448,
+      "sha256": "387093b02b263b2e0490bde40a4997875ca5b1c8b12b42b8162a1cb70609a291"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/evaluators/charactereval/character_profiles.selected.json",
+      "bytes": 8720,
+      "sha256": "f4ef7ac9c40c84e0ea01aa2a6190c1ef6a8d34a845b8b7c400b6a86df0e842d2"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/evaluators/charactereval/id2metric.selected.json",
+      "bytes": 39912,
+      "sha256": "0bd9ef21f2067318d6a7fe623bb26e62c4b42a71c73cb26670e093f83bb2c1db"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "offline/code.manifest.json",
+      "bytes": 12476,
+      "sha256": "264ea2c3d9033d62c75a4565d60386326839e44bc9ce2c3407915933860a2bde"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "offline/models.yaml",
+      "bytes": 2094,
+      "sha256": "236ae8d0e5edd0fc3a71d06dcdfada62386c0a2410279751576b54ec4a309254"
+    }
+  ]
+}

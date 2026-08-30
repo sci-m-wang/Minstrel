@@ -1,0 +1,2 @@
+{"example_id":"demo_e01","character_id":"demo_alex","query":"A close friend calls just before your carefully planned evening and urgently asks for help moving a broken bicycle out of traffic. What do you say and do?","context":"You had reserved the evening for an important personal project.","reference":"The person should show irritation or concern about the disruption, then prioritize the close friend's genuine need and respond with a practical plan.","benchmark":"synthetic_smoke","metadata":{"synthetic":true}}
+

@@ -1,0 +1,102 @@
+#!/usr/bin/env python3
+"""Search public Bilibili videos through its browser-facing WBI endpoint.
+
+This connected preparation-side utility only discovers candidate videos. It does not import data or
+run on the disconnected GPU host.
+"""
+
+from __future__ import annotations
+
+import argparse
+import hashlib
+import json
+import ssl
+import time
+import urllib.parse
+import urllib.request
+
+import certifi
+
+
+MIXIN_KEY_ENC_TAB = [
+    46, 47, 18, 2, 53, 8, 23, 32, 15, 50, 10, 31, 58, 3, 45, 35,
+    27, 43, 5, 49, 33, 9, 42, 19, 29, 28, 14, 39, 12, 38, 41, 13,
+    37, 48, 7, 16, 24, 55, 40, 61, 26, 17, 0, 1, 60, 51, 30, 4,
+    22, 25, 54, 21, 56, 59, 6, 63, 57, 62, 11, 36, 20, 34, 44, 52,
+]
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36",
+    "Referer": "https://search.bilibili.com/",
+}
+
+
+def request_json(url: str) -> dict:
+    request = urllib.request.Request(url, headers=HEADERS)
+    context = ssl.create_default_context(cafile=certifi.where())
+    with urllib.request.urlopen(request, context=context) as response:  # noqa: S310
+        return json.load(response)
+
+
+def mixin_key() -> str:
+    payload = request_json("https://api.bilibili.com/x/web-interface/nav")
+    wbi = payload["data"]["wbi_img"]
+    img_key = wbi["img_url"].rsplit("/", 1)[-1].split(".", 1)[0]
+    sub_key = wbi["sub_url"].rsplit("/", 1)[-1].split(".", 1)[0]
+    source = img_key + sub_key
+    return "".join(source[index] for index in MIXIN_KEY_ENC_TAB)[:32]
+
+
+def signed_url(params: dict[str, object]) -> str:
+    params = {**params, "wts": int(time.time())}
+    clean = {
+        key: str(value).translate({ord(char): None for char in "!'()*"})
+        for key, value in params.items()
+    }
+    query = urllib.parse.urlencode(sorted(clean.items()))
+    signature = hashlib.md5((query + mixin_key()).encode()).hexdigest()  # noqa: S324
+    return (
+        "https://api.bilibili.com/x/web-interface/wbi/search/type?"
+        + query
+        + "&w_rid="
+        + signature
+    )
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--query", required=True)
+    parser.add_argument("--page", type=int, default=1)
+    args = parser.parse_args()
+    payload = request_json(
+        signed_url(
+            {
+                "search_type": "video",
+                "keyword": args.query,
+                "page": args.page,
+                "order": "totalrank",
+            }
+        )
+    )
+    if payload.get("code") != 0:
+        raise RuntimeError(f"Bilibili search failed: {payload.get('code')} {payload.get('message')}")
+    result = payload.get("data", {}).get("result") or []
+    rows = [
+        {
+            "bvid": item.get("bvid"),
+            "aid": item.get("aid"),
+            "title": item.get("title"),
+            "description": item.get("description"),
+            "play": item.get("play"),
+            "favorites": item.get("favorites"),
+            "author": item.get("author"),
+            "url": f"https://www.bilibili.com/video/{item.get('bvid')}/",
+        }
+        for item in result
+    ]
+    print(json.dumps({"status": "ok", "query": args.query, "results": rows}, ensure_ascii=False, indent=2))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,0 +1,49 @@
+provider:
+  name: GPT
+  env_file: .env
+
+data:
+  corpus_db: data/corpus/comments.sqlite
+  catalog: data/catalog/characters.panel_a.json
+  benchmark: data/benchmarks/panel_a.jsonl
+  bundle_manifest: data/manifests/panel-a.json
+  frozen_assets:
+    - data/sources/official_inputs.json
+    - data/vector_store/qwen3-embedding-0.6b.sqlite
+    - offline/models.yaml
+  include_synthetic: false
+  coverage:
+    min_comments: 500
+    min_platforms: 2
+    min_authors: 100
+
+retrieval:
+  mode: hybrid
+  vector_store: data/vector_store/qwen3-embedding-0.6b.sqlite
+  embedding_model_key: qwen3-embedding-0.6b
+  reranker_model: BAAI/bge-reranker-v2-m3
+  bm25_top_k: 20
+  dense_top_k: 20
+  final_top_k: 10
+
+profiling:
+  probe_ids: null
+  target_tokens: 1000
+
+run:
+  name: panel-a
+  output_dir: runs
+  character_ids:
+    - hp_harry
+    - hp_hermione
+    - hp_ron
+    - hp_draco
+    - hp_mcgonagall
+    - tbbt_sheldon
+    - tbbt_leonard
+    - tbbt_penny
+    - tbbt_raj
+    - tbbt_howard
+  conditions: [none, personality, raw, summary, gold, ours]
+  replicates: 3
+  judge: false

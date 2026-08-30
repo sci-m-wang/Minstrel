@@ -1,0 +1,56 @@
+provider:
+  name: LOCAL
+  env_file: .env
+
+data:
+  corpus_db: data/corpus/comments.sqlite
+  catalog: data/catalog/characters.panel_a.json
+  benchmark: data/benchmarks/panel_a.jsonl
+  bundle_manifest: data/manifests/panel-a.json
+  model_registry: offline/models.yaml
+  frozen_assets:
+    - data/sources/official_inputs.json
+    - data/sources/collection_targets.json
+    - data/sources/feasibility.md
+    - data/audits/corpus_inventory.json
+    - data/audits/experiment_inventory.json
+    - data/vector_store/qwen3-embedding-0.6b.sqlite
+    - offline/code.manifest.json
+    - offline/models.yaml
+  include_synthetic: false
+  coverage:
+    min_comments: 500
+    min_platforms: 2
+    min_authors: 100
+
+retrieval:
+  mode: hybrid
+  vector_store: data/vector_store/qwen3-embedding-0.6b.sqlite
+  embedding_model_key: qwen3-embedding-0.6b
+  reranker_model: $SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3
+  bm25_top_k: 20
+  dense_top_k: 20
+  final_top_k: 10
+
+profiling:
+  probe_ids: null
+  target_tokens: 1000
+
+run:
+  name: panel-a
+  preparation_output_dir: prepared
+  output_dir: runs
+  character_ids:
+    - hp_harry
+    - hp_hermione
+    - hp_ron
+    - hp_draco
+    - hp_mcgonagall
+    - tbbt_sheldon
+    - tbbt_leonard
+    - tbbt_penny
+    - tbbt_raj
+    - tbbt_howard
+  conditions: [none, personality, raw, summary, gold, ours]
+  replicates: 3
+  judge: false

@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "characters": [
+    {
+      "character_id": "demo_alex",
+      "character_name": "Alex Example",
+      "work": "Synthetic Smoke World",
+      "anonymous_id": "TARGET_DEMO",
+      "panel": "SMOKE",
+      "aliases": [
+        "Alex Example",
+        "Alex"
+      ],
+      "language": "en",
+      "iconicity": "unknown",
+      "gold_profile": "A fictional smoke-test person who prefers predictable plans, initially resists sudden changes, helps close friends despite inconvenience, and communicates in a precise but caring style."
+    },
+    {
+      "character_id": "hp_harry",
+      "character_name": "Harry Potter",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A01",
+      "panel": "A",
+      "aliases": [
+        "Harry Potter",
+        "Harry",
+        "Potter",
+        "Mr. Potter",
+        "Mr Potter",
+        "哈利·波特",
+        "哈利波特",
+        "哈利"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": "[TARGET] is an orphaned boy who discovers on his eleventh birthday that he is a wizard when Hagrid, the Keeper of Keys and Grounds at Hogwarts, comes to take him to the School of Witchcraft and Wizardry. Raised by his neglectful and abusive aunt and uncle, the Dursleys, along with his spoiled cousin Dudley, [TARGET] learns that he is famous in the wizarding world for surviving an attack by the dark wizard Voldemort, who killed his parents but somehow failed to kill him when he was a baby. At Hogwarts, [TARGET] becomes friends with Ron Weasley and Hermione Granger, forms a rivalry with Draco Malfoy, and is under the watchful eye of the head of Gryffindor House, Professor McGonagall. He discovers he has a natural talent for Quidditch, a wizarding sport. [TARGET]'s confrontation with Voldemort is a recurring theme in his life, as he faces obstacles set by the dark wizard, including an attempt to steal the Sorcerer's Stone. Neville Longbottom, a fellow Gryffindor student, shows growth from being a timid boy to standing up to his friends, earning key points leading to Gryffindor's House Cup win. Throughout his first year at Hogwarts, [TARGET] grapples with his fame, learns about his parents' legacy of love and bravery, and sets the stage for his ongoing conflict with Voldemort."
+    },
+    {
+      "character_id": "hp_hermione",
+      "character_name": "Hermione Granger",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A02",
+      "panel": "A",
+      "aliases": [
+        "Hermione Granger",
+        "Hermione",
+        "Granger",
+        "Miss Granger",
+        "赫敏·格兰杰",
+        "赫敏格兰杰",
+        "赫敏"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": "[TARGET] is a highly intelligent and studious witch. Known for her quick wit, meticulous nature, and encyclopedic knowledge, she often provides the crucial information necessary for overcoming obstacles. [TARGET] excels in her magical abilities and has a profound sense of justice, proving herself to be a loyal and brave friend. Noteworthy events include forming Dumbledore's Army with Harry and others, time-traveling to save lives, and playing a pivotal role in the defeat of Voldemort. [TARGET] maintains strong relationships with key characters. She forms a deep bond with her professors, particularly McGonagall, who respects [TARGET]'s talents. Although initially she has little interaction with Hagrid, she grows to appreciate his kindness and becomes close to him. [TARGET] has no significant encounters with Dudley. With [TARGET], [TARGET] shares a profound friendship and partnership, frequently supporting him in his confrontations with Voldemort. Her relationship with Ron Weasley blossoms from friendship into romance. Though Neville Longbottom and [TARGET] are not the closest of friends, she helps and encourages him throughout their time at Hogwarts."
+    },
+    {
+      "character_id": "hp_ron",
+      "character_name": "Ron Weasley",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A03",
+      "panel": "A",
+      "aliases": [
+        "Ron Weasley",
+        "Ron",
+        "Ronald",
+        "Weasley",
+        "罗恩·韦斯莱",
+        "罗恩韦斯莱",
+        "罗恩"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": "[TARGET] is a loyal and brave young Gryffindor at Hogwarts School of Witchcraft and Wizardry. A key member of the trio, he is Harry's best friend and often adds a lighthearted, sometimes clumsy charm to their adventures. His magical abilities progress throughout the series, evolving from struggling with spells to playing an integral role in significant events such as surviving a giant chess game to protect the Sorcerer's Stone. He stands by Harry in conf[TARGET]tations with Voldemort and displays growing courage, as seen when facing a troll with Harry and Hermione. [TARGET]'s familial connection to Hogwarts staff includes his brother Percy serving as a prefect, and his bond with Hagrid is demonstrated through mutual respect and assistance in various escapades. Although occasionally jealous of Harry's fame, [TARGET] remains fiercely dedicated to his friends, and his relationship with Hermione Granger develops from bickering to deep affection. Neville Longbottom is a fellow Gryffindor who [TARGET] occasionally interacts with but doesn't share as close a bond as with Harry and Hermione. [TARGET]'s complexities and growth truly make him a memorable character."
+    },
+    {
+      "character_id": "hp_draco",
+      "character_name": "Draco Malfoy",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A04",
+      "panel": "A",
+      "aliases": [
+        "Draco Malfoy",
+        "Draco",
+        "Malfoy",
+        "德拉科·马尔福",
+        "德拉科马尔福",
+        "德拉科",
+        "马尔福"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": "[TARGET] is a student in [TARGET]'s year belonging in the Slytherin house. He is frequently accompanied by his two cronies, Vincent Crabbe and Gregory Goyle, who act as henchmen. [TARGET] is characterised as a cowardly bully who tricks and hurts people to get what he wants; he is also a cunning user of magic. [TARGET] is the prototypical spoiled, rich brat; he believes that his family's wealth and social position gives him the right to bully those poorer than himself, such as Ron Weasley. He also insults Hermione Granger's Muggle-born status by referring to her as a \"Mudblood\", a term that, as stated by Hagrid, is one not used in civilised conversations."
+    },
+    {
+      "character_id": "hp_mcgonagall",
+      "character_name": "Minerva McGonagall",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A05",
+      "panel": "A",
+      "aliases": [
+        "Minerva McGonagall",
+        "McGonagall",
+        "Professor McGonagall",
+        "米勒娃·麦格",
+        "米勒娃麦格",
+        "麦格教授",
+        "麦格"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": "[TARGET] is a stern but fair professor at Hogwarts School of Witchcraft and Wizardry, known for her sharp wit, strict demeanor, and unexpected kindness. The Deputy Headmistress, head of Gryffindor House, and Transfiguration teacher, she is respected for her strong sense of duty and powerful magical ability. In her interactions with Hagrid, [TARGET] values his loyalty but initially questions his discretion with important matters, though she respects Dumbledore's trust in him. She displays concern for Harry's well-being upon his arrival at the Dursleys, disapproving of the family's treatment of him. [TARGET] is instrumental in Harry's integration into the wizarding world, acknowledging his fame but ensuring he is grounded. [TARGET] is visibly wary of Voldemort, given his past atrocities, and acts protectively towards Harry in light of the dangers he faces. Her dynamic with Ron and Hermione is less explored early on, but she likely views them as she does her other students: with high expectations and a desire for their success. Her attitude towards Neville suggests she values bravery and growth, as she ultimately rewards him for standing up to his peers. As a mentor, [TARGET] is crucial to Harry's first steps into the magical community, overseeing his transition from the muggle world to Hogwarts and facilitating his journey as he confronts the legacy of his parents and the threat of Voldemort. Her interactions with major characters set the tone for both authority and guardianship."
+    },
+    {
+      "character_id": "tbbt_sheldon",
+      "character_name": "Sheldon Cooper",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A06",
+      "panel": "A,C",
+      "aliases": [
+        "Sheldon Cooper",
+        "Sheldon",
+        "Cooper",
+        "Dr. Cooper",
+        "Dr Cooper",
+        "谢尔顿·库珀",
+        "谢尔顿库珀",
+        "谢尔顿",
+        "谢耳朵"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": "[TARGET] is a highly intelligent but socially awkward theoretical physicist with a penchant for science, particularly quantum mechanics and string theory. His personality is marked by a strict adherence to routine and a lack of understanding of social cues, which often leads to humorous situations. [TARGET] is roommates with Leonard, and they work together at a university. He has a close but often exasperating relationship with Leonard, who tolerates [TARGET]'s quirks and often acts as a mediator between him and the world. [TARGET]'s interactions with Penny, their new neighbor, are awkward and marked by his blunt honesty and lack of social skills. He is also friends with Howard and Raj, with whom he shares nerdy interests, but he doesn't hesitate to point out their social and romantic failures. Significant events in [TARGET]'s life include his attempts to navigate everyday social interactions, his strict adherence to his personal rules and routines, and his participation in various scientific endeavors and discussions with his friends."
+    },
+    {
+      "character_id": "tbbt_leonard",
+      "character_name": "Leonard Hofstadter",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A07",
+      "panel": "A",
+      "aliases": [
+        "Leonard Hofstadter",
+        "Leonard",
+        "Hofstadter",
+        "Dr. Hofstadter",
+        "Dr Hofstadter",
+        "莱纳德·霍夫斯塔特",
+        "莱纳德霍夫斯塔特",
+        "莱纳德"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": "[TARGET] is a highly intelligent experimental physicist with a doctorate from Princeton University. He is characterized by his witty, sometimes sarcastic, personality and his considerable intelligence. Despite his smarts, [TARGET] often struggles with social interactions and has a sense of insecurity, especially when it comes to relationships with women. He is best friends with his roommate Sheldon Cooper, with whom he shares a love for science and geek culture, though he often finds himself frustrated by Sheldon's eccentric behavior and lack of social norms. [TARGET] is part of a close-knit group of friends, including Howard Wolowitz and Raj Koothrappali, who often gather to discuss scientific theories, play video games, and watch science fiction shows. [TARGET]'s relationship with Penny, the attractive waitress and aspiring actress who lives across the hall, is a significant aspect of his life. He is immediately smitten with her and often goes to great lengths to win her affection, including retrieving her TV from her ex-boyfriend, which results in a humorous and somewhat humiliating situation for him and Sheldon. [TARGET]'s interactions with his friends are marked by his patience and attempts to bridge Sheldon's idiosyncrasies with more socially acceptable behavior. He is often the mediator of the group, trying to maintain harmony among his diverse and quirky friends."
+    },
+    {
+      "character_id": "tbbt_penny",
+      "character_name": "Penny",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A08",
+      "panel": "A",
+      "aliases": [
+        "Penny",
+        "佩妮"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": "[TARGET] is introduced as the new neighbor of physicists Sheldon and Leonard. [TARGET] is from Omaha, Nebraska, and works as a waitress at the Cheesecake Factory while aspiring to become an actress. She is friendly, outgoing, and connects with the guys by asking to hang out for coffee. [TARGET]'s personality is a contrast to the socially awkward group; she is confident, socially adept, and often finds herself explaining normal social behavior to them. [TARGET]'s abilities include social skills and a talent for acting, which is part of her dream to succeed in Hollywood. A significant event in her early interactions with the group is when she breaks down in tears over her ex-boyfriend, showing her emotional side. Her relationships with others are varied: she finds Sheldon's quirks challenging but often engages with him in a sisterly or maternal manner. With Leonard, there is an immediate attraction, and he becomes infatuated with her, hoping for a romantic relationship. [TARGET]'s interactions with Howard are often met with his unsuccessful and awkward attempts at flirtation. Raj, who is unable to speak to women unless intoxicated, cannot communicate with [TARGET] initially, leading to humorous situations. Overall, [TARGET] brings a dose of reality and normalcy to the group's dynamic, often bridging the gap between their intellectual world and everyday life."
+    },
+    {
+      "character_id": "tbbt_raj",
+      "character_name": "Raj Koothrappali",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A09",
+      "panel": "A",
+      "aliases": [
+        "Raj Koothrappali",
+        "Raj",
+        "Koothrappali",
+        "Dr. Koothrappali",
+        "Dr Koothrappali",
+        "拉杰·库斯拉帕里",
+        "拉杰库斯拉帕里",
+        "拉杰"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": "[TARGET] is an astrophysicist with a high IQ, working alongside his friends Sheldon, Leonard, and Howard. He is characterized by his inability to speak to women unless he is under the influence of alcohol. [TARGET] is part of the core group of friends and often participates in their geeky activities and discussions. He is particularly close to Howard, with whom he shares a bromance. [TARGET]'s interactions with Penny are limited due to his selective mutism around women, but he is friendly and respectful towards her. With Sheldon and Leonard, [TARGET] often engages in scientific debates and supports their endeavors, although he sometimes becomes the butt of their jokes due to his different cultural background and his social anxieties. Despite his quirks, [TARGET] is a loyal and caring friend. Significant events in [TARGET]'s life include his attempts to find love and his struggles with his selective mutism. His relationships with the group are generally positive, though they are sometimes strained by his insecurities and the dynamics of the group."
+    },
+    {
+      "character_id": "tbbt_howard",
+      "character_name": "Howard Wolowitz",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A10",
+      "panel": "A",
+      "aliases": [
+        "Howard Wolowitz",
+        "Howard",
+        "Wolowitz",
+        "霍华德·沃洛维茨",
+        "霍华德沃洛维茨",
+        "霍华德"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": "[TARGET] is an aerospace engineer with a master's degree from MIT and works at Caltech. [TARGET] is known for his quirky fashion sense, often wearing loud, distinctive clothing and a bowl haircut. He is confident, especially around women, though his attempts at flirting are usually awkward and unsuccessful. [TARGET] is one of the four geeky scientists and is the only one without a doctorate, which is often a point of teasing among his friends. [TARGET]'s abilities include a vast knowledge of engineering and applied physics, which allows him to contribute to significant projects like space satellites. He often brags about his work, including a device that is on the International Space Station. [TARGET]'s relationships with the others evolve. He is best friends with Rajesh Koothrappali, with whom he often collaborates on various projects and shares a passion for geek culture. [TARGET]'s relationship with Sheldon Cooper is a mix of friendship and annoyance, as Sheldon often belittles [TARGET]'s intelligence and career. With Leonard Hofstadter, [TARGET] shares a closer friendship, often joining him in video games and comic book store visits. [TARGET]'s interactions with Penny, the girl next door, are initially marked by his unsuccessful and inappropriate pickup lines, but over time, they develop a friendly rapport. Significant events in [TARGET]'s life include his marriage to Bernadette Rostenkowski and later becoming a father, which leads to considerable growth and maturity."
+    },
+    {
+      "character_id": "role_sherlock",
+      "character_name": "Sherlock Holmes",
+      "work": "Sherlock Holmes",
+      "anonymous_id": "TARGET_C02",
+      "panel": "C",
+      "aliases": [
+        "Sherlock Holmes",
+        "Sherlock",
+        "Holmes"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_house",
+      "character_name": "Gregory House",
+      "work": "House M.D.",
+      "anonymous_id": "TARGET_C03",
+      "panel": "C",
+      "aliases": [
+        "Gregory House",
+        "House",
+        "Dr. House"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_michael_scott",
+      "character_name": "Michael Scott",
+      "work": "The Office",
+      "anonymous_id": "TARGET_C04",
+      "panel": "C",
+      "aliases": [
+        "Michael Scott",
+        "Michael"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_peter_parker",
+      "character_name": "Peter Parker",
+      "work": "Spider-Man",
+      "anonymous_id": "TARGET_C05",
+      "panel": "C",
+      "aliases": [
+        "Peter Parker",
+        "Peter",
+        "Spider-Man"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_jack_sparrow",
+      "character_name": "Jack Sparrow",
+      "work": "Pirates of the Caribbean",
+      "anonymous_id": "TARGET_C06",
+      "panel": "C",
+      "aliases": [
+        "Jack Sparrow",
+        "Jack",
+        "Captain Jack Sparrow"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_tyrion",
+      "character_name": "Tyrion Lannister",
+      "work": "A Song of Ice and Fire",
+      "anonymous_id": "TARGET_C07",
+      "panel": "C",
+      "aliases": [
+        "Tyrion Lannister",
+        "Tyrion"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_theodore",
+      "character_name": "Theodore Twombly",
+      "work": "Her",
+      "anonymous_id": "TARGET_C08",
+      "panel": "C",
+      "aliases": [
+        "Theodore Twombly",
+        "Theodore"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_huafei",
+      "character_name": "华妃",
+      "work": "甄嬛传",
+      "anonymous_id": "TARGET_D01",
+      "panel": "D",
+      "aliases": [
+        "华妃",
+        "年世兰",
+        "世兰",
+        "华妃娘娘",
+        "Consort Hua",
+        "Hua Fei",
+        "Nian Shilan"
+      ],
+      "language": "zh",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_luzhiqiao",
+      "character_name": "吕子乔",
+      "work": "爱情公寓",
+      "anonymous_id": "TARGET_D02",
+      "panel": "D",
+      "aliases": [
+        "吕子乔",
+        "子乔",
+        "吕小布",
+        "吕小巴",
+        "子乔君",
+        "子乔哥",
+        "老布",
+        "Lu Ziqiao",
+        "Zi Qiao"
+      ],
+      "language": "zh",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_laomo",
+      "character_name": "老默",
+      "work": "狂飙",
+      "anonymous_id": "TARGET_D03",
+      "panel": "D",
+      "aliases": [
+        "老默",
+        "陈金默",
+        "默哥",
+        "Lao Mo",
+        "Chen Jinmo"
+      ],
+      "language": "zh",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_zhuchaoyang",
+      "character_name": "朱朝阳",
+      "work": "隐秘的角落",
+      "anonymous_id": "TARGET_D04",
+      "panel": "D",
+      "aliases": [
+        "朱朝阳",
+        "朝阳",
+        "Zhu Chaoyang"
+      ],
+      "language": "zh",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_mengyanchen",
+      "character_name": "孟宴臣",
+      "work": "我的人间烟火",
+      "anonymous_id": "TARGET_D05",
+      "panel": "D",
+      "aliases": [
+        "孟宴臣",
+        "孟总",
+        "孟怼怼",
+        "宴臣",
+        "臣臣",
+        "宴子",
+        "Meng Yanchen"
+      ],
+      "language": "zh",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_xuhongdou",
+      "character_name": "许红豆",
+      "work": "去有风的地方",
+      "anonymous_id": "TARGET_D06",
+      "panel": "D",
+      "aliases": [
+        "许红豆",
+        "红豆",
+        "Xu Hongdou"
+      ],
+      "language": "zh",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    }
+  ]
+}

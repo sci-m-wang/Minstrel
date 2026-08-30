@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-29T17:59:55.483608+00:00",
+  "ready": true,
+  "failures": [],
+  "scope": {
+    "path": "configs/scope.yaml",
+    "sha256": "7b04d4c69dee1793381c376cdd28d020c3ae4f1e66a7a096d042cfb692650626",
+    "active_panels": [
+      "A",
+      "D"
+    ],
+    "retained_conditions": [
+      "none",
+      "personality",
+      "raw",
+      "summary",
+      "gold",
+      "ours"
+    ],
+    "baseline_definitions": {
+      "none": "Anonymous Vanilla: no persona information.",
+      "personality": "Personality Only: anonymous Big Five description inferred from the shared comment evidence.",
+      "raw": "Raw Comments: the shared retrieved third-party comments, identity-masked, without rewriting.",
+      "summary": "Generic Summary: the shared comments passed to a generic summarize-this-person prompt.",
+      "gold": "Anonymous Gold Profile: the official benchmark profile with identity strings removed.",
+      "ours": "Ours: 24 probes, evidence-cited cues, and the reconstructed anonymous Person Model."
+    },
+    "removed_external_baselines": {
+      "AMADEUS": "Removed from the executable scope: official versioned pipeline and complete inputs are not bundled.",
+      "RoleGPT_RoleLLM": "Removed from the executable scope: external code, data, and model artifacts are not bundled.",
+      "PersonaForge": "Removed from the executable scope: external implementation and required model artifacts are not bundled.",
+      "CoSER": "Removed from the executable scope: specialized model weights/runtime are not bundled."
+    }
+  },
+  "model_registry": {
+    "path": "offline/models.yaml",
+    "sha256": "236ae8d0e5edd0fc3a71d06dcdfada62386c0a2410279751576b54ec4a309254",
+    "profiler": "qwen2.5-14b-instruct",
+    "decoding": "provider_default"
+  },
+  "panels": [
+    {
+      "panel": "panel-a",
+      "config": "configs/offline/panel-a.yaml",
+      "config_sha256": "c7e987bc597402b315d38b01838af3991fe081d854a50062ab5f3d658573c9b9",
+      "conditions": [
+        "none",
+        "personality",
+        "raw",
+        "summary",
+        "gold",
+        "ours"
+      ],
+      "replicates": 3,
+      "conditioning_target": 1000,
+      "controlled_conditioning_range": [
+        950,
+        1050
+      ],
+      "decoding": "provider_default",
+      "retrieval_mode": "hybrid",
+      "retrieval": {
+        "mode": "hybrid",
+        "vector_store": "data/vector_store/qwen3-embedding-0.6b.sqlite",
+        "embedding_model_key": "qwen3-embedding-0.6b",
+        "reranker_model": "$SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3"
+      },
+      "coverage": {
+        "min_comments": 500,
+        "min_platforms": 2,
+        "min_authors": 100
+      },
+      "characters": [
+        "hp_harry",
+        "hp_hermione",
+        "hp_ron",
+        "hp_draco",
+        "hp_mcgonagall",
+        "tbbt_sheldon",
+        "tbbt_leonard",
+        "tbbt_penny",
+        "tbbt_raj",
+        "tbbt_howard"
+      ],
+      "official_gold_profiles": [
+        {
+          "character_id": "hp_harry",
+          "anonymous_id": "TARGET_A01",
+          "profile_characters": 1293,
+          "profile_sha256": "1f782ce09924a49046a2f39fd11b3b964894bf48ba88b9426bb1c2cdfbe6b380"
+        },
+        {
+          "character_id": "hp_hermione",
+          "anonymous_id": "TARGET_A02",
+          "profile_characters": 1167,
+          "profile_sha256": "8288e1ff36cf21c6e84156018dfaf6a7e56fee5b810a9a9a84e45d9a39bd7a46"
+        },
+        {
+          "character_id": "hp_ron",
+          "anonymous_id": "TARGET_A03",
+          "profile_characters": 1173,
+          "profile_sha256": "e6fd86273feaf8cb37d2529e638009db49592f52d8798a58a1091aabd33f21d8"
+        },
+        {
+          "character_id": "hp_draco",
+          "anonymous_id": "TARGET_A04",
+          "profile_characters": 662,
+          "profile_sha256": "6290a81a61b238b0718f6651721d655fd0ca6fa34729f5bc54bcbd9d657eb7de"
+        },
+        {
+          "character_id": "hp_mcgonagall",
+          "anonymous_id": "TARGET_A05",
+          "profile_characters": 1502,
+          "profile_sha256": "b1453053798b89a8568c8e21397a8696cbb5001f844da67971be580c6f34328b"
+        },
+        {
+          "character_id": "tbbt_sheldon",
+          "anonymous_id": "TARGET_A06",
+          "profile_characters": 1051,
+          "profile_sha256": "23330435c971703a16e8bd78ca98c40d854c2da7f03f11cdb775c886bb780a7a"
+        },
+        {
+          "character_id": "tbbt_leonard",
+          "anonymous_id": "TARGET_A07",
+          "profile_characters": 1393,
+          "profile_sha256": "02fa4debe0750be6625e0a46c3578cdcaab7eeb218b7a8677922f4162a86f1d9"
+        },
+        {
+          "character_id": "tbbt_penny",
+          "anonymous_id": "TARGET_A08",
+          "profile_characters": 1378,
+          "profile_sha256": "d86defe6e04ad30f071db77ad46cebcb470102e329cc2dba7b82c6391a5cb26d"
+        },
+        {
+          "character_id": "tbbt_raj",
+          "anonymous_id": "TARGET_A09",
+          "profile_characters": 1062,
+          "profile_sha256": "b5aaa545ef0074abb1d6c3241c0ae0de91e0412ad7bd80a1976f50fc5e3e3f3a"
+        },
+        {
+          "character_id": "tbbt_howard",
+          "anonymous_id": "TARGET_A10",
+          "profile_characters": 1496,
+          "profile_sha256": "eb7f8cecd81e604a3a4fc3083105ce340ab3d921ab7f7e6a07aa71ea0732c7ab"
+        }
+      ],
+      "benchmark": {
+        "path": "data/benchmarks/panel_a.jsonl",
+        "sha256": "4e29233ba01b35d5c3ff83db5ba0fa096428162656d744217df3bbcc69bbc5fe",
+        "examples": 331,
+        "examples_by_character": {
+          "hp_draco": 24,
+          "hp_harry": 60,
+          "hp_hermione": 57,
+          "hp_mcgonagall": 28,
+          "hp_ron": 53,
+          "tbbt_howard": 18,
+          "tbbt_leonard": 26,
+          "tbbt_penny": 18,
+          "tbbt_raj": 18,
+          "tbbt_sheldon": 29
+        },
+        "tasks": {
+          "general_response": 161,
+          "reaction": 170
+        }
+      },
+      "actors": [
+        "llama-3.1-8b-instruct",
+        "qwen2.5-7b-instruct",
+        "qwen2.5-14b-instruct",
+        "gemma-2-9b-it",
+        "mistral-7b-instruct-v0.3"
+      ],
+      "forbidden_config_paths": [],
+      "ready": true
+    },
+    {
+      "panel": "panel-d",
+      "config": "configs/offline/panel-d.yaml",
+      "config_sha256": "5e372645d96f4537b741c549ffc959361976dd1d952008bb8ceeed18f46cbef3",
+      "conditions": [
+        "none",
+        "personality",
+        "raw",
+        "summary",
+        "gold",
+        "ours"
+      ],
+      "replicates": 3,
+      "conditioning_target": 1000,
+      "controlled_conditioning_range": [
+        950,
+        1050
+      ],
+      "decoding": "provider_default",
+      "retrieval_mode": "hybrid",
+      "retrieval": {
+        "mode": "hybrid",
+        "vector_store": "data/vector_store/qwen3-embedding-0.6b.sqlite",
+        "embedding_model_key": "qwen3-embedding-0.6b",
+        "reranker_model": "$SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3"
+      },
+      "coverage": {
+        "min_comments": 500,
+        "min_platforms": 2,
+        "min_authors": 100
+      },
+      "characters": [
+        "ce_huafei",
+        "ce_luzhiqiao",
+        "ce_laomo",
+        "ce_zhuchaoyang",
+        "ce_mengyanchen",
+        "ce_xuhongdou"
+      ],
+      "official_gold_profiles": [
+        {
+          "character_id": "ce_huafei",
+          "anonymous_id": "TARGET_D01",
+          "profile_characters": 636,
+          "profile_sha256": "39bcd4bc8c2d274f9f6bd6f01c1303efbcfbaeccb2d66c7e29684c58b4073b30"
+        },
+        {
+          "character_id": "ce_luzhiqiao",
+          "anonymous_id": "TARGET_D02",
+          "profile_characters": 865,
+          "profile_sha256": "bce49b58d6bbf7ed6d668d86ec18b945e5d87a2590fbfa36a945441234ca770f"
+        },
+        {
+          "character_id": "ce_laomo",
+          "anonymous_id": "TARGET_D03",
+          "profile_characters": 261,
+          "profile_sha256": "8f2a22a0b0661d0a625fcb6bc96ced64a5a69acdf3bc55a51de259ff67036932"
+        },
+        {
+          "character_id": "ce_zhuchaoyang",
+          "anonymous_id": "TARGET_D04",
+          "profile_characters": 554,
+          "profile_sha256": "75212c6da39ed88994041da4856641be9d53f67306aa1b1402a7f70d90630fc8"
+        },
+        {
+          "character_id": "ce_mengyanchen",
+          "anonymous_id": "TARGET_D05",
+          "profile_characters": 363,
+          "profile_sha256": "bd23879d531a222181ddb75a99786fd8b6bf956b6f2da95c9d60888d73a7f09b"
+        },
+        {
+          "character_id": "ce_xuhongdou",
+          "anonymous_id": "TARGET_D06",
+          "profile_characters": 244,
+          "profile_sha256": "1c3a63b3efbba98a14f089b5ce16c924b82f8fbd247a9a6be7f04181dd39608e"
+        }
+      ],
+      "benchmark": {
+        "path": "data/benchmarks/panel_d.jsonl",
+        "sha256": "d16ac9c6cc82c269a8b9a2cddafc3e4a4377a744d22bd9019d065ed3313955f7",
+        "examples": 306,
+        "examples_by_character": {
+          "ce_huafei": 14,
+          "ce_laomo": 22,
+          "ce_luzhiqiao": 102,
+          "ce_mengyanchen": 30,
+          "ce_xuhongdou": 51,
+          "ce_zhuchaoyang": 87
+        },
+        "tasks": {
+          "CharacterRM": 306
+        }
+      },
+      "actors": [
+        "llama-3.1-8b-instruct",
+        "qwen2.5-7b-instruct",
+        "qwen2.5-14b-instruct"
+      ],
+      "forbidden_config_paths": [],
+      "ready": true
+    }
+  ],
+  "evaluators": [
+    {
+      "path": "data/evaluators/charactereval/character_profiles.selected.json",
+      "sha256": "f4ef7ac9c40c84e0ea01aa2a6190c1ef6a8d34a845b8b7c400b6a86df0e842d2"
+    },
+    {
+      "path": "data/evaluators/charactereval/id2metric.selected.json",
+      "sha256": "0bd9ef21f2067318d6a7fe623bb26e62c4b42a71c73cb26670e093f83bb2c1db"
+    },
+    {
+      "path": "scripts/evaluate_roleagentbench.py",
+      "sha256": "353d5e6ccd617fedceaa103d43528d1ea63cf21a951d92a4aa3a13bcbd4405d8"
+    },
+    {
+      "path": "scripts/evaluate_charactereval.py",
+      "sha256": "eca4f2385549038da28c9a5d8f6d01c379b0af56fa23c842901097b0c96e5a55"
+    }
+  ]
+}

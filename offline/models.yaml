@@ -1,0 +1,68 @@
+schema_version: 1
+asset_root_env: SIDEPROFILE_ASSET_ROOT
+decoding: provider_default
+
+profiler:
+  model: qwen2.5-14b-instruct
+
+actor_matrix:
+  panel_a:
+    - llama-3.1-8b-instruct
+    - qwen2.5-7b-instruct
+    - qwen2.5-14b-instruct
+    - gemma-2-9b-it
+    - mistral-7b-instruct-v0.3
+  panel_d:
+    # Two native multilingual actors plus the English-centric cross-language control.
+    - llama-3.1-8b-instruct
+    - qwen2.5-7b-instruct
+    - qwen2.5-14b-instruct
+
+models:
+  llama-3.1-8b-instruct:
+    source: modelscope
+    repo_id: LLM-Research/Meta-Llama-3.1-8B-Instruct
+    upstream_repo_id: meta-llama/Meta-Llama-3.1-8B-Instruct
+    revision: 359efdbb8af05b788a4ad4185215c6b8caa9052c
+    source_revision: master
+    purpose: actor
+    license: llama3.1
+    exclude:
+      - original/*
+  qwen2.5-7b-instruct:
+    repo_id: Qwen/Qwen2.5-7B-Instruct
+    revision: a09a35458c702b33eeacc393d103063234e8bc28
+    purpose: actor
+  qwen2.5-14b-instruct:
+    repo_id: Qwen/Qwen2.5-14B-Instruct
+    revision: cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8
+    purpose: profiler_and_actor
+  gemma-2-9b-it:
+    repo_id: google/gemma-2-9b-it
+    revision: 11c9b309abf73637e4b6f9a3fa1e92e615547819
+    purpose: actor
+    license_gate: true
+  mistral-7b-instruct-v0.3:
+    repo_id: mistralai/Mistral-7B-Instruct-v0.3
+    revision: c170c708c41dac9275d15a8fff4eca08d52bab71
+    purpose: actor
+    exclude:
+      - consolidated.safetensors
+  qwen3-embedding-0.6b:
+    repo_id: Qwen/Qwen3-Embedding-0.6B
+    revision: 97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3
+    purpose: frozen_vector_store_construction
+    execution_required: false
+  bge-reranker-v2-m3:
+    repo_id: BAAI/bge-reranker-v2-m3
+    revision: 953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e
+    purpose: reranking
+  baichuan-char-rm:
+    repo_id: morecry/BaichuanCharRM
+    revision: e953da5f57b86db7adca3a2714b4c3720f5b96a2
+    purpose: charactereval_official_evaluator
+
+evaluator_constraints:
+  roleagentbench_reaction: offline_exact_accuracy
+  roleagentbench_general_response: official_human_or_gpt4_pairwise_is_not_offline
+  charactereval: baichuan-char-rm

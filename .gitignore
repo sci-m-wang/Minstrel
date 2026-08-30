@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.DS_Store
+*.log
+data/corpus/comments.sqlite*
+data/private/
+prepared/
+runs/
+reports/
+results/
+side_profile_offline_assets/

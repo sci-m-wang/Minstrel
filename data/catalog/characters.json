@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "characters": [
+    {"character_id":"demo_alex","character_name":"Alex Example","work":"Synthetic Smoke World","anonymous_id":"TARGET_DEMO","panel":"SMOKE","aliases":["Alex"],"language":"en","iconicity":"unknown","gold_profile":"A fictional smoke-test person who prefers predictable plans, initially resists sudden changes, helps close friends despite inconvenience, and communicates in a precise but caring style."},
+    {"character_id":"hp_harry","character_name":"Harry Potter","work":"Harry Potter","anonymous_id":"TARGET_A01","panel":"A","aliases":["Harry","Potter","Mr. Potter","Mr Potter","哈利·波特","哈利波特","哈利"],"language":"en","iconicity":"iconic"},
+    {"character_id":"hp_hermione","character_name":"Hermione Granger","work":"Harry Potter","anonymous_id":"TARGET_A02","panel":"A","aliases":["Hermione","Granger","Miss Granger","赫敏·格兰杰","赫敏格兰杰","赫敏"],"language":"en","iconicity":"medium"},
+    {"character_id":"hp_ron","character_name":"Ron Weasley","work":"Harry Potter","anonymous_id":"TARGET_A03","panel":"A","aliases":["Ron","Ronald","Weasley","罗恩·韦斯莱","罗恩韦斯莱","罗恩"],"language":"en","iconicity":"medium"},
+    {"character_id":"hp_draco","character_name":"Draco Malfoy","work":"Harry Potter","anonymous_id":"TARGET_A04","panel":"A","aliases":["Draco","Malfoy","德拉科·马尔福","德拉科马尔福","德拉科","马尔福"],"language":"en","iconicity":"medium"},
+    {"character_id":"hp_mcgonagall","character_name":"Minerva McGonagall","work":"Harry Potter","anonymous_id":"TARGET_A05","panel":"A","aliases":["McGonagall","Professor McGonagall","米勒娃·麦格","米勒娃麦格","麦格教授","麦格"],"language":"en","iconicity":"medium"},
+    {"character_id":"tbbt_sheldon","character_name":"Sheldon Cooper","work":"The Big Bang Theory","anonymous_id":"TARGET_A06","panel":"A,C","aliases":["Sheldon","Cooper","Dr. Cooper","Dr Cooper","谢尔顿·库珀","谢尔顿库珀","谢尔顿","谢耳朵"],"language":"en","iconicity":"iconic"},
+    {"character_id":"tbbt_leonard","character_name":"Leonard Hofstadter","work":"The Big Bang Theory","anonymous_id":"TARGET_A07","panel":"A","aliases":["Leonard","Hofstadter","Dr. Hofstadter","Dr Hofstadter","莱纳德·霍夫斯塔特","莱纳德霍夫斯塔特","莱纳德"],"language":"en","iconicity":"subtle"},
+    {"character_id":"tbbt_penny","character_name":"Penny","work":"The Big Bang Theory","anonymous_id":"TARGET_A08","panel":"A","aliases":["佩妮"],"language":"en","iconicity":"medium"},
+    {"character_id":"tbbt_raj","character_name":"Raj Koothrappali","work":"The Big Bang Theory","anonymous_id":"TARGET_A09","panel":"A","aliases":["Raj","Koothrappali","Dr. Koothrappali","Dr Koothrappali","拉杰·库斯拉帕里","拉杰库斯拉帕里","拉杰"],"language":"en","iconicity":"subtle"},
+    {"character_id":"tbbt_howard","character_name":"Howard Wolowitz","work":"The Big Bang Theory","anonymous_id":"TARGET_A10","panel":"A","aliases":["Howard","Wolowitz","霍华德·沃洛维茨","霍华德沃洛维茨","霍华德"],"language":"en","iconicity":"subtle"},
+    {"character_id":"role_sherlock","character_name":"Sherlock Holmes","work":"Sherlock Holmes","anonymous_id":"TARGET_C02","panel":"C","aliases":["Sherlock","Holmes"],"language":"en","iconicity":"iconic"},
+    {"character_id":"role_house","character_name":"Gregory House","work":"House M.D.","anonymous_id":"TARGET_C03","panel":"C","aliases":["House","Dr. House"],"language":"en","iconicity":"iconic"},
+    {"character_id":"role_michael_scott","character_name":"Michael Scott","work":"The Office","anonymous_id":"TARGET_C04","panel":"C","aliases":["Michael"],"language":"en","iconicity":"medium"},
+    {"character_id":"role_peter_parker","character_name":"Peter Parker","work":"Spider-Man","anonymous_id":"TARGET_C05","panel":"C","aliases":["Peter","Spider-Man"],"language":"en","iconicity":"iconic"},
+    {"character_id":"role_jack_sparrow","character_name":"Jack Sparrow","work":"Pirates of the Caribbean","anonymous_id":"TARGET_C06","panel":"C","aliases":["Jack","Captain Jack Sparrow"],"language":"en","iconicity":"iconic"},
+    {"character_id":"role_tyrion","character_name":"Tyrion Lannister","work":"A Song of Ice and Fire","anonymous_id":"TARGET_C07","panel":"C","aliases":["Tyrion"],"language":"en","iconicity":"medium"},
+    {"character_id":"role_theodore","character_name":"Theodore Twombly","work":"Her","anonymous_id":"TARGET_C08","panel":"C","aliases":["Theodore"],"language":"en","iconicity":"subtle"},
+    {"character_id":"ce_huafei","character_name":"华妃","work":"甄嬛传","anonymous_id":"TARGET_D01","panel":"D","aliases":["年世兰","世兰","华妃娘娘","Consort Hua","Hua Fei","Nian Shilan"],"language":"zh","iconicity":"iconic"},
+    {"character_id":"ce_luzhiqiao","character_name":"吕子乔","work":"爱情公寓","anonymous_id":"TARGET_D02","panel":"D","aliases":["子乔","吕小布","吕小巴","子乔君","子乔哥","老布","Lu Ziqiao","Zi Qiao"],"language":"zh","iconicity":"iconic"},
+    {"character_id":"ce_laomo","character_name":"老默","work":"狂飙","anonymous_id":"TARGET_D03","panel":"D","aliases":["陈金默","默哥","Lao Mo","Chen Jinmo"],"language":"zh","iconicity":"medium"},
+    {"character_id":"ce_zhuchaoyang","character_name":"朱朝阳","work":"隐秘的角落","anonymous_id":"TARGET_D04","panel":"D","aliases":["朝阳","Zhu Chaoyang"],"language":"zh","iconicity":"subtle"},
+    {"character_id":"ce_mengyanchen","character_name":"孟宴臣","work":"我的人间烟火","anonymous_id":"TARGET_D05","panel":"D","aliases":["孟总","孟怼怼","宴臣","臣臣","宴子","Meng Yanchen"],"language":"zh","iconicity":"subtle"},
+    {"character_id":"ce_xuhongdou","character_name":"许红豆","work":"去有风的地方","anonymous_id":"TARGET_D06","panel":"D","aliases":["红豆","Xu Hongdou"],"language":"zh","iconicity":"subtle"}
+  ]
+}

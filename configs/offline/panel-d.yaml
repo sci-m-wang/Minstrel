@@ -1,0 +1,54 @@
+provider:
+  name: LOCAL
+  env_file: .env
+
+data:
+  corpus_db: data/corpus/comments.sqlite
+  catalog: data/catalog/characters.panel_d.json
+  benchmark: data/benchmarks/panel_d.jsonl
+  bundle_manifest: data/manifests/panel-d.json
+  model_registry: offline/models.yaml
+  frozen_assets:
+    - data/sources/official_inputs.json
+    - data/sources/collection_targets.json
+    - data/sources/feasibility.md
+    - data/audits/corpus_inventory.json
+    - data/audits/experiment_inventory.json
+    - data/vector_store/qwen3-embedding-0.6b.sqlite
+    - data/evaluators/charactereval/character_profiles.selected.json
+    - data/evaluators/charactereval/id2metric.selected.json
+    - offline/code.manifest.json
+    - offline/models.yaml
+  include_synthetic: false
+  coverage:
+    min_comments: 500
+    min_platforms: 2
+    min_authors: 100
+
+retrieval:
+  mode: hybrid
+  vector_store: data/vector_store/qwen3-embedding-0.6b.sqlite
+  embedding_model_key: qwen3-embedding-0.6b
+  reranker_model: $SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3
+  bm25_top_k: 20
+  dense_top_k: 20
+  final_top_k: 10
+
+profiling:
+  probe_ids: null
+  target_tokens: 1000
+
+run:
+  name: panel-d
+  preparation_output_dir: prepared
+  output_dir: runs
+  character_ids:
+    - ce_huafei
+    - ce_luzhiqiao
+    - ce_laomo
+    - ce_zhuchaoyang
+    - ce_mengyanchen
+    - ce_xuhongdou
+  conditions: [none, personality, raw, summary, gold, ours]
+  replicates: 3
+  judge: false

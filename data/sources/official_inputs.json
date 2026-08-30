@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "roleagentbench": {
+    "repository": "RoleAgent/RoleAgentBench",
+    "type": "huggingface_dataset",
+    "revision": "8bda363ab3a8da163c01d033a0f42d0331eebf34",
+    "selected_paths": ["Harry Potter/**", "The Big Bang Theory S1E1/**"],
+    "profile_source": "raw/role_summary.json",
+    "tasks": ["general_response", "reaction"],
+    "note": "Official dataset generated from public scripts and human-revised per the NeurIPS 2024 paper; preserve upstream terms with the offline bundle."
+  },
+  "charactereval": {
+    "repository": "morecry/CharacterEval",
+    "type": "github",
+    "revision": "c3d44a6fc1790cc8c4b2fd7c01f0c72930655e0c",
+    "license": "MIT",
+    "profile_source": "data/character_profiles.json",
+    "benchmark_source": "data/test_data.jsonl",
+    "metric_map": "data/id2metric.jsonl",
+    "reward_model": "morecry/BaichuanCharRM"
+  }
+}

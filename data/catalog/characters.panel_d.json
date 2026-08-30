@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "characters": [
+    {
+      "character_id": "demo_alex",
+      "character_name": "Alex Example",
+      "work": "Synthetic Smoke World",
+      "anonymous_id": "TARGET_DEMO",
+      "panel": "SMOKE",
+      "aliases": [
+        "Alex Example",
+        "Alex"
+      ],
+      "language": "en",
+      "iconicity": "unknown",
+      "gold_profile": "A fictional smoke-test person who prefers predictable plans, initially resists sudden changes, helps close friends despite inconvenience, and communicates in a precise but caring style."
+    },
+    {
+      "character_id": "hp_harry",
+      "character_name": "Harry Potter",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A01",
+      "panel": "A",
+      "aliases": [
+        "Harry Potter",
+        "Harry",
+        "Potter",
+        "Mr. Potter",
+        "Mr Potter",
+        "哈利·波特",
+        "哈利波特",
+        "哈利"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "hp_hermione",
+      "character_name": "Hermione Granger",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A02",
+      "panel": "A",
+      "aliases": [
+        "Hermione Granger",
+        "Hermione",
+        "Granger",
+        "Miss Granger",
+        "赫敏·格兰杰",
+        "赫敏格兰杰",
+        "赫敏"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "hp_ron",
+      "character_name": "Ron Weasley",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A03",
+      "panel": "A",
+      "aliases": [
+        "Ron Weasley",
+        "Ron",
+        "Ronald",
+        "Weasley",
+        "罗恩·韦斯莱",
+        "罗恩韦斯莱",
+        "罗恩"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "hp_draco",
+      "character_name": "Draco Malfoy",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A04",
+      "panel": "A",
+      "aliases": [
+        "Draco Malfoy",
+        "Draco",
+        "Malfoy",
+        "德拉科·马尔福",
+        "德拉科马尔福",
+        "德拉科",
+        "马尔福"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "hp_mcgonagall",
+      "character_name": "Minerva McGonagall",
+      "work": "Harry Potter",
+      "anonymous_id": "TARGET_A05",
+      "panel": "A",
+      "aliases": [
+        "Minerva McGonagall",
+        "McGonagall",
+        "Professor McGonagall",
+        "米勒娃·麦格",
+        "米勒娃麦格",
+        "麦格教授",
+        "麦格"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "tbbt_sheldon",
+      "character_name": "Sheldon Cooper",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A06",
+      "panel": "A,C",
+      "aliases": [
+        "Sheldon Cooper",
+        "Sheldon",
+        "Cooper",
+        "Dr. Cooper",
+        "Dr Cooper",
+        "谢尔顿·库珀",
+        "谢尔顿库珀",
+        "谢尔顿",
+        "谢耳朵"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "tbbt_leonard",
+      "character_name": "Leonard Hofstadter",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A07",
+      "panel": "A",
+      "aliases": [
+        "Leonard Hofstadter",
+        "Leonard",
+        "Hofstadter",
+        "Dr. Hofstadter",
+        "Dr Hofstadter",
+        "莱纳德·霍夫斯塔特",
+        "莱纳德霍夫斯塔特",
+        "莱纳德"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "tbbt_penny",
+      "character_name": "Penny",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A08",
+      "panel": "A",
+      "aliases": [
+        "Penny",
+        "佩妮"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "tbbt_raj",
+      "character_name": "Raj Koothrappali",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A09",
+      "panel": "A",
+      "aliases": [
+        "Raj Koothrappali",
+        "Raj",
+        "Koothrappali",
+        "Dr. Koothrappali",
+        "Dr Koothrappali",
+        "拉杰·库斯拉帕里",
+        "拉杰库斯拉帕里",
+        "拉杰"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "tbbt_howard",
+      "character_name": "Howard Wolowitz",
+      "work": "The Big Bang Theory",
+      "anonymous_id": "TARGET_A10",
+      "panel": "A",
+      "aliases": [
+        "Howard Wolowitz",
+        "Howard",
+        "Wolowitz",
+        "霍华德·沃洛维茨",
+        "霍华德沃洛维茨",
+        "霍华德"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_sherlock",
+      "character_name": "Sherlock Holmes",
+      "work": "Sherlock Holmes",
+      "anonymous_id": "TARGET_C02",
+      "panel": "C",
+      "aliases": [
+        "Sherlock Holmes",
+        "Sherlock",
+        "Holmes"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_house",
+      "character_name": "Gregory House",
+      "work": "House M.D.",
+      "anonymous_id": "TARGET_C03",
+      "panel": "C",
+      "aliases": [
+        "Gregory House",
+        "House",
+        "Dr. House"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_michael_scott",
+      "character_name": "Michael Scott",
+      "work": "The Office",
+      "anonymous_id": "TARGET_C04",
+      "panel": "C",
+      "aliases": [
+        "Michael Scott",
+        "Michael"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_peter_parker",
+      "character_name": "Peter Parker",
+      "work": "Spider-Man",
+      "anonymous_id": "TARGET_C05",
+      "panel": "C",
+      "aliases": [
+        "Peter Parker",
+        "Peter",
+        "Spider-Man"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_jack_sparrow",
+      "character_name": "Jack Sparrow",
+      "work": "Pirates of the Caribbean",
+      "anonymous_id": "TARGET_C06",
+      "panel": "C",
+      "aliases": [
+        "Jack Sparrow",
+        "Jack",
+        "Captain Jack Sparrow"
+      ],
+      "language": "en",
+      "iconicity": "iconic",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_tyrion",
+      "character_name": "Tyrion Lannister",
+      "work": "A Song of Ice and Fire",
+      "anonymous_id": "TARGET_C07",
+      "panel": "C",
+      "aliases": [
+        "Tyrion Lannister",
+        "Tyrion"
+      ],
+      "language": "en",
+      "iconicity": "medium",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "role_theodore",
+      "character_name": "Theodore Twombly",
+      "work": "Her",
+      "anonymous_id": "TARGET_C08",
+      "panel": "C",
+      "aliases": [
+        "Theodore Twombly",
+        "Theodore"
+      ],
+      "language": "en",
+      "iconicity": "subtle",
+      "gold_profile": ""
+    },
+    {
+      "character_id": "ce_huafei",
+      "character_name": "华妃",
+      "work": "甄嬛传",
+      "anonymous_id": "TARGET_D01",
+      "panel": "D",
+      "aliases": [
+        "华妃",
+        "年世兰",
+        "世兰",
+        "华妃娘娘",
+        "Consort Hua",
+        "Hua Fei",
+        "Nian Shilan"
+      ],
+      "language": "zh",
+      "iconicity": "iconic",
+      "gold_profile": "姓名：[TARGET]\n性别：女\n物种：人类\n工作：皇贵妃\n昵称：[TARGET]\n居住地：翊坤宫\n恋爱状态：未婚夫为雍正帝\n爱好：权力斗争\n学历：出身官宦世家\n智商：中等\n情商：高\n其他：雍正帝的宠妃，年羹尧的妹妹，最终被追封为敦肃皇贵妃\n经典台词：奴才们，都给我站好了。；皇上，你害得[TARGET]好苦啊。\n口头禅：换做是本宫治理，必定铁腕铁拳铁石心肠。\n人物经历：[TARGET]，雍正帝的宠妃，因其哥哥年羹尧的权势而得宠。性格嚣张跋扈，与后宫妃嫔斗争不断。怀孕后小产，错怪端妃，导致端妃不孕。后因多次刁难甄嬛等人，被贬为答应，终因火烧碎玉轩未遂，被赐自尽。死后被追封为敦肃皇贵妃。\n人物关系：{'丈夫': '爱新觉罗·胤禛（雍正）', '哥哥': '年羹尧', '宿敌': ['甄嬛', '沈眉庄', '乌拉那拉·宜修', '耿月宾'], '盟友': ['曹琴默', '颂芝', '丽嫔', '余莺儿']}\n喜欢的事情/东西：权力，宠爱\n不喜欢的事情/东西：甄嬛，失宠\n人物性格：嚣张跋扈，心狠手辣，聪明能干，痴爱权力，但缺乏长远的心机和智慧，最终败于自己的残忍和皇上的权谋。\n历史原型：{'姓名': '年氏', '籍贯': '凤阳府怀远县（今属安徽省）', '家世': '官宦世家，一等公、湖广巡抚年遐龄之女', '生育情况': '生有三子一女，皆夭折', '封号': '敦肃皇贵妃', '逝世日期': '1725年11月23日', '葬地': '泰陵地宫'}"
+    },
+    {
+      "character_id": "ce_luzhiqiao",
+      "character_name": "吕子乔",
+      "work": "爱情公寓",
+      "anonymous_id": "TARGET_D02",
+      "panel": "D",
+      "aliases": [
+        "吕子乔",
+        "子乔",
+        "吕小布",
+        "吕小巴",
+        "子乔君",
+        "子乔哥",
+        "老布",
+        "Lu Ziqiao",
+        "Zi Qiao"
+      ],
+      "language": "zh",
+      "iconicity": "iconic",
+      "gold_profile": "姓名：[TARGET]\n性别：男\n物种：人类\n年龄：23-35岁\n工作：小蛋糕推销员、网店老板、网络主播、爱情心理顾问、励志师\n昵称：[TARGET]、[TARGET]、[TARGET]、[TARGET]、[TARGET]、大叔、[TARGET]\n身高：182 cm\n居住地：[TARGET]3602（第1~4季），3601（第5季）\n恋爱状态：已婚\n爱好：泡妞（第1~4季）、下飞行棋、开Party\n学历：高中\n经典台词：山寨机就是牛；钱包常年狼狈，技能又偏社会\n口头禅：山寨机就是牛；钱包常年狼狈，技能又偏社会\n人物经历：[TARGET]早年风流倜傥，与陈美嘉有情感纠葛。因逃债相遇，两人再次相爱并结婚。[TARGET]曾为逃避情债，常用化名，如“[TARGET]”。在[TARGET]中，他与美嘉假扮情侣，后因真情流露而真正走到一起。第五季中，[TARGET]成为负责任的丈夫和父亲。在电影版中，[TARGET]为保护美嘉受到重创，两人以此为契机复合，最终结婚领证，[TARGET]浪子回头，担起家庭责任。\n人物关系：唐悠悠（小姨妈）、关谷神奇（小姨父）、陈美嘉（妻子）、吕嘉一（女儿）、大仲马（干爹）\n喜欢的事情/东西：与朋友和美女们玩飞行棋、办派对、泡妞（第1~4季）\n人物性格：早年花心、胆小怕事、讲义气（第1~4季），后变得负责任、细心（第5季）\n角色背景：父母健在，家族庞大。早年混迹江湖，社会人脉宽广，常年无正当工作，生活品质追求者，常因此财务紧张。风流债多，常用化名，如“[TARGET]”。\n角色经历：与美嘉因逃债相遇，后分分合合，最终结婚。[TARGET]曾因误会参与科研实验筹钱，后误会解除。第五季中，[TARGET]为美嘉买下11年前的项链，两人领证结婚，[TARGET]成为负责任的家庭男人。在电影版中，[TARGET]为保护美嘉受到重创，两人以此为契机复合，最终结婚领证，[TARGET]浪子回头，担起家庭责任，努力创业，勤俭持家，疼爱妻子美嘉和女儿小小布（大名吕嘉一），彻底放下了过往的风流性子。"
+    },
+    {
+      "character_id": "ce_laomo",
+      "character_name": "老默",
+      "work": "狂飙",
+      "anonymous_id": "TARGET_D03",
+      "panel": "D",
+      "aliases": [
+        "老默",
+        "陈金默",
+        "默哥",
+        "Lao Mo",
+        "Chen Jinmo"
+      ],
+      "language": "zh",
+      "iconicity": "medium",
+      "gold_profile": "姓名：[TARGET]\n性别：男\n物种：人类\n年龄：36\n工作：鱼贩子，杀手\n昵称：[TARGET]、[TARGET]\n生日：1970年\n生肖：狗\n恋爱状态：有过女朋友（黄翠翠）\n爱好：吃棒棒糖\n其他：有一女（黄瑶）\n人物经历：[TARGET]原为鱼贩子兼杀手，因犯罪入狱六年。出狱后，受高启强利用，成为其幕后杀手。在认清高启强真面目后，因女儿被当作人质，被迫执行任务，在一次行动中背后中枪，最终身亡。\n人物关系：前女友黄翠翠，女儿黄瑶，曾受高启强利用\n喜欢的事情/东西：吃棒棒糖\n人物性格：忠诚，知恩图报，内心有道德矛盾"
+    },
+    {
+      "character_id": "ce_zhuchaoyang",
+      "character_name": "朱朝阳",
+      "work": "隐秘的角落",
+      "anonymous_id": "TARGET_D04",
+      "panel": "D",
+      "aliases": [
+        "朱朝阳",
+        "朝阳",
+        "Zhu Chaoyang"
+      ],
+      "language": "zh",
+      "iconicity": "subtle",
+      "gold_profile": "姓名：[TARGET]\n性别：男\n物种：人类\n年龄：13\n工作：学生\n昵称：[TARGET]\n生日：1992年7月13日\n身高：不足一米五\n生肖：猴\n星座：巨蟹座\n居住地：宁市附近的一个小镇\n恋爱状态：单身\n爱好：数学\n学历：在校学生\n智商：远超一般同龄孩子\n情商：成熟而稳重，杀伐果断\n其他：来自离异家庭，内心渴望父爱\n人物经历：[TARGET]是《[TARGET]》中的虚拟人物，学霸出身，来自离异家庭。他策划并操纵了一系列事件，包括父亲和后妈的死亡，以及普普和丁浩的毒杀。[TARGET]利用自己的智谋，伪造证据和不在场证明，最终摆脱了所有嫌疑，开始了新的生活。\n人物关系：{'父亲': '朱永平', '母亲': '周春红', '同父异母妹妹': '朱晶晶', '后妈': '王瑶', '好友': ['严良', '普普'], '老师': '张东升'}\n喜欢的事情/东西：数学，拍照\n不喜欢的事情/东西：被同学欺负，家庭冷漠\n人物性格：外表孤独，内心缜密，逻辑能力和判断力极强，表现出超越同龄人的成熟和稳重，甚至有时显得杀伐果断\n犯罪手段：策划谋杀，伪造证据，操纵他人\n智谋：高超，能够预测并利用他人的行为\n冷静程度：即使在极端情况下也能保持冷静，制定和执行计划\n道德观：扭曲，为了自己的利益不惜牺牲他人"
+    },
+    {
+      "character_id": "ce_mengyanchen",
+      "character_name": "孟宴臣",
+      "work": "我的人间烟火",
+      "anonymous_id": "TARGET_D05",
+      "panel": "D",
+      "aliases": [
+        "孟宴臣",
+        "孟总",
+        "孟怼怼",
+        "宴臣",
+        "臣臣",
+        "宴子",
+        "Meng Yanchen"
+      ],
+      "language": "zh",
+      "iconicity": "subtle",
+      "gold_profile": "姓名：[TARGET]\n性别：男\n物种：人类\n工作：国坤集团接班人\n昵称：[TARGET]；[TARGET]；[TARGET]；[TARGET]；[TARGET]\n生日：10月11日\n身高：183 cm\n星座：天秤座\n居住地：燕城\n恋爱状态：单身、未婚\n爱好：收集蝴蝶标本；投资理财\n其他：新中式总裁出圈第一人，被称为「新中式总裁」的缔造者\n经典台词：赐宴群臣醉归去，满身犹带御香回\n人物经历：[TARGET]是电视剧《[TARGET]》中的男配角，由魏大勋饰演。他是国坤集团的接班人，有着良好的教养和君子般的端方。他外表沉静内敛，内心却渴望自由，拥有自我救赎的力量。他的灵魂孤独落寞但高贵美好，最终挣脱枷锁，实现自我治愈。\n喜欢的事情/东西：蝴蝶标本；昆虫学\n人物性格：克己复礼，君子端方，内敛，渴望自由，孤独落寞但高贵美好"
+    },
+    {
+      "character_id": "ce_xuhongdou",
+      "character_name": "许红豆",
+      "work": "去有风的地方",
+      "anonymous_id": "TARGET_D06",
+      "panel": "D",
+      "aliases": [
+        "许红豆",
+        "红豆",
+        "Xu Hongdou"
+      ],
+      "language": "zh",
+      "iconicity": "subtle",
+      "gold_profile": "姓名：[TARGET]\n性别：女\n物种：人类\n工作：前五星级酒店前厅部经理\n居住地：北京（故事开始前），大理云苗村（故事中）\n人物经历：[TARGET]是一位前五星级酒店前厅部经理，工作认真负责，性格倔强不服输。在好朋友去世后，生活和工作陷入低谷，她独自前往大理云苗村的‘有风小院’休息调整。在那里，她遇到了谢之遥，被邀请用她的酒店经验帮助提升当地文化旅游事业。\n人物性格：倔强，好面子，不服输，不愿展示脆弱，工作中认真负责，亲切热情，能屈能伸，对人不留情面，不好惹，不圆滑，像一头小狮子"
+    }
+  ]
+}

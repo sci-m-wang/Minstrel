@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "policy": {
+    "language_is_not_a_gate": true,
+    "platform_is_not_bound_to_panel": true,
+    "target_relevance_required": true,
+    "raw_comments_private": true,
+    "author_ids_hashed_before_corpus_import": true,
+    "browser_collection_uses_only_user_visible_pages": true,
+    "login_and_captcha_are_user_handoffs": true
+  },
+  "platforms": {
+    "bilibili": {"mode": "public_wbi_comment_pages_with_browser_validation", "scope": "all_targets", "notes": "Use Bilibili's browser-facing signed public comment pages after validating the same public video in Chrome. Retain video/comment provenance and capture-completeness metadata; never treat an unavailable nested page as silently complete."},
+    "youtube": {"mode": "public_watch_comment_pages_via_ytdlp_with_browser_validation", "scope": "all_targets", "notes": "Use yt-dlp's public watch-page comment extraction after visible-page validation; retain video/comment provenance and do not use private or authenticated endpoints."},
+    "baidu_tieba": {"mode": "chrome_visible_signed_in_threads", "scope": "all_targets", "notes": "Capture every visible virtual-scroll window before it is replaced."},
+    "stackexchange": {"mode": "official_api", "site": "scifi", "scope": "harry_potter_targets", "license": "CC BY-SA; preserve canonical URLs and public author attribution in the private provenance audit."},
+    "fandom_discussions": {"mode": "chrome_visible_public_discussions", "scope": "harry_potter_targets", "notes": "Use public discussion posts and replies after recording the community terms/license page."},
+    "hupu": {"mode": "chrome_visible_supplement", "scope": "targets_with_relevant_threads", "notes": "Normal browser navigation only. Do not run a bulk crawler or call hidden endpoints; preserve thread URLs."}
+  },
+  "targets": [
+    {"character_id":"hp_harry","youtube_queries":["Harry Potter character analysis personality"],"bilibili_queries":["哈利波特 性格 人物分析"],"tieba_queries":["哈利波特 人物分析 性格"],"stackexchange_queries":["Harry Potter character personality motives"],"fandom_queries":["Harry Potter character personality"],"hupu_queries":["哈利波特 人物分析"]},
+    {"character_id":"hp_hermione","youtube_queries":["Hermione Granger character analysis personality"],"bilibili_queries":["赫敏 性格 人物分析"],"tieba_queries":["赫敏 人物分析 性格"],"stackexchange_queries":["Hermione Granger personality motives"],"fandom_queries":["Hermione Granger personality"],"hupu_queries":["赫敏 人物分析"]},
+    {"character_id":"hp_ron","youtube_queries":["Ron Weasley character analysis personality"],"bilibili_queries":["罗恩 性格 人物分析"],"tieba_queries":["罗恩 韦斯莱 人物分析"],"stackexchange_queries":["Ron Weasley personality motives"],"fandom_queries":["Ron Weasley personality"],"hupu_queries":["罗恩 韦斯莱 人物分析"]},
+    {"character_id":"hp_draco","youtube_queries":["Draco Malfoy character analysis personality"],"bilibili_queries":["德拉科 马尔福 性格 人物分析"],"tieba_queries":["德拉科 马尔福 人物分析"],"stackexchange_queries":["Draco Malfoy personality motives"],"fandom_queries":["Draco Malfoy personality"],"hupu_queries":["德拉科 马尔福 人物分析"]},
+    {"character_id":"hp_mcgonagall","youtube_queries":["Minerva McGonagall character analysis personality"],"bilibili_queries":["麦格教授 性格 人物分析"],"tieba_queries":["麦格教授 人物分析 性格"],"stackexchange_queries":["Minerva McGonagall personality motives"],"fandom_queries":["Minerva McGonagall personality"],"hupu_queries":["麦格教授 人物分析"]},
+    {"character_id":"tbbt_sheldon","youtube_queries":["Sheldon Cooper character analysis personality"],"bilibili_queries":["谢尔顿 性格 人物分析"],"tieba_queries":["谢尔顿 人物分析 性格"],"hupu_queries":["谢尔顿 人物分析"]},
+    {"character_id":"tbbt_leonard","youtube_queries":["Leonard Hofstadter character analysis personality"],"bilibili_queries":["莱纳德 生活大爆炸 性格"],"tieba_queries":["莱纳德 生活大爆炸 人物分析"],"hupu_queries":["莱纳德 生活大爆炸 人物分析"]},
+    {"character_id":"tbbt_penny","youtube_queries":["Penny Big Bang Theory character analysis personality"],"bilibili_queries":["佩妮 生活大爆炸 性格"],"tieba_queries":["佩妮 生活大爆炸 人物分析"],"hupu_queries":["佩妮 生活大爆炸 人物分析"]},
+    {"character_id":"tbbt_raj","youtube_queries":["Raj Koothrappali character analysis personality"],"bilibili_queries":["拉杰 生活大爆炸 性格"],"tieba_queries":["拉杰 生活大爆炸 人物分析"],"hupu_queries":["拉杰 生活大爆炸 人物分析"]},
+    {"character_id":"tbbt_howard","youtube_queries":["Howard Wolowitz character analysis personality"],"bilibili_queries":["霍华德 生活大爆炸 性格"],"tieba_queries":["霍华德 生活大爆炸 人物分析"],"hupu_queries":["霍华德 生活大爆炸 人物分析"]},
+    {"character_id":"ce_huafei","youtube_queries":["Hua Fei Empresses in the Palace character analysis","华妃 性格 人物分析"],"bilibili_queries":["华妃 性格 人物分析"],"tieba_queries":["华妃 人物分析 性格"],"hupu_queries":["华妃 甄嬛传 人物分析"]},
+    {"character_id":"ce_luzhiqiao","youtube_queries":["吕子乔 性格 人物分析"],"bilibili_queries":["吕子乔 性格 人物分析"],"tieba_queries":["吕子乔 人物分析 性格"],"hupu_queries":["吕子乔 爱情公寓 人物分析"]},
+    {"character_id":"ce_laomo","youtube_queries":["狂飙 老默 性格 人物分析"],"bilibili_queries":["狂飙 老默 性格 人物分析"],"tieba_queries":["狂飙 老默 人物分析"],"hupu_queries":["狂飙 老默 人物分析"]},
+    {"character_id":"ce_zhuchaoyang","youtube_queries":["朱朝阳 性格 人物分析"],"bilibili_queries":["朱朝阳 性格 人物分析"],"tieba_queries":["朱朝阳 人物分析 性格"],"hupu_queries":["朱朝阳 隐秘的角落 人物分析"]},
+    {"character_id":"ce_mengyanchen","youtube_queries":["孟宴臣 性格 人物分析"],"bilibili_queries":["孟宴臣 性格 人物分析"],"tieba_queries":["孟宴臣 人物分析 性格"],"hupu_queries":["孟宴臣 人物分析"]},
+    {"character_id":"ce_xuhongdou","youtube_queries":["许红豆 性格 人物分析"],"bilibili_queries":["许红豆 性格 人物分析"],"tieba_queries":["许红豆 人物分析 性格"],"hupu_queries":["许红豆 去有风的地方 人物分析"]}
+  ]
+}

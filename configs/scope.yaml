@@ -1,0 +1,27 @@
+schema_version: 1
+active_panels: [A, D]
+supported_conditions:
+  - none
+  - personality
+  - raw
+  - summary
+  - gold
+  - ours
+baseline_definitions:
+  none: "Anonymous Vanilla: no persona information."
+  personality: "Personality Only: anonymous Big Five description inferred from the shared comment evidence."
+  raw: "Raw Comments: the shared retrieved third-party comments, identity-masked, without rewriting."
+  summary: "Generic Summary: the shared comments passed to a generic summarize-this-person prompt."
+  gold: "Anonymous Gold Profile: the official benchmark profile with identity strings removed."
+  ours: "Ours: 24 probes, evidence-cited cues, and the reconstructed anonymous Person Model."
+removed_external_baselines:
+  AMADEUS: "Removed from the executable scope: official versioned pipeline and complete inputs are not bundled."
+  RoleGPT_RoleLLM: "Removed from the executable scope: external code, data, and model artifacts are not bundled."
+  PersonaForge: "Removed from the executable scope: external implementation and required model artifacts are not bundled."
+  CoSER: "Removed from the executable scope: specialized model weights/runtime are not bundled."
+restore_gate:
+  - pinned official source revision
+  - licensed input data and model artifacts
+  - adapter producing the common GenerationRecord schema
+  - preflight checks
+  - synthetic end-to-end test

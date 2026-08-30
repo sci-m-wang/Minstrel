@@ -1,0 +1,29 @@
+[project]
+name = "sideprofile"
+version = "0.1.0"
+description = "Identity-blind character reconstruction from third-party comments"
+requires-python = ">=3.11"
+dependencies = [
+  "openai>=1.40",
+  "pydantic>=2.7",
+  "PyYAML>=6.0",
+  "certifi>=2024.7.4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+dense = ["sentence-transformers>=3.0"]
+
+[project.scripts]
+sideprofile = "sideprofile.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

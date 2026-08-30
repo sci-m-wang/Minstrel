@@ -1,0 +1,365 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-08-30T07:57:16.235990+00:00",
+  "run_name": "panel-a",
+  "research_ready": true,
+  "read_only_execution": true,
+  "character_ids": [
+    "hp_harry",
+    "hp_hermione",
+    "hp_ron",
+    "hp_draco",
+    "hp_mcgonagall",
+    "tbbt_sheldon",
+    "tbbt_leonard",
+    "tbbt_penny",
+    "tbbt_raj",
+    "tbbt_howard"
+  ],
+  "conditions": [
+    "none",
+    "personality",
+    "raw",
+    "summary",
+    "gold",
+    "ours"
+  ],
+  "coverage_requirement": {
+    "min_comments": 500,
+    "min_platforms": 2,
+    "min_authors": 100
+  },
+  "coverage_audit": {
+    "ready": true,
+    "characters": [
+      {
+        "character_id": "hp_draco",
+        "comments": 880,
+        "platforms": 2,
+        "authors": 431,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_harry",
+        "comments": 1007,
+        "platforms": 3,
+        "authors": 469,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_hermione",
+        "comments": 517,
+        "platforms": 2,
+        "authors": 337,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_mcgonagall",
+        "comments": 505,
+        "platforms": 2,
+        "authors": 435,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_ron",
+        "comments": 637,
+        "platforms": 2,
+        "authors": 342,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_howard",
+        "comments": 697,
+        "platforms": 2,
+        "authors": 652,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_leonard",
+        "comments": 543,
+        "platforms": 2,
+        "authors": 423,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_penny",
+        "comments": 857,
+        "platforms": 2,
+        "authors": 728,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_raj",
+        "comments": 526,
+        "platforms": 2,
+        "authors": 435,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_sheldon",
+        "comments": 786,
+        "platforms": 2,
+        "authors": 624,
+        "ready": true,
+        "failures": []
+      }
+    ]
+  },
+  "benchmark_examples": {
+    "hp_harry": 60,
+    "hp_hermione": 57,
+    "hp_ron": 53,
+    "hp_draco": 24,
+    "hp_mcgonagall": 28,
+    "tbbt_sheldon": 29,
+    "tbbt_leonard": 26,
+    "tbbt_penny": 18,
+    "tbbt_raj": 18,
+    "tbbt_howard": 18
+  },
+  "source_audit": [
+    {
+      "character_id": "hp_draco",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 817,
+      "authors": 372
+    },
+    {
+      "character_id": "hp_draco",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 63,
+      "authors": 59
+    },
+    {
+      "character_id": "hp_harry",
+      "platform": "fandom_discussions",
+      "license_note": "Publicly visible Fandom Discussions post retained privately for research audit; canonical post URL preserved; redistribution is not authorized.",
+      "comments": 1,
+      "authors": 1
+    },
+    {
+      "character_id": "hp_harry",
+      "platform": "fandom_discussions",
+      "license_note": "Publicly visible Fandom Discussions reply retained privately for research audit; canonical post URL preserved; redistribution is not authorized.",
+      "comments": 1,
+      "authors": 1
+    },
+    {
+      "character_id": "hp_harry",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 973,
+      "authors": 436
+    },
+    {
+      "character_id": "hp_harry",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 32,
+      "authors": 31
+    },
+    {
+      "character_id": "hp_hermione",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 387,
+      "authors": 208
+    },
+    {
+      "character_id": "hp_hermione",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 130,
+      "authors": 129
+    },
+    {
+      "character_id": "hp_mcgonagall",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 163,
+      "authors": 98
+    },
+    {
+      "character_id": "hp_mcgonagall",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 342,
+      "authors": 337
+    },
+    {
+      "character_id": "hp_ron",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 592,
+      "authors": 298
+    },
+    {
+      "character_id": "hp_ron",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 45,
+      "authors": 44
+    },
+    {
+      "character_id": "tbbt_howard",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 31,
+      "authors": 21
+    },
+    {
+      "character_id": "tbbt_howard",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 666,
+      "authors": 631
+    },
+    {
+      "character_id": "tbbt_leonard",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 128,
+      "authors": 81
+    },
+    {
+      "character_id": "tbbt_leonard",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 415,
+      "authors": 342
+    },
+    {
+      "character_id": "tbbt_penny",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 91,
+      "authors": 52
+    },
+    {
+      "character_id": "tbbt_penny",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 766,
+      "authors": 676
+    },
+    {
+      "character_id": "tbbt_raj",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 98,
+      "authors": 66
+    },
+    {
+      "character_id": "tbbt_raj",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 428,
+      "authors": 369
+    },
+    {
+      "character_id": "tbbt_sheldon",
+      "platform": "stackexchange",
+      "license_note": "CC BY-SA under the Stack Exchange content terms; canonical URL and private attribution metadata retained. Raw text is not redistributed by this project.",
+      "comments": 327,
+      "authors": 203
+    },
+    {
+      "character_id": "tbbt_sheldon",
+      "platform": "youtube",
+      "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
+      "comments": 459,
+      "authors": 421
+    }
+  ],
+  "artifacts": [
+    {
+      "kind": "config",
+      "path": "configs/offline/panel-a.yaml",
+      "bytes": 1356,
+      "sha256": "c7e987bc597402b315d38b01838af3991fe081d854a50062ab5f3d658573c9b9"
+    },
+    {
+      "kind": "corpus_db",
+      "path": "data/corpus/comments.sqlite",
+      "bytes": 15032320,
+      "sha256": "56332dd625464189018e295b03eb7f2321d03d568481ed2beaac3a85920e938f"
+    },
+    {
+      "kind": "catalog",
+      "path": "data/catalog/characters.panel_a.json",
+      "bytes": 22016,
+      "sha256": "42c988e180fad5ebaa82e30c3231312a87944f51cef38f8f4c6e9273b700a404"
+    },
+    {
+      "kind": "benchmark",
+      "path": "data/benchmarks/panel_a.jsonl",
+      "bytes": 804956,
+      "sha256": "4e29233ba01b35d5c3ff83db5ba0fa096428162656d744217df3bbcc69bbc5fe"
+    },
+    {
+      "kind": "executable_scope",
+      "path": "configs/scope.yaml",
+      "bytes": 1378,
+      "sha256": "7b04d4c69dee1793381c376cdd28d020c3ae4f1e66a7a096d042cfb692650626"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/sources/official_inputs.json",
+      "bytes": 880,
+      "sha256": "ea8093972074f753532bab9a513c83ae36be28cf9f1fca478b07296d2f702895"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/sources/collection_targets.json",
+      "bytes": 6537,
+      "sha256": "ed7b7a64a2de5a9bbd4f84dc5d6406fc3ba2068c22170fed29a143ced746612e"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/sources/feasibility.md",
+      "bytes": 4510,
+      "sha256": "38a0fdb5af121c21e4e029a57405d2fd687da3b272add601db8ec4afded51249"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/corpus_inventory.json",
+      "bytes": 294281,
+      "sha256": "f08fce6be51085842f9f8c10e3623f00c81f917969e790ab5d06a8bf419b409d"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/experiment_inventory.json",
+      "bytes": 10002,
+      "sha256": "e86aecf64975136da2428705ea63a012427e0168636c56cae83d1a90db229cd8"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/vector_store/qwen3-embedding-0.6b.sqlite",
+      "bytes": 50024448,
+      "sha256": "387093b02b263b2e0490bde40a4997875ca5b1c8b12b42b8162a1cb70609a291"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "offline/code.manifest.json",
+      "bytes": 12476,
+      "sha256": "264ea2c3d9033d62c75a4565d60386326839e44bc9ce2c3407915933860a2bde"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "offline/models.yaml",
+      "bytes": 2094,
+      "sha256": "236ae8d0e5edd0fc3a71d06dcdfada62386c0a2410279751576b54ec4a309254"
+    }
+  ]
+}

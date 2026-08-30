@@ -1,0 +1,6 @@
+interface:
+  display_name: "SideProfile Experiment"
+  short_description: "Run a frozen SideProfile bundle on GPU"
+  default_prompt: "Use $side-profile-experiment to verify the supplied frozen bundle, run it unchanged on the GPU machine, apply the official evaluators, and produce an evidence-backed result report. Never collect, import, synthesize, repair, or modify corpus/benchmark inputs."
+policy:
+  allow_implicit_invocation: true

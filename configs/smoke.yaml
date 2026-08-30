@@ -1,0 +1,31 @@
+provider:
+  name: GPT
+  env_file: .env
+
+data:
+  corpus_db: data/corpus/smoke.sqlite
+  catalog: data/catalog/characters.json
+  benchmark: data/smoke/benchmark.jsonl
+  include_synthetic: true
+  coverage:
+    min_comments: 10
+    min_platforms: 2
+    min_authors: 10
+
+retrieval:
+  mode: bm25
+  bm25_top_k: 10
+  dense_top_k: 10
+  final_top_k: 10
+
+profiling:
+  probe_ids: [D1-Q1, D6-Q2]
+  target_tokens: 450
+
+run:
+  name: smoke
+  output_dir: runs
+  character_ids: [demo_alex]
+  conditions: [ours]
+  replicates: 1
+  judge: true
