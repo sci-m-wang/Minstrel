@@ -1,7 +1,8 @@
-# Data availability
+# Private data availability
 
-The public repository includes:
+This repository must remain private. It includes:
 
+- the frozen research comment corpus at `data/corpus/comments.sqlite`;
 - Panel A and Panel D official benchmark/profile inputs with pinned upstream revisions;
 - character catalogs and identity-masking aliases;
 - source feasibility, corpus coverage, import, experiment, and bundle inventories;
@@ -9,14 +10,12 @@ The public repository includes:
 - the frozen Qwen3-Embedding-0.6B exact-cosine vector database;
 - synthetic smoke fixtures.
 
-The public repository excludes:
+The repository excludes:
 
-- `data/corpus/comments.sqlite`, because most source comment terms allow private research retention
-  but not public redistribution;
 - `data/private/`, which contains author salt and private collection/classification traces;
 - API credentials, browser state, model weights, environments, and run outputs.
 
-An authorized formal execution receives the exact frozen corpus separately and places it at
-`data/corpus/comments.sqlite`. The bundle manifests verify its checksum. The GPU Agent must return a
-missing or mismatched corpus failure unchanged; it must never collect, rebuild, edit, translate, or
-substitute research comments.
+Most corpus source terms allow private research retention but not public redistribution. Do not make
+this repository public or copy the corpus outside authorized experiment hosts. The bundle manifests
+verify its checksum. The GPU Agent must return a missing or mismatched corpus failure unchanged; it
+must never collect, rebuild, edit, translate, or substitute research comments.

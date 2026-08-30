@@ -8,7 +8,6 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 *.log
-data/corpus/comments.sqlite*
 data/private/
 prepared/
 runs/

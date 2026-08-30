@@ -1,9 +1,10 @@
 # Installation and asset preparation
 
-This repository is the public, model-free experiment package. Formal execution additionally needs
-the pinned model asset directory, an offline Linux wheelhouse, and the separately supplied frozen
-research corpus. Build or obtain those assets on a connected preparation host; the disconnected GPU
-Agent only verifies and executes them.
+This private repository contains the complete frozen runtime data but no model weights or Linux
+wheelhouse. Formal execution additionally needs the pinned model asset directory and an offline
+wheelhouse. Build or obtain those assets on a connected preparation host; the disconnected GPU Agent
+only verifies and executes them. Keep repository access restricted because the comment corpus is for
+private research use and is not licensed for public redistribution.
 
 ## 1. Clone and inspect the executable design
 
@@ -74,19 +75,17 @@ module system, account, partition, or storage layout.
 Transfer the repository and the complete asset directory to the disconnected host without changing
 their contents.
 
-## 4. Place the restricted frozen corpus
+## 4. Verify the restricted frozen corpus
 
-The public repository intentionally omits `data/corpus/comments.sqlite`: most source comments were
-retained for private research audit and are not licensed for public redistribution. Obtain the exact
-frozen file from the study preparation side and place it at:
+The private repository includes the exact frozen research corpus at:
 
 ```text
 data/corpus/comments.sqlite
 ```
 
-Do not recreate, scrape, translate, repair, or substitute it on the execution host. Its expected hash
-and the per-role coverage inventory are recorded in `data/manifests/` and
-`data/audits/corpus_inventory.json`. A mismatch is a hard preflight failure.
+Do not publish, recreate, scrape, translate, repair, or substitute it on the execution host. Its
+expected hash and the per-role coverage inventory are recorded in `data/manifests/` and
+`data/audits/corpus_inventory.json`. A missing or mismatched file is a hard preflight failure.
 
 ## 5. Discover and install on the target GPU machine
 

@@ -37,13 +37,14 @@ runs, official evaluation, panel-level paired analysis, and the final report, us
 
 ## Installation and frozen assets
 
-The public repository contains the experiment code, tests, configs, official benchmark/profile
-inputs, corpus inventory metadata, the frozen Qwen3 vector database, model registry, and execution
-Skill. It deliberately does not contain model weights, environments, API secrets, or comment text
-whose source terms do not authorize redistribution. The research corpus is supplied separately to
-authorized experiment hosts and is checksum-verified by the frozen manifests.
+This private repository contains the experiment code, tests, configs, official benchmark/profile
+inputs, frozen research corpus, corpus inventory metadata, the frozen Qwen3 vector database, model
+registry, and execution Skill. Keep repository access restricted because the corpus contains public
+comments retained for private research use whose source terms do not authorize redistribution. The
+repository deliberately excludes model weights, environments, API secrets, author salt, private
+collection traces, and run outputs. All runtime data are checksum-verified by the frozen manifests.
 
 See [`docs/INSTALL.md`](docs/INSTALL.md) for the connected preparation workflow, pinned model
 download rules, Linux/Python/CUDA environment, offline wheelhouse construction, restricted-data
 placement, target-machine discovery, preflight, and execution entry points. See
-[`data/README.md`](data/README.md) for the public/restricted data boundary.
+[`data/README.md`](data/README.md) for the repository data boundary.

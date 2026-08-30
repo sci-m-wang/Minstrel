@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T07:57:15.193163+00:00",
+  "generated_at": "2026-08-30T08:16:15.089527+00:00",
   "project_root_marker": "pyproject.toml",
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3291,
-      "sha256": "cfadc049622d637301d217b01f84c284022cca249516a740395d1087f7cd3559"
+      "bytes": 3407,
+      "sha256": "7d7cbcf3faca2a6d3bc09d00c4bc603db5156779bed94a100a54bc6006791024"
     },
     {
       "path": "configs/baselines-smoke.yaml",
