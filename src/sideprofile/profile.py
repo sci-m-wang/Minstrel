@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import re
 from collections import defaultdict
 
 from .anonymize import anonymize_text
@@ -31,10 +30,6 @@ MODEL_SYSTEM = """Construct an anonymous reconstructed person model from evidenc
 Refer to the person only by the supplied anonymous_id. Never output or guess a real name, work, or
 franchise. Do not add biography or missing facts. Express tendencies with context, boundary
 conditions, and counterevidence. Put insufficient or disputed claims in unknown_contested.
-The user supplies a target_tokens treatment budget. The final rendered conditioning includes section
-headings and bullet prefixes: budget for that overhead and make the complete rendering fall within
-95% to 105% of the target under your own tokenizer, without padding, omitting supported domains, or
-changing the JSON schema. This is a conditioning-size requirement, not an API output cap.
 Return JSON with one key, sections. sections must contain exactly these keys, each a list of concise
 statements: stable_tendencies, motives_and_goals, value_priorities, cognitive_appraisal_model,
 affective_dynamics, interpersonal_patterns, self_narrative_themes, situation_behavior_signatures,
@@ -118,7 +113,6 @@ def build_person_model(
     *,
     spec: CharacterSpec,
     cues: list[Cue],
-    target_tokens: int = 1000,
 ) -> PersonModel:
     usable = [cue for cue in cues if cue.status != "UNKNOWN"]
     payload = llm.chat_json(
@@ -126,7 +120,6 @@ def build_person_model(
         user=json.dumps(
             {
                 "anonymous_id": spec.anonymous_id,
-                "target_tokens": target_tokens,
                 "cues": [cue.model_dump() for cue in usable],
             },
             ensure_ascii=False,
@@ -172,10 +165,6 @@ def render_person_model(model: PersonModel) -> str:
         body = "\n".join(f"- {value}" for value in values) if values else "- Insufficient evidence."
         blocks.append(f"[{labels[key]}]\n{body}")
     return "\n\n".join(blocks)
-
-
-def count_identity_tokens(text: str) -> int:
-    return len(re.findall(r"\w+|[\u3400-\u9fff]", text))
 
 
 def cue_coverage(cues: list[Cue]) -> dict:

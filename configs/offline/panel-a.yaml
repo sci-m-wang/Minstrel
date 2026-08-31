@@ -34,7 +34,6 @@ retrieval:
 
 profiling:
   probe_ids: null
-  target_tokens: 1000
 
 run:
   name: panel-a

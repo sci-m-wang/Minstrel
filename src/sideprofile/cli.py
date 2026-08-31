@@ -103,7 +103,6 @@ def build_profile_command(args: argparse.Namespace) -> int:
             llm,
             retriever,
             include_synthetic=args.include_synthetic,
-            target_tokens=args.target_tokens,
         )
         result = builder.build(args.character_id, probes)
     output = Path(args.output)
@@ -307,7 +306,6 @@ def make_parser() -> argparse.ArgumentParser:
     command.add_argument("--reranker-model")
     command.add_argument("--top-k", type=int, default=10)
     command.add_argument("--probes", help="comma-separated probe IDs; default is all 24")
-    command.add_argument("--target-tokens", type=int, default=1000)
     command.add_argument("--trace")
     command.add_argument("--include-synthetic", action="store_true")
     command.set_defaults(func=build_profile_command)
@@ -339,7 +337,7 @@ def make_parser() -> argparse.ArgumentParser:
 
     command = sub.add_parser(
         "prepare-conditionings",
-        help="build and checksum the shared six-condition treatment with the fixed profiler",
+        help="build and checksum the six internal conditions with the fixed profiler",
     )
     command.add_argument("--config", required=True)
     command.set_defaults(func=prepare_conditionings)

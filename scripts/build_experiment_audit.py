@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Persist a machine-readable audit of retained baselines, profiles, models, and benchmarks."""
+"""Persist a machine-readable audit of internal conditions, profiles, models, and benchmarks."""
 
 from __future__ import annotations
 
@@ -15,7 +15,7 @@ import yaml
 
 EXPECTED_CONDITIONS = ["none", "personality", "raw", "summary", "gold", "ours"]
 FORBIDDEN_KEYS = {
-    "max_tokens", "max_completion_tokens", "max_calls", "max_retries",
+    "max_tokens", "max_completion_tokens", "max_calls", "max_retries", "target_tokens",
     "temperature", "top_p", "seed", "seeds",
 }
 
@@ -114,8 +114,6 @@ def audit_panel(root: Path, config_path: Path, registry: dict) -> tuple[dict, li
             "config_sha256": sha256_file(config_path),
             "conditions": conditions,
             "replicates": run.get("replicates"),
-            "conditioning_target": config.get("profiling", {}).get("target_tokens"),
-            "controlled_conditioning_range": [950, 1050],
             "decoding": "provider_default",
             "retrieval_mode": retrieval.get("mode"),
             "retrieval": {
@@ -182,7 +180,7 @@ def main() -> int:
             "sha256": sha256_file(scope_path),
             "active_panels": scope.get("active_panels"),
             "retained_conditions": scope.get("supported_conditions"),
-            "baseline_definitions": scope.get("baseline_definitions"),
+            "internal_condition_definitions": scope.get("internal_condition_definitions"),
             "removed_external_baselines": scope.get("removed_external_baselines"),
         },
         "model_registry": {

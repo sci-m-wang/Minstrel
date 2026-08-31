@@ -2,12 +2,12 @@
 
 为保证另一端 Agent 可以在本仓库中零补丁执行，当前正式可执行范围固定为：
 
-- **Panel A / Panel D**：`Anonymous Vanilla / Personality Only / Raw Comments / Generic Summary / Anonymous Gold Profile / Ours`。六个条件共用同一 Actor、检索评论集合、随机种子和 evaluator，已纳入 CLI 与真实 GPT 冒烟测试。
+- **Panel A / Panel D**：`Anonymous Vanilla / Personality Only / Raw Comments / Generic Summary / Anonymous Gold Profile / Ours`，定位为本方法内部条件与消融子实验。Raw、Summary、Personality、Ours 复用同一选定评论集合；Gold 使用 benchmark 官方 profile；Vanilla 不使用 persona 信息。条件共用 Actor 与 evaluator，使用模型/服务默认解码且不显式设置 seed。
 - **Panel B 暂移除**：AMADEUS 的官方数据、检索管线及可固定版本实现未随本项目提供，当前不进入默认实验网格或论文结果声明。
 - **Panel C 暂移除**：RoleGPT / RoleLLM、PersonaForge、CoSER 涉及外部代码、专用模型或训练产物，当前无法保证另一端 Agent 零补丁运行，故不进入默认实验网格或结果声明。
 - Panel B/C 可在未来获得并锁定官方仓库、模型权重、数据许可和复现实验版本后恢复；恢复前必须新增预检、适配器和端到端测试。
 
-本节覆盖下文旧版 Panel B/C 设计；下文相应内容仅作为未来扩展背景，不代表当前实现已支持。
+跨方法主实验对应 Panel B/C；当前尚未冻结可零补丁执行的官方外部方法，因此本仓库现阶段只执行 Panel A/D 内部子实验。本节覆盖下文旧版 Panel B/C 设计；下文相应内容仅作为未来扩展背景，不代表当前实现已支持。
 
 ---
 
@@ -114,7 +114,7 @@ high neuroticism
 
 ### Step 4. 多领域 Cue 聚合成 Reconstructed Person Model
 
-统一压缩成约 **800–1200 tokens**：
+汇总成匿名、结构化且可审计的人物模型，不设置长度目标、截断或归一化：
 
 ```text
 [Stable Tendencies]
@@ -186,14 +186,14 @@ Benchmark Query
 
 | Panel                     | 数据/角色                  | 主要目的              | 主要方法对比                                                                  |
 | ------------------------- | ---------------------- | ----------------- | ----------------------------------------------------------------------- |
-| **A. Main Controlled**    | RoleAgentBench Core-10 | 主实验，严格验证侧写重建      | Raw / Summary / Personality / Gold Profile / Ours / RoleAgent reference |
+| **A. Internal Conditions** | RoleAgentBench Core-10 | 英文内部条件与消融子实验      | Raw / Summary / Personality / Gold Profile / Ours / RoleAgent reference |
 | **B. CharacterRAG**       | CharacterRAG-15        | 与最新 RAG 型角色方法正面对比 | AMADEUS vs Ours                                                         |
 | **C. RoleBench**          | RoleBench-8            | 与经典及最新角色实例化方法对比   | RoleGPT / PersonaForge / CoSER / Ours                                   |
 | **D. Chinese Validation** | CharacterEval-6        | 中文、跨语言和日常人物验证     | Profile / Raw / Summary / Ours + CharacterRM                            |
 
 ---
 
-# 3. Panel A：英文主实验
+# 3. Panel A：英文内部条件与消融子实验
 
 使用 RoleAgentBench 中两个完整作品的 10 个角色：
 
@@ -342,7 +342,7 @@ WEAK / CONTESTED / UNKNOWN
 
 # 6. Cue → Person Model
 
-24 个 probe 完成后，统一构建约 **800–1200 tokens** 的匿名 Person Model：
+24 个 probe 完成后，构建匿名 Person Model；保留模型自然生成的内容，不设置长度目标或截断：
 
 ```text
 [Stable Tendencies]
@@ -493,9 +493,10 @@ TARGET_07
 
 ---
 
-# 8. Panel A 的 Baseline
+# 8. Panel A 的内部条件与消融
 
-主实验的**公平 baseline**控制相同 backbone。
+这些条件用于分析本方法内部的信息表示与消融，不是跨方法主实验。除 Actor 与 evaluator
+保持一致外，各条件保留其原生信息形态，不做长度归一化。
 
 | Method                     | Role Agent 获得什么                            |
 | -------------------------- | ------------------------------------------ |
@@ -516,9 +517,9 @@ TARGET_07
 
 > **Ours vs Anonymous Gold Profile**：看社会侧写能恢复多少 oracle persona 信息。
 
-Raw / Summary / Ours 最终 conditioning 控制在：
-
-> **1000 ± 50 tokens**
+Raw 使用完整选定评论集合；Summary 与 Personality 读取完整选定评论集合并自然生成；Ours
+由完整 probe 检索结果提取 Cues 并自然构建 Person Model；Gold 保持 benchmark 或对应方法的
+原始 profile。所有条件均不设置 conditioning 长度目标、截断或长度门槛。
 
 ---
 
@@ -710,7 +711,7 @@ Anonymous Gold Profile
 Ours
 ```
 
-因此中文和英文主实验设计是对称的。
+因此中文和英文内部条件子实验设计是对称的。
 
 ---
 
@@ -765,7 +766,7 @@ Profiler 固定：
 
 ### B. Breadth vs Depth
 
-固定 token 和 evidence 数：
+固定 evidence 条数与来源集合；不控制或归一化生成长度：
 
 ```text
 Broad:
@@ -814,7 +815,7 @@ Which of these 10/15 characters is this person?
 
 这样已经足够，不需要继续膨胀：
 
-### Panel A — 主实验
+### Panel A — 内部条件与消融子实验
 
 **10 characters × 5 actors × 6 conditions**
 

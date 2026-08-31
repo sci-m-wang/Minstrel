@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "created_at": "2026-08-30T08:16:15.922040+00:00",
+  "created_at": "2026-08-31T06:43:24.994204+00:00",
   "run_name": "panel-a",
   "research_ready": true,
   "read_only_execution": true,
@@ -286,8 +286,8 @@
     {
       "kind": "config",
       "path": "configs/offline/panel-a.yaml",
-      "bytes": 1356,
-      "sha256": "c7e987bc597402b315d38b01838af3991fe081d854a50062ab5f3d658573c9b9"
+      "bytes": 1334,
+      "sha256": "0b2e01ea47fba9b471a7c0c3bab1d1d64f7cf9913108078ab6bc68867310c787"
     },
     {
       "kind": "corpus_db",
@@ -310,8 +310,8 @@
     {
       "kind": "executable_scope",
       "path": "configs/scope.yaml",
-      "bytes": 1378,
-      "sha256": "7b04d4c69dee1793381c376cdd28d020c3ae4f1e66a7a096d042cfb692650626"
+      "bytes": 1388,
+      "sha256": "14a3b0af823a5c712eaba1303943784d7186b5ae699f63347f07f45c77a0dc53"
     },
     {
       "kind": "frozen_asset",
@@ -340,8 +340,8 @@
     {
       "kind": "frozen_asset",
       "path": "data/audits/experiment_inventory.json",
-      "bytes": 10002,
-      "sha256": "e86aecf64975136da2428705ea63a012427e0168636c56cae83d1a90db229cd8"
+      "bytes": 9790,
+      "sha256": "d941b40548d831447466647c6d0a52dd870cde65c6619b022a791a42483fd989"
     },
     {
       "kind": "frozen_asset",
@@ -353,7 +353,7 @@
       "kind": "frozen_asset",
       "path": "offline/code.manifest.json",
       "bytes": 12476,
-      "sha256": "08509acff9df9c8f2a19980efc21c26196a2ef2adec5ae33e34f5eace4332c80"
+      "sha256": "dee7236640b5249a2accb76486d3cea4191100d4bf34654b60b2d6f9b3fbdee6"
     },
     {
       "kind": "frozen_asset",

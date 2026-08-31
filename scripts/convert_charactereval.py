@@ -3,7 +3,7 @@
 
 The official file named test_data.jsonl is a JSON array in the published release.
 Target identity strings are masked in actor-visible dialogue. Official profiles are
-stored only in the private catalog for the anonymous-gold baseline and evaluator.
+stored only in the private catalog for the anonymous-gold condition and evaluator.
 """
 
 from __future__ import annotations

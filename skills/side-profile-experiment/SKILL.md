@@ -9,10 +9,11 @@ Operate a complete, frozen, read-only experimental input bundle through GPU exec
 reviewable result report. Treat `plan.md` as the design authority, the selected config as the frozen
 run specification, and `data.bundle_manifest` as the checksum authority.
 
-The executable scope is defined by `configs/scope.yaml`: Panels A/D and the six conditions `none`,
-`personality`, `raw`, `summary`, `gold`, and `ours`. AMADEUS, RoleGPT/RoleLLM, PersonaForge, and
-CoSER are removed until pinned external artifacts and tested adapters exist. Do not reintroduce or
-claim those baselines merely because they remain in the historical sections of `plan.md`.
+The executable scope is defined by `configs/scope.yaml`: Panels A/D and the six internal conditions
+`none`, `personality`, `raw`, `summary`, `gold`, and `ours`. These are internal conditions and
+ablations, not the cross-method main experiment. AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER
+are removed until pinned external artifacts and tested adapters exist. Do not reintroduce or claim
+those baselines merely because they remain in the historical sections of `plan.md`.
 
 ## Hard responsibility boundary
 
@@ -76,33 +77,35 @@ already have been completed locally before the bundle was frozen.
 - Preserve the private mapping from `character_id` to `anonymous_id`; Actor and profiling calls must
   never receive character name, work, official profile, wiki text, or raw unmasked aliases.
 - Keep deterministic alias/work masking active on retrieved text and every generated Cue, Person
-  Model statement, generated baseline conditioning, and Actor response. A remaining leak after
+  Model statement, generated internal-condition payload, and Actor response. A remaining leak after
   masking invalidates the unit; do not add a retry or weaken the leak detector.
 - Preserve `Comment → Cue → Person Model`. Every non-unknown Cue must cite imported comment IDs;
   unsupported citations are rejected by code.
 - Exclude `is_synthetic=true` by default. A run with `include_synthetic: true` is a smoke test and
   must never be presented as experimental evidence.
-- Use all 24 fixed probes for a main run unless the config explicitly identifies an ablation or smoke
+- Use all 24 fixed probes for a formal Ours run unless the config explicitly identifies an ablation or smoke
   test. Do not silently substitute BM25-only retrieval when the research config requires `hybrid`.
 - Read dense scores from the frozen exact-cosine vector database built with the pinned
   `Qwen3-Embedding-0.6B` revision. The database must match the corpus comment IDs/text hashes and all
   24 English/Chinese probe queries. Never rebuild embeddings during an experiment run or replace the
   exact store with an approximate index.
-- Freeze actor, provider-default decoding, replicate count, evidence budget, conditioning budget, and evaluator across controlled
-  conditions. Report deviations.
+- Preserve the configured retrieval and recorded comment-ID sets. Raw, Summary, Personality, and
+  Ours use the complete selected comment evidence according to their native processing; Gold keeps
+  the benchmark or method profile unchanged; None receives no persona information. Do not normalize
+  information content or length across these distinct conditions.
 - Prepare the shared six conditionings exactly once per panel with the fixed
   `Qwen2.5-14B-Instruct` profiler. Every actor must checksum and reuse that prepared directory; an
-  actor must never reconstruct profiles or baseline conditionings.
-- Do not introduce API `max_tokens`, call-count budgets, or application retry limits. The planned
-  Raw / Summary / Ours conditioning size is 1000±50 tokens measured by the fixed
-  Qwen2.5-14B-Instruct profiler tokenizer; it is an experimental treatment
-  requirement, not an API generation cap. The reconstructed Person Model's broader design range is
-  800–1200 tokens, but the controlled main comparison uses the stricter shared 950–1050 gate.
+  actor must never reconstruct profiles or internal-condition payloads.
+- Do not introduce API `max_tokens`, call-count budgets, application retry limits, prompt-level
+  length requests, conditioning truncation, length normalization, or length gates. Raw contains the
+  complete selected comments; Summary and Personality read that complete set and generate naturally;
+  Ours constructs its Person Model naturally from the complete per-probe Cue pipeline; Gold remains
+  the unmodified supplied profile.
 - Do not set or expose `temperature`, `top_p`, or API `seed`; use the model/vLLM/provider defaults for
   every condition. Repeated trials are independent replicates, not explicitly seeded generations.
-- Preserve every retained baseline definition exactly. If an external baseline cannot run from pinned
-  official artifacts without methodological substitutions, report it as unavailable; do not remove,
-  approximate, or rewrite anything on the GPU host.
+- Preserve every external comparison method exactly. If it cannot run from pinned official artifacts
+  without methodological substitutions, report it as unavailable; do not approximate or rewrite it
+  on the GPU host.
 - Treat the corpus, vector database, catalog, benchmark, config, scope file, and bundle manifest as
   immutable inputs.
 - Inspect `manifest.json`, corpus coverage, Cue citations, identity leakage, failed calls, and official

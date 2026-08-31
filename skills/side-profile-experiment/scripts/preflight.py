@@ -63,6 +63,7 @@ def main() -> int:
         "max_completion_tokens",
         "max_calls",
         "max_retries",
+        "target_tokens",
         "temperature",
         "top_p",
         "seed",
@@ -86,7 +87,7 @@ def main() -> int:
     check(
         "unrelated_limits",
         not forbidden_paths,
-        "no API token caps, call budgets, retry limits, temperature, top_p, or seed; found: "
+        "no API/conditioning length targets, call budgets, retry limits, temperature, top_p, or seed; found: "
         + ", ".join(forbidden_paths),
     )
     provider = config.get("provider", {}).get("name", "GPT").upper()
@@ -270,7 +271,7 @@ def main() -> int:
     check(
         "probe_scope",
         probes is None or is_smoke or "ablation" in run_name.casefold(),
-        "main runs use all 24 probes; subsets must be smoke or ablation",
+        "formal Ours runs use all 24 probes; subsets must be smoke or ablation",
     )
     result = {"ok": all(item["ok"] for item in checks), "checks": checks}
     print(json.dumps(result, ensure_ascii=False, indent=2))

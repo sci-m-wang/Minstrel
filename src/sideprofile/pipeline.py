@@ -2,9 +2,7 @@ from __future__ import annotations
 
 import json
 import os
-import re
 import shutil
-from collections.abc import Callable
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
@@ -19,7 +17,6 @@ from .llm import LLMClient, MockLLMClient, ProviderSettings
 from .probes import select_probes
 from .profile import (
     build_person_model,
-    count_identity_tokens,
     cue_coverage,
     extract_cues,
     render_person_model,
@@ -49,13 +46,11 @@ class ProfileBuilder:
         retriever: HybridRetriever,
         *,
         include_synthetic: bool = False,
-        target_tokens: int = 1000,
     ) -> None:
         self.corpus = corpus
         self.llm = llm
         self.retriever = retriever
         self.include_synthetic = include_synthetic
-        self.target_tokens = target_tokens
 
     def build(self, character_id: str, probes: list[Probe]) -> ProfileResult:
         spec = self.corpus.get_character(character_id)
@@ -88,7 +83,6 @@ class ProfileBuilder:
             self.llm,
             spec=spec,
             cues=cues,
-            target_tokens=self.target_tokens,
         )
         rendered = render_person_model(person_model)
         leaks = find_identity_leaks(rendered, spec)
@@ -117,48 +111,24 @@ def load_benchmark(path: str | Path) -> list[BenchmarkExample]:
     return examples
 
 
-def _clip_identity_tokens(text: str, limit: int) -> str:
-    matches = list(re.finditer(r"\w+|[\u3400-\u9fff]", text))
-    if len(matches) <= limit:
-        return text
-    return text[: matches[limit - 1].end()].rstrip() + " […]"
-
-
-def _unique_retrieved_text(
-    result: ProfileResult,
-    target_tokens: int = 1000,
-    *,
-    count_tokens: Callable[[str], int] = count_identity_tokens,
-    clip_tokens: Callable[[str, int], str] = _clip_identity_tokens,
-) -> str:
+def _unique_retrieved_text(result: ProfileResult) -> str:
     seen = set()
     rows = []
-    upper = max(1, int(target_tokens * 1.05))
     for probe_id in sorted(result.retrieval):
         for item in result.retrieval[probe_id]:
             if item["comment_id"] in seen:
                 continue
             seen.add(item["comment_id"])
             candidate = f"[{item['comment_id']}] {item['text']}"
-            current = "\n".join(rows)
-            remaining = upper - count_tokens(current)
-            if remaining <= 0:
-                return current
-            if count_tokens(candidate) > remaining:
-                rows.append(clip_tokens(candidate, remaining))
-                return "\n".join(rows)
             rows.append(candidate)
     return "\n".join(rows)
 
 
-def _baseline_conditioning(
+def _condition_payload(
     llm: LLMClient | MockLLMClient,
     *,
     condition: str,
     result: ProfileResult,
-    target_tokens: int = 1000,
-    count_tokens: Callable[[str], int] = count_identity_tokens,
-    clip_tokens: Callable[[str, int], str] = _clip_identity_tokens,
 ) -> str:
     if condition == "none":
         return ""
@@ -168,20 +138,13 @@ def _baseline_conditioning(
         if not result.character.gold_profile:
             raise RuntimeError(f"gold condition requested but {result.character.character_id} has no gold profile")
         return anonymize_text(result.character.gold_profile, result.character)
-    raw = _unique_retrieved_text(
-        result,
-        target_tokens=target_tokens,
-        count_tokens=count_tokens,
-        clip_tokens=clip_tokens,
-    )
+    raw = _unique_retrieved_text(result)
     if condition == "raw":
         return raw
     if condition not in {"summary", "personality"}:
         raise ValueError(f"unknown condition: {condition}")
     instruction = (
-        f"Summarize this anonymous person in {int(target_tokens * 0.95)} to "
-        f"{int(target_tokens * 1.05)} tokens from the supplied "
-        "third-party comments. Use only the "
+        "Summarize this anonymous person from the supplied third-party comments. Use only the "
         "comments, preserve uncertainty, do not guess identity, and do not invent facts."
         if condition == "summary"
         else "Produce an anonymous Big Five personality description from the supplied third-party "
@@ -192,12 +155,12 @@ def _baseline_conditioning(
     text = llm.chat(
         system=instruction,
         user=raw,
-        agent=f"baseline_{condition}",
+        agent=f"condition_{condition}",
     )
     text = anonymize_text(text, result.character)
     leaks = find_identity_leaks(text, result.character)
     if leaks:
-        raise RuntimeError(f"{condition} baseline leaked private identity strings: {leaks}")
+        raise RuntimeError(f"{condition} payload leaked private identity strings: {leaks}")
     return text
 
 
@@ -344,7 +307,6 @@ class ExperimentRunner:
                 llm,
                 retriever,
                 include_synthetic=include_synthetic,
-                target_tokens=int(profiling_cfg.get("target_tokens", 1000)),
             )
             manifest = {
                 "run_id": run_id,
@@ -383,7 +345,7 @@ class ExperimentRunner:
                     encoding="utf-8",
                 )
                 conditioning = {
-                    condition: _baseline_conditioning(llm, condition=condition, result=result)
+                    condition: _condition_payload(llm, condition=condition, result=result)
                     for condition in conditions
                 }
                 for example in [item for item in examples if item.character_id == character_id]:

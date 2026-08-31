@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T08:16:15.089527+00:00",
+  "generated_at": "2026-08-31T06:43:24.311036+00:00",
   "project_root_marker": "pyproject.toml",
   "files": [
     {
@@ -15,38 +15,38 @@
     },
     {
       "path": "configs/baselines-smoke.yaml",
-      "bytes": 571,
-      "sha256": "96210137e02d6d400212f4ea746038c75b69ec8def04b23f6ec1847608e54e90"
+      "bytes": 550,
+      "sha256": "a232ab2270d767c6e95cc520243644d48c651e068d761c1feef2f5df1298bb0a"
     },
     {
       "path": "configs/offline/panel-a.yaml",
-      "bytes": 1356,
-      "sha256": "c7e987bc597402b315d38b01838af3991fe081d854a50062ab5f3d658573c9b9"
+      "bytes": 1334,
+      "sha256": "0b2e01ea47fba9b471a7c0c3bab1d1d64f7cf9913108078ab6bc68867310c787"
     },
     {
       "path": "configs/offline/panel-d.yaml",
-      "bytes": 1427,
-      "sha256": "5e372645d96f4537b741c549ffc959361976dd1d952008bb8ceeed18f46cbef3"
+      "bytes": 1405,
+      "sha256": "842749c58e8a9c3d2ebb544a3387600cde077e36c670effeda5cf9b3f9ddf611"
     },
     {
       "path": "configs/panel-d.example.yaml",
-      "bytes": 1132,
-      "sha256": "0549ed59bda01af3039f11541589fd9a7ec4de0a6306a94dd93f15380637bf2e"
+      "bytes": 1110,
+      "sha256": "78e98f93439b27ca9a566e263271c19b1b7a660752bc450904fd0858c618b409"
     },
     {
       "path": "configs/research.example.yaml",
-      "bytes": 1061,
-      "sha256": "89a9950a0c7763bb669a61666d519eeaac659b8902b3a342032d459df40b7a40"
+      "bytes": 1039,
+      "sha256": "1198a148602dffae8558b15589b85891af00e430534e4be9b9e523a01ddb8ff4"
     },
     {
       "path": "configs/scope.yaml",
-      "bytes": 1378,
-      "sha256": "7b04d4c69dee1793381c376cdd28d020c3ae4f1e66a7a096d042cfb692650626"
+      "bytes": 1388,
+      "sha256": "14a3b0af823a5c712eaba1303943784d7186b5ae699f63347f07f45c77a0dc53"
     },
     {
       "path": "configs/smoke.yaml",
-      "bytes": 522,
-      "sha256": "2e9d6d8c623988624231ad1f0723d119272b4a67cc4e38153daf44999031607c"
+      "bytes": 501,
+      "sha256": "6cfed46f76db12d427b27cf4b21ba64f0237bb29ba2ff96d6a895c7fe7f35787"
     },
     {
       "path": "offline/models.yaml",
@@ -60,8 +60,8 @@
     },
     {
       "path": "plan.md",
-      "bytes": 22447,
-      "sha256": "9f18d24c9a4f4135b87eb682363e1a6950222ddea04664ba779b14a928ab24ba"
+      "bytes": 23352,
+      "sha256": "8a63fcebb455d601a028d4e3d84cb1af168af9111f807359ec76add172366379"
     },
     {
       "path": "pyproject.toml",
@@ -90,8 +90,8 @@
     },
     {
       "path": "scripts/build_experiment_audit.py",
-      "bytes": 8692,
-      "sha256": "9cd77ece6591731d8defb4313164c53b45788a80879d6d5c5bf9fb830c4b47ab"
+      "bytes": 8587,
+      "sha256": "53ed727647744d76f6d410bea5978c439d17a2b63ea880f8e35462ecaeac6493"
     },
     {
       "path": "scripts/build_wheelhouse_manifest.py",
@@ -110,8 +110,8 @@
     },
     {
       "path": "scripts/convert_charactereval.py",
-      "bytes": 4512,
-      "sha256": "44cf1d3764c6b854a8b8ec3de11c91c25af011fb087676d6800d56673dac6887"
+      "bytes": 4513,
+      "sha256": "08cafa2f6b694bb6c6a8f6b8bfc52ddb7938b753b4bb3ebea17c06aab8333af1"
     },
     {
       "path": "scripts/convert_roleagentbench.py",
@@ -180,8 +180,8 @@
     },
     {
       "path": "skills/side-profile-experiment/SKILL.md",
-      "bytes": 7927,
-      "sha256": "ef2891ad0400c9660241b1bd2ad36bf94c0437779921062fd9c25a8096a79c26"
+      "bytes": 8180,
+      "sha256": "add69575f1abcdb4079657a445cffe690be9371ad8dff112d07a716e377dac99"
     },
     {
       "path": "skills/side-profile-experiment/agents/openai.yaml",
@@ -190,8 +190,8 @@
     },
     {
       "path": "skills/side-profile-experiment/references/analysis-report.md",
-      "bytes": 3513,
-      "sha256": "f32ab7f7fd905bfbed18821d911ee41803727f1c4d6a2a578fca04dc77f7059e"
+      "bytes": 3624,
+      "sha256": "35a41def994304ff4b8c49aff7fbc882b3df63b970b402be28941e5184b638ad"
     },
     {
       "path": "skills/side-profile-experiment/references/data-contract.md",
@@ -200,8 +200,8 @@
     },
     {
       "path": "skills/side-profile-experiment/references/operations.md",
-      "bytes": 10066,
-      "sha256": "c3526be7217b93cf2a46fc609839852eec35d2fb78f0a3dcbedef5edd42fb8b7"
+      "bytes": 10243,
+      "sha256": "9a6f2b565cc77316f1dcb77af521b96c88930c1bf6e8e66af19957906f7d28ed"
     },
     {
       "path": "skills/side-profile-experiment/scripts/inspect_target.py",
@@ -210,8 +210,8 @@
     },
     {
       "path": "skills/side-profile-experiment/scripts/preflight.py",
-      "bytes": 11866,
-      "sha256": "82cb910fddfa02c42e028dad5185f5658b4808d2a0261502851dc001690645d7"
+      "bytes": 11915,
+      "sha256": "d7ebd81513764bcd0fb3c93df511e2dd1e9e9e90cf77f1c28fa98e46c4002189"
     },
     {
       "path": "src/sideprofile/__init__.py",
@@ -230,13 +230,13 @@
     },
     {
       "path": "src/sideprofile/bundle.py",
-      "bytes": 7486,
-      "sha256": "fee1d5ccbde4eacdd8bb6598ec888c443e3fd0b188d1f842b629e1ff49a1b97c"
+      "bytes": 7487,
+      "sha256": "65ace27a59872e43e7e72ff4e8633c8ed6536c4389fe2ffe28b559091c0c97ee"
     },
     {
       "path": "src/sideprofile/cli.py",
-      "bytes": 14288,
-      "sha256": "cf7ba4edfd409339fafb8cc25844e7a7dd0a1f9a578ff95667d8fc81e16fa89b"
+      "bytes": 14167,
+      "sha256": "77802f56f72a6c60616e256a446654a35a6e15a51007ac5ee26db13c4e6bab58"
     },
     {
       "path": "src/sideprofile/corpus.py",
@@ -250,8 +250,8 @@
     },
     {
       "path": "src/sideprofile/pipeline.py",
-      "bytes": 18286,
-      "sha256": "ea958bf918f19d845e7e848a20d70ebf1e00031717c5ee6b0fa7dd5b549f7809"
+      "bytes": 16861,
+      "sha256": "fb99296a8b88e43901f2297d39607582add2e5a4621a24bb02fa0204dec0dee8"
     },
     {
       "path": "src/sideprofile/probes.py",
@@ -260,13 +260,13 @@
     },
     {
       "path": "src/sideprofile/profile.py",
-      "bytes": 7338,
-      "sha256": "58110f8c2d7d393d17b8fc9c2845faebb8a1dacafc118945585bc31c889a0bf4"
+      "bytes": 6755,
+      "sha256": "9abe9da03536e88a9bf845ce6a82e86318e4ffa76e7716543c3356d7ffc94b76"
     },
     {
       "path": "src/sideprofile/report.py",
-      "bytes": 4860,
-      "sha256": "b468eab03438db8f210762c021bf683820389281e4e4193f63205d634cd7f896"
+      "bytes": 4922,
+      "sha256": "c6a1b5070ba6bd8c84920f237926eb39eb3e5290b4bcfb240a7fa49ae66fa398"
     },
     {
       "path": "src/sideprofile/retrieval.py",
@@ -285,8 +285,8 @@
     },
     {
       "path": "src/sideprofile/staged.py",
-      "bytes": 21417,
-      "sha256": "7acb33a29e572b048ae2fae6f4954e5e79905dd07fbf0f634f7a8f706a31e683"
+      "bytes": 18581,
+      "sha256": "3145dc1f899373d1ac942f7b0c22f99cf79d47c59948ac2686ec5f18eaf20d66"
     },
     {
       "path": "src/sideprofile/vector_store.py",
@@ -330,8 +330,8 @@
     },
     {
       "path": "tests/test_pipeline_mock.py",
-      "bytes": 4544,
-      "sha256": "0646191896ff9fd44cbc456aa9fdbff0b01f635b5068d8b1078ecf0756de83cd"
+      "bytes": 6192,
+      "sha256": "06a314777dfac308f12fd5cfde39fb0393a8dd44f1951a1bb2b5e76ebd00082a"
     },
     {
       "path": "tests/test_prepare_comment_capture.py",

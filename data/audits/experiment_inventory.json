@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-29T17:59:55.483608+00:00",
+  "generated_at": "2026-08-31T06:40:18.409733+00:00",
   "ready": true,
   "failures": [],
   "scope": {
     "path": "configs/scope.yaml",
-    "sha256": "7b04d4c69dee1793381c376cdd28d020c3ae4f1e66a7a096d042cfb692650626",
+    "sha256": "14a3b0af823a5c712eaba1303943784d7186b5ae699f63347f07f45c77a0dc53",
     "active_panels": [
       "A",
       "D"
@@ -18,7 +18,7 @@
       "gold",
       "ours"
     ],
-    "baseline_definitions": {
+    "internal_condition_definitions": {
       "none": "Anonymous Vanilla: no persona information.",
       "personality": "Personality Only: anonymous Big Five description inferred from the shared comment evidence.",
       "raw": "Raw Comments: the shared retrieved third-party comments, identity-masked, without rewriting.",
@@ -43,7 +43,7 @@
     {
       "panel": "panel-a",
       "config": "configs/offline/panel-a.yaml",
-      "config_sha256": "c7e987bc597402b315d38b01838af3991fe081d854a50062ab5f3d658573c9b9",
+      "config_sha256": "0b2e01ea47fba9b471a7c0c3bab1d1d64f7cf9913108078ab6bc68867310c787",
       "conditions": [
         "none",
         "personality",
@@ -53,11 +53,6 @@
         "ours"
       ],
       "replicates": 3,
-      "conditioning_target": 1000,
-      "controlled_conditioning_range": [
-        950,
-        1050
-      ],
       "decoding": "provider_default",
       "retrieval_mode": "hybrid",
       "retrieval": {
@@ -179,7 +174,7 @@
     {
       "panel": "panel-d",
       "config": "configs/offline/panel-d.yaml",
-      "config_sha256": "5e372645d96f4537b741c549ffc959361976dd1d952008bb8ceeed18f46cbef3",
+      "config_sha256": "842749c58e8a9c3d2ebb544a3387600cde077e36c670effeda5cf9b3f9ddf611",
       "conditions": [
         "none",
         "personality",
@@ -189,11 +184,6 @@
         "ours"
       ],
       "replicates": 3,
-      "conditioning_target": 1000,
-      "controlled_conditioning_range": [
-        950,
-        1050
-      ],
       "decoding": "provider_default",
       "retrieval_mode": "hybrid",
       "retrieval": {

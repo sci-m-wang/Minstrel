@@ -18,7 +18,7 @@ from .llm import LLMClient, ProviderSettings
 from .pipeline import (
     SUPPORTED_CONDITIONS,
     ProfileBuilder,
-    _baseline_conditioning,
+    _condition_payload,
     _project_root,
     _resolve,
     load_benchmark,
@@ -118,29 +118,6 @@ class ConditioningPreparer:
                 "conditioning preparation requires the pre-registered profiler "
                 f"{expected_profiler!r}, got {settings.model!r}"
             )
-        asset_root_env = str(model_plan.get("asset_root_env", "SIDEPROFILE_ASSET_ROOT"))
-        asset_root_value = os.environ.get(asset_root_env, "")
-        tokenizer_path = Path(asset_root_value) / "models" / expected_profiler
-        if not asset_root_value or not tokenizer_path.is_dir():
-            raise RuntimeError(
-                f"conditioning preparation requires the frozen profiler tokenizer at {tokenizer_path}"
-            )
-        from transformers import AutoTokenizer  # noqa: PLC0415
-
-        profiler_tokenizer = AutoTokenizer.from_pretrained(
-            tokenizer_path,
-            local_files_only=True,
-            trust_remote_code=False,
-        )
-
-        def conditioning_token_count(text: str) -> int:
-            return len(profiler_tokenizer.encode(text, add_special_tokens=False))
-
-        def conditioning_token_clip(text: str, limit: int) -> str:
-            token_ids = profiler_tokenizer.encode(text, add_special_tokens=False)
-            return profiler_tokenizer.decode(
-                token_ids[: max(0, limit)], skip_special_tokens=True
-            ).rstrip()
         stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
         name = str(run_cfg.get("name", "conditioning"))
         output_root = _resolve(
@@ -214,9 +191,7 @@ class ConditioningPreparer:
                 llm,
                 retriever,
                 include_synthetic=False,
-                target_tokens=int(profiling_cfg.get("target_tokens", 1000)),
             )
-            target_tokens = int(profiling_cfg.get("target_tokens", 1000))
             for character_id in character_ids:
                 result = builder.build(character_id, probes)
                 character_dir = output_dir / "characters" / character_id
@@ -234,54 +209,21 @@ class ConditioningPreparer:
                 coverage_path = character_dir / "coverage.json"
                 _write_json(coverage_path, cue_coverage(result.cues))
                 conditioning = {
-                    condition: _baseline_conditioning(
+                    condition: _condition_payload(
                         llm,
                         condition=condition,
                         result=result,
-                        target_tokens=target_tokens,
-                        count_tokens=conditioning_token_count,
-                        clip_tokens=conditioning_token_clip,
                     )
                     for condition in conditions
                 }
                 conditioning_path = character_dir / "conditionings.json"
                 _write_json(conditioning_path, conditioning)
-                conditioning_lengths = {
-                    condition: conditioning_token_count(text)
-                    for condition, text in conditioning.items()
-                }
-                controlled = ("raw", "summary", "ours")
-                lower_bound = int(target_tokens * 0.95)
-                upper_bound = int(target_tokens * 1.05)
-                budget_failures = {
-                    condition: conditioning_lengths[condition]
-                    for condition in controlled
-                    if not lower_bound
-                    <= conditioning_lengths[condition]
-                    <= upper_bound
-                }
-                if budget_failures:
-                    raise RuntimeError(
-                        f"conditioning budget failed for {character_id}: {budget_failures}; "
-                        f"required {lower_bound}-{upper_bound}"
-                    )
-                lengths_path = character_dir / "conditioning_lengths.json"
-                _write_json(
-                    lengths_path,
-                    {
-                        "target_tokens": target_tokens,
-                        "accepted_range": [lower_bound, upper_bound],
-                        "estimator": f"{expected_profiler}_tokenizer",
-                        "conditions": conditioning_lengths,
-                    },
-                )
                 for path in (
                     person_path,
                     cues_path,
                     retrieval_path,
                     coverage_path,
                     conditioning_path,
-                    lengths_path,
                 ):
                     artifacts.append(
                         {

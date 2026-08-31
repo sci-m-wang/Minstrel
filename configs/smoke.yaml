@@ -20,7 +20,6 @@ retrieval:
 
 profiling:
   probe_ids: [D1-Q1, D6-Q2]
-  target_tokens: 450
 
 run:
   name: smoke

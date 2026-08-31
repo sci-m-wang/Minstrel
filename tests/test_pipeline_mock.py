@@ -7,9 +7,9 @@ from types import SimpleNamespace
 from sideprofile.anonymize import find_identity_leaks
 from sideprofile.corpus import CommentCorpus, load_character_catalog, load_comments
 from sideprofile.llm import MockLLMClient
-from sideprofile.pipeline import ProfileBuilder, _unique_retrieved_text
+from sideprofile.pipeline import ProfileBuilder, _condition_payload, _unique_retrieved_text
 from sideprofile.probes import select_probes
-from sideprofile.profile import count_identity_tokens, render_person_model
+from sideprofile.profile import render_person_model
 from sideprofile.retrieval import HybridRetriever
 from sideprofile.roleplay import generate_response, judge_response
 from sideprofile.schema import BenchmarkExample, PERSON_MODEL_SECTIONS
@@ -46,6 +46,16 @@ class IdentityGuessingLLM(MockLLMClient):
         return {}
 
 
+class RecordingBaselineLLM(MockLLMClient):
+    def __init__(self) -> None:
+        super().__init__()
+        self.requests: list[dict[str, str]] = []
+
+    def chat(self, *, system: str, user: str, agent: str, **kwargs) -> str:
+        self.requests.append({"system": system, "user": user, "agent": agent})
+        return f"natural {agent} output"
+
+
 def test_identity_blind_pipeline_end_to_end(tmp_path) -> None:
     with CommentCorpus(tmp_path / "smoke.sqlite") as corpus:
         corpus.add_characters(load_character_catalog(ROOT / "data/catalog/characters.json"))
@@ -58,7 +68,6 @@ def test_identity_blind_pipeline_end_to_end(tmp_path) -> None:
             llm,
             HybridRetriever(mode="bm25", final_top_k=10),
             include_synthetic=True,
-            target_tokens=300,
         )
         result = builder.build("demo_alex", select_probes(["D1-Q1"]))
         rendered = render_person_model(result.person_model)
@@ -80,19 +89,61 @@ def test_identity_blind_pipeline_end_to_end(tmp_path) -> None:
         assert rationale
 
 
-def test_raw_baseline_uses_the_registered_conditioning_budget() -> None:
+def test_raw_condition_uses_every_unique_retrieved_comment_without_truncation() -> None:
     retrieval = {
         "D1-Q1": [
             {
                 "comment_id": f"c{index}",
                 "text": " ".join(f"evidence{index}_{word}" for word in range(30)),
             }
-            for index in range(10)
+            for index in range(40)
+        ],
+        "D2-Q1": [
+            {
+                "comment_id": f"c{index}",
+                "text": " ".join(f"evidence{index}_{word}" for word in range(30)),
+            }
+            for index in range(39, 60)
+        ],
+    }
+    raw = _unique_retrieved_text(SimpleNamespace(retrieval=retrieval))
+    assert "[c0]" in raw
+    assert "[c59]" in raw
+    assert raw.count("[c39]") == 1
+    assert raw.count("\n") == 59
+
+
+def test_summary_and_personality_read_the_complete_comment_set_without_length_instruction() -> None:
+    retrieval = {
+        "D1-Q1": [
+            {
+                "comment_id": f"c{index}",
+                "text": " ".join(f"evidence{index}_{word}" for word in range(30)),
+            }
+            for index in range(60)
         ]
     }
-    raw = _unique_retrieved_text(SimpleNamespace(retrieval=retrieval), target_tokens=100)
-    observed = count_identity_tokens(raw)
-    assert 100 <= observed <= 105
+    result = SimpleNamespace(
+        retrieval=retrieval,
+        character=SimpleNamespace(
+            character_id="x",
+            character_name="Example Target",
+            aliases=[],
+            work="Example Work",
+            gold_profile="",
+        ),
+    )
+    llm = RecordingBaselineLLM()
+    for condition in ("summary", "personality"):
+        assert _condition_payload(llm, condition=condition, result=result).startswith("natural")
+    assert [request["agent"] for request in llm.requests] == [
+        "condition_summary",
+        "condition_personality",
+    ]
+    for request in llm.requests:
+        assert "[c0]" in request["user"]
+        assert "[c59]" in request["user"]
+        assert "token" not in request["system"].lower()
 
 
 def test_llm_identity_guesses_are_deterministically_masked(tmp_path) -> None:
@@ -104,7 +155,6 @@ def test_llm_identity_guesses_are_deterministically_masked(tmp_path) -> None:
             IdentityGuessingLLM(),
             HybridRetriever(mode="bm25", final_top_k=2),
             include_synthetic=True,
-            target_tokens=300,
         ).build("demo_alex", select_probes(["D1-Q1"]))
         assert all(not find_identity_leaks(cue.cue, result.character) for cue in result.cues)
         assert all(not find_identity_leaks(cue.context, result.character) for cue in result.cues)

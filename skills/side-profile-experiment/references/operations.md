@@ -104,6 +104,8 @@ not repair data, fetch a missing asset, lower coverage, or edit a manifest.
 Use `scripts/run_vllm_stage.sh`, which sets only the local endpoint/model identity and vLLM network
 address. It does not set `max_tokens`, model length, retry policy, temperature, top-p, seed, dtype,
 quantization, or another decoding parameter. The model and vLLM defaults therefore remain in force.
+The experiment also sets no prompt-level output-length request, conditioning truncation,
+length normalization, or length gate. Each internal condition keeps its native payload.
 The script enters vLLM through the project's text-only launcher, which marks Transformers' optional
 torchvision backend unavailable before importing vLLM. This prevents an unused native image
 extension from affecting text execution; it does not alter text weights, prompts, or inference

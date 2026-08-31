@@ -7,7 +7,7 @@ supported_conditions:
   - summary
   - gold
   - ours
-baseline_definitions:
+internal_condition_definitions:
   none: "Anonymous Vanilla: no persona information."
   personality: "Personality Only: anonymous Big Five description inferred from the shared comment evidence."
   raw: "Raw Comments: the shared retrieved third-party comments, identity-masked, without rewriting."

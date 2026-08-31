@@ -91,7 +91,7 @@ def build_bundle_manifest(
         missing_gold = [cid for cid in selected if not catalog[cid].gold_profile]
         if missing_gold:
             raise ValueError(
-                "gold baseline is selected but gold_profile is missing for: "
+                "gold condition is selected but gold_profile is missing for: "
                 + ", ".join(missing_gold)
             )
 

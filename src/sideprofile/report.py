@@ -90,7 +90,7 @@ def build_report(run_dir: str | Path) -> Path:
             "",
             "- Treat model-judge scores as estimates; compare with the official benchmark evaluator before publication.",
             "- Report corpus coverage, platforms, independent authors, retrieval mode, model versions, replicates, and failed calls.",
-            "- Do not compare conditions with different actor, decoding, evidence, or token budgets as a controlled result.",
+            "- Treat Raw, Summary, Personality, Gold, and Ours as distinct internal conditions with their native payloads; do not claim that their information or lengths are normalized.",
             "- Inspect identity leakage separately from role fidelity.",
             "",
             "## Artifacts",

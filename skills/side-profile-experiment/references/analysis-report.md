@@ -27,7 +27,7 @@ Treat missing cells as missing, never as zero.
 ## Required analysis
 
 For each panel, report condition mean, standard deviation or confidence interval, sample count, roles,
-Actor, evaluator, replicate count, and corpus coverage. Main controlled contrasts are:
+Actor, evaluator, replicate count, and corpus coverage. Internal condition analyses are:
 
 - Ours vs Raw Comments: value of reconstruction;
 - Ours vs Generic Summary: value beyond summarization;
@@ -55,8 +55,9 @@ success and failure cases without exposing author identities.
 Produce a self-contained Markdown report with:
 
 1. Executive finding and validity status.
-2. Frozen design: panel, characters, models, conditions, replicates, evaluators, and the 1000±50
-   Raw / Summary / Ours conditioning treatment plus evidence budget.
+2. Frozen design: panel, characters, models, conditions, replicates, evaluators, each condition's
+   native information source, and the complete selected comment-ID sets used by comment-derived
+   conditions. State explicitly that lengths are neither targeted nor normalized.
 3. Corpus audit: comments, platforms, authors, language, duplicates, and excluded rows per character.
 4. Primary result tables with paired uncertainty.
 5. Ablations: coverage, breadth/depth, and identity leakage only when actually run.
