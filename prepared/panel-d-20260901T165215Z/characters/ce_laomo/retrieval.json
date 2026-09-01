@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_4508e6235b3e03eac273",
+      "anonymous_id": "TARGET_D03",
+      "text": "每次都做的干干净净，就带高启盛一次出事了",
+      "platform": "bilibili",
+      "author_hash": "2c7e422acc39f791ce3bda04",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7c7d8477520ce2298a6d",
+      "anonymous_id": "TARGET_D03",
+      "text": "高启盛，平时没事的时候理智的很，但一旦触碰到他的逆鳞，就很不理智，哥哥就是他的逆鳞，所以在李宏伟死前他肯定会跟他说清楚是谁把他杀掉的，没杀彻底可能是因为警察快来了，他来不及处理好，而且也是第一次杀人，没啥经验也正常，而[TARGET]呢，这时候已经引起警察的注意了，是你的话，你会把一个还没被警察追查的手下放身边，还是会把一个随时会被警察查的定时炸弹放身边，所以很麻烦这个事情，有时候也是实属无奈",
+      "platform": "bilibili",
+      "author_hash": "97ea364bf546c2324c625613",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ca876a5ae67e6fabba9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，刚出笼子很迷茫 压力大了吃块糖，为了女儿爱帮忙。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，过山峰其实不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9871b72b8457c70cc184",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，[TARGET]刀人很在行。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，我看过山峰不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b41cd152e85cfd83c725",
+      "anonymous_id": "TARGET_D03",
+      "text": "我只想说那子弹不跳到安欣身上，不跳到彪子身上，不跳到[TARGET]绑的炸弹上，也不跳到除[TARGET]后背以外的任何地方，一看就是计划的一部分！反正就是领盒饭了，不用纠结了[doge]",
+      "platform": "bilibili",
+      "author_hash": "f54811dd5b86dc9744afe146",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_11b41e9dfd24970066a1",
+      "anonymous_id": "TARGET_D03",
+      "text": "卢卡就干卢卡的事，带着占科这不捣乱吗？",
+      "platform": "bilibili",
+      "author_hash": "62536ad44902273c51bfbfc1",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_fbcb1babf8e96573212b",
+      "anonymous_id": "TARGET_D03",
+      "text": "有准备的约架：过山峰胜（够专业） 无意间的偶遇：[TARGET]胜（天赋强）",
+      "platform": "bilibili",
+      "author_hash": "286fd8af9456c89625c235ad",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_d516285a7bed459b9b0a",
+      "anonymous_id": "TARGET_D03",
+      "text": "一个人做当然能做干净 带了一个人就容易出问题嘛很正常",
+      "platform": "bilibili",
+      "author_hash": "79cccdfe8baccfd4ce9dcc90",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9c3392dec3dcbab14395",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :没错，[TARGET]都是听高启强计划去杀的。过山峰都是自己单独的。",
+      "platform": "bilibili",
+      "author_hash": "5c18b760ae14f85d982adaba",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a2b56ce752c862eb0121",
+      "anonymous_id": "TARGET_D03",
+      "text": "剧情杀的，高启盛和老墨全都是强行下线 首先高启盛这个人出场时完全就是智商天花板，结果硬生生的整成智商地板了，拿冻鱼打人，打完以后死活都不验一下，还摘面具自爆 然后是[TARGET]，这种一句话就肯帮高启强杀人，而且最重要的是好几次了办完事都是一点证据也没留下让警方无处可找，这种级别在帮会里应该是双花红棍一样的存在了，一般的黑帮运作里这种双花红棍地位是最高的，因为有事他真能上，结果高启强直接让他白送了。别的不说你这次让[TARGET]送了下次再有事你找谁？找个新人敢不敢下手另说，就算敢留下一堆证据你咋办？所以这类送死的任务你让龙虎兄弟去都不能让[TARGET]去",
+      "platform": "bilibili",
+      "author_hash": "a6ccf7024eccbba3648590a3",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.35006577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7a9d68e5027bfb8a99ce",
+      "anonymous_id": "TARGET_D03",
+      "text": "只是这人身上有魅力，杀人不眨眼，从不废话，做事靠谱，这样的小弟谁不喜欢",
+      "platform": "bilibili",
+      "author_hash": "7ecb84c25a42a0cdd90dc4f9",
+      "language": "zh",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_1f99980edcc1139d825e",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :我觉得[TARGET]眼中的好人指的是帮助过自己或者女儿的人，其他人要么是与他无关的普通人 要么也是恶人，但这二者对他来说都不算好人。",
+      "platform": "bilibili",
+      "author_hash": "6b5236a8931556925c73af55",
+      "language": "zh",
+      "score": 0.33598232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_fbcb1babf8e96573212b",
+      "anonymous_id": "TARGET_D03",
+      "text": "有准备的约架：过山峰胜（够专业） 无意间的偶遇：[TARGET]胜（天赋强）",
+      "platform": "bilibili",
+      "author_hash": "286fd8af9456c89625c235ad",
+      "language": "zh",
+      "score": 0.29227197,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8a634bdbaa9f29aaa40c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]自己绝对算不上善良，不管是前面还是后面",
+      "platform": "bilibili",
+      "author_hash": "2829549aae77bf86067de4fb",
+      "language": "zh",
+      "score": 0.2890505,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_41d1aeefbe23b4df3bae",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @西敏寺坡 :[TARGET]还是很在乎安欣的，在他心里安欣跟高启盛地位一样",
+      "platform": "bilibili",
+      "author_hash": "57df116611b6a164258d878b",
+      "language": "zh",
+      "score": 0.26710218,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e80fd96391406c4c4fc6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @哼厉害吧 :他们只是有感于安欣的恩德，这是个人向的。从整体角度看，他们时时刻刻都站在安欣的对立面，处处都在和安欣所在的警察队伍过不去",
+      "platform": "bilibili",
+      "author_hash": "cf6fcd05d3aaa3152bc3b094",
+      "language": "zh",
+      "score": 0.26710218,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b3e0fc6a9b8077a7565b",
+      "anonymous_id": "TARGET_D03",
+      "text": "错在和[TARGET]交浅言深，暴露了自己的家庭关系和背景的薄弱，死后大概率不会有人为他找麻烦",
+      "platform": "bilibili",
+      "author_hash": "094137033120eb18a4380b11",
+      "language": "zh",
+      "score": 0.2640546,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_3050ea958ef63012e949",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :还好啦，正常成年人看电视剧感情泛滥很正常，正常人现实中不可能对这种杀手同情的",
+      "platform": "bilibili",
+      "author_hash": "d682e325c62dcf79d86b779e",
+      "language": "zh",
+      "score": 0.2610294,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_7c7d8477520ce2298a6d",
+      "anonymous_id": "TARGET_D03",
+      "text": "高启盛，平时没事的时候理智的很，但一旦触碰到他的逆鳞，就很不理智，哥哥就是他的逆鳞，所以在李宏伟死前他肯定会跟他说清楚是谁把他杀掉的，没杀彻底可能是因为警察快来了，他来不及处理好，而且也是第一次杀人，没啥经验也正常，而[TARGET]呢，这时候已经引起警察的注意了，是你的话，你会把一个还没被警察追查的手下放身边，还是会把一个随时会被警察查的定时炸弹放身边，所以很麻烦这个事情，有时候也是实属无奈",
+      "platform": "bilibili",
+      "author_hash": "97ea364bf546c2324c625613",
+      "language": "zh",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_fbcb1babf8e96573212b",
+      "anonymous_id": "TARGET_D03",
+      "text": "有准备的约架：过山峰胜（够专业） 无意间的偶遇：[TARGET]胜（天赋强）",
+      "platform": "bilibili",
+      "author_hash": "286fd8af9456c89625c235ad",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_bd685da10d6e881eb1b4",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]：那肯定是不行的！这肯定是不符合规定的！[doge]",
+      "platform": "bilibili",
+      "author_hash": "72ae3cf5e9f3ecaae40cfc4d",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_3533fe38c16357270388",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @欢洺 :为什么要体会而不是一开始就不去触碰法律",
+      "platform": "bilibili",
+      "author_hash": "3d277c6e1c66a776c82cb2c1",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_293b8edae168218a4dcc",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @备考CPA的人儿 : 最信任差不多 但在他看来 [TARGET]就是旗子 不是个人 知道吗",
+      "platform": "bilibili",
+      "author_hash": "5857d1a79c4764456496a9e0",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2e03ddc85e484ccaa1c7",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]就像古代的“士”只不过他的眼里没有“仁”离开了“仁”一切美德都容易走向歧途",
+      "platform": "bilibili",
+      "author_hash": "d949c8e3e0308d73a73178c0",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_36e45d2bc0ef24513ddf",
+      "anonymous_id": "TARGET_D03",
+      "text": "向善不可能，就是没想炸死安欣",
+      "platform": "bilibili",
+      "author_hash": "03426e84b58cda68642f7d4b",
+      "language": "zh",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_0e074f6c98a7000aa0d7",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :也可能是高启强怕[TARGET]被警察抓到了，为了让他守口如瓶而威胁",
+      "platform": "bilibili",
+      "author_hash": "7e26c35f773ad25b98bbc461",
+      "language": "zh",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f842fb503ab6055777a4",
+      "anonymous_id": "TARGET_D03",
+      "text": "整本[TARGET]，前表[TARGET]，后表小过[阴险]",
+      "platform": "bilibili",
+      "author_hash": "c23808f8a3ead2f378ffb8ad",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_161396070dc045e9035d",
+      "anonymous_id": "TARGET_D03",
+      "text": "有一个重点就是[TARGET]的前提是绝对不伤害安欣，因为安欣是他的恩人",
+      "platform": "bilibili",
+      "author_hash": "ceced4a3c7f26683e427a673",
+      "language": "zh",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_0e074f6c98a7000aa0d7",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :也可能是高启强怕[TARGET]被警察抓到了，为了让他守口如瓶而威胁",
+      "platform": "bilibili",
+      "author_hash": "7e26c35f773ad25b98bbc461",
+      "language": "zh",
+      "score": 0.61286587,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_255604366735e645a8b3",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @小獠冴 :他就是单纯的不想伤害安欣罢了",
+      "platform": "bilibili",
+      "author_hash": "75078bd991035030cdeb12f7",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_0a60bdf91576c94d2f5b",
+      "anonymous_id": "TARGET_D03",
+      "text": "小龙是杀手，杀手在女儿身边，你说他没任务，就单纯保护他们和去迪士尼游玩谁信啊[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "5f38bcfc41cc045b7acb49c9",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_3e08e67744ffdfa3127e",
+      "anonymous_id": "TARGET_D03",
+      "text": "我理解的完全不一样，我理解的是强哥为了防止[TARGET]被抓泄露出去东西，所以在身上安装了定时设备，反正不管[TARGET]成功不成功都得死。",
+      "platform": "bilibili",
+      "author_hash": "4721938745b6c0516eae3638",
+      "language": "zh",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_032ad2f8f5d0c5f7da61",
+      "anonymous_id": "TARGET_D03",
+      "text": "如果高启盛没这一出的话，[TARGET]和他都保得住",
+      "platform": "bilibili",
+      "author_hash": "a597f621ac0543918b52ba3a",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f5da084d37cbd1cdaad4",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @老鸽134 :是的，主要还是老墨不想杀安欣，唤醒了高启强的良知，亦或许高启强觉得留着安欣也很有意思",
+      "platform": "bilibili",
+      "author_hash": "c44660a0a9ff6e682f0af402",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7c143e7c7f4982d9f5cd",
+      "anonymous_id": "TARGET_D03",
+      "text": "MVP：[TARGET]/过山峰 最佳助攻：高启强",
+      "platform": "bilibili",
+      "author_hash": "1688af0d668a68c3786d3150",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_368c5424b5b30b77d43e",
+      "anonymous_id": "TARGET_D03",
+      "text": "善良就算了吧，顶多就是重情义。",
+      "platform": "bilibili",
+      "author_hash": "d92fc7eb70b6d97f415b9fce",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_c3308f6f5458abeacb56",
+      "anonymous_id": "TARGET_D03",
+      "text": "我方MVP [TARGET]，敌方MVP 过山峰",
+      "platform": "bilibili",
+      "author_hash": "5f7f1779184d929a202b6565",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_0e074f6c98a7000aa0d7",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :也可能是高启强怕[TARGET]被警察抓到了，为了让他守口如瓶而威胁",
+      "platform": "bilibili",
+      "author_hash": "7e26c35f773ad25b98bbc461",
+      "language": "zh",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_72ad4451e1f9f9940728",
+      "anonymous_id": "TARGET_D03",
+      "text": "黑胶带是怕控制开关不小心脱手，威胁不了警方",
+      "platform": "bilibili",
+      "author_hash": "945fe55631747300503158e8",
+      "language": "zh",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5f8c1024725e21e85c61",
+      "anonymous_id": "TARGET_D03",
+      "text": "路是自己选的 无论是[TARGET]还是高启强 没得选都是别人或自己的借口说辞 只是不想选另一方不想付出相应会失去的代价而已 所以他们不是没得选 是已经选了",
+      "platform": "bilibili",
+      "author_hash": "71648d1c7adbb7575add75f5",
+      "language": "zh",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f98736e66bde45cc1b9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]就是一个工具人，这个人虽然重情重义，但是是非不分，被坏人利用了危害就很大",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_255604366735e645a8b3",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @小獠冴 :他就是单纯的不想伤害安欣罢了",
+      "platform": "bilibili",
+      "author_hash": "75078bd991035030cdeb12f7",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e785f77da832e04ee943",
+      "anonymous_id": "TARGET_D03",
+      "text": "是的，骨子里对暴力的恐惧和崇拜深入骨髓，把这些当成解决方案",
+      "platform": "bilibili",
+      "author_hash": "7010eec3ff3f33573b27ca32",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_37d3cea205b1d741ecae",
+      "anonymous_id": "TARGET_D03",
+      "text": "喜欢[TARGET]仅仅因为他演的好，可能还有一点重情重义，但生活中遇到他绝对要躲的远远的",
+      "platform": "bilibili",
+      "author_hash": "7946847ff1623c75994009cb",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7af5e5a342566416e336",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]知道的太多了，高不会让他活的",
+      "platform": "bilibili",
+      "author_hash": "4435e9278dd2b1881b06b208",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_01ed793574c78649d4ee",
+      "anonymous_id": "TARGET_D03",
+      "text": "懂了，破了之后失血过多[喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "7fec82ef7255dcd887dd0cc5",
+      "language": "zh",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_9396d401ea1fa8d1b70b",
+      "anonymous_id": "TARGET_D03",
+      "text": "高启强牺牲[TARGET]是迫不得已的，高当时已经走投无路了，除了让[TARGET]送死顺便除掉李宏伟别无他法，要知道，高所有的脏活都是[TARGET]来做，[TARGET]对高启强而言是那种不到绝境绝不会拿去随随便便牺牲的人，[TARGET]做事比小龙小虎还要靠谱，可以说[TARGET]是除了高启盛以外，高启强最信任的人，如果这次不是高启盛出事，高启强绝对不会动[TARGET]，高启强知道安欣对[TARGET]的意义，一个拯救了他女儿的恩人，所以高启强只能以瑶瑶作为人质逼着[TARGET]去做，再说一遍，[TARGET]对于高启强的重要性绝对是仅次于弟弟妹妹的，评论里太多人没看明白了",
+      "platform": "bilibili",
+      "author_hash": "1e62dcf56508263bb8c5a917",
+      "language": "zh",
+      "score": 0.7338144,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_cea72ac0918454684256",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @我是lillian :不算是叫他送死，是[TARGET]自己也想去送死，女儿算是托孤了，他这种人就没抱能活下来的希望，对他来说自己送死换女儿以后生活好比被抓了大家一起完好多了，就算女儿不在高那他也会去的 有危机这几个核心骨干都会自愿去送的，哪怕高启盛也一样，因为他们本身就活不了",
+      "platform": "bilibili",
+      "author_hash": "51845e042afc88a9a457b02c",
+      "language": "zh",
+      "score": 0.71827835,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5f8c1024725e21e85c61",
+      "anonymous_id": "TARGET_D03",
+      "text": "路是自己选的 无论是[TARGET]还是高启强 没得选都是别人或自己的借口说辞 只是不想选另一方不想付出相应会失去的代价而已 所以他们不是没得选 是已经选了",
+      "platform": "bilibili",
+      "author_hash": "71648d1c7adbb7575add75f5",
+      "language": "zh",
+      "score": 0.67542213,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9c60b01e4997c2bc5006",
+      "anonymous_id": "TARGET_D03",
+      "text": "找不到人帮忙之后高启强实在走投无路才选择牺牲掉[TARGET]的，有他女儿在，[TARGET]就是个最忠心的杀手，不可能随便弃掉的。强行去杀李宏伟是下下之策了。",
+      "platform": "bilibili",
+      "author_hash": "72dd9e2a779e9d4715b55fd3",
+      "language": "zh",
+      "score": 0.5922893,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2d6a5cfb1a2eebd802c0",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @双生青睐 :心急？首先李宏伟能直接证明，高启盛和[TARGET]杀了人，且把他打成重伤，高启强是为了救他弟弟，他自己做事从来不留证据，主要是高启盛打李宏伟的时候，还揭下面具自爆身份，事又没做干净，高启强求了一圈，没人肯帮他，只能牺牲[TARGET]换他弟弟",
+      "platform": "bilibili",
+      "author_hash": "af9b01a1e248c2d738ab2f3d",
+      "language": "zh",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a07af13478c7d97fce65",
+      "anonymous_id": "TARGET_D03",
+      "text": "出来之后社会不接纳没法赚钱，最重要的女儿屋内屋外无法相见，一纸狱内奖状成为笑话，这时一个人来给了你想要的东西，让你得以立足，虽然隐约已猜到是这个人在利用自己干掉徐大彪子，但利益害关系一致加上热血上脑，管不得那许多了，从而舍去刚刚失而复得的清白之身，再次转身走向黑暗一去不回头，这就是[TARGET]，一个无情的冷血猎者，一个慈爱悲情的父亲。",
+      "platform": "bilibili",
+      "author_hash": "f21e24248fb78a596e952c48",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a2b56ce752c862eb0121",
+      "anonymous_id": "TARGET_D03",
+      "text": "剧情杀的，高启盛和老墨全都是强行下线 首先高启盛这个人出场时完全就是智商天花板，结果硬生生的整成智商地板了，拿冻鱼打人，打完以后死活都不验一下，还摘面具自爆 然后是[TARGET]，这种一句话就肯帮高启强杀人，而且最重要的是好几次了办完事都是一点证据也没留下让警方无处可找，这种级别在帮会里应该是双花红棍一样的存在了，一般的黑帮运作里这种双花红棍地位是最高的，因为有事他真能上，结果高启强直接让他白送了。别的不说你这次让[TARGET]送了下次再有事你找谁？找个新人敢不敢下手另说，就算敢留下一堆证据你咋办？所以这类送死的任务你让龙虎兄弟去都不能让[TARGET]去",
+      "platform": "bilibili",
+      "author_hash": "a6ccf7024eccbba3648590a3",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_578cda07e25575eb31e1",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]MVP，过山峰金牌杀手",
+      "platform": "bilibili",
+      "author_hash": "cd642fbbda472a5f2400f23e",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b0573a45ebc650779951",
+      "anonymous_id": "TARGET_D03",
+      "text": "到头来安欣的善良却换来了两个社会的魔头，在牢里对安欣感谢的时候我是真心替他高兴希望他能好好做人，但当[TARGET]推下李青父亲的那一刻起我明白了有些人终究是改不了了，杀人不眨眼，他的罪孽深重，不值得同情了，最后他的死甚至觉得太便宜了他",
+      "platform": "bilibili",
+      "author_hash": "49564576511d1d82927c4901",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5f8c1024725e21e85c61",
+      "anonymous_id": "TARGET_D03",
+      "text": "路是自己选的 无论是[TARGET]还是高启强 没得选都是别人或自己的借口说辞 只是不想选另一方不想付出相应会失去的代价而已 所以他们不是没得选 是已经选了",
+      "platform": "bilibili",
+      "author_hash": "71648d1c7adbb7575add75f5",
+      "language": "zh",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_95d6371539a723f45dc7",
+      "anonymous_id": "TARGET_D03",
+      "text": "是有情有义，但是是有局限性的狭隘的小情小义，没有大义，就像安欣他无论对坏人还是像孟德海张彪杨健这些犯了错的也是有情有义，但他更懂大义。",
+      "platform": "bilibili",
+      "author_hash": "0e542dff03f7dc7d59dc6776",
+      "language": "zh",
+      "score": 0.6312306,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5a0a80b8cfa48e9802c1",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :其实[TARGET]放古代只能算跟错主子的义士或者刺客？专业素质过硬，有自己的规则，对主人忠诚耿耿，但是放到现代，就是个杀人犯罢了",
+      "platform": "bilibili",
+      "author_hash": "132ce23d0c138f302c845101",
+      "language": "zh",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_368c5424b5b30b77d43e",
+      "anonymous_id": "TARGET_D03",
+      "text": "善良就算了吧，顶多就是重情义。",
+      "platform": "bilibili",
+      "author_hash": "d92fc7eb70b6d97f415b9fce",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_03b5ae755b0282db7b1c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @天天都想炫火锅 :人家的准则：对他好的人才算好人；不好的，就是坏人，杀了毫无负罪感；没有交集的无所谓，杀与不杀，看具体情况。这样来看，人家觉得没有说错，所以要看他是站在什么立场说话。",
+      "platform": "bilibili",
+      "author_hash": "7fa1fad5ede483a6806eb6cd",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f1d83fbc719797bda26a",
+      "anonymous_id": "TARGET_D03",
+      "text": "强子：给你两个选择，你不去我们等着都做牢 你去了我们配合你",
+      "platform": "bilibili",
+      "author_hash": "9c51c12f451faf623d078bc8",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b052bc007fa6d8bf8413",
+      "anonymous_id": "TARGET_D03",
+      "text": "老墨选择推李顺下去的时候就不会同情他了",
+      "platform": "bilibili",
+      "author_hash": "e2dc0a1b733572cee08b583b",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_092963f6b9aabbb187c6",
+      "anonymous_id": "TARGET_D03",
+      "text": "不行啊，[TARGET]答应过安欣好好做人的，现在一个人都不让他做掉，该怎么给安欣交代啊",
+      "platform": "bilibili",
+      "author_hash": "f89c68466f79e49c97abdd21",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_5f8c1024725e21e85c61",
+      "anonymous_id": "TARGET_D03",
+      "text": "路是自己选的 无论是[TARGET]还是高启强 没得选都是别人或自己的借口说辞 只是不想选另一方不想付出相应会失去的代价而已 所以他们不是没得选 是已经选了",
+      "platform": "bilibili",
+      "author_hash": "71648d1c7adbb7575add75f5",
+      "language": "zh",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_66a4e1762d6c54f7f919",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @特浓苏 : 高启强不算伪善，他最开始弄倒了徐江，家里安全了，他就要自首，是高启盛把妹妹喊回来，打感情牌，让他哥继续干，他对手下人也都很用心，最简单一点，他极为小心，但绝不让他信任的人给他开车，比如小虎，[TARGET]，小龙，他觉得这是让他们低了一阶。 再就是[TARGET]给他卖命，他也一样去帮[TARGET]，泰叔他们会为了利益，把高启强卖了，但高启强不会为了利益，卖掉小龙，小虎，[TARGET]。",
+      "platform": "bilibili",
+      "author_hash": "71e102cffe6f3225ae4e0fa2",
+      "language": "zh",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_caceac163e1f0d6c87c2",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @_自由平等公正法治_ :只能说还有点人性，没有彻底人性泯灭罢了，杀人犯杀无辜的人我感觉如果还有人同情，被害者何辜？要我说，你要真是情感母爱泛滥，还不如拿出你的情感更多的给那些无辜的人，就这样",
+      "platform": "bilibili",
+      "author_hash": "d09bce41b5b1311a86997a88",
+      "language": "zh",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9745201b4712d96e510d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @真潮还得港仔文艺 :别人帮你，你就帮别人杀人，这不叫是非不分，一个没有自己主见的人是分不清什么是是非的，你分不清很正常",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f4a095cb14d13bae1b81",
+      "anonymous_id": "TARGET_D03",
+      "text": "变恶是自己的选择，跟别人无关，更对自己好的人更无关",
+      "platform": "bilibili",
+      "author_hash": "75078bd991035030cdeb12f7",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a07af13478c7d97fce65",
+      "anonymous_id": "TARGET_D03",
+      "text": "出来之后社会不接纳没法赚钱，最重要的女儿屋内屋外无法相见，一纸狱内奖状成为笑话，这时一个人来给了你想要的东西，让你得以立足，虽然隐约已猜到是这个人在利用自己干掉徐大彪子，但利益害关系一致加上热血上脑，管不得那许多了，从而舍去刚刚失而复得的清白之身，再次转身走向黑暗一去不回头，这就是[TARGET]，一个无情的冷血猎者，一个慈爱悲情的父亲。",
+      "platform": "bilibili",
+      "author_hash": "f21e24248fb78a596e952c48",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2e51572f02ca58a3b9f4",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :高启强就一伪善者，他弟弟本来可以不用死，自己投案自首就行，[TARGET]也是，工具人，后来更是彻底黑化",
+      "platform": "bilibili",
+      "author_hash": "e311c84f064d1d58ed27107f",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_7e1f3774305a81ce583f",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :和好人坏人有关系，但关系不大。杀人这件事本身，就很艰难。一时冲动可以杀一个，不可能连环的，一个又一个。他必须心里就漠视人类，否定生命。",
+      "platform": "bilibili",
+      "author_hash": "731be8801bbe3abe2b481f0d",
+      "language": "zh",
+      "score": 0.6054258,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_95d6371539a723f45dc7",
+      "anonymous_id": "TARGET_D03",
+      "text": "是有情有义，但是是有局限性的狭隘的小情小义，没有大义，就像安欣他无论对坏人还是像孟德海张彪杨健这些犯了错的也是有情有义，但他更懂大义。",
+      "platform": "bilibili",
+      "author_hash": "0e542dff03f7dc7d59dc6776",
+      "language": "zh",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8b4460954adf3b76385e",
+      "anonymous_id": "TARGET_D03",
+      "text": "怎么死根本不重要，本身就是赴死的局，背后中枪才是最值得玩味的地方，高启强的这个坎就是不能明说的迫不得已才放弃[TARGET]，而[TARGET]对此也只是说了一句感谢你这么多年的照顾，这条路是双方互选的，结局早就定好了。一个角色让你又爱又恨，无法武断的做出对与错正与邪的判断才是真实的人物。",
+      "platform": "bilibili",
+      "author_hash": "bf90c34271f7ff75135c10c4",
+      "language": "zh",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_caceac163e1f0d6c87c2",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @_自由平等公正法治_ :只能说还有点人性，没有彻底人性泯灭罢了，杀人犯杀无辜的人我感觉如果还有人同情，被害者何辜？要我说，你要真是情感母爱泛滥，还不如拿出你的情感更多的给那些无辜的人，就这样",
+      "platform": "bilibili",
+      "author_hash": "d09bce41b5b1311a86997a88",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_da15bd5288cd66a20e86",
+      "anonymous_id": "TARGET_D03",
+      "text": "除了老板谁都不敢杀的屑[TARGET]",
+      "platform": "bilibili",
+      "author_hash": "2a3076de540023526e549903",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e78a88db25cc2527fbc0",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]，过山峰，卖鱼强[呲牙]卖鱼的不好惹",
+      "platform": "bilibili",
+      "author_hash": "e2828d9af701529dec25b5ad",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9745201b4712d96e510d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @真潮还得港仔文艺 :别人帮你，你就帮别人杀人，这不叫是非不分，一个没有自己主见的人是分不清什么是是非的，你分不清很正常",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_293b8edae168218a4dcc",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @备考CPA的人儿 : 最信任差不多 但在他看来 [TARGET]就是旗子 不是个人 知道吗",
+      "platform": "bilibili",
+      "author_hash": "5857d1a79c4764456496a9e0",
+      "language": "zh",
+      "score": 0.7151058,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f98736e66bde45cc1b9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]就是一个工具人，这个人虽然重情重义，但是是非不分，被坏人利用了危害就很大",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_66a4e1762d6c54f7f919",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @特浓苏 : 高启强不算伪善，他最开始弄倒了徐江，家里安全了，他就要自首，是高启盛把妹妹喊回来，打感情牌，让他哥继续干，他对手下人也都很用心，最简单一点，他极为小心，但绝不让他信任的人给他开车，比如小虎，[TARGET]，小龙，他觉得这是让他们低了一阶。 再就是[TARGET]给他卖命，他也一样去帮[TARGET]，泰叔他们会为了利益，把高启强卖了，但高启强不会为了利益，卖掉小龙，小虎，[TARGET]。",
+      "platform": "bilibili",
+      "author_hash": "71e102cffe6f3225ae4e0fa2",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8366402a964069fee1a2",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :我那次觉得李顺老头对[TARGET]这么好，还教他手艺教他人生道理，[TARGET]会回心转意，结果[疑惑][疑惑]莽村这么多“青年才俊”不下手，竟然逮住一个老人这么干",
+      "platform": "bilibili",
+      "author_hash": "a01c8a2d1bcb414745f4c599",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_161396070dc045e9035d",
+      "anonymous_id": "TARGET_D03",
+      "text": "有一个重点就是[TARGET]的前提是绝对不伤害安欣，因为安欣是他的恩人",
+      "platform": "bilibili",
+      "author_hash": "ceced4a3c7f26683e427a673",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7e5743be026b394228ac",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]是他最信的过的人，同时有老墨女儿当人质，高启强为了救弟弟和自保只能找老墨这个稳定发挥的人去，同时[TARGET]去了也没希望活，可以说是一石二鸟，高启强弟弟留下把柄和指导组下来都是加速[TARGET]死亡",
+      "platform": "bilibili",
+      "author_hash": "0c56a648228bff8a19ed9af2",
+      "language": "zh",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_82f65585da36defba05c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @宏麦 :回复 @宏麦 :对，是说他自己没少做见不得光的。 他也不是职业杀手，他说他不杀好人，你想证明他是自我安慰，就要证明在他视角里，哪个他杀的人事坏人。 是非观扭曲不耽误他能认为安昕是好人，反倒是互联网事一堆认为高启强是好人，安昕是伪善的。",
+      "platform": "bilibili",
+      "author_hash": "64a8b859d705d629969f840f",
+      "language": "zh",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8a634bdbaa9f29aaa40c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]自己绝对算不上善良，不管是前面还是后面",
+      "platform": "bilibili",
+      "author_hash": "2829549aae77bf86067de4fb",
+      "language": "zh",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_81053af0aaf22cf4e3e8",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @桃溪7 :笑死我了，那么多人给你讲都讲不通，就认死理是吧。编剧肯定有让他下线的一些安排，你可以说剧情推动太生硬了。但是他做的这一切是符合他人物设定和行为逻辑的，聪明不代表是神人圣人，很难理解吗？高高在上地指点江山也是挺搞笑的。",
+      "platform": "bilibili",
+      "author_hash": "6c59cfbb572191b35fc03f40",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_03b5ae755b0282db7b1c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @天天都想炫火锅 :人家的准则：对他好的人才算好人；不好的，就是坏人，杀了毫无负罪感；没有交集的无所谓，杀与不杀，看具体情况。这样来看，人家觉得没有说错，所以要看他是站在什么立场说话。",
+      "platform": "bilibili",
+      "author_hash": "7fa1fad5ede483a6806eb6cd",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_82f65585da36defba05c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @宏麦 :回复 @宏麦 :对，是说他自己没少做见不得光的。 他也不是职业杀手，他说他不杀好人，你想证明他是自我安慰，就要证明在他视角里，哪个他杀的人事坏人。 是非观扭曲不耽误他能认为安昕是好人，反倒是互联网事一堆认为高启强是好人，安昕是伪善的。",
+      "platform": "bilibili",
+      "author_hash": "64a8b859d705d629969f840f",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ea4401678aca793b2ff6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @桃溪7 :那个不叫强盛呢叫建工，而且里面他哥是主导，他就是个在哥哥庇护下卖小灵通的，他可以看出来自己也是有很大野心的。而且他囤货之前也有交代原因，他在京海开了几家分店现在准备全国开分店，要是这样发展不比建工弱多少。就是后期目光短浅没注意到市场才导致的，性格也为他后事埋下了很多隐患，狂妄的性格导致杀人留证据害[TARGET]，自大有野心不甘居于人下才导致囤货失败后至卖度，这都是个人性格留下的隐患导致觉得他他降智乃至死亡的原因。这怎么会没关系呢？还有像上面回复你的几个评论我都看了观点都是有理有据的你就嘴硬还看多点好剧，你自己连小学学的最基础的阅读理解都没有看再多好剧也没用。而且更多是生活积累，你没见过没接触过这类人不代表没有嗷。",
+      "platform": "bilibili",
+      "author_hash": "84ccb893e580e2f5daf9e131",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_293b8edae168218a4dcc",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @备考CPA的人儿 : 最信任差不多 但在他看来 [TARGET]就是旗子 不是个人 知道吗",
+      "platform": "bilibili",
+      "author_hash": "5857d1a79c4764456496a9e0",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e9f2baf41d069137e74e",
+      "anonymous_id": "TARGET_D03",
+      "text": "但是你知道他杀了整部剧最朴实的俩个人嘛？ 点评就点评不要带三观",
+      "platform": "bilibili",
+      "author_hash": "19081f7207df31398d2c7b49",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9745201b4712d96e510d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @真潮还得港仔文艺 :别人帮你，你就帮别人杀人，这不叫是非不分，一个没有自己主见的人是分不清什么是是非的，你分不清很正常",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e138aed8aaf082759666",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @史甄乡 :我是对他后期智商不理解",
+      "platform": "bilibili",
+      "author_hash": "6d6877df893d80555815c497",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_1f99980edcc1139d825e",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :我觉得[TARGET]眼中的好人指的是帮助过自己或者女儿的人，其他人要么是与他无关的普通人 要么也是恶人，但这二者对他来说都不算好人。",
+      "platform": "bilibili",
+      "author_hash": "6b5236a8931556925c73af55",
+      "language": "zh",
+      "score": 0.74879336,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f4a095cb14d13bae1b81",
+      "anonymous_id": "TARGET_D03",
+      "text": "变恶是自己的选择，跟别人无关，更对自己好的人更无关",
+      "platform": "bilibili",
+      "author_hash": "75078bd991035030cdeb12f7",
+      "language": "zh",
+      "score": 0.6856128,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.67198735,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_03b5ae755b0282db7b1c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @天天都想炫火锅 :人家的准则：对他好的人才算好人；不好的，就是坏人，杀了毫无负罪感；没有交集的无所谓，杀与不杀，看具体情况。这样来看，人家觉得没有说错，所以要看他是站在什么立场说话。",
+      "platform": "bilibili",
+      "author_hash": "7fa1fad5ede483a6806eb6cd",
+      "language": "zh",
+      "score": 0.66332006,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7e1f3774305a81ce583f",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :和好人坏人有关系，但关系不大。杀人这件事本身，就很艰难。一时冲动可以杀一个，不可能连环的，一个又一个。他必须心里就漠视人类，否定生命。",
+      "platform": "bilibili",
+      "author_hash": "731be8801bbe3abe2b481f0d",
+      "language": "zh",
+      "score": 0.6509999,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_fd8f7ce968464f8d9ecf",
+      "anonymous_id": "TARGET_D03",
+      "text": "一个对未来没有任何期望 满脑子只有怨恨 的反社会人格 他是贫苦人家 出去后不会有人接受他 工作都难找 更不要说结婚生子 有了自己的孩子之后 首先他对未来有期望了吧 自己也是有孩子的人了 为了孩子也要努力生活 他本身就是一个很想要孩子的人 否则不会这么恨黄翠翠打胎 其次他对黄翠翠的心结解开了 他耿耿于怀的打胎竟然是假的 黄翠翠把他们的孩子生了下来 他不再恨黄翠翠了吧",
+      "platform": "bilibili",
+      "author_hash": "3d1439a57e4f95577b574c74",
+      "language": "zh",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_039bfa106a5a6397977e",
+      "anonymous_id": "TARGET_D03",
+      "text": "我是这么认为的啊，一个没出生的孩子在[TARGET]看来代表的也许是是一个可以重新开始的自己",
+      "platform": "bilibili",
+      "author_hash": "82ad05253c3c48b2e20ac1a8",
+      "language": "zh",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_fa4529284396f11d4e61",
+      "anonymous_id": "TARGET_D03",
+      "text": "什么叫我说的是理想主义？真是魔幻现实主义，居然真有那么多人在同情一个不遵纪守法的人…不想多说什么了，希望这些人现实遇到老墨这样所谓为了报恩，“身不由己”要害自己时，也能有这样的心态吧……",
+      "platform": "bilibili",
+      "author_hash": "a6dde5e62b1df0ddc526c9f1",
+      "language": "zh",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_ca876a5ae67e6fabba9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，刚出笼子很迷茫 压力大了吃块糖，为了女儿爱帮忙。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，过山峰其实不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_df7dbe1e68a5cdef7cf6",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]过山峰的压迫感比隔壁花斑虎还强[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "189b25ed1c53ed56e9959b12",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5fe4517d313b522097e3",
+      "anonymous_id": "TARGET_D03",
+      "text": "[USER] [TARGET]杀疯了",
+      "platform": "bilibili",
+      "author_hash": "58ce01fa988bb43bc0bd1dd1",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_67471ab7016a1dd09c65",
+      "anonymous_id": "TARGET_D03",
+      "text": "个人感觉[TARGET]比过山峰厉害多了",
+      "platform": "bilibili",
+      "author_hash": "ef2d6a93e68109beb7c2a29c",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9871b72b8457c70cc184",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，[TARGET]刀人很在行。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，我看过山峰不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a5593a8243c2fd76c50c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]经历太可怜了，他的人生走向是被高启强和唐小虎的双簧给整歪了，原本受安欣影响是可以好好做人的",
+      "platform": "bilibili",
+      "author_hash": "5a3dc62d1d35a0c5c438c781",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_238041345f8ca75c21fe",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]:搁这考验我是吧[热词系列_你细品]",
+      "platform": "bilibili",
+      "author_hash": "76fce0a6fe18172de95f1eed",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_caceac163e1f0d6c87c2",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @_自由平等公正法治_ :只能说还有点人性，没有彻底人性泯灭罢了，杀人犯杀无辜的人我感觉如果还有人同情，被害者何辜？要我说，你要真是情感母爱泛滥，还不如拿出你的情感更多的给那些无辜的人，就这样",
+      "platform": "bilibili",
+      "author_hash": "d09bce41b5b1311a86997a88",
+      "language": "zh",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2f9454f1bae40eaf2f9f",
+      "anonymous_id": "TARGET_D03",
+      "text": "抖音上不少都是心疼高启强，心疼老墨，心疼高启盛，甚至骂安欣[藏狐]",
+      "platform": "bilibili",
+      "author_hash": "0c8f1ce172729b1b81b9bb54",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b0573a45ebc650779951",
+      "anonymous_id": "TARGET_D03",
+      "text": "到头来安欣的善良却换来了两个社会的魔头，在牢里对安欣感谢的时候我是真心替他高兴希望他能好好做人，但当[TARGET]推下李青父亲的那一刻起我明白了有些人终究是改不了了，杀人不眨眼，他的罪孽深重，不值得同情了，最后他的死甚至觉得太便宜了他",
+      "platform": "bilibili",
+      "author_hash": "49564576511d1d82927c4901",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_8edea0c453753a1d0d33",
+      "anonymous_id": "TARGET_D03",
+      "text": "怎么可能，[TARGET]一直对他忠心耿耿，至少从没表现过二心，至于说秘密什么的，这种脏活怎么可能没有秘密，有秘密缺的就是一个能受得住秘密的人，[TARGET]又刚好就是一个守得住秘密的人，办事效率又高，留着[TARGET]比做掉[TARGET]用处大多了，不然为什么本来一开始知道李宏伟没死的时候[TARGET]说要去做掉李宏伟的时候高启强还不让去？就是听到安心放的假消息说李宏伟醒了高启强怕事情败露急了才会让[TARGET]去送死的，不然你想想[TARGET]本来除了女儿就没什么牵挂，高启强就算不拿女儿威胁[TARGET]也不会拒绝他的，他就是急了太想保弟弟了想保险才威胁[TARGET]，你看看[TARGET]知道高启强拿女儿威胁他的时候的反应，完全就是一个对高启强失望和坦然赴死的表现，",
+      "platform": "bilibili",
+      "author_hash": "89dcda21db59f34311b42cac",
+      "language": "zh",
+      "score": 0.67883813,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_144e80fd210cdd3b7812",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]真的是很冷血的人，他对生命没有感觉和敬畏",
+      "platform": "bilibili",
+      "author_hash": "9a80598dc62fd7b466cce99c",
+      "language": "zh",
+      "score": 0.603558,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_92b5350da429965f8353",
+      "anonymous_id": "TARGET_D03",
+      "text": "事实就是，[TARGET]去送死完全是因为安欣隐藏了李宏伟死讯。",
+      "platform": "bilibili",
+      "author_hash": "39d58bda1ac4dadb1ee9bdea",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f842fb503ab6055777a4",
+      "anonymous_id": "TARGET_D03",
+      "text": "整本[TARGET]，前表[TARGET]，后表小过[阴险]",
+      "platform": "bilibili",
+      "author_hash": "c23808f8a3ead2f378ffb8ad",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a07af13478c7d97fce65",
+      "anonymous_id": "TARGET_D03",
+      "text": "出来之后社会不接纳没法赚钱，最重要的女儿屋内屋外无法相见，一纸狱内奖状成为笑话，这时一个人来给了你想要的东西，让你得以立足，虽然隐约已猜到是这个人在利用自己干掉徐大彪子，但利益害关系一致加上热血上脑，管不得那许多了，从而舍去刚刚失而复得的清白之身，再次转身走向黑暗一去不回头，这就是[TARGET]，一个无情的冷血猎者，一个慈爱悲情的父亲。",
+      "platform": "bilibili",
+      "author_hash": "f21e24248fb78a596e952c48",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_54067cc4c99da57f9cbe",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @官方IU老公 :他说不杀女人，但还说了一句话，意思是让程程自己来，显得体面点",
+      "platform": "bilibili",
+      "author_hash": "bc0b72df6f2d395e8bd31b2a",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_14d7367eef360a7b199e",
+      "anonymous_id": "TARGET_D03",
+      "text": "对啊，我也是按照这个逻辑反推的。觉得应该是老莫身上装的炸弹是样子，是一种自杀的武器。得到李宏伟真的死了消息后，也明白自己肯定走不出去，为了女儿选择自杀。 “自己打死的”是反弹嘣到了，巧合的意思吗？如果这个意思，我不是很能接受[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "e88e51fc7556618550da91aa",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_3050ea958ef63012e949",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :还好啦，正常成年人看电视剧感情泛滥很正常，正常人现实中不可能对这种杀手同情的",
+      "platform": "bilibili",
+      "author_hash": "d682e325c62dcf79d86b779e",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_ca876a5ae67e6fabba9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，刚出笼子很迷茫 压力大了吃块糖，为了女儿爱帮忙。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，过山峰其实不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.77294225,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9871b72b8457c70cc184",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，[TARGET]刀人很在行。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，我看过山峰不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.7458429,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_df7dbe1e68a5cdef7cf6",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]过山峰的压迫感比隔壁花斑虎还强[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "189b25ed1c53ed56e9959b12",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_01ed793574c78649d4ee",
+      "anonymous_id": "TARGET_D03",
+      "text": "懂了，破了之后失血过多[喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "7fec82ef7255dcd887dd0cc5",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_855bc97987a3f9921c61",
+      "anonymous_id": "TARGET_D03",
+      "text": "各种专业手法属实给我看呆了，这特么一个人怎么做得到的",
+      "platform": "bilibili",
+      "author_hash": "dbe59460f8071026a0391988",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_67471ab7016a1dd09c65",
+      "anonymous_id": "TARGET_D03",
+      "text": "个人感觉[TARGET]比过山峰厉害多了",
+      "platform": "bilibili",
+      "author_hash": "ef2d6a93e68109beb7c2a29c",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a5593a8243c2fd76c50c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]经历太可怜了，他的人生走向是被高启强和唐小虎的双簧给整歪了，原本受安欣影响是可以好好做人的",
+      "platform": "bilibili",
+      "author_hash": "5a3dc62d1d35a0c5c438c781",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_82cedf2402e5685b81eb",
+      "anonymous_id": "TARGET_D03",
+      "text": "已经被打中好一会了，撑着说完话而已，怎么可能是中了就马上没",
+      "platform": "bilibili",
+      "author_hash": "a7d70c527116d8850ffd6704",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_961283b0b5d9485135b3",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @保持压低的帽檐 :关键是剧中不止一次老墨说不忍心对安欣下手，高不用女儿逼他也不放心",
+      "platform": "bilibili",
+      "author_hash": "71dca1538286ced23e70b3e3",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_3050ea958ef63012e949",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :还好啦，正常成年人看电视剧感情泛滥很正常，正常人现实中不可能对这种杀手同情的",
+      "platform": "bilibili",
+      "author_hash": "d682e325c62dcf79d86b779e",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.30869016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_95d6371539a723f45dc7",
+      "anonymous_id": "TARGET_D03",
+      "text": "是有情有义，但是是有局限性的狭隘的小情小义，没有大义，就像安欣他无论对坏人还是像孟德海张彪杨健这些犯了错的也是有情有义，但他更懂大义。",
+      "platform": "bilibili",
+      "author_hash": "0e542dff03f7dc7d59dc6776",
+      "language": "zh",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f98736e66bde45cc1b9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]就是一个工具人，这个人虽然重情重义，但是是非不分，被坏人利用了危害就很大",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_eec81a688823552c4625",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]属于是有弱点 女儿在人手上随时会被别人威胁 过山峰属于情感上把蒋天当兄弟 也确实不知道为什么肯为他一直干脏活累活",
+      "platform": "bilibili",
+      "author_hash": "5f78c5c0e70952af3d696f69",
+      "language": "zh",
+      "score": 0.29227197,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_1f99980edcc1139d825e",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :我觉得[TARGET]眼中的好人指的是帮助过自己或者女儿的人，其他人要么是与他无关的普通人 要么也是恶人，但这二者对他来说都不算好人。",
+      "platform": "bilibili",
+      "author_hash": "6b5236a8931556925c73af55",
+      "language": "zh",
+      "score": 0.2890505,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_03b5ae755b0282db7b1c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @天天都想炫火锅 :人家的准则：对他好的人才算好人；不好的，就是坏人，杀了毫无负罪感；没有交集的无所谓，杀与不杀，看具体情况。这样来看，人家觉得没有说错，所以要看他是站在什么立场说话。",
+      "platform": "bilibili",
+      "author_hash": "7fa1fad5ede483a6806eb6cd",
+      "language": "zh",
+      "score": 0.28267118,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_238041345f8ca75c21fe",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]:搁这考验我是吧[热词系列_你细品]",
+      "platform": "bilibili",
+      "author_hash": "76fce0a6fe18172de95f1eed",
+      "language": "zh",
+      "score": 0.27326396,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7a9d68e5027bfb8a99ce",
+      "anonymous_id": "TARGET_D03",
+      "text": "只是这人身上有魅力，杀人不眨眼，从不废话，做事靠谱，这样的小弟谁不喜欢",
+      "platform": "bilibili",
+      "author_hash": "7ecb84c25a42a0cdd90dc4f9",
+      "language": "zh",
+      "score": 0.26710218,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8a634bdbaa9f29aaa40c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]自己绝对算不上善良，不管是前面还是后面",
+      "platform": "bilibili",
+      "author_hash": "2829549aae77bf86067de4fb",
+      "language": "zh",
+      "score": 0.24624321,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.24624321,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ac613cf4f7b7452163c7",
+      "anonymous_id": "TARGET_D03",
+      "text": "嗯 我的问题 同志们，不是向善，我的表达有问题[崩坏3·终焉归始_给你水晶]",
+      "platform": "bilibili",
+      "author_hash": "24df1586676e22693d5e7f7b",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_961283b0b5d9485135b3",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @保持压低的帽檐 :关键是剧中不止一次老墨说不忍心对安欣下手，高不用女儿逼他也不放心",
+      "platform": "bilibili",
+      "author_hash": "71dca1538286ced23e70b3e3",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_255604366735e645a8b3",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @小獠冴 :他就是单纯的不想伤害安欣罢了",
+      "platform": "bilibili",
+      "author_hash": "75078bd991035030cdeb12f7",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_144e80fd210cdd3b7812",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]真的是很冷血的人，他对生命没有感觉和敬畏",
+      "platform": "bilibili",
+      "author_hash": "9a80598dc62fd7b466cce99c",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2b07a567305f070c6802",
+      "anonymous_id": "TARGET_D03",
+      "text": "兰艾同焚，好坏不分[嫌弃]",
+      "platform": "bilibili",
+      "author_hash": "c0ec90ce32ca267094ce86fa",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_1ba5e72caa9c1a1347bb",
+      "anonymous_id": "TARGET_D03",
+      "text": "找一个人看着瑶瑶，用瑶瑶威胁[TARGET]，但我觉得其实不用，没这一出的话[TARGET]或许可以完成任务的同时脱身",
+      "platform": "bilibili",
+      "author_hash": "945fe55631747300503158e8",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_092963f6b9aabbb187c6",
+      "anonymous_id": "TARGET_D03",
+      "text": "不行啊，[TARGET]答应过安欣好好做人的，现在一个人都不让他做掉，该怎么给安欣交代啊",
+      "platform": "bilibili",
+      "author_hash": "f89c68466f79e49c97abdd21",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_c597105d5a98c49a1d72",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @爱糖果儿的猫咪 :她知道她爸被高启强害死了啊，要是被养熟了会不会被你这种人说是认贼作父？为父报仇就是白眼狼，你这种人真难伺候",
+      "platform": "bilibili",
+      "author_hash": "4b5643744e349ab3691522c7",
+      "language": "zh",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_f1d83fbc719797bda26a",
+      "anonymous_id": "TARGET_D03",
+      "text": "强子：给你两个选择，你不去我们等着都做牢 你去了我们配合你",
+      "platform": "bilibili",
+      "author_hash": "9c51c12f451faf623d078bc8",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_eec81a688823552c4625",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]属于是有弱点 女儿在人手上随时会被别人威胁 过山峰属于情感上把蒋天当兄弟 也确实不知道为什么肯为他一直干脏活累活",
+      "platform": "bilibili",
+      "author_hash": "5f78c5c0e70952af3d696f69",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f98736e66bde45cc1b9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]就是一个工具人，这个人虽然重情重义，但是是非不分，被坏人利用了危害就很大",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ea4401678aca793b2ff6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @桃溪7 :那个不叫强盛呢叫建工，而且里面他哥是主导，他就是个在哥哥庇护下卖小灵通的，他可以看出来自己也是有很大野心的。而且他囤货之前也有交代原因，他在京海开了几家分店现在准备全国开分店，要是这样发展不比建工弱多少。就是后期目光短浅没注意到市场才导致的，性格也为他后事埋下了很多隐患，狂妄的性格导致杀人留证据害[TARGET]，自大有野心不甘居于人下才导致囤货失败后至卖度，这都是个人性格留下的隐患导致觉得他他降智乃至死亡的原因。这怎么会没关系呢？还有像上面回复你的几个评论我都看了观点都是有理有据的你就嘴硬还看多点好剧，你自己连小学学的最基础的阅读理解都没有看再多好剧也没用。而且更多是生活积累，你没见过没接触过这类人不代表没有嗷。",
+      "platform": "bilibili",
+      "author_hash": "84ccb893e580e2f5daf9e131",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9745201b4712d96e510d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @真潮还得港仔文艺 :别人帮你，你就帮别人杀人，这不叫是非不分，一个没有自己主见的人是分不清什么是是非的，你分不清很正常",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e80fd96391406c4c4fc6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @哼厉害吧 :他们只是有感于安欣的恩德，这是个人向的。从整体角度看，他们时时刻刻都站在安欣的对立面，处处都在和安欣所在的警察队伍过不去",
+      "platform": "bilibili",
+      "author_hash": "cf6fcd05d3aaa3152bc3b094",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_fd8f7ce968464f8d9ecf",
+      "anonymous_id": "TARGET_D03",
+      "text": "一个对未来没有任何期望 满脑子只有怨恨 的反社会人格 他是贫苦人家 出去后不会有人接受他 工作都难找 更不要说结婚生子 有了自己的孩子之后 首先他对未来有期望了吧 自己也是有孩子的人了 为了孩子也要努力生活 他本身就是一个很想要孩子的人 否则不会这么恨黄翠翠打胎 其次他对黄翠翠的心结解开了 他耿耿于怀的打胎竟然是假的 黄翠翠把他们的孩子生了下来 他不再恨黄翠翠了吧",
+      "platform": "bilibili",
+      "author_hash": "3d1439a57e4f95577b574c74",
+      "language": "zh",
+      "score": 0.7214293,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a5593a8243c2fd76c50c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]经历太可怜了，他的人生走向是被高启强和唐小虎的双簧给整歪了，原本受安欣影响是可以好好做人的",
+      "platform": "bilibili",
+      "author_hash": "5a3dc62d1d35a0c5c438c781",
+      "language": "zh",
+      "score": 0.6989257,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ea4401678aca793b2ff6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @桃溪7 :那个不叫强盛呢叫建工，而且里面他哥是主导，他就是个在哥哥庇护下卖小灵通的，他可以看出来自己也是有很大野心的。而且他囤货之前也有交代原因，他在京海开了几家分店现在准备全国开分店，要是这样发展不比建工弱多少。就是后期目光短浅没注意到市场才导致的，性格也为他后事埋下了很多隐患，狂妄的性格导致杀人留证据害[TARGET]，自大有野心不甘居于人下才导致囤货失败后至卖度，这都是个人性格留下的隐患导致觉得他他降智乃至死亡的原因。这怎么会没关系呢？还有像上面回复你的几个评论我都看了观点都是有理有据的你就嘴硬还看多点好剧，你自己连小学学的最基础的阅读理解都没有看再多好剧也没用。而且更多是生活积累，你没见过没接触过这类人不代表没有嗷。",
+      "platform": "bilibili",
+      "author_hash": "84ccb893e580e2f5daf9e131",
+      "language": "zh",
+      "score": 0.67370707,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_d77078b437241f67dec1",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @不懂潮流的ZD :哪有什么见仁见智，正反派非常清晰啊。假如你觉得因为高启强是主角，就觉得他和他下面的人就有正派的感觉，那实际上可以换个视角。看看被逼迫的那一堆人，比如被高启强那班人逼上绝路的种子公司老板，他不也有点像曾经被欺负的高启强？也许下一个高启强就在这一堆被高启强手下欺负的人中诞生，而现在这个高启强也许成了徐江",
+      "platform": "bilibili",
+      "author_hash": "3d33365eeb2f78bbd8b7ccb0",
+      "language": "zh",
+      "score": 0.63847464,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a4ced4676664da1cc0dc",
+      "anonymous_id": "TARGET_D03",
+      "text": "过山峰比[TARGET]更厉害，[TARGET]多次刷人头后露馅，做人做事不是很干净利索，过山峰比他上很多，至少在被抓之前没人知道他干了什么，光一个陈📖婷的下线没被查明真相就能证明过山峰的惊人之处",
+      "platform": "bilibili",
+      "author_hash": "9a8ad4b307d7f33aab2cbd9d",
+      "language": "zh",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ab67a725ab85885b0269",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @丝毫没有存在感 : 应该说，出狱的每个人，安欣都给了他们改过自新的机会，但是或是被时代裹挟，或者因主观欲望，在这样的环境下，向阳的心里却滋生出罪恶的花，这是无可奈何。",
+      "platform": "bilibili",
+      "author_hash": "3ffa88756738f5a1253b75e1",
+      "language": "zh",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.6091522,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2e51572f02ca58a3b9f4",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :高启强就一伪善者，他弟弟本来可以不用死，自己投案自首就行，[TARGET]也是，工具人，后来更是彻底黑化",
+      "platform": "bilibili",
+      "author_hash": "e311c84f064d1d58ed27107f",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_31e6436654b5a7eef293",
+      "anonymous_id": "TARGET_D03",
+      "text": "26集之前最坑----高启盛 感觉要不是他那么倔 [TARGET]还死不了这么快",
+      "platform": "bilibili",
+      "author_hash": "46d2303eb3b70fcfaf1e8420",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_7a9d68e5027bfb8a99ce",
+      "anonymous_id": "TARGET_D03",
+      "text": "只是这人身上有魅力，杀人不眨眼，从不废话，做事靠谱，这样的小弟谁不喜欢",
+      "platform": "bilibili",
+      "author_hash": "7ecb84c25a42a0cdd90dc4f9",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_82f65585da36defba05c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @宏麦 :回复 @宏麦 :对，是说他自己没少做见不得光的。 他也不是职业杀手，他说他不杀好人，你想证明他是自我安慰，就要证明在他视角里，哪个他杀的人事坏人。 是非观扭曲不耽误他能认为安昕是好人，反倒是互联网事一堆认为高启强是好人，安昕是伪善的。",
+      "platform": "bilibili",
+      "author_hash": "64a8b859d705d629969f840f",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_599bc4e1d70016eeb1e0",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]人狠话不多 高启盛要是有他一半聪明 也不至于蒙着面去杀李宏伟 人没当场打死却自报身份",
+      "platform": "bilibili",
+      "author_hash": "868791b499bb309d1500df69",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ea4401678aca793b2ff6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @桃溪7 :那个不叫强盛呢叫建工，而且里面他哥是主导，他就是个在哥哥庇护下卖小灵通的，他可以看出来自己也是有很大野心的。而且他囤货之前也有交代原因，他在京海开了几家分店现在准备全国开分店，要是这样发展不比建工弱多少。就是后期目光短浅没注意到市场才导致的，性格也为他后事埋下了很多隐患，狂妄的性格导致杀人留证据害[TARGET]，自大有野心不甘居于人下才导致囤货失败后至卖度，这都是个人性格留下的隐患导致觉得他他降智乃至死亡的原因。这怎么会没关系呢？还有像上面回复你的几个评论我都看了观点都是有理有据的你就嘴硬还看多点好剧，你自己连小学学的最基础的阅读理解都没有看再多好剧也没用。而且更多是生活积累，你没见过没接触过这类人不代表没有嗷。",
+      "platform": "bilibili",
+      "author_hash": "84ccb893e580e2f5daf9e131",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_59f20da3715e8040ca13",
+      "anonymous_id": "TARGET_D03",
+      "text": "我想成为[TARGET]那样的人，来个高启强吧",
+      "platform": "bilibili",
+      "author_hash": "ec864f0c7bfa38193574b3d4",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_0e074f6c98a7000aa0d7",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :也可能是高启强怕[TARGET]被警察抓到了，为了让他守口如瓶而威胁",
+      "platform": "bilibili",
+      "author_hash": "7e26c35f773ad25b98bbc461",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_42287e075c4544d0a9f5",
+      "anonymous_id": "TARGET_D03",
+      "text": "安欣：答应我，好好做人 [TARGET]：十集我做了八个人，怎么样（骄傲脸）",
+      "platform": "bilibili",
+      "author_hash": "7f797aa84588c950849a5224",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_c0c88fd7fa4b1e0bb54c",
+      "anonymous_id": "TARGET_D03",
+      "text": "为什么很多人喜欢[TARGET]，喜欢高启强，是因为那是假的呀，是电视剧里的角色，虚拟的",
+      "platform": "bilibili",
+      "author_hash": "64b8f07d696bfcc8752bd37b",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a54bfe715365835ee149",
+      "anonymous_id": "TARGET_D03",
+      "text": "你口中的业余比职业专业啊[滑稽][TARGET]杀人都会伪造意外",
+      "platform": "bilibili",
+      "author_hash": "70b4a56bc86950a9828b0ca6",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_82f65585da36defba05c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @宏麦 :回复 @宏麦 :对，是说他自己没少做见不得光的。 他也不是职业杀手，他说他不杀好人，你想证明他是自我安慰，就要证明在他视角里，哪个他杀的人事坏人。 是非观扭曲不耽误他能认为安昕是好人，反倒是互联网事一堆认为高启强是好人，安昕是伪善的。",
+      "platform": "bilibili",
+      "author_hash": "64a8b859d705d629969f840f",
+      "language": "zh",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8a634bdbaa9f29aaa40c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]自己绝对算不上善良，不管是前面还是后面",
+      "platform": "bilibili",
+      "author_hash": "2829549aae77bf86067de4fb",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_2e51572f02ca58a3b9f4",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :高启强就一伪善者，他弟弟本来可以不用死，自己投案自首就行，[TARGET]也是，工具人，后来更是彻底黑化",
+      "platform": "bilibili",
+      "author_hash": "e311c84f064d1d58ed27107f",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9745201b4712d96e510d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @真潮还得港仔文艺 :别人帮你，你就帮别人杀人，这不叫是非不分，一个没有自己主见的人是分不清什么是是非的，你分不清很正常",
+      "platform": "bilibili",
+      "author_hash": "3272c59fffe69a01ba752a47",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ea4401678aca793b2ff6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @桃溪7 :那个不叫强盛呢叫建工，而且里面他哥是主导，他就是个在哥哥庇护下卖小灵通的，他可以看出来自己也是有很大野心的。而且他囤货之前也有交代原因，他在京海开了几家分店现在准备全国开分店，要是这样发展不比建工弱多少。就是后期目光短浅没注意到市场才导致的，性格也为他后事埋下了很多隐患，狂妄的性格导致杀人留证据害[TARGET]，自大有野心不甘居于人下才导致囤货失败后至卖度，这都是个人性格留下的隐患导致觉得他他降智乃至死亡的原因。这怎么会没关系呢？还有像上面回复你的几个评论我都看了观点都是有理有据的你就嘴硬还看多点好剧，你自己连小学学的最基础的阅读理解都没有看再多好剧也没用。而且更多是生活积累，你没见过没接触过这类人不代表没有嗷。",
+      "platform": "bilibili",
+      "author_hash": "84ccb893e580e2f5daf9e131",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_70d6e3fc83baa1a48806",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]甚至自己的人头都不给别人",
+      "platform": "bilibili",
+      "author_hash": "b634005ae2fb0aed7341e49c",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_aa5caf94dd2718451b9d",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :同意，我以前和他一样，仿佛世界上只有黑白没有灰色，长大了看多了身边事才发现世界完全不是那样的。我会同情，但不接受，不过相比较那些作恶多端却道貌岸然的人，我还是更愿意给[TARGET]这样的底层多一点理解",
+      "platform": "bilibili",
+      "author_hash": "80224951518f317c43047630",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e80fd96391406c4c4fc6",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @哼厉害吧 :他们只是有感于安欣的恩德，这是个人向的。从整体角度看，他们时时刻刻都站在安欣的对立面，处处都在和安欣所在的警察队伍过不去",
+      "platform": "bilibili",
+      "author_hash": "cf6fcd05d3aaa3152bc3b094",
+      "language": "zh",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_d77078b437241f67dec1",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @不懂潮流的ZD :哪有什么见仁见智，正反派非常清晰啊。假如你觉得因为高启强是主角，就觉得他和他下面的人就有正派的感觉，那实际上可以换个视角。看看被逼迫的那一堆人，比如被高启强那班人逼上绝路的种子公司老板，他不也有点像曾经被欺负的高启强？也许下一个高启强就在这一堆被高启强手下欺负的人中诞生，而现在这个高启强也许成了徐江",
+      "platform": "bilibili",
+      "author_hash": "3d33365eeb2f78bbd8b7ccb0",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "ce_laomo:bilibili_7c7d8477520ce2298a6d",
+      "anonymous_id": "TARGET_D03",
+      "text": "高启盛，平时没事的时候理智的很，但一旦触碰到他的逆鳞，就很不理智，哥哥就是他的逆鳞，所以在李宏伟死前他肯定会跟他说清楚是谁把他杀掉的，没杀彻底可能是因为警察快来了，他来不及处理好，而且也是第一次杀人，没啥经验也正常，而[TARGET]呢，这时候已经引起警察的注意了，是你的话，你会把一个还没被警察追查的手下放身边，还是会把一个随时会被警察查的定时炸弹放身边，所以很麻烦这个事情，有时候也是实属无奈",
+      "platform": "bilibili",
+      "author_hash": "97ea364bf546c2324c625613",
+      "language": "zh",
+      "score": 0.66680056,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_0e074f6c98a7000aa0d7",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :也可能是高启强怕[TARGET]被警察抓到了，为了让他守口如瓶而威胁",
+      "platform": "bilibili",
+      "author_hash": "7e26c35f773ad25b98bbc461",
+      "language": "zh",
+      "score": 0.65982175,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_9871b72b8457c70cc184",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，[TARGET]刀人很在行。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，我看过山峰不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.65982175,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ca876a5ae67e6fabba9c",
+      "anonymous_id": "TARGET_D03",
+      "text": "压力大了吃块糖，刚出笼子很迷茫 压力大了吃块糖，为了女儿爱帮忙。 压力大了吃块糖，[TARGET]做事不彷徨。 压力大了吃块糖，不杀女人默善良。 压力大了吃块糖，过山峰其实不咋强。",
+      "platform": "bilibili",
+      "author_hash": "079415446c82b3057077c852",
+      "language": "zh",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_ed4f789cbc817eb70dfc",
+      "anonymous_id": "TARGET_D03",
+      "text": "所以这次就不够干净，我看到他拉高启盛走的时候我就急了，直接喊了出来，先给一刀啊！！我满脑子想的就是，无论高启盛有没有做掉烂仔，如果是我，我会蹲下去先给他脖子抹一下，蹲下，划一下，站起来，跑。前后花不了3秒钟。看的我急死了……[酸了]",
+      "platform": "bilibili",
+      "author_hash": "509e4a8b0187261714ec07aa",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_1ba5e72caa9c1a1347bb",
+      "anonymous_id": "TARGET_D03",
+      "text": "找一个人看着瑶瑶，用瑶瑶威胁[TARGET]，但我觉得其实不用，没这一出的话[TARGET]或许可以完成任务的同时脱身",
+      "platform": "bilibili",
+      "author_hash": "945fe55631747300503158e8",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_961283b0b5d9485135b3",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @保持压低的帽檐 :关键是剧中不止一次老墨说不忍心对安欣下手，高不用女儿逼他也不放心",
+      "platform": "bilibili",
+      "author_hash": "71dca1538286ced23e70b3e3",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_df7dbe1e68a5cdef7cf6",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]过山峰的压迫感比隔壁花斑虎还强[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "189b25ed1c53ed56e9959b12",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b48392a7d66bc22268fc",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @逆行者在健身 :[TARGET]是正经杀手，制造意外搞各种手段很厉害，背后放冷枪干掉目标操作比较传统。过山峰说实话有点悍匪的意思了，这俩要正面对上估计[TARGET]要被拿捏，但其他情况过山峰偷袭玩不过[TARGET]可能就不明不白的没了",
+      "platform": "bilibili",
+      "author_hash": "25ad020574595a6ce9189586",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_cbd1056cd11fbe46dff3",
+      "anonymous_id": "TARGET_D03",
+      "text": "对啊，明明全程面对着安欣，就算反弹也是正面中弹为啥为啥正面一点事没有",
+      "platform": "bilibili",
+      "author_hash": "e4f73ca0ca555564daafae31",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "ce_laomo:bilibili_3050ea958ef63012e949",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :还好啦，正常成年人看电视剧感情泛滥很正常，正常人现实中不可能对这种杀手同情的",
+      "platform": "bilibili",
+      "author_hash": "d682e325c62dcf79d86b779e",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_b421db62daa10a8e2aff",
+      "anonymous_id": "TARGET_D03",
+      "text": "他最多就是个重情义的人，善良跟他可是半点不沾边",
+      "platform": "bilibili",
+      "author_hash": "8b2871adeddb927cdc6da973",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_f25a0178ceb341449e6a",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @江湖修士 :太理想主义了，当你亲身发现这个社会的阴暗面、当你亲眼见到有些人干着比他坏千万倍的事情却仍被世人赞颂的时候，你才会同情他。[TARGET]从头到尾都是一个好人，只是他的好不以法律为标准，而是以情理即古人说的舍生取义的‘义’为标准。法律是便于管理的社会规则，不是唯一正义，更不是绝对正义的标准。",
+      "platform": "bilibili",
+      "author_hash": "7b70b6695b8b0d189fadeb92",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7a9d68e5027bfb8a99ce",
+      "anonymous_id": "TARGET_D03",
+      "text": "只是这人身上有魅力，杀人不眨眼，从不废话，做事靠谱，这样的小弟谁不喜欢",
+      "platform": "bilibili",
+      "author_hash": "7ecb84c25a42a0cdd90dc4f9",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_db627e486c44324a009f",
+      "anonymous_id": "TARGET_D03",
+      "text": "就一杀人犯，优点在他身上也是缺点",
+      "platform": "bilibili",
+      "author_hash": "5b23a5ff0fc3408939e5c292",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_410446764119ad38397d",
+      "anonymous_id": "TARGET_D03",
+      "text": "没说他不坏，只是在分析缘由剖析人性解读心理",
+      "platform": "bilibili",
+      "author_hash": "4b566da27f1f50fdd222e6de",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_7e1f3774305a81ce583f",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 [USER] :和好人坏人有关系，但关系不大。杀人这件事本身，就很艰难。一时冲动可以杀一个，不可能连环的，一个又一个。他必须心里就漠视人类，否定生命。",
+      "platform": "bilibili",
+      "author_hash": "731be8801bbe3abe2b481f0d",
+      "language": "zh",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_03b5ae755b0282db7b1c",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @天天都想炫火锅 :人家的准则：对他好的人才算好人；不好的，就是坏人，杀了毫无负罪感；没有交集的无所谓，杀与不杀，看具体情况。这样来看，人家觉得没有说错，所以要看他是站在什么立场说话。",
+      "platform": "bilibili",
+      "author_hash": "7fa1fad5ede483a6806eb6cd",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_8a634bdbaa9f29aaa40c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]自己绝对算不上善良，不管是前面还是后面",
+      "platform": "bilibili",
+      "author_hash": "2829549aae77bf86067de4fb",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_caceac163e1f0d6c87c2",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @_自由平等公正法治_ :只能说还有点人性，没有彻底人性泯灭罢了，杀人犯杀无辜的人我感觉如果还有人同情，被害者何辜？要我说，你要真是情感母爱泛滥，还不如拿出你的情感更多的给那些无辜的人，就这样",
+      "platform": "bilibili",
+      "author_hash": "d09bce41b5b1311a86997a88",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "ce_laomo:bilibili_6137e5da93e574981e1c",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]真的是干净利落人狠话不多",
+      "platform": "bilibili",
+      "author_hash": "2932fc9d31b5b6edc532ae39",
+      "language": "zh",
+      "score": 0.73987377,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_e78a88db25cc2527fbc0",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]，过山峰，卖鱼强[呲牙]卖鱼的不好惹",
+      "platform": "bilibili",
+      "author_hash": "e2828d9af701529dec25b5ad",
+      "language": "zh",
+      "score": 0.7022034,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5c2d8187c5f2d025c143",
+      "anonymous_id": "TARGET_D03",
+      "text": "伟子：冷冷的冰鱼 拍打在额滴脑壳[滑稽]",
+      "platform": "bilibili",
+      "author_hash": "d87d2aecd6ad350752aeacdd",
+      "language": "zh",
+      "score": 0.658066,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_0b8e7d744fd34d430d39",
+      "anonymous_id": "TARGET_D03",
+      "text": "咖啡干嚼不加糖，我是京海高启强。手拿冻鱼追一路，我叫阿盛你记住。鱼摊卖鱼开大货，资深杀手[TARGET]。先亲程程后摸腿，我是莽村李宏伟。脚踩五菱没刹车，记住莽村有田哥。育良老师在京海，认识他叫孟德海。劝人献血积德善，助人为乐我刀哥。刨坑埋羊耍警察，慈眉善目唐小虎[doge]",
+      "platform": "bilibili",
+      "author_hash": "ac38f77ee07beb2675035efa",
+      "language": "zh",
+      "score": 0.6563059,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_4e4350765a5f070373c6",
+      "anonymous_id": "TARGET_D03",
+      "text": "这安欣帮助的 一个[TARGET] 一个高启强 哈哈",
+      "platform": "bilibili",
+      "author_hash": "ebb510dca269cc84c099ee57",
+      "language": "zh",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_a54bfe715365835ee149",
+      "anonymous_id": "TARGET_D03",
+      "text": "你口中的业余比职业专业啊[滑稽][TARGET]杀人都会伪造意外",
+      "platform": "bilibili",
+      "author_hash": "70b4a56bc86950a9828b0ca6",
+      "language": "zh",
+      "score": 0.62209207,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_17994366aacdc63a9048",
+      "anonymous_id": "TARGET_D03",
+      "text": "回复 @海的对面是彼岸 :[TARGET]是那种暗杀型的，过山峰更像个打手",
+      "platform": "bilibili",
+      "author_hash": "938fade623653d7557f2ccac",
+      "language": "zh",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_5fe4517d313b522097e3",
+      "anonymous_id": "TARGET_D03",
+      "text": "[USER] [TARGET]杀疯了",
+      "platform": "bilibili",
+      "author_hash": "58ce01fa988bb43bc0bd1dd1",
+      "language": "zh",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_066d5a3ea79ec5a6bb5b",
+      "anonymous_id": "TARGET_D03",
+      "text": "都在说[TARGET]强？过山峰明显强于[TARGET]啊，用的武器更差杀的人段位更高这有啥好说的[tv_惊吓]",
+      "platform": "bilibili",
+      "author_hash": "ad259810302ea949658e38f9",
+      "language": "zh",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_laomo:bilibili_238041345f8ca75c21fe",
+      "anonymous_id": "TARGET_D03",
+      "text": "[TARGET]:搁这考验我是吧[热词系列_你细品]",
+      "platform": "bilibili",
+      "author_hash": "76fce0a6fe18172de95f1eed",
+      "language": "zh",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

@@ -49,15 +49,14 @@ side_profile_offline_assets/
     llama-3.1-8b-instruct/
     qwen2.5-7b-instruct/
     qwen2.5-14b-instruct/
-    gemma-2-9b-it/
     mistral-7b-instruct-v0.3/
-    bge-reranker-v2-m3/
     baichuan-char-rm/
 ```
 
-Qwen3-Embedding-0.6B is not needed during formal execution because the public repository already
-contains the frozen exact-cosine vector database. Rebuilding that database is a preparation-side task
-and invalidates the frozen bundle.
+No embedding or reranker model directory is shipped. The private repository contains the exact-cosine
+`text-embedding-3-small` vector database and the prepared directories contain the complete
+`Cohere-rerank-v4.0-pro` provenance. Rebuilding either is a connected preparation-side task and
+invalidates the frozen bundle.
 
 ## 3. Build the offline GPU wheelhouse
 

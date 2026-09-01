@@ -15,8 +15,8 @@ from pathlib import Path
 import yaml
 
 
-CONTRAST_BASELINES = ("raw", "summary", "personality", "gold")
-EXPECTED_CONDITIONS = ("none", "personality", "raw", "summary", "gold", "ours")
+CONTRAST_BASELINES = ("summary", "personality", "gold")
+EXPECTED_CONDITIONS = ("none", "personality", "summary", "gold", "ours")
 
 
 def load_json(path: Path) -> dict:
@@ -358,7 +358,7 @@ def main() -> int:
             "",
             "## Pre-registered paired contrasts",
             "",
-            "See `paired-contrasts.csv` for Ours minus Raw, Summary, Personality, and Gold on exact matched units.",
+            "See `paired-contrasts.csv` for Ours minus Summary, Personality, and Gold on exact matched units.",
             "",
             "## Run inventory",
             "",

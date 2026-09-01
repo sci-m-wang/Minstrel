@@ -2,7 +2,7 @@
 """Convert the pinned RoleAgentBench Core-10 subset into SideProfile inputs.
 
 The official ``raw/role_summary.json`` files are the privileged profiles used only by the
-Anonymous Gold Profile condition. Ours, Raw Comments, Generic Summary, and Personality Only never
+Anonymous Gold Profile condition. Ours, Generic Summary, and Personality Only never
 read these summaries. General Response and Reaction examples are retained with their official
 references/choices in evaluator-only metadata.
 """

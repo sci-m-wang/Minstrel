@@ -7,7 +7,7 @@ import pytest
 
 from sideprofile.anonymize import anonymize_text, find_identity_leaks
 from sideprofile.probes import PROBES_BY_ID
-from sideprofile.retrieval import HybridRetriever, bm25_scores
+from sideprofile.retrieval import DeterministicSmokeRetriever, VectorRerankRetriever
 from sideprofile.schema import CharacterSpec, Comment
 from sideprofile.vector_store import text_sha256
 
@@ -43,18 +43,13 @@ def test_anonymization_removes_name_alias_and_work() -> None:
     assert find_identity_leaks(text, spec) == []
 
 
-def test_bm25_prefers_relevant_document() -> None:
-    scores = bm25_scores("routine disrupted plan", ["routine plan changed", "likes warm tea"])
-    assert scores[0] > scores[1]
-
-
-def test_retriever_never_exposes_identity() -> None:
+def test_smoke_retriever_never_exposes_identity() -> None:
     spec = make_spec()
     comments = [
         make_comment("c1", "Alex restores the routine when a plan is disrupted."),
         make_comment("c2", "Alex Example writes a careful schedule every morning."),
     ]
-    result = HybridRetriever(mode="bm25", final_top_k=2).retrieve(
+    result = DeterministicSmokeRetriever(final_top_k=2).retrieve(
         PROBES_BY_ID["D1-Q1"], comments, spec
     )
     assert len(result) == 2
@@ -85,8 +80,8 @@ def make_vector_store(path: Path, comments: list[Comment]) -> None:
     connection.executemany(
         "INSERT INTO metadata(key, value) VALUES(?, ?)",
         [
-            ("schema_version", "1"),
-            ("model_key", "qwen3-embedding-0.6b"),
+            ("schema_version", "2"),
+            ("model_key", "text-embedding-3-small"),
             ("similarity_metric", "cosine"),
             ("embedding_dtype", "float32_le"),
             ("embedding_dimension", "2"),
@@ -128,7 +123,18 @@ def make_vector_store(path: Path, comments: list[Comment]) -> None:
     connection.close()
 
 
-def test_hybrid_retriever_reads_frozen_exact_vector_store(tmp_path: Path) -> None:
+class FakeReranker:
+    def __init__(self, scores: list[float]) -> None:
+        self.values = scores
+        self.documents: list[str] = []
+
+    def scores(self, query: str, documents: list[str]) -> list[float]:
+        assert query
+        self.documents = documents
+        return self.values
+
+
+def test_vector_recall_then_rerank_uses_all_candidates(tmp_path: Path) -> None:
     spec = make_spec()
     comments = [
         make_comment("c1", "Alex restores the routine when a plan is disrupted."),
@@ -136,16 +142,18 @@ def test_hybrid_retriever_reads_frozen_exact_vector_store(tmp_path: Path) -> Non
     ]
     store = tmp_path / "vectors.sqlite"
     make_vector_store(store, comments)
-    result = HybridRetriever(
-        mode="hybrid",
+    reranker = FakeReranker([0.1, 0.9])
+    result = VectorRerankRetriever(
         vector_store=str(store),
-        embedding_model_key="qwen3-embedding-0.6b",
-        bm25_top_k=0,
-        dense_top_k=2,
+        embedding_model_key="text-embedding-3-small",
+        reranker=reranker,  # type: ignore[arg-type]
+        candidate_top_k=2,
         final_top_k=2,
     ).retrieve(PROBES_BY_ID["D1-Q1"], comments, spec)
-    assert [item.comment_id for item in result] == ["c1", "c2"]
-    assert all("dense" in item.rank_sources for item in result)
+    assert [item.comment_id for item in result] == ["c2", "c1"]
+    assert len(reranker.documents) == 2
+    assert all("Alex" not in document for document in reranker.documents)
+    assert all(item.rank_sources == ["exact_vector", "cohere_rerank"] for item in result)
 
 
 def test_frozen_vector_store_rejects_changed_comment_text(tmp_path: Path) -> None:
@@ -157,10 +165,12 @@ def test_frozen_vector_store_rejects_changed_comment_text(tmp_path: Path) -> Non
     store = tmp_path / "vectors.sqlite"
     make_vector_store(store, comments)
     changed = [comments[0], make_comment("c2", "Alex suddenly avoids all close friends today.")]
-    retriever = HybridRetriever(
-        mode="hybrid",
+    retriever = VectorRerankRetriever(
         vector_store=str(store),
-        embedding_model_key="qwen3-embedding-0.6b",
+        embedding_model_key="text-embedding-3-small",
+        reranker=FakeReranker([0.5, 0.4]),  # type: ignore[arg-type]
+        candidate_top_k=2,
+        final_top_k=2,
     )
     with pytest.raises(RuntimeError, match="text hashes differ"):
         retriever.retrieve(PROBES_BY_ID["D1-Q1"], changed, spec)

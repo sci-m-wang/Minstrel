@@ -8,11 +8,11 @@ dependencies = [
   "pydantic>=2.7",
   "PyYAML>=6.0",
   "certifi>=2024.7.4",
+  "numpy>=1.26",
 ]
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
-dense = ["sentence-transformers>=3.0"]
 
 [project.scripts]
 sideprofile = "sideprofile.cli:main"

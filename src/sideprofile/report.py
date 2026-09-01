@@ -90,7 +90,7 @@ def build_report(run_dir: str | Path) -> Path:
             "",
             "- Treat model-judge scores as estimates; compare with the official benchmark evaluator before publication.",
             "- Report corpus coverage, platforms, independent authors, retrieval mode, model versions, replicates, and failed calls.",
-            "- Treat Raw, Summary, Personality, Gold, and Ours as distinct internal conditions with their native payloads; do not claim that their information or lengths are normalized.",
+            "- Treat Summary, Personality, Gold, and Ours as distinct internal conditions with their native payloads; do not claim that their information or lengths are normalized.",
             "- Inspect identity leakage separately from role fidelity.",
             "",
             "## Artifacts",
@@ -98,7 +98,7 @@ def build_report(run_dir: str | Path) -> Path:
             "- `manifest.json`: frozen run metadata and token/call usage",
             f"- Prepared conditionings: `{manifest.get('prepared_dir', 'see prepared_manifest_sha256')}`",
             f"- Prepared manifest SHA-256: `{manifest.get('prepared_manifest_sha256', 'unknown')}`",
-            "- The prepared directory contains identity-blind person models, evidence-cited cues, retrieval records, and all six immutable conditionings.",
+            "- The prepared directory contains identity-blind person models, evidence-cited cues, retrieval records, and all five immutable conditionings.",
             "- `generations.jsonl`: actor outputs and judge records",
             "- `summary.csv`: machine-readable aggregate table",
         ]

@@ -9,8 +9,8 @@ Operate a complete, frozen, read-only experimental input bundle through GPU exec
 reviewable result report. Treat `plan.md` as the design authority, the selected config as the frozen
 run specification, and `data.bundle_manifest` as the checksum authority.
 
-The executable scope is defined by `configs/scope.yaml`: Panels A/D and the six internal conditions
-`none`, `personality`, `raw`, `summary`, `gold`, and `ours`. These are internal conditions and
+The executable scope is defined by `configs/scope.yaml`: Panels A/D and the five internal conditions
+`none`, `personality`, `summary`, `gold`, and `ours`. These are internal conditions and
 ablations, not the cross-method main experiment. AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER
 are removed until pinned external artifacts and tested adapters exist. Do not reintroduce or claim
 those baselines merely because they remain in the historical sections of `plan.md`.
@@ -19,19 +19,22 @@ those baselines merely because they remain in the historical sections of `plan.m
 
 The local preparation side owns comment acquisition, privacy filtering, corpus construction,
 deduplication, catalog/gold-profile completion, benchmark conversion, source/license audit, model and
-wheelhouse download, Qwen3 vector-database construction and verification, config freezing, and local
-tests. The GPU-side Agent owns only offline
-environment installation from the supplied wheelhouse, frozen-input verification, experiment
-execution, official evaluation, analysis, and reporting.
+wheelhouse download, connected `text-embedding-3-small` exact-vector construction, connected
+`Cohere-rerank-v4.0-pro` candidate reranking, GPT-5.6 Sol conditioning preparation,
+prepared-directory freezing, config freezing, and local tests. The
+GPU-side Agent owns only offline environment installation from the supplied wheelhouse, frozen-input
+and prepared-directory verification, static Actor-input token audits, experiment execution, official
+evaluation, analysis, and reporting.
 
 On the GPU machine, never:
 
 - browse, scrape, call a dataset API, download any model/dataset/package, or ask the user to supply comments;
 - run `init-corpus`, `import-comments`, a collector, or any command that writes the SQLite corpus;
-- run `build-vector-store`, download/load the embedding model, or alter the frozen vector database;
+- run `build-vector-store`, call an embedding/reranking endpoint, or alter the frozen vector database;
+- run `prepare-conditionings`, read/copy a GPT `.env`, call the Profiler, or reconstruct any profile;
 - add, synthesize, translate, relabel, deduplicate, or delete comments;
 - edit the catalog, gold profiles, benchmark JSONL, config, executable scope, or bundle manifest;
-- replace a missing input, relax coverage, change a baseline, or substitute BM25 for required hybrid retrieval.
+- replace a missing input, relax coverage, change a baseline, or substitute another retrieval method.
 
 Installing declared dependencies only from the supplied offline wheelhouse is allowed. If any input,
 model, or wheel is missing, or a checksum/coverage check fails, stop before the first model call and
@@ -57,9 +60,9 @@ LOCAL_API_KEY=local-offline LOCAL_MODEL=preflight \
   python3 skills/side-profile-experiment/scripts/preflight.py --project-root . --config <config.yaml>
 ```
 
-Stop if the preflight reports missing environment keys, inputs, a missing/stale Qwen3 vector
-database, missing reranker support for a `hybrid` run, a missing/mismatched frozen bundle, or
-synthetic data in a research configuration.
+Stop if the preflight reports missing environment keys, inputs, a missing/stale
+`text-embedding-3-small` vector database, a missing/mismatched frozen bundle or supplied
+prepared directory, or synthetic data in a research configuration.
 Never display `.env` values. Never fix a data-side failure on this host.
 
 ## Route the task
@@ -84,22 +87,29 @@ already have been completed locally before the bundle was frozen.
 - Exclude `is_synthetic=true` by default. A run with `include_synthetic: true` is a smoke test and
   must never be presented as experimental evidence.
 - Use all 24 fixed probes for a formal Ours run unless the config explicitly identifies an ablation or smoke
-  test. Do not silently substitute BM25-only retrieval when the research config requires `hybrid`.
-- Read dense scores from the frozen exact-cosine vector database built with the pinned
-  `Qwen3-Embedding-0.6B` revision. The database must match the corpus comment IDs/text hashes and all
-  24 English/Chinese probe queries. Never rebuild embeddings during an experiment run or replace the
-  exact store with an approximate index.
-- Preserve the configured retrieval and recorded comment-ID sets. Raw, Summary, Personality, and
-  Ours use the complete selected comment evidence according to their native processing; Gold keeps
-  the benchmark or method profile unchanged; None receives no persona information. Do not normalize
-  information content or length across these distinct conditions.
-- Prepare the shared six conditionings exactly once per panel with the fixed
-  `Qwen2.5-14B-Instruct` profiler. Every actor must checksum and reuse that prepared directory; an
-  actor must never reconstruct profiles or internal-condition payloads.
+  test. Formal retrieval is the frozen `vector_rerank` contract; do not substitute another method.
+- Treat the exact-cosine database built locally through `text-embedding-3-small` as provenance-only
+  GPU input. It must match every corpus comment ID/text hash and all 24 English/Chinese probe queries.
+  Never rebuild embeddings, call Cohere, or rerun retrieval on the GPU host.
+- Require the prepared retrieval records to reflect exact-vector Top-20 candidate recall followed by
+  complete `Cohere-rerank-v4.0-pro` scoring and local Top-10 selection for every probe. The connected
+  preparation request sets neither Cohere `top_n` nor a per-document token limit.
+- Preserve the configured retrieval and recorded comment-ID sets. Cue extraction, Summary, and
+  Personality must process each probe's Top-10 independently; no such request may contain another
+  probe's raw comments. Summary and Personality aggregate only their 24 local outputs. Ours aggregates
+  evidence-cited Cues into its Person Model. Gold keeps the benchmark or method profile unchanged;
+  None receives no persona information. Do not normalize information content or length across these
+  distinct conditions.
+- Require the supplied shared five conditionings to have been prepared exactly once per panel with
+  the fixed connected-preparation Profiler `GPT/gpt-5.6-sol`. Verify its provider/model, input-bundle
+  hash, artifacts, five conditions, per-probe processing contract, and checksums. Every Actor must
+  reuse that directory unchanged; the GPU Agent must never reconstruct profiles or
+  internal-condition payloads.
 - Do not introduce API `max_tokens`, call-count budgets, application retry limits, prompt-level
-  length requests, conditioning truncation, length normalization, or length gates. Raw contains the
-  complete selected comments; Summary and Personality read that complete set and generate naturally;
-  Ours constructs its Person Model naturally from the complete per-probe Cue pipeline; Gold remains
+  length requests, conditioning truncation, or length normalization. Native model-context
+  compatibility checks and token-count reporting are required but must not modify the evidence.
+  Summary and Personality generate naturally from isolated per-probe inputs and aggregate their local
+  outputs; Ours constructs its Person Model naturally from the per-probe Cue pipeline; Gold remains
   the unmodified supplied profile.
 - Do not set or expose `temperature`, `top_p`, or API `seed`; use the model/vLLM/provider defaults for
   every condition. Repeated trials are independent replicates, not explicitly seeded generations.
@@ -108,8 +118,14 @@ already have been completed locally before the bundle was frozen.
   on the GPU host.
 - Treat the corpus, vector database, catalog, benchmark, config, scope file, and bundle manifest as
   immutable inputs.
+- Open frozen SQLite inputs through read-only immutable connections. A preflight or Actor-side read
+  must not create WAL/SHM sidecars or write catalog metadata back into the corpus. Gold is read only
+  from the checksum-covered panel catalog, never from cached corpus character payloads.
 - Inspect `manifest.json`, corpus coverage, Cue citations, identity leakage, failed calls, and official
-  evaluator status before interpreting scores.
+  evaluator status before interpreting scores. Before the first Actor call, use every retained
+  Actor's exact local tokenizer/chat template to count every supplied Panel A/D input over all five
+  conditions and require positive native context remaining. After execution, audit every Actor trace
+  and report the maximum observed tokens and minimum native context remaining by request stage.
 
 ## Finish criteria
 

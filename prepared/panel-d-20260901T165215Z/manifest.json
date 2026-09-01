@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "stage": "conditioning_preparation",
+  "created_at": "2026-09-01T18:27:35.642366+00:00",
+  "provider": "GPT",
+  "profiler_provider": "GPT",
+  "profiler_model": "gpt-5.6-sol",
+  "decoding": "provider_default",
+  "characters": [
+    "ce_huafei",
+    "ce_luzhiqiao",
+    "ce_laomo",
+    "ce_zhuchaoyang",
+    "ce_mengyanchen",
+    "ce_xuhongdou"
+  ],
+  "conditions": [
+    "none",
+    "personality",
+    "summary",
+    "gold",
+    "ours"
+  ],
+  "probe_ids": [
+    "D1-Q1",
+    "D1-Q2",
+    "D1-Q3",
+    "D2-Q1",
+    "D2-Q2",
+    "D2-Q3",
+    "D3-Q1",
+    "D3-Q2",
+    "D3-Q3",
+    "D4-Q1",
+    "D4-Q2",
+    "D4-Q3",
+    "D5-Q1",
+    "D5-Q2",
+    "D5-Q3",
+    "D6-Q1",
+    "D6-Q2",
+    "D6-Q3",
+    "D7-Q1",
+    "D7-Q2",
+    "D7-Q3",
+    "D8-Q1",
+    "D8-Q2",
+    "D8-Q3"
+  ],
+  "comment_processing": "isolated_per_probe_top10",
+  "condition_aggregation": {
+    "personality": "per_probe_observations_then_aggregate",
+    "summary": "per_probe_summaries_then_aggregate",
+    "ours": "per_probe_cues_then_person_model"
+  },
+  "retrieval_mode": "openai_exact_vector_recall+cohere_rerank",
+  "embedding_provider": "GPT",
+  "embedding_model": "text-embedding-3-small",
+  "reranker_provider": "COHERE",
+  "reranker_model": "Cohere-rerank-v4.0-pro",
+  "candidate_top_k": 20,
+  "final_top_k": 10,
+  "reranker_usage": {
+    "calls": 144,
+    "search_units": 144
+  },
+  "corpus_stats": {
+    "schema_version": "1",
+    "total_comments": 8673,
+    "synthetic_comments_excluded": 0,
+    "characters": [
+      {
+        "character_id": "ce_huafei",
+        "comments": 503,
+        "platforms": 3,
+        "authors": 426
+      },
+      {
+        "character_id": "ce_laomo",
+        "comments": 544,
+        "platforms": 3,
+        "authors": 462
+      },
+      {
+        "character_id": "ce_luzhiqiao",
+        "comments": 657,
+        "platforms": 2,
+        "authors": 594
+      },
+      {
+        "character_id": "ce_mengyanchen",
+        "comments": 632,
+        "platforms": 2,
+        "authors": 431
+      },
+      {
+        "character_id": "ce_xuhongdou",
+        "comments": 501,
+        "platforms": 2,
+        "authors": 428
+      },
+      {
+        "character_id": "ce_zhuchaoyang",
+        "comments": 744,
+        "platforms": 2,
+        "authors": 650
+      },
+      {
+        "character_id": "hp_draco",
+        "comments": 484,
+        "platforms": 2,
+        "authors": 258
+      },
+      {
+        "character_id": "hp_harry",
+        "comments": 538,
+        "platforms": 3,
+        "authors": 280
+      },
+      {
+        "character_id": "hp_hermione",
+        "comments": 325,
+        "platforms": 2,
+        "authors": 227
+      },
+      {
+        "character_id": "hp_mcgonagall",
+        "comments": 401,
+        "platforms": 2,
+        "authors": 369
+      },
+      {
+        "character_id": "hp_ron",
+        "comments": 318,
+        "platforms": 2,
+        "authors": 191
+      },
+      {
+        "character_id": "tbbt_howard",
+        "comments": 684,
+        "platforms": 2,
+        "authors": 644
+      },
+      {
+        "character_id": "tbbt_leonard",
+        "comments": 460,
+        "platforms": 2,
+        "authors": 371
+      },
+      {
+        "character_id": "tbbt_penny",
+        "comments": 814,
+        "platforms": 2,
+        "authors": 703
+      },
+      {
+        "character_id": "tbbt_raj",
+        "comments": 458,
+        "platforms": 2,
+        "authors": 390
+      },
+      {
+        "character_id": "tbbt_sheldon",
+        "comments": 610,
+        "platforms": 2,
+        "authors": 527
+      }
+    ]
+  },
+  "coverage_audit": {
+    "ready": true,
+    "characters": [
+      {
+        "character_id": "ce_huafei",
+        "comments": 503,
+        "platforms": 3,
+        "authors": 426,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_laomo",
+        "comments": 544,
+        "platforms": 3,
+        "authors": 462,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_luzhiqiao",
+        "comments": 657,
+        "platforms": 2,
+        "authors": 594,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_mengyanchen",
+        "comments": 632,
+        "platforms": 2,
+        "authors": 431,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_xuhongdou",
+        "comments": 501,
+        "platforms": 2,
+        "authors": 428,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "ce_zhuchaoyang",
+        "comments": 744,
+        "platforms": 2,
+        "authors": 650,
+        "ready": true,
+        "failures": []
+      }
+    ]
+  },
+  "input_bundle": "data/manifests/panel-d.json",
+  "input_bundle_sha256": "93dccf4e116a1a97cddf45666a9bee99cf8611a782e28e27b1aed06c0a28e2e2",
+  "llm_usage": {
+    "calls": 450,
+    "prompt_tokens": 795998,
+    "completion_tokens": 290831
+  },
+  "research_valid": true,
+  "artifacts": [
+    {
+      "path": "characters/ce_huafei/person_model.json",
+      "sha256": "923408c17c396f563a9255672f84b7a318358b69420e836a20422a66ba16afeb"
+    },
+    {
+      "path": "characters/ce_huafei/cues.jsonl",
+      "sha256": "f2d933da37b346468447e12cada7abeb8570e2547bb27f02fc9fd603320c6e11"
+    },
+    {
+      "path": "characters/ce_huafei/retrieval.json",
+      "sha256": "865ce9eeb53ce2ab23aa79a507b4ddcfcb0b870a868523a0a36b4e2e8d3b46d7"
+    },
+    {
+      "path": "characters/ce_huafei/coverage.json",
+      "sha256": "c84bc584f0b1890ccd4a1ad01ebb1b57ee19608e670acba3c923fd766c16ef82"
+    },
+    {
+      "path": "characters/ce_huafei/conditionings.json",
+      "sha256": "72e9ea28410ed6c963b6ae7bb6fbe0ab68d3d869788c6f74c6742debd55d5fe2"
+    },
+    {
+      "path": "characters/ce_luzhiqiao/person_model.json",
+      "sha256": "a08639947c76e4dd3022665e810bdb873494b965ea872912fa1a42759ca856a7"
+    },
+    {
+      "path": "characters/ce_luzhiqiao/cues.jsonl",
+      "sha256": "255f3ca90d80fbc9c27e78152b1c77bf2a524bf6e3641763f575b8c828305db0"
+    },
+    {
+      "path": "characters/ce_luzhiqiao/retrieval.json",
+      "sha256": "259d82eb063f38c607565f18f7fc7082104037574674d1d168643b8d5b45f791"
+    },
+    {
+      "path": "characters/ce_luzhiqiao/coverage.json",
+      "sha256": "72179f08d8f05fb65de729ac0da76741f244c33673f6ec4e76d695c5598c55fb"
+    },
+    {
+      "path": "characters/ce_luzhiqiao/conditionings.json",
+      "sha256": "1fe8c9938fff0112355705e06d1550bd745dba1eca83f81f57298e64d77fe638"
+    },
+    {
+      "path": "characters/ce_laomo/person_model.json",
+      "sha256": "4054f8c5da0dd7119f9374274fbdc932d1cf8fd783875d169395c9495b296964"
+    },
+    {
+      "path": "characters/ce_laomo/cues.jsonl",
+      "sha256": "ce8919a51200d9eae139be04c3d58e64a32dd7ca7831b1c512c4a5d9a9269d00"
+    },
+    {
+      "path": "characters/ce_laomo/retrieval.json",
+      "sha256": "b44be9ceae52e0968d761a9bbfb6ca3d98fe597bd2638cd189f00c2dc1e14291"
+    },
+    {
+      "path": "characters/ce_laomo/coverage.json",
+      "sha256": "d0f7da67cc6f604583219ead583388ed436e8136a0842cb80323cbec63211183"
+    },
+    {
+      "path": "characters/ce_laomo/conditionings.json",
+      "sha256": "dc6840f78a961d865408b6b9980518201a74f7389dead8fa528046656cfc08bc"
+    },
+    {
+      "path": "characters/ce_zhuchaoyang/person_model.json",
+      "sha256": "f2390cbead20352ae2d0d257031dbfd755ecc7a617ce1b3533aad7d568793f43"
+    },
+    {
+      "path": "characters/ce_zhuchaoyang/cues.jsonl",
+      "sha256": "421fff2347a6fe6ac02edb321fc741e1826f406eac7e8e975302fb2aaaeed2f5"
+    },
+    {
+      "path": "characters/ce_zhuchaoyang/retrieval.json",
+      "sha256": "d9262f9df2e13366fa69dbc2d3e654aa7e42cec1c8d59b0b58f6924f18d94e99"
+    },
+    {
+      "path": "characters/ce_zhuchaoyang/coverage.json",
+      "sha256": "c1eedbb479dcb52496f02d1deec36b92b67124ed998f82140a4af860dc85d3de"
+    },
+    {
+      "path": "characters/ce_zhuchaoyang/conditionings.json",
+      "sha256": "0b548a3d4e83115f7f106148f49e79443e1cd5cae38eebe6bd10f1d8174d867a"
+    },
+    {
+      "path": "characters/ce_mengyanchen/person_model.json",
+      "sha256": "24f12717672ce7a1ba06fac3e3544ebeb6d64326f0943a04dced60a83d3c02e2"
+    },
+    {
+      "path": "characters/ce_mengyanchen/cues.jsonl",
+      "sha256": "c21bd21daefc977165fcdc81929cdaf002586a845ed1a7ef6ab1f9e78f14e195"
+    },
+    {
+      "path": "characters/ce_mengyanchen/retrieval.json",
+      "sha256": "16bd4ec01cf4c22696869c9ca2dddc0f6151054079480e57f1cbdcc1fba9a955"
+    },
+    {
+      "path": "characters/ce_mengyanchen/coverage.json",
+      "sha256": "ef1b3406aeb4a8dd2079a42fb3ed19638a2bf2de899fd753f5a38c6962b6ad98"
+    },
+    {
+      "path": "characters/ce_mengyanchen/conditionings.json",
+      "sha256": "cd12b7285816fce6d547c5824c87b5af21804e555494247cfc517c3799c11d48"
+    },
+    {
+      "path": "characters/ce_xuhongdou/person_model.json",
+      "sha256": "469f52ee07d89dd68b9d284b2d8e8fc362e285b712db070c1ad423811463c9ce"
+    },
+    {
+      "path": "characters/ce_xuhongdou/cues.jsonl",
+      "sha256": "8ef487ad7238ee6243050d356e2411629c60e469e62b1f59a5398b44fa43e8a4"
+    },
+    {
+      "path": "characters/ce_xuhongdou/retrieval.json",
+      "sha256": "76d34c88de6f64851dbb4c50fe55f9b88b2d55bf74ca64a757e25379337795cd"
+    },
+    {
+      "path": "characters/ce_xuhongdou/coverage.json",
+      "sha256": "9223daf5b33a2ad41bdf961cae049d53663f5d8fced2aa1cc89a567a16844430"
+    },
+    {
+      "path": "characters/ce_xuhongdou/conditionings.json",
+      "sha256": "26d022b481c1596a12afde330a1b052adb55156803531eca7a44e9a3f7bbfd8d"
+    },
+    {
+      "path": "trace.jsonl",
+      "sha256": "18e6ffec77e63057fd135d6ece2c288615b1eb7acc0fcb5ee4aafaaff025146d"
+    },
+    {
+      "path": "rerank.trace.jsonl",
+      "sha256": "cafa94d0b6808087a54edf2023ef968cbe4effdd93b94527c242bf20522418a2"
+    }
+  ]
+}

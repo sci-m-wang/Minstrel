@@ -2,7 +2,13 @@ from __future__ import annotations
 
 import sys
 
-from .vector_store import isolate_text_transformers_runtime
+
+def isolate_text_transformers_runtime() -> None:
+    """Keep optional vision extensions out of this text-only vLLM process."""
+
+    import transformers.utils.import_utils as transformer_imports
+
+    transformer_imports._torchvision_available = False
 
 
 def main() -> int | None:

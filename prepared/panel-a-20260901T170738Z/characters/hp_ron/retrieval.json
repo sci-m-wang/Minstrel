@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "hp_ron:youtube_4fa7cc5d77331490f815",
+      "anonymous_id": "TARGET_A03",
+      "text": "The example that always sticks out to me is Hermione giving [TARGET] the idea to use wingardium leviosa against the troll. An example in the books of [TARGET] using his calmness and on-the-spot thinking while Hermione was panicking and didn’t know what to do.",
+      "platform": "youtube",
+      "author_hash": "f1f3f265673fa6122ca5d5c1",
+      "language": "en",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8f94379a8f1ac9e2c35e",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Sure a week is risky, but after months? They could have thought of a fool-proof plan to summoun Kreacher after months in wilderness if they wanted to.",
+      "platform": "stackexchange",
+      "author_hash": "12a12620734f7ef60cedc26a",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_369d2f6e23e6e70293a0",
+      "anonymous_id": "TARGET_A03",
+      "text": "Another side effect of being poor; tending to be REALLY conscious about obligations with money. See: [TARGET] having a fit that the money he paid harry back with (at the Tri-wizard Tournament) turned out to be fake.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_dcdad7b981a0bb89424d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - they seem to be financially stable. Not rich, or even overly \"dentist class\" comfortable, but stable. They eat VERY well, they have a stable housing situation, they managed to pay to put 7 kids through school. They don't have money for luxuries, but that isn't a sign of lack of stability.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_85a6589c687b814ff88c",
+      "anonymous_id": "TARGET_A03",
+      "text": "I know plenty of teenagers that are very intelligent, but that don't apply themselves or observe things well - much like good old [TARGET]. I adored him for this reason. He reminds me so much of so many of my favorite students.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4afea577649ea4c186d0",
+      "anonymous_id": "TARGET_A03",
+      "text": "He's good at a board game, he has a couple of good ideas, and he acts stupid a bunch of times. Seems like a normal person. Could he just be average?",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_ec7e9d99f2cdb1a9f69c",
+      "anonymous_id": "TARGET_A03",
+      "text": "Related question about [TARGET] not getting help after breaking his wand.",
+      "platform": "stackexchange",
+      "author_hash": "dcc75e6b5192c0093c9d7459",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_765309141889e8401a8f",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] But if you define financially stable as not using hand downs, then 700 Gallons won't give a very long period of stability, not with 5 kids needing new clothes all the time or even ball gowns. Who knows, maybe the [TARGET]s even have a sizable emergency fund and are just wise enough to not consider wanting new clothes an emergency. In that case, spending the money on the trip seems the best thing to do.",
+      "platform": "stackexchange",
+      "author_hash": "55cf9e7fd937879f75ba3dae",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_9eca269a1c1871e207db",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'd imagine it's a bit like a keyboard. When you first get any keyboard, you're clumsy with it, but eventually you learn to touch-type just fine. If you're used to using one for a long time, and someone else hands you their keyboard, you struggle a bit because things don't quite match up with your muscle memory. You can still type on it, but just not with the same accuracy or efficiency.",
+      "platform": "stackexchange",
+      "author_hash": "2234311c51b33e6bcc3e33a4",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7a84193df2caac3bc887",
+      "anonymous_id": "TARGET_A03",
+      "text": "If you're in a room with a friend and he suddenly starts raging about something and it's totally out of character for your friend, you'd sit there with your mouth hanging open, too. It's not that [TARGET] & Hermione were afraid of Harry, they were shocked by his outburst. Ginny, having not been there (\"thought she heard his voice\"), but wasn't there to see the outburst itself, so wasn't shocked because she didn't realize the extent of the shouting.",
+      "platform": "stackexchange",
+      "author_hash": "122b56b5aa1507bae2b13298",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0c145addff6c53db75b2",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Um.. Muriel is a relatively close relation to the parents; [TARGET]'s mother's mother's sister. This accountant is (assuming only materal connections for easy comparison) Molly's mother's mother's sister's child's child (or grandmother's sister's grandchild). These are quite different. I understand I am probably more estranged than average but objectively the accountant is much more distant than Muriel (especially when compared to Molly who more directly controls which family members then interact with). Note: he at knows the cousin exists; to me that is uncomforably close.",
+      "platform": "stackexchange",
+      "author_hash": "1e1f18dd5116fd5b580c78dc",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_ab20a37e96cc5529148c",
+      "anonymous_id": "TARGET_A03",
+      "text": "Yes, I just don't think the Diggorys and [TARGET]s are that close. And I don't think old people home staff are that informed about extended family members. And would you cont[TARGET]t them? \"I've never heard of you - you can't be who you say you are!\"",
+      "platform": "stackexchange",
+      "author_hash": "35fc3ba14381eae4d48601a5",
+      "language": "en",
+      "score": 0.36441556,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d46b58b546f76edb754b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I agree that the cousin seemed rather Dursley-ish (then again, so is Muriel with her pure-blood elitism); but I disagree that second cousins would be a distant relation to someone like the [TARGET]s. Accountant cousin wouldn’t really be more distant to Molly than Muriel is to the [TARGET] children. Even to me, being from quite a small and not very close-knit family, even highly disliked second cousins are not just completely shushed away into nonexistence.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.33250543,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_dcdad7b981a0bb89424d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - they seem to be financially stable. Not rich, or even overly \"dentist class\" comfortable, but stable. They eat VERY well, they have a stable housing situation, they managed to pay to put 7 kids through school. They don't have money for luxuries, but that isn't a sign of lack of stability.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.31539848,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.30536577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4afea577649ea4c186d0",
+      "anonymous_id": "TARGET_A03",
+      "text": "He's good at a board game, he has a couple of good ideas, and he acts stupid a bunch of times. Seems like a normal person. Could he just be average?",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.30536577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_c8a4d5d7c04302380b7b",
+      "anonymous_id": "TARGET_A03",
+      "text": "Where a short form is used as the default (\"Tom\" rather than \"Thomas\", say), then there is a cultural norm that using the full form is an indication of seriousness or formality. Often it's a parent indicating to a child that they're in extreme trouble (like Molly does with the Howler), or a formal rite or ritual (the sorting, and the will), or when Dumbledore says it in f[TARGET]t of the mirror - indicating a gravitas to the event.",
+      "platform": "stackexchange",
+      "author_hash": "c566fae1851b6e59e77f5f76",
+      "language": "en",
+      "score": 0.30536577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_a78b513af7a0ca916138",
+      "anonymous_id": "TARGET_A03",
+      "text": "Ain't nobody follow the rules?",
+      "platform": "stackexchange",
+      "author_hash": "27940cdb3be9559911a86ad0",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4afea577649ea4c186d0",
+      "anonymous_id": "TARGET_A03",
+      "text": "He's good at a board game, he has a couple of good ideas, and he acts stupid a bunch of times. Seems like a normal person. Could he just be average?",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_4fa7cc5d77331490f815",
+      "anonymous_id": "TARGET_A03",
+      "text": "The example that always sticks out to me is Hermione giving [TARGET] the idea to use wingardium leviosa against the troll. An example in the books of [TARGET] using his calmness and on-the-spot thinking while Hermione was panicking and didn’t know what to do.",
+      "platform": "youtube",
+      "author_hash": "f1f3f265673fa6122ca5d5c1",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d5a2e149236eb4de619b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Arthur [TARGET] took full advantage of loopholes (I.E. the car could fly as long as you didn't INTEND to fly it and he didn't punish his sons for flying it until Molly said something) so I don't believe he would have minded this loophole either. Molly on the other hand...",
+      "platform": "stackexchange",
+      "author_hash": "726a4c0ee29eb54144dec9fd",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_500ae869b7bc543799e2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Makes sense... But would [TARGET] risk it? He doesn't have much to risk to begin with, AND if he concluded that Harry sucked at games he'd feel guilty about hustling the boy who lived. Shrug Pride is a hard thing to get past... and as clever as Harry might be, if it ever came out...",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_85a6589c687b814ff88c",
+      "anonymous_id": "TARGET_A03",
+      "text": "I know plenty of teenagers that are very intelligent, but that don't apply themselves or observe things well - much like good old [TARGET]. I adored him for this reason. He reminds me so much of so many of my favorite students.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b9764a189f07842ea9a4",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's probably the best way to do it. I don't think we can really have a complete answer to this question without some acknowledgment that [TARGET] is fairly unique in that regard among the book's characters (i.e. relatively inexplicable prediction accuracy per amount of stuff said).",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_f240e2b4aa28f95946c6",
+      "anonymous_id": "TARGET_A03",
+      "text": "He is loyal to whoever protects him. Not being a good rat wouldve put him at a weaker position. [TARGET] didn't like him as is since he was useless otherwise. Gotta ensure that master is happy somehow",
+      "platform": "stackexchange",
+      "author_hash": "e9201c752c92bae8a556c917",
+      "language": "en",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0cf44c17020598f1d864",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is pretty much the answer I came here to give. Snape is clearly intent on causing as much trouble for Harry and [TARGET] as he can, so he emphasises the facts in a way that are most likely to cause them trouble.",
+      "platform": "stackexchange",
+      "author_hash": "e08d4d48a769301d117422be",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_acf9a821057ca782b414",
+      "anonymous_id": "TARGET_A03",
+      "text": "Snape probably didn't even want Harry to be punished. As it happens, we eventually find out that Snape is protecting Harry since he's the son of Lily Potter nee Evans, with whom Snape fell in love. However, in his role as a double-agent, it suited his purposes to have everyone believe that he had it in for Harry & Co. Therefore, the tree is \"valuable\" because it is a valid excuse for Snape to show his \"dislike\" of Harry.",
+      "platform": "stackexchange",
+      "author_hash": "605ced2efc1334d687f90906",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b18fb67a5a3d22a327de",
+      "anonymous_id": "TARGET_A03",
+      "text": "More examples: 3 drownings and attacks on his and Harry's life for homework.",
+      "platform": "stackexchange",
+      "author_hash": "4334c86628a3c6b978eaf941",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b0b73f50ba1cfda8f103",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Sure.. they could have Imperiused that person; or killed them or... But the fact remains they were sort of occupied and had to be extremely careful. As it is Harry messed up and got them caught by Snatchers didn't he? And they were forced to apparate along with the Snatchers to Malfoy Manor. Too risky is just that and this is esp true when in war or major conflict. And although self doubt can be a real burden and harmful there are times when it's there to protect you. Which is exactly why user13267 is correct: it does explain why they didn't try it later. Love your handle btw.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7fb0075e11545c710083",
+      "anonymous_id": "TARGET_A03",
+      "text": "The only reason Harry would need special protection at Privet Drive is because it's a dangerous place for him to be without any protection, since he is surrounded by muggles and can't protect himself from Voldemort. If Harry lived with Dumbledore, the [TARGET]s, Grimmauld place, or any other place where members of the order can protect him, he would have just as much protection as he would at Privet Drive, only he wouldn't have to suffer terrible child abuse. In the books, the Dursleys support hitting children as punishment and they starve Harry, which is terrible.",
+      "platform": "stackexchange",
+      "author_hash": "69711bd74958a925c5f46049",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_69d2b1df9dbd6eb944b8",
+      "anonymous_id": "TARGET_A03",
+      "text": "Least loved, always, by the mother who craved a daughter…",
+      "platform": "stackexchange",
+      "author_hash": "4b72f98559f193548bbac5cf",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_41e47b5a83abf7dd6dba",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] when [TARGET] destroys the Slytherin locket Horckrus, the soul inside says: \"Least loved, always, by the mother who craved a daughter\". Of course this might be simply a manipulation.",
+      "platform": "stackexchange",
+      "author_hash": "d0780c686f537b90b385b702",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "hp_ron:youtube_cb30269f0a4a295c5f71",
+      "anonymous_id": "TARGET_A03",
+      "text": "The most horrible thing about [TARGET]’s insecurity about being overshadowed and forgotten is that in the movies they did exactly that. Poor guy.",
+      "platform": "youtube",
+      "author_hash": "94a0495223bf5ac6e7b9c16d",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_369d2f6e23e6e70293a0",
+      "anonymous_id": "TARGET_A03",
+      "text": "Another side effect of being poor; tending to be REALLY conscious about obligations with money. See: [TARGET] having a fit that the money he paid harry back with (at the Tri-wizard Tournament) turned out to be fake.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4abf8e533357537aa651",
+      "anonymous_id": "TARGET_A03",
+      "text": "No, this question is about why [TARGET] redeveloped a fear of saying Voldemort's name before they found out about the Taboo.",
+      "platform": "stackexchange",
+      "author_hash": "fdea11afe8cf6f6568d05d83",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_500ae869b7bc543799e2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Makes sense... But would [TARGET] risk it? He doesn't have much to risk to begin with, AND if he concluded that Harry sucked at games he'd feel guilty about hustling the boy who lived. Shrug Pride is a hard thing to get past... and as clever as Harry might be, if it ever came out...",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_83fb01bdcae9ca9a302a",
+      "anonymous_id": "TARGET_A03",
+      "text": "+1, nice analysis. However, I'd argue that Hermione's inability to heal [TARGET] was likely due to a lack of confidence instead of a lack of skill or knowledge: “It’s all I feel safe doing,” said Hermione shakily. “There are spells that would put him completely right, but I daren’t try in case I do them w[TARGET]g and cause more damage....He’s lost too much blood already. . . . ”",
+      "platform": "stackexchange",
+      "author_hash": "772cfad9584bd2d56d119a80",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_166994bb4fd9ec08c581",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Rich people doing that don't mind it though. The author makes it abundantly clear that [TARGET] is suffering from it — not excessively, but tangibly. (Perceived) peer pressure is a powerful psychological agent for adolescents.",
+      "platform": "stackexchange",
+      "author_hash": "a29b462315c201b0f632639a",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b0b73f50ba1cfda8f103",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Sure.. they could have Imperiused that person; or killed them or... But the fact remains they were sort of occupied and had to be extremely careful. As it is Harry messed up and got them caught by Snatchers didn't he? And they were forced to apparate along with the Snatchers to Malfoy Manor. Too risky is just that and this is esp true when in war or major conflict. And although self doubt can be a real burden and harmful there are times when it's there to protect you. Which is exactly why user13267 is correct: it does explain why they didn't try it later. Love your handle btw.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_f391e0f569820db92f5e",
+      "anonymous_id": "TARGET_A03",
+      "text": "Bravery, courage and loyalty are the core ideals of Griffindore. It's really no surprise that just about every [TARGET] is a Griffindore, because that family treats those ideals as gospel.",
+      "platform": "youtube",
+      "author_hash": "b81548c32f6a570e77196c4d",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_ba331d7b446a68bb7050",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] there are plenty of well off people who buy used cars and shop at thrift stores. Some people become rich living that way. The [TARGET]'s situation is about to change, anyway - at the time of the trip, they've only got 3 more years supporting Fred & George, 5 more for [TARGET] and 6 more for Ginny. I'd say, in light of that, a family trip may well be the wisest use of that money. Assuming they have no debt , the money that it takes to send a family on a trip won't make a realistic dent in their financial prospects.",
+      "platform": "stackexchange",
+      "author_hash": "9ccb5c8589aa577e5c689b22",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_dcdad7b981a0bb89424d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - they seem to be financially stable. Not rich, or even overly \"dentist class\" comfortable, but stable. They eat VERY well, they have a stable housing situation, they managed to pay to put 7 kids through school. They don't have money for luxuries, but that isn't a sign of lack of stability.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7cdaac79024e529e2aa5",
+      "anonymous_id": "TARGET_A03",
+      "text": "I never really questioned this; [TARGET] (and his family) are poor but proud - even stealth help would damage their friendship if it was eventually found out. It's not uncommon for proud & poor to equal never wanting charity (although luck is acceptable.) The closest I can come up with Canon info is the way the twins accepted the winnings from the GOF; they were reluctant, and only took it as an investment.. then treated Harry as their 'business angel' ever after, refusing to let him pay from stuff from their shop, and so forth.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d1824c7db776aec9c0c0",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - to show just how much the struggle cost the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_765309141889e8401a8f",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] But if you define financially stable as not using hand downs, then 700 Gallons won't give a very long period of stability, not with 5 kids needing new clothes all the time or even ball gowns. Who knows, maybe the [TARGET]s even have a sizable emergency fund and are just wise enough to not consider wanting new clothes an emergency. In that case, spending the money on the trip seems the best thing to do.",
+      "platform": "stackexchange",
+      "author_hash": "55cf9e7fd937879f75ba3dae",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_369d2f6e23e6e70293a0",
+      "anonymous_id": "TARGET_A03",
+      "text": "Another side effect of being poor; tending to be REALLY conscious about obligations with money. See: [TARGET] having a fit that the money he paid harry back with (at the Tri-wizard Tournament) turned out to be fake.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f240e2b4aa28f95946c6",
+      "anonymous_id": "TARGET_A03",
+      "text": "He is loyal to whoever protects him. Not being a good rat wouldve put him at a weaker position. [TARGET] didn't like him as is since he was useless otherwise. Gotta ensure that master is happy somehow",
+      "platform": "stackexchange",
+      "author_hash": "e9201c752c92bae8a556c917",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_f240e2b4aa28f95946c6",
+      "anonymous_id": "TARGET_A03",
+      "text": "He is loyal to whoever protects him. Not being a good rat wouldve put him at a weaker position. [TARGET] didn't like him as is since he was useless otherwise. Gotta ensure that master is happy somehow",
+      "platform": "stackexchange",
+      "author_hash": "e9201c752c92bae8a556c917",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_f391e0f569820db92f5e",
+      "anonymous_id": "TARGET_A03",
+      "text": "Bravery, courage and loyalty are the core ideals of Griffindore. It's really no surprise that just about every [TARGET] is a Griffindore, because that family treats those ideals as gospel.",
+      "platform": "youtube",
+      "author_hash": "b81548c32f6a570e77196c4d",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a78b513af7a0ca916138",
+      "anonymous_id": "TARGET_A03",
+      "text": "Ain't nobody follow the rules?",
+      "platform": "stackexchange",
+      "author_hash": "27940cdb3be9559911a86ad0",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d5a2e149236eb4de619b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Arthur [TARGET] took full advantage of loopholes (I.E. the car could fly as long as you didn't INTEND to fly it and he didn't punish his sons for flying it until Molly said something) so I don't believe he would have minded this loophole either. Molly on the other hand...",
+      "platform": "stackexchange",
+      "author_hash": "726a4c0ee29eb54144dec9fd",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_369d2f6e23e6e70293a0",
+      "anonymous_id": "TARGET_A03",
+      "text": "Another side effect of being poor; tending to be REALLY conscious about obligations with money. See: [TARGET] having a fit that the money he paid harry back with (at the Tri-wizard Tournament) turned out to be fake.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_1e630d8c869f3eb14227",
+      "anonymous_id": "TARGET_A03",
+      "text": "It might be a question of culture and family values but wouldn't it have made more \"sense\" for Charlie to pitch in and buy [TARGET] a new wand and stick with his own (no pun intended)? Or buy a new one for each of them.",
+      "platform": "stackexchange",
+      "author_hash": "1b4a9659e057bbb31dd917aa",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8257eb532d65e1eaf139",
+      "anonymous_id": "TARGET_A03",
+      "text": "That's only a technicality though. If the parents come down on you like a ton of bricks when the little sister gets hurt, the natural result is to not allow the little sister to participate in activities that could result in her injury. Its pretty well-established in the books that the one thing above all else you don't want to do in Potterverse is tick off Mrs. [TARGET].",
+      "platform": "stackexchange",
+      "author_hash": "c0a56c3389c163435b267b5c",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_0ad8a1ab2d0303ad60cc",
+      "anonymous_id": "TARGET_A03",
+      "text": "No idea if it's ever discussed in canon, but my instinct is that Arthur [TARGET], as a civil servant, would be very conscious of how much government aid there is to go around. Given that the school is funded by the Ministry: scifi.stackexchange.com/questions/25153/… I imagine he wouldn't want to take resources that could go to someone more needy than his family.",
+      "platform": "stackexchange",
+      "author_hash": "d984d6bdc33e1baa44099e22",
+      "language": "en",
+      "score": 0.6312306,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_1e630d8c869f3eb14227",
+      "anonymous_id": "TARGET_A03",
+      "text": "It might be a question of culture and family values but wouldn't it have made more \"sense\" for Charlie to pitch in and buy [TARGET] a new wand and stick with his own (no pun intended)? Or buy a new one for each of them.",
+      "platform": "stackexchange",
+      "author_hash": "1b4a9659e057bbb31dd917aa",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7cdaac79024e529e2aa5",
+      "anonymous_id": "TARGET_A03",
+      "text": "I never really questioned this; [TARGET] (and his family) are poor but proud - even stealth help would damage their friendship if it was eventually found out. It's not uncommon for proud & poor to equal never wanting charity (although luck is acceptable.) The closest I can come up with Canon info is the way the twins accepted the winnings from the GOF; they were reluctant, and only took it as an investment.. then treated Harry as their 'business angel' ever after, refusing to let him pay from stuff from their shop, and so forth.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_60a0280403c330dc8984",
+      "anonymous_id": "TARGET_A03",
+      "text": "Out of universe, of course, the answer is much simpler -- He's the poor, unknown, not very talented best-friend of the Rich, Famous, Talented hero. It kind of defines a lot of his character.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f240e2b4aa28f95946c6",
+      "anonymous_id": "TARGET_A03",
+      "text": "He is loyal to whoever protects him. Not being a good rat wouldve put him at a weaker position. [TARGET] didn't like him as is since he was useless otherwise. Gotta ensure that master is happy somehow",
+      "platform": "stackexchange",
+      "author_hash": "e9201c752c92bae8a556c917",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_4fa7cc5d77331490f815",
+      "anonymous_id": "TARGET_A03",
+      "text": "The example that always sticks out to me is Hermione giving [TARGET] the idea to use wingardium leviosa against the troll. An example in the books of [TARGET] using his calmness and on-the-spot thinking while Hermione was panicking and didn’t know what to do.",
+      "platform": "youtube",
+      "author_hash": "f1f3f265673fa6122ca5d5c1",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_500ae869b7bc543799e2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Makes sense... But would [TARGET] risk it? He doesn't have much to risk to begin with, AND if he concluded that Harry sucked at games he'd feel guilty about hustling the boy who lived. Shrug Pride is a hard thing to get past... and as clever as Harry might be, if it ever came out...",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0cf44c17020598f1d864",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is pretty much the answer I came here to give. Snape is clearly intent on causing as much trouble for Harry and [TARGET] as he can, so he emphasises the facts in a way that are most likely to cause them trouble.",
+      "platform": "stackexchange",
+      "author_hash": "e08d4d48a769301d117422be",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_4d6f67e1e31f2ec712b8",
+      "anonymous_id": "TARGET_A03",
+      "text": "Sounds a bit far-fetched that he will be able to feel the taboo or something like that.",
+      "platform": "stackexchange",
+      "author_hash": "2d32e61ac8a4feb599a05404",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0c145addff6c53db75b2",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Um.. Muriel is a relatively close relation to the parents; [TARGET]'s mother's mother's sister. This accountant is (assuming only materal connections for easy comparison) Molly's mother's mother's sister's child's child (or grandmother's sister's grandchild). These are quite different. I understand I am probably more estranged than average but objectively the accountant is much more distant than Muriel (especially when compared to Molly who more directly controls which family members then interact with). Note: he at knows the cousin exists; to me that is uncomforably close.",
+      "platform": "stackexchange",
+      "author_hash": "1e1f18dd5116fd5b580c78dc",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8257eb532d65e1eaf139",
+      "anonymous_id": "TARGET_A03",
+      "text": "That's only a technicality though. If the parents come down on you like a ton of bricks when the little sister gets hurt, the natural result is to not allow the little sister to participate in activities that could result in her injury. Its pretty well-established in the books that the one thing above all else you don't want to do in Potterverse is tick off Mrs. [TARGET].",
+      "platform": "stackexchange",
+      "author_hash": "c0a56c3389c163435b267b5c",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f9a02065b1baea1caf9a",
+      "anonymous_id": "TARGET_A03",
+      "text": "Sounds to me like he was unconsciously picking up on the Taboo. “It feels like a jinx or something,” eh?",
+      "platform": "stackexchange",
+      "author_hash": "0f870011e2db3cf85504085f",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a78b513af7a0ca916138",
+      "anonymous_id": "TARGET_A03",
+      "text": "Ain't nobody follow the rules?",
+      "platform": "stackexchange",
+      "author_hash": "27940cdb3be9559911a86ad0",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_ab20a37e96cc5529148c",
+      "anonymous_id": "TARGET_A03",
+      "text": "Yes, I just don't think the Diggorys and [TARGET]s are that close. And I don't think old people home staff are that informed about extended family members. And would you cont[TARGET]t them? \"I've never heard of you - you can't be who you say you are!\"",
+      "platform": "stackexchange",
+      "author_hash": "35fc3ba14381eae4d48601a5",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_500ae869b7bc543799e2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Makes sense... But would [TARGET] risk it? He doesn't have much to risk to begin with, AND if he concluded that Harry sucked at games he'd feel guilty about hustling the boy who lived. Shrug Pride is a hard thing to get past... and as clever as Harry might be, if it ever came out...",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8f08341738cca9fb14ad",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] could be. but wouldn't their refusal to teach her to endanger her more? if she was interested and they refused to teach her as the wording 'we never let her' suggests? Why weren't they afraid of Ginny experimenting alone? After all it is evident from the quote above that her brothers think Ginny is not likely to give up if she wants to do or hear something forbidden...",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_c8f4a073f0f43b4aedad",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's probably worth noting that what pushed Hermione \"over the edge\" with [TARGET] wasn't an instance of intellectual intelligence, it was his ordering the House Elves away from the Battle Of Hogwarts - showing both presence of mind and an empathy/respect for the elves that no-one else did. This heavily implies that it's this aspect of him, not grades, that she finds attractive.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_551f97afff6acbe5b1c5",
+      "anonymous_id": "TARGET_A03",
+      "text": "I st[TARGET]gly suspect they just asked around. Teachers aren't entirely thick when it comes to spotting young love, best friends, etc",
+      "platform": "stackexchange",
+      "author_hash": "950fd5d73b7c0de3d1fa9de5",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_05a0fd1cd71e6b36d1c2",
+      "anonymous_id": "TARGET_A03",
+      "text": "In DH, Hermione (as Bellatrix) mentions to Travers a sympathetic friend ([TARGET] in disguise.) As this was before Travers was imperiused, and he believed it when he had his free will, then it couldn't have been too uncommon. There isn't much of a stretch between \"sympathetic follower\" and Death Eater, so not unreasonable to assume yes.",
+      "platform": "stackexchange",
+      "author_hash": "7f49c97b6a81e91c95337c11",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f527952fe909afd96e24",
+      "anonymous_id": "TARGET_A03",
+      "text": "Question needs more context around the gibberish.",
+      "platform": "stackexchange",
+      "author_hash": "905d30c0d35cf8de30aa85bf",
+      "language": "en",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0cf44c17020598f1d864",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is pretty much the answer I came here to give. Snape is clearly intent on causing as much trouble for Harry and [TARGET] as he can, so he emphasises the facts in a way that are most likely to cause them trouble.",
+      "platform": "stackexchange",
+      "author_hash": "e08d4d48a769301d117422be",
+      "language": "en",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_cee1f9b5ddc248883f44",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'd just like to point out though that this could just be bias because you don't take note of the times when he said something about the future that didn't come true.",
+      "platform": "stackexchange",
+      "author_hash": "a0021839002ef70cfc242079",
+      "language": "en",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_500ae869b7bc543799e2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Makes sense... But would [TARGET] risk it? He doesn't have much to risk to begin with, AND if he concluded that Harry sucked at games he'd feel guilty about hustling the boy who lived. Shrug Pride is a hard thing to get past... and as clever as Harry might be, if it ever came out...",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.31878194,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.6615731,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f527952fe909afd96e24",
+      "anonymous_id": "TARGET_A03",
+      "text": "Question needs more context around the gibberish.",
+      "platform": "stackexchange",
+      "author_hash": "905d30c0d35cf8de30aa85bf",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_83c7cd407db7f77b5b93",
+      "anonymous_id": "TARGET_A03",
+      "text": "Adding to [USER]'s comment, it should also be noted that they tried telling the teachers about the threat in Philosophers Stone - and they were not believed.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_60a0280403c330dc8984",
+      "anonymous_id": "TARGET_A03",
+      "text": "Out of universe, of course, the answer is much simpler -- He's the poor, unknown, not very talented best-friend of the Rich, Famous, Talented hero. It kind of defines a lot of his character.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a78b513af7a0ca916138",
+      "anonymous_id": "TARGET_A03",
+      "text": "Ain't nobody follow the rules?",
+      "platform": "stackexchange",
+      "author_hash": "27940cdb3be9559911a86ad0",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_81d8906a0b5707c4c9ad",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Please see the question here for more information invalidating your point on \"[TARGET] didn't know the exact location, and the charm prevents him from knowing anymore\" (paraphrase). I also had the answer to your fallacy in the question, so the downvote feels warranted.",
+      "platform": "stackexchange",
+      "author_hash": "3d68600001ba44ffd2bb2681",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2f1eac3b5783e5e18372",
+      "anonymous_id": "TARGET_A03",
+      "text": "Not just them. The reaction of the parents is the big thing. As someone who's spent time as an older brother, if you get hurt that's a shame, but if the little sister gets hurt, and further it was your fault, God help you, because nobody else down here will.",
+      "platform": "stackexchange",
+      "author_hash": "c0a56c3389c163435b267b5c",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_85a6589c687b814ff88c",
+      "anonymous_id": "TARGET_A03",
+      "text": "I know plenty of teenagers that are very intelligent, but that don't apply themselves or observe things well - much like good old [TARGET]. I adored him for this reason. He reminds me so much of so many of my favorite students.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0cf44c17020598f1d864",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is pretty much the answer I came here to give. Snape is clearly intent on causing as much trouble for Harry and [TARGET] as he can, so he emphasises the facts in a way that are most likely to cause them trouble.",
+      "platform": "stackexchange",
+      "author_hash": "e08d4d48a769301d117422be",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.7947675,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_294bc5f25635ce9f78c3",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER]: I think what chirlu is saying is that in order for [TARGET] to be insecure about the idea that his parents kept having kids until they finally got a daughter, it has to be possible that his parents did so (whether or not they really did). So it has to be possible in the wizarding world for people to choose when to stop having kids.",
+      "platform": "stackexchange",
+      "author_hash": "29a7f9279c2d962430d4a9ee",
+      "language": "en",
+      "score": 0.6091522,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_cee1f9b5ddc248883f44",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'd just like to point out though that this could just be bias because you don't take note of the times when he said something about the future that didn't come true.",
+      "platform": "stackexchange",
+      "author_hash": "a0021839002ef70cfc242079",
+      "language": "en",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b3ca4d7c30aa183f43df",
+      "anonymous_id": "TARGET_A03",
+      "text": "+1 especially for the assertion that Hagrid may have been generalising based on a dislike of Slytherins. Otherwise decent wizards holding prejudices is quite common (just look at the [TARGET]s for examples of this).",
+      "platform": "stackexchange",
+      "author_hash": "dcacd96c7cefbd2d20c73dd3",
+      "language": "en",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_166994bb4fd9ec08c581",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Rich people doing that don't mind it though. The author makes it abundantly clear that [TARGET] is suffering from it — not excessively, but tangibly. (Perceived) peer pressure is a powerful psychological agent for adolescents.",
+      "platform": "stackexchange",
+      "author_hash": "a29b462315c201b0f632639a",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_19a104194f0cd44d2294",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I don't see why it would have to be true to affect [TARGET]--can you clarify that?",
+      "platform": "stackexchange",
+      "author_hash": "ec27d6f420eb35157c920436",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d49513a6b5fc0a7d06e4",
+      "anonymous_id": "TARGET_A03",
+      "text": "This Quora post lists a couple more times when [TARGET] seemingly predicted the future.",
+      "platform": "stackexchange",
+      "author_hash": "a0021839002ef70cfc242079",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b9764a189f07842ea9a4",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's probably the best way to do it. I don't think we can really have a complete answer to this question without some acknowledgment that [TARGET] is fairly unique in that regard among the book's characters (i.e. relatively inexplicable prediction accuracy per amount of stuff said).",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4ecc2ac3759fc7c18491",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is my first thought as well, but I think it'd be fair to also include something about the [TARGET]'s lifestyle: They make do! They may all get hand-me-downs, but overall they seem to be happy with their means (despite [TARGET]'s occasional grumps). To them, money isn't everything.",
+      "platform": "stackexchange",
+      "author_hash": "9b8a47ca80f901b87e8e027f",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_0cac9e43619734172ccc",
+      "anonymous_id": "TARGET_A03",
+      "text": "Hmm. Maybe. It just seemed like an awfully convenient thing to happen at that point only me. They stayed in Grimmauld Place for quite a while and seeing Death Eaters day and night outside your window should have triggered this reaction in [TARGET] sooner is what I feel.",
+      "platform": "stackexchange",
+      "author_hash": "2d32e61ac8a4feb599a05404",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f5f47fc43bfaed690d1d",
+      "anonymous_id": "TARGET_A03",
+      "text": "Because they throw fire at people",
+      "platform": "stackexchange",
+      "author_hash": "cb60388d32599c66a06cf0d7",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2f1eac3b5783e5e18372",
+      "anonymous_id": "TARGET_A03",
+      "text": "Not just them. The reaction of the parents is the big thing. As someone who's spent time as an older brother, if you get hurt that's a shame, but if the little sister gets hurt, and further it was your fault, God help you, because nobody else down here will.",
+      "platform": "stackexchange",
+      "author_hash": "c0a56c3389c163435b267b5c",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a1b93dc00ce63c974274",
+      "anonymous_id": "TARGET_A03",
+      "text": "[TARGET] got his feelings hurt in every book.",
+      "platform": "stackexchange",
+      "author_hash": "cacb2de3c879852f96513251",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_166994bb4fd9ec08c581",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Rich people doing that don't mind it though. The author makes it abundantly clear that [TARGET] is suffering from it — not excessively, but tangibly. (Perceived) peer pressure is a powerful psychological agent for adolescents.",
+      "platform": "stackexchange",
+      "author_hash": "a29b462315c201b0f632639a",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7aebc9a2fcd615bfb603",
+      "anonymous_id": "TARGET_A03",
+      "text": "Why would Mrs. [TARGET] cringe in shame? She doesn't want her children to misbehave, and tells them off if they misbehave, but that doesn't mean she would be in any way ashamed for her son. Especially if a Malfoy is the target.",
+      "platform": "stackexchange",
+      "author_hash": "a99e23d014a8f04916524507",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_24f212f5f7371febb8bd",
+      "anonymous_id": "TARGET_A03",
+      "text": "Embarrassment. Hermione and [TARGET] were beginning to have romantic feelings for each other, and they held off because hugging would have given conflicting signals.",
+      "platform": "stackexchange",
+      "author_hash": "02cb9e444bafd77985b93b2a",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7a84193df2caac3bc887",
+      "anonymous_id": "TARGET_A03",
+      "text": "If you're in a room with a friend and he suddenly starts raging about something and it's totally out of character for your friend, you'd sit there with your mouth hanging open, too. It's not that [TARGET] & Hermione were afraid of Harry, they were shocked by his outburst. Ginny, having not been there (\"thought she heard his voice\"), but wasn't there to see the outburst itself, so wasn't shocked because she didn't realize the extent of the shouting.",
+      "platform": "stackexchange",
+      "author_hash": "122b56b5aa1507bae2b13298",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7a84193df2caac3bc887",
+      "anonymous_id": "TARGET_A03",
+      "text": "If you're in a room with a friend and he suddenly starts raging about something and it's totally out of character for your friend, you'd sit there with your mouth hanging open, too. It's not that [TARGET] & Hermione were afraid of Harry, they were shocked by his outburst. Ginny, having not been there (\"thought she heard his voice\"), but wasn't there to see the outburst itself, so wasn't shocked because she didn't realize the extent of the shouting.",
+      "platform": "stackexchange",
+      "author_hash": "122b56b5aa1507bae2b13298",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2ab7de2578f80a7962ff",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's not true. When they all visit Gringotts in the Chamber of Secrets, Harry feels ashamed and embarrassed about the money in his vault, and makes an attempt to cover up, as he shoves a bit of gold into his bag (pouch?). In the Sorcerer's Stone, [TARGET] also has wide eyes as to the amount of money Harry spends on sweets, so it's obvious he knew, but perhaps didn't want to touch on the subject of charity.",
+      "platform": "stackexchange",
+      "author_hash": "3d68600001ba44ffd2bb2681",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_24f212f5f7371febb8bd",
+      "anonymous_id": "TARGET_A03",
+      "text": "Embarrassment. Hermione and [TARGET] were beginning to have romantic feelings for each other, and they held off because hugging would have given conflicting signals.",
+      "platform": "stackexchange",
+      "author_hash": "02cb9e444bafd77985b93b2a",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_6252efa5e12db0c68edd",
+      "anonymous_id": "TARGET_A03",
+      "text": "Possibly shock? Also they may have felt guilty about how much they knew, so wanted to hide it from the teachers. Remember they are 12-year-old schoolboys...",
+      "platform": "stackexchange",
+      "author_hash": "4b72f98559f193548bbac5cf",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_166994bb4fd9ec08c581",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Rich people doing that don't mind it though. The author makes it abundantly clear that [TARGET] is suffering from it — not excessively, but tangibly. (Perceived) peer pressure is a powerful psychological agent for adolescents.",
+      "platform": "stackexchange",
+      "author_hash": "a29b462315c201b0f632639a",
+      "language": "en",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4afea577649ea4c186d0",
+      "anonymous_id": "TARGET_A03",
+      "text": "He's good at a board game, he has a couple of good ideas, and he acts stupid a bunch of times. Seems like a normal person. Could he just be average?",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b12ba2778582c9587f8d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Yeah, and I don't think I necessarily disagree. But I had the thought too - I wonder if [TARGET] is the only one like that, and if we'd find some similar connections if we examine the book's other characters. Let's also keep in mind the narrative device of the fool who says profound or prophetic things. Since [TARGET] does fit some of the parameters of the fool, it could still be that he is prophetic for purely literary reasons.",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4d6f67e1e31f2ec712b8",
+      "anonymous_id": "TARGET_A03",
+      "text": "Sounds a bit far-fetched that he will be able to feel the taboo or something like that.",
+      "platform": "stackexchange",
+      "author_hash": "2d32e61ac8a4feb599a05404",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.6615731,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_4fa7cc5d77331490f815",
+      "anonymous_id": "TARGET_A03",
+      "text": "The example that always sticks out to me is Hermione giving [TARGET] the idea to use wingardium leviosa against the troll. An example in the books of [TARGET] using his calmness and on-the-spot thinking while Hermione was panicking and didn’t know what to do.",
+      "platform": "youtube",
+      "author_hash": "f1f3f265673fa6122ca5d5c1",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_dcdad7b981a0bb89424d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - they seem to be financially stable. Not rich, or even overly \"dentist class\" comfortable, but stable. They eat VERY well, they have a stable housing situation, they managed to pay to put 7 kids through school. They don't have money for luxuries, but that isn't a sign of lack of stability.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_9eca269a1c1871e207db",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'd imagine it's a bit like a keyboard. When you first get any keyboard, you're clumsy with it, but eventually you learn to touch-type just fine. If you're used to using one for a long time, and someone else hands you their keyboard, you struggle a bit because things don't quite match up with your muscle memory. You can still type on it, but just not with the same accuracy or efficiency.",
+      "platform": "stackexchange",
+      "author_hash": "2234311c51b33e6bcc3e33a4",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4d6f67e1e31f2ec712b8",
+      "anonymous_id": "TARGET_A03",
+      "text": "Sounds a bit far-fetched that he will be able to feel the taboo or something like that.",
+      "platform": "stackexchange",
+      "author_hash": "2d32e61ac8a4feb599a05404",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_6252efa5e12db0c68edd",
+      "anonymous_id": "TARGET_A03",
+      "text": "Possibly shock? Also they may have felt guilty about how much they knew, so wanted to hide it from the teachers. Remember they are 12-year-old schoolboys...",
+      "platform": "stackexchange",
+      "author_hash": "4b72f98559f193548bbac5cf",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b9764a189f07842ea9a4",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's probably the best way to do it. I don't think we can really have a complete answer to this question without some acknowledgment that [TARGET] is fairly unique in that regard among the book's characters (i.e. relatively inexplicable prediction accuracy per amount of stuff said).",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_228af8e1a870a0699a8c",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Did Rowling refer to it as a Cushioning Charm? If so, she's contradicted herself. \"Harry heard the cart smash into pieces against the passage wall, heard Hermione shriek something and felt himself glide back to the ground as though weightless, landing painlessly on the rocky passage floor. \" C - Cushioning Charm, \" Hermione spluttered, as [TARGET] pulled her to her feet.\"",
+      "platform": "stackexchange",
+      "author_hash": "50b06cd22d947895f1b95470",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_ff5dba8a21e1aa194791",
+      "anonymous_id": "TARGET_A03",
+      "text": "I’m convinced that you’re misapplying the research here. Financial stability is even more important than buying unique experience. The money (ideally) wouldn’t have gone towards trinkets but towards alleviating financial instability. There’s solid research that this yields vastly improved quality of life.",
+      "platform": "stackexchange",
+      "author_hash": "a29b462315c201b0f632639a",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_60a0280403c330dc8984",
+      "anonymous_id": "TARGET_A03",
+      "text": "Out of universe, of course, the answer is much simpler -- He's the poor, unknown, not very talented best-friend of the Rich, Famous, Talented hero. It kind of defines a lot of his character.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0c145addff6c53db75b2",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Um.. Muriel is a relatively close relation to the parents; [TARGET]'s mother's mother's sister. This accountant is (assuming only materal connections for easy comparison) Molly's mother's mother's sister's child's child (or grandmother's sister's grandchild). These are quite different. I understand I am probably more estranged than average but objectively the accountant is much more distant than Muriel (especially when compared to Molly who more directly controls which family members then interact with). Note: he at knows the cousin exists; to me that is uncomforably close.",
+      "platform": "stackexchange",
+      "author_hash": "1e1f18dd5116fd5b580c78dc",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f53845a462e66669416f",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I'm not sure I can recall any specific friends that Percy has, to be honest. Obviously he had a (secret) girlfriend in the second book, and he was friendly towards people like Harry. But he always struck me as being aloof and certainly far more concerned with seeing to his prefect duties than he was with friendship. Age perhaps played a role as to why he didn't usually sit with his family. But note that Ginny often sat with [TARGET] and his friends even though they were in separate years and she had her own friendship circle.",
+      "platform": "stackexchange",
+      "author_hash": "50b06cd22d947895f1b95470",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b9764a189f07842ea9a4",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's probably the best way to do it. I don't think we can really have a complete answer to this question without some acknowledgment that [TARGET] is fairly unique in that regard among the book's characters (i.e. relatively inexplicable prediction accuracy per amount of stuff said).",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b12ba2778582c9587f8d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Yeah, and I don't think I necessarily disagree. But I had the thought too - I wonder if [TARGET] is the only one like that, and if we'd find some similar connections if we examine the book's other characters. Let's also keep in mind the narrative device of the fool who says profound or prophetic things. Since [TARGET] does fit some of the parameters of the fool, it could still be that he is prophetic for purely literary reasons.",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d46b58b546f76edb754b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I agree that the cousin seemed rather Dursley-ish (then again, so is Muriel with her pure-blood elitism); but I disagree that second cousins would be a distant relation to someone like the [TARGET]s. Accountant cousin wouldn’t really be more distant to Molly than Muriel is to the [TARGET] children. Even to me, being from quite a small and not very close-knit family, even highly disliked second cousins are not just completely shushed away into nonexistence.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f825aa44953bc37d1de1",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Besides, the very fact that he lives in the Muggle world would be enough to make him highly interesting at least to Arthur, but he apparently never talks about him either. And as you yourself said, you have several cousins you don’t really talk about—[TARGET] doesn’t even really seem to know for sure whether this second cousin exists or not, so any mention of him must be extremely rare.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_19a104194f0cd44d2294",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I don't see why it would have to be true to affect [TARGET]--can you clarify that?",
+      "platform": "stackexchange",
+      "author_hash": "ec27d6f420eb35157c920436",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_2122307776ecfde9ecd2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Poor [TARGET]. His parents just didn't care enough!",
+      "platform": "stackexchange",
+      "author_hash": "57ab8f9b17aaed902c7b9064",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_24f212f5f7371febb8bd",
+      "anonymous_id": "TARGET_A03",
+      "text": "Embarrassment. Hermione and [TARGET] were beginning to have romantic feelings for each other, and they held off because hugging would have given conflicting signals.",
+      "platform": "stackexchange",
+      "author_hash": "02cb9e444bafd77985b93b2a",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_cb110118e469caba36c7",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] It could be—but I have always interpreted [TARGET]’s statement (and whoever wrote the Wiki article clearly did so too) as displaying some level of hostility towards the cousin. “We never talk about him” seems much more categorical than “He doesn’t come up in conversation much”. I have several second cousins and great aunts and uncles that we rarely talk about in my family, too—but I at least know of their existence and names, and even if it’s not common, they are occasionally mentioned. [TARGET]’s description sounds more like the Dursleys’ treatment of Lily and James.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_205762c333c993d60f72",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] and here we disagree. I totally agree he wasn't comfortable with using them, but! I would also say this demonstrates he knew about them enough to use the phrase (not because of phone culture, but because of Muggle technology being insufficient to reach Cadogan). At the end of the day though, do select answer you like most. :-)",
+      "platform": "stackexchange",
+      "author_hash": "82da0a7bab7e0f6e14b805a0",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8f08341738cca9fb14ad",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] could be. but wouldn't their refusal to teach her to endanger her more? if she was interested and they refused to teach her as the wording 'we never let her' suggests? Why weren't they afraid of Ginny experimenting alone? After all it is evident from the quote above that her brothers think Ginny is not likely to give up if she wants to do or hear something forbidden...",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7aebc9a2fcd615bfb603",
+      "anonymous_id": "TARGET_A03",
+      "text": "Why would Mrs. [TARGET] cringe in shame? She doesn't want her children to misbehave, and tells them off if they misbehave, but that doesn't mean she would be in any way ashamed for her son. Especially if a Malfoy is the target.",
+      "platform": "stackexchange",
+      "author_hash": "a99e23d014a8f04916524507",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_83fb01bdcae9ca9a302a",
+      "anonymous_id": "TARGET_A03",
+      "text": "+1, nice analysis. However, I'd argue that Hermione's inability to heal [TARGET] was likely due to a lack of confidence instead of a lack of skill or knowledge: “It’s all I feel safe doing,” said Hermione shakily. “There are spells that would put him completely right, but I daren’t try in case I do them w[TARGET]g and cause more damage....He’s lost too much blood already. . . . ”",
+      "platform": "stackexchange",
+      "author_hash": "772cfad9584bd2d56d119a80",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a192d0b6ab1527428255",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's a good point, but I would probably characterize it as his (somewhat untapped) intelligence brings him to a level that Hermione could tolerate him, but his empathy won her heart. Both were required for different reasons to make the relationship work.",
+      "platform": "stackexchange",
+      "author_hash": "54f0f210de7ff1be6148008c",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_f240e2b4aa28f95946c6",
+      "anonymous_id": "TARGET_A03",
+      "text": "He is loyal to whoever protects him. Not being a good rat wouldve put him at a weaker position. [TARGET] didn't like him as is since he was useless otherwise. Gotta ensure that master is happy somehow",
+      "platform": "stackexchange",
+      "author_hash": "e9201c752c92bae8a556c917",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a192d0b6ab1527428255",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's a good point, but I would probably characterize it as his (somewhat untapped) intelligence brings him to a level that Hermione could tolerate him, but his empathy won her heart. Both were required for different reasons to make the relationship work.",
+      "platform": "stackexchange",
+      "author_hash": "54f0f210de7ff1be6148008c",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_a78b513af7a0ca916138",
+      "anonymous_id": "TARGET_A03",
+      "text": "Ain't nobody follow the rules?",
+      "platform": "stackexchange",
+      "author_hash": "27940cdb3be9559911a86ad0",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_c8f4a073f0f43b4aedad",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's probably worth noting that what pushed Hermione \"over the edge\" with [TARGET] wasn't an instance of intellectual intelligence, it was his ordering the House Elves away from the Battle Of Hogwarts - showing both presence of mind and an empathy/respect for the elves that no-one else did. This heavily implies that it's this aspect of him, not grades, that she finds attractive.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_dcdad7b981a0bb89424d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - they seem to be financially stable. Not rich, or even overly \"dentist class\" comfortable, but stable. They eat VERY well, they have a stable housing situation, they managed to pay to put 7 kids through school. They don't have money for luxuries, but that isn't a sign of lack of stability.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_19a104194f0cd44d2294",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I don't see why it would have to be true to affect [TARGET]--can you clarify that?",
+      "platform": "stackexchange",
+      "author_hash": "ec27d6f420eb35157c920436",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b9764a189f07842ea9a4",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's probably the best way to do it. I don't think we can really have a complete answer to this question without some acknowledgment that [TARGET] is fairly unique in that regard among the book's characters (i.e. relatively inexplicable prediction accuracy per amount of stuff said).",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8f08341738cca9fb14ad",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] could be. but wouldn't their refusal to teach her to endanger her more? if she was interested and they refused to teach her as the wording 'we never let her' suggests? Why weren't they afraid of Ginny experimenting alone? After all it is evident from the quote above that her brothers think Ginny is not likely to give up if she wants to do or hear something forbidden...",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_e1e10dfc5d3e2090ed23",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Probably more the former than the latter ([TARGET] obviously had an almost lifelong fear of Voldemort's name that he'd suppressed, bringing that out again probably wouldn't take much work), but can't rule anything out. I'm hoping I might actually get some time to write a competing answer in the next few days to fully explore the theory that it was the locket, and not some never before demonstrated intuition (no, I don't think realising something was up with Hermione in their third year counts).",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.7353376,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_c8f4a073f0f43b4aedad",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's probably worth noting that what pushed Hermione \"over the edge\" with [TARGET] wasn't an instance of intellectual intelligence, it was his ordering the House Elves away from the Battle Of Hogwarts - showing both presence of mind and an empathy/respect for the elves that no-one else did. This heavily implies that it's this aspect of him, not grades, that she finds attractive.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.67883813,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b227c1f74b9820953c43",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] The effects of the locket were worst when wearing them, but I think there was still some level of effect just by being in close proximity to it. [TARGET] was also affected much more by the locket when he wore it (and seemed to have a harder time getting over its effects after removing it), so I don't think it's necessarily impossible that he was - in a severely weakened state due to the injuries he'd just suffered - influenced by it very early on, despite not having worn it yet. He wouldn't need to know that they possessed it at all.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_ef72f62022a0ec408777",
+      "anonymous_id": "TARGET_A03",
+      "text": "Not the downvoter (the drive-by downvoter is the scourge of SE, IMO) but I think it's because your answer has speculation and opinion rather than fact. The facts you do provide aren't sufficient evidence for the opinions expressed. Arthur [TARGET]'s Muggle-mania is documented but his kids always regard it as a weird \"dad hobby\" and are never actually shown taking interest in it. And before OOTP, there's no evidence that [TARGET] had ever seen the visitor entrance to the Ministry.",
+      "platform": "stackexchange",
+      "author_hash": "f221bf5ac577b3dd836a52f3",
+      "language": "en",
+      "score": 0.6294102,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d79e085904c11bdb7d9b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] To be clear, I never claimed that [TARGET] was super-intuitive, just that being more familiar with the wizarding world has better insight than Harry and Hermione about jinxes and how magic works in general. in some cases [TARGET] did prove pretty observant. f.e. he spotted Hermione's strange appearances in the year she used the Time Turner - but he was waved off by her. As he did not think much of his own abilities he did not persist in his inquiry.",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.6184117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0c495e9ec34e36b2bd3f",
+      "anonymous_id": "TARGET_A03",
+      "text": "I like this answer better than the others because the minimum requirement is indeed an absence of knowledge on the part of Harry, [TARGET], Hermione and Ginny. But, I find it difficult to believe that, after their first encounter with Voldemort (in the Philosopher's stone), they didn't seek more information about Voldemort's background. It is common knowledge that he went to Slytherin, so why not his original name? I think the story of who and how he became The Dark Lord would be a fascinating part of common folk lore. I would accept your answer if Chamber of Secrets was the first book.",
+      "platform": "stackexchange",
+      "author_hash": "c36aae41faca5257b8e88219",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_19a104194f0cd44d2294",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I don't see why it would have to be true to affect [TARGET]--can you clarify that?",
+      "platform": "stackexchange",
+      "author_hash": "ec27d6f420eb35157c920436",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_6252efa5e12db0c68edd",
+      "anonymous_id": "TARGET_A03",
+      "text": "Possibly shock? Also they may have felt guilty about how much they knew, so wanted to hide it from the teachers. Remember they are 12-year-old schoolboys...",
+      "platform": "stackexchange",
+      "author_hash": "4b72f98559f193548bbac5cf",
+      "language": "en",
+      "score": 0.5922893,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_85a6589c687b814ff88c",
+      "anonymous_id": "TARGET_A03",
+      "text": "I know plenty of teenagers that are very intelligent, but that don't apply themselves or observe things well - much like good old [TARGET]. I adored him for this reason. He reminds me so much of so many of my favorite students.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_60a0280403c330dc8984",
+      "anonymous_id": "TARGET_A03",
+      "text": "Out of universe, of course, the answer is much simpler -- He's the poor, unknown, not very talented best-friend of the Rich, Famous, Talented hero. It kind of defines a lot of his character.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.6923092,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7cdaac79024e529e2aa5",
+      "anonymous_id": "TARGET_A03",
+      "text": "I never really questioned this; [TARGET] (and his family) are poor but proud - even stealth help would damage their friendship if it was eventually found out. It's not uncommon for proud & poor to equal never wanting charity (although luck is acceptable.) The closest I can come up with Canon info is the way the twins accepted the winnings from the GOF; they were reluctant, and only took it as an investment.. then treated Harry as their 'business angel' ever after, refusing to let him pay from stuff from their shop, and so forth.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.63847464,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_dcdad7b981a0bb89424d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] - they seem to be financially stable. Not rich, or even overly \"dentist class\" comfortable, but stable. They eat VERY well, they have a stable housing situation, they managed to pay to put 7 kids through school. They don't have money for luxuries, but that isn't a sign of lack of stability.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4afea577649ea4c186d0",
+      "anonymous_id": "TARGET_A03",
+      "text": "He's good at a board game, he has a couple of good ideas, and he acts stupid a bunch of times. Seems like a normal person. Could he just be average?",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4bdabcf276e524f59c69",
+      "anonymous_id": "TARGET_A03",
+      "text": "It doesn't seem like the sort of thing he is forced to keep there, considering how much agency he has in decorating the rest of his room. If he chooses to keep it there, it doesn't matter who created or gave him the plaque.",
+      "platform": "stackexchange",
+      "author_hash": "33fb9fc4d3646430d2106e6c",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_500ae869b7bc543799e2",
+      "anonymous_id": "TARGET_A03",
+      "text": "Makes sense... But would [TARGET] risk it? He doesn't have much to risk to begin with, AND if he concluded that Harry sucked at games he'd feel guilty about hustling the boy who lived. Shrug Pride is a hard thing to get past... and as clever as Harry might be, if it ever came out...",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_c8f4a073f0f43b4aedad",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's probably worth noting that what pushed Hermione \"over the edge\" with [TARGET] wasn't an instance of intellectual intelligence, it was his ordering the House Elves away from the Battle Of Hogwarts - showing both presence of mind and an empathy/respect for the elves that no-one else did. This heavily implies that it's this aspect of him, not grades, that she finds attractive.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_85a6589c687b814ff88c",
+      "anonymous_id": "TARGET_A03",
+      "text": "I know plenty of teenagers that are very intelligent, but that don't apply themselves or observe things well - much like good old [TARGET]. I adored him for this reason. He reminds me so much of so many of my favorite students.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8a1eb06f0d519721cdc1",
+      "anonymous_id": "TARGET_A03",
+      "text": "Don't have a canon answer, but seems to me that [TARGET]s were socially a typical family that tend to trust people in authority (second oldest \"profession\" included) unless the authority proved itself untrustworthy.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_cee1f9b5ddc248883f44",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'd just like to point out though that this could just be bias because you don't take note of the times when he said something about the future that didn't come true.",
+      "platform": "stackexchange",
+      "author_hash": "a0021839002ef70cfc242079",
+      "language": "en",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_03e060d780a8404d03ec",
+      "anonymous_id": "TARGET_A03",
+      "text": "It's not in-universe, but ask anyone who's come into money and started helping friends out. Even when you do it anonymously, they have a st[TARGET]g sense who is doing it just from logic and it always puts strain on the relationship.",
+      "platform": "stackexchange",
+      "author_hash": "990f5bd99b209212ef9d0abe",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_19a104194f0cd44d2294",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] I don't see why it would have to be true to affect [TARGET]--can you clarify that?",
+      "platform": "stackexchange",
+      "author_hash": "ec27d6f420eb35157c920436",
+      "language": "en",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b12ba2778582c9587f8d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Yeah, and I don't think I necessarily disagree. But I had the thought too - I wonder if [TARGET] is the only one like that, and if we'd find some similar connections if we examine the book's other characters. Let's also keep in mind the narrative device of the fool who says profound or prophetic things. Since [TARGET] does fit some of the parameters of the fool, it could still be that he is prophetic for purely literary reasons.",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_f64d44f6cae5edb8c4f6",
+      "anonymous_id": "TARGET_A03",
+      "text": "One of the things people overlook about [TARGET] is that he was also the most observant of the trio. He was the one to figure out Fleur was a Veela, he was the one who first saw the prophesy orb with Harry's name when they sieged the Ministry of Magic. Those are just a couple, but there are plenty of examples where [TARGET] spots something out of the ordinary or discovers something unique among the trio. I also hated how he was the butt of the joke in the movies, to the point they carried that character over to the Cursed Child (I refuse to accept that as cannon....you seriously couldn't think of a different threat than to bring back Voldemort?)",
+      "platform": "youtube",
+      "author_hash": "d55f7b0e5b57ef1358930d37",
+      "language": "en",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d49513a6b5fc0a7d06e4",
+      "anonymous_id": "TARGET_A03",
+      "text": "This Quora post lists a couple more times when [TARGET] seemingly predicted the future.",
+      "platform": "stackexchange",
+      "author_hash": "a0021839002ef70cfc242079",
+      "language": "en",
+      "score": 0.3429895,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_83c7cd407db7f77b5b93",
+      "anonymous_id": "TARGET_A03",
+      "text": "Adding to [USER]'s comment, it should also be noted that they tried telling the teachers about the threat in Philosophers Stone - and they were not believed.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b3ca4d7c30aa183f43df",
+      "anonymous_id": "TARGET_A03",
+      "text": "+1 especially for the assertion that Hagrid may have been generalising based on a dislike of Slytherins. Otherwise decent wizards holding prejudices is quite common (just look at the [TARGET]s for examples of this).",
+      "platform": "stackexchange",
+      "author_hash": "dcacd96c7cefbd2d20c73dd3",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d79e085904c11bdb7d9b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] To be clear, I never claimed that [TARGET] was super-intuitive, just that being more familiar with the wizarding world has better insight than Harry and Hermione about jinxes and how magic works in general. in some cases [TARGET] did prove pretty observant. f.e. he spotted Hermione's strange appearances in the year she used the Time Turner - but he was waved off by her. As he did not think much of his own abilities he did not persist in his inquiry.",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_840ad23b3d586a45bdce",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't think there's ever any suggestion that the robes reflect house and as you say they are plain black when bought and I'm quite sure they stay that way as nothing to the contrary is ever stated. One additional piece of evidence is that, in Chamber of Secrets, they mistake Penelope Clearwater for a Slytherin when she's in Ravenclaw, but then again, they could have just not noticed the badge on the chest or whatever that the movie depicts",
+      "platform": "stackexchange",
+      "author_hash": "6c295a749ce7f918aadf281b",
+      "language": "en",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "hp_ron:stackexchange_6375c3b2120a70606f2b",
+      "anonymous_id": "TARGET_A03",
+      "text": "It could have been as mild as Go to Hell or as severe as Take a flying FK at a Rowling doughnut , neither of which would [TARGET] have uttered in f[TARGET]t of his Mum. I lean towards the second choice.",
+      "platform": "stackexchange",
+      "author_hash": "cacb2de3c879852f96513251",
+      "language": "en",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_4fa7cc5d77331490f815",
+      "anonymous_id": "TARGET_A03",
+      "text": "The example that always sticks out to me is Hermione giving [TARGET] the idea to use wingardium leviosa against the troll. An example in the books of [TARGET] using his calmness and on-the-spot thinking while Hermione was panicking and didn’t know what to do.",
+      "platform": "youtube",
+      "author_hash": "f1f3f265673fa6122ca5d5c1",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7a84193df2caac3bc887",
+      "anonymous_id": "TARGET_A03",
+      "text": "If you're in a room with a friend and he suddenly starts raging about something and it's totally out of character for your friend, you'd sit there with your mouth hanging open, too. It's not that [TARGET] & Hermione were afraid of Harry, they were shocked by his outburst. Ginny, having not been there (\"thought she heard his voice\"), but wasn't there to see the outburst itself, so wasn't shocked because she didn't realize the extent of the shouting.",
+      "platform": "stackexchange",
+      "author_hash": "122b56b5aa1507bae2b13298",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d557cc4526eb9c866892",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] people usually need time to process things, [TARGET] probably is no exception. They knew somehow they were located in TC road, and [TARGET]'s brain was working on the problem since then. Getting a bit of adrenaline might have helped :)",
+      "platform": "stackexchange",
+      "author_hash": "64af189dc1e6f58711e47d03",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2490685588373d412402",
+      "anonymous_id": "TARGET_A03",
+      "text": "I don't find this explanation particularly convincing. [TARGET] was never shown to be particularly intuitive. It seems more likely that it was an underlying fear made worse by the Horcrux they'd just gained possession of (Slytherin's locket). That fits a lot better with the timing, and also with [TARGET]'s character throughout the books; he's capable of suppressing his fears to do what needs doing, but he never really overcomes them.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_2f1eac3b5783e5e18372",
+      "anonymous_id": "TARGET_A03",
+      "text": "Not just them. The reaction of the parents is the big thing. As someone who's spent time as an older brother, if you get hurt that's a shame, but if the little sister gets hurt, and further it was your fault, God help you, because nobody else down here will.",
+      "platform": "stackexchange",
+      "author_hash": "c0a56c3389c163435b267b5c",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_8da893514e8dbd371da1",
+      "anonymous_id": "TARGET_A03",
+      "text": "7:17 The perfect example of this is in Deathly Hallows after they hop off the dragon and are trying to regroup. Everything is so tense and [TARGET] says something like “I think they may have noticed that we broke into Gringotts” which just makes them all laugh for what seems like ages.",
+      "platform": "youtube",
+      "author_hash": "ae8e41fe7946c0324e72618f",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_7aebc9a2fcd615bfb603",
+      "anonymous_id": "TARGET_A03",
+      "text": "Why would Mrs. [TARGET] cringe in shame? She doesn't want her children to misbehave, and tells them off if they misbehave, but that doesn't mean she would be in any way ashamed for her son. Especially if a Malfoy is the target.",
+      "platform": "stackexchange",
+      "author_hash": "a99e23d014a8f04916524507",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0cf44c17020598f1d864",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is pretty much the answer I came here to give. Snape is clearly intent on causing as much trouble for Harry and [TARGET] as he can, so he emphasises the facts in a way that are most likely to cause them trouble.",
+      "platform": "stackexchange",
+      "author_hash": "e08d4d48a769301d117422be",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "hp_ron:stackexchange_2ab841f3a26985833653",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] theoretically possible, but a) is based on a supposition and b) a counter-explanation would be that Aunt Muriel, although owning multiple properties, has one \"main\" residence which she frequents most of the time, and that Bill/[TARGET] would refer to the main residence as Aunt Muriel's unless further clarified",
+      "platform": "stackexchange",
+      "author_hash": "f4e5062270680180b44b7e82",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_c8a4d5d7c04302380b7b",
+      "anonymous_id": "TARGET_A03",
+      "text": "Where a short form is used as the default (\"Tom\" rather than \"Thomas\", say), then there is a cultural norm that using the full form is an indication of seriousness or formality. Often it's a parent indicating to a child that they're in extreme trouble (like Molly does with the Howler), or a formal rite or ritual (the sorting, and the will), or when Dumbledore says it in f[TARGET]t of the mirror - indicating a gravitas to the event.",
+      "platform": "stackexchange",
+      "author_hash": "c566fae1851b6e59e77f5f76",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_8257eb532d65e1eaf139",
+      "anonymous_id": "TARGET_A03",
+      "text": "That's only a technicality though. If the parents come down on you like a ton of bricks when the little sister gets hurt, the natural result is to not allow the little sister to participate in activities that could result in her injury. Its pretty well-established in the books that the one thing above all else you don't want to do in Potterverse is tick off Mrs. [TARGET].",
+      "platform": "stackexchange",
+      "author_hash": "c0a56c3389c163435b267b5c",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_4d6f67e1e31f2ec712b8",
+      "anonymous_id": "TARGET_A03",
+      "text": "Sounds a bit far-fetched that he will be able to feel the taboo or something like that.",
+      "platform": "stackexchange",
+      "author_hash": "2d32e61ac8a4feb599a05404",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b0b73f50ba1cfda8f103",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Sure.. they could have Imperiused that person; or killed them or... But the fact remains they were sort of occupied and had to be extremely careful. As it is Harry messed up and got them caught by Snatchers didn't he? And they were forced to apparate along with the Snatchers to Malfoy Manor. Too risky is just that and this is esp true when in war or major conflict. And although self doubt can be a real burden and harmful there are times when it's there to protect you. Which is exactly why user13267 is correct: it does explain why they didn't try it later. Love your handle btw.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_d5a2e149236eb4de619b",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Arthur [TARGET] took full advantage of loopholes (I.E. the car could fly as long as you didn't INTEND to fly it and he didn't punish his sons for flying it until Molly said something) so I don't believe he would have minded this loophole either. Molly on the other hand...",
+      "platform": "stackexchange",
+      "author_hash": "726a4c0ee29eb54144dec9fd",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_08a8d3bbb060859fc397",
+      "anonymous_id": "TARGET_A03",
+      "text": "\"Need I say more?\" - I'm afraid you do. Currently, only your first example is actually relevant to the question. You don't need to be smart to make a self-sacrifice, or to defend another person.",
+      "platform": "stackexchange",
+      "author_hash": "22a944c9efc233c6a162de5f",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b3ca4d7c30aa183f43df",
+      "anonymous_id": "TARGET_A03",
+      "text": "+1 especially for the assertion that Hagrid may have been generalising based on a dislike of Slytherins. Otherwise decent wizards holding prejudices is quite common (just look at the [TARGET]s for examples of this).",
+      "platform": "stackexchange",
+      "author_hash": "dcacd96c7cefbd2d20c73dd3",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_f825aa44953bc37d1de1",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Besides, the very fact that he lives in the Muggle world would be enough to make him highly interesting at least to Arthur, but he apparently never talks about him either. And as you yourself said, you have several cousins you don’t really talk about—[TARGET] doesn’t even really seem to know for sure whether this second cousin exists or not, so any mention of him must be extremely rare.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "hp_ron:stackexchange_72b5c82efb2df1a8e14c",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER]'Thor Can you immagine [TARGET] spaying \"Yeah, we'll call upon you\"? Seems a bit too formal for my liking. Call is a perfectly acceptable informal form of 'to call upon' or more likely 'to call out to', and is more in line with [TARGET]'s character.",
+      "platform": "stackexchange",
+      "author_hash": "43d04ea9ec4e4fdd22b1745f",
+      "language": "en",
+      "score": 0.7428696,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:youtube_58343863ef1430ba40ab",
+      "anonymous_id": "TARGET_A03",
+      "text": "[TARGET]'s sense of witty humour was really brilliant and almost 70% of lines that make you laugh in the books are from [TARGET] . He is different from twins as they are more of pranksters then being funny with dialogue.",
+      "platform": "youtube",
+      "author_hash": "1610ef7b69c07a952048aa4b",
+      "language": "en",
+      "score": 0.7353376,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_63a92419f78302b8c17c",
+      "anonymous_id": "TARGET_A03",
+      "text": "i always assumed he strung together a series of insults in a most marvelous manner, the likes of which would be heard from a 14 year old playing Call of Duty.",
+      "platform": "stackexchange",
+      "author_hash": "9a686e802c835ed183f6415b",
+      "language": "en",
+      "score": 0.7005671,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_6ba5b2f2d5ca5630ca80",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] From the first book: \"Think my name's funny, do you? No need to ask who you are. My father told me all the [TARGET]s have red hair , freckles, and more children than they can afford.\"",
+      "platform": "stackexchange",
+      "author_hash": "6cf07b234ef00ec97a472605",
+      "language": "en",
+      "score": 0.6923092,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_0cf44c17020598f1d864",
+      "anonymous_id": "TARGET_A03",
+      "text": "This is pretty much the answer I came here to give. Snape is clearly intent on causing as much trouble for Harry and [TARGET] as he can, so he emphasises the facts in a way that are most likely to cause them trouble.",
+      "platform": "stackexchange",
+      "author_hash": "e08d4d48a769301d117422be",
+      "language": "en",
+      "score": 0.68897086,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_85a6589c687b814ff88c",
+      "anonymous_id": "TARGET_A03",
+      "text": "I know plenty of teenagers that are very intelligent, but that don't apply themselves or observe things well - much like good old [TARGET]. I adored him for this reason. He reminds me so much of so many of my favorite students.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.6563059,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_79807570103767d36c51",
+      "anonymous_id": "TARGET_A03",
+      "text": "But arguably, given [TARGET]'s relatively small house, more or less, \"dad's hobby\" would influence the kids, including [TARGET]. So, I say this answer is quite valid although it doesn't explain [TARGET]'s choice of words as good as the other answer.",
+      "platform": "stackexchange",
+      "author_hash": "dca32b0bdb8e4c6e2e2db26f",
+      "language": "en",
+      "score": 0.6294102,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b12ba2778582c9587f8d",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] Yeah, and I don't think I necessarily disagree. But I had the thought too - I wonder if [TARGET] is the only one like that, and if we'd find some similar connections if we examine the book's other characters. Let's also keep in mind the narrative device of the fool who says profound or prophetic things. Since [TARGET] does fit some of the parameters of the fool, it could still be that he is prophetic for purely literary reasons.",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.6054258,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_254a805f26e2e14027f7",
+      "anonymous_id": "TARGET_A03",
+      "text": "I'm with [USER], it just seems to me it's a very distant relation that has very little in common with them. Plus, Muriel doesn't strike me as the st[TARGET]g case you seem to think she is - people put up with annoying close relatives, not annoying second cousins. Finally, the profession, rudeness and phrasing of the description (\" inconveniently produced a witch\") all imply a certain Dursley-ish quality to this cousin, the antithesis of the [TARGET] family.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_ron:stackexchange_b9764a189f07842ea9a4",
+      "anonymous_id": "TARGET_A03",
+      "text": "[USER] That's probably the best way to do it. I don't think we can really have a complete answer to this question without some acknowledgment that [TARGET] is fairly unique in that regard among the book's characters (i.e. relatively inexplicable prediction accuracy per amount of stuff said).",
+      "platform": "stackexchange",
+      "author_hash": "dc62b8c48b3b9e1d3de32918",
+      "language": "en",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

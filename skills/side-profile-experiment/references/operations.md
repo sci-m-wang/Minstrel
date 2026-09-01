@@ -1,9 +1,9 @@
 # Offline GPU Deployment and Operation
 
 Read this reference for deployment, preflight, staged execution, official evaluation, or recovery.
-The connected preparation side has already supplied the repository, frozen data manifests, model
-assets, and a Linux/Python 3.11 wheelhouse. The GPU Agent must not use a network package index or
-Hugging Face Hub.
+The connected preparation side has already supplied the repository, frozen data manifests, two
+checksum-verified GPT-5.6 Sol prepared-conditioning directories, model assets, and a Linux/Python 3.11
+wheelhouse. The GPU Agent must not use a network package index, Hugging Face Hub, or a GPT `.env`.
 
 ## Discover the target deployment contract first
 
@@ -15,7 +15,8 @@ from another machine. Before installation or the first model call:
    network policy, storage size and file-count quotas, and which storage class is intended for large
    model files versus fragmented environment/output files.
 3. Resolve the project root, model-asset root, virtual-environment path, and the writable project
-   location that will contain `prepared/`, `runs/`, logs, and reports.
+   location that will contain `runs/`, logs, and reports. The supplied prepared directories are
+   immutable inputs, not writable output locations.
 4. Run the inventory below. Save its JSON with the run artifacts and stop if `ok` is false.
 
 ```bash
@@ -52,9 +53,12 @@ and `src/sideprofile/`. Set the supplied model-asset directory:
 export SIDEPROFILE_ASSET_ROOT=/absolute/path/to/side_profile_offline_assets
 ```
 
-Treat the following as read-only: `data/` (including the frozen Qwen3 vector database), `configs/`,
-`offline/models.yaml`, and `$SIDEPROFILE_ASSET_ROOT/models/`. Only the virtual environment,
-`prepared/`, `runs/`, scheduler logs, and final report directory are writable during GPU execution.
+Treat the following as read-only: `data/` (including the frozen `text-embedding-3-small` vector database), `configs/`,
+`offline/models.yaml`, both supplied prepared directories, and
+`$SIDEPROFILE_ASSET_ROOT/models/`. Only the virtual environment, `runs/`, scheduler logs, and final
+report directory are writable during GPU execution.
+Frozen SQLite files are opened with the project's immutable read-only path. Their parent directory
+does not need write permission and execution must not create `-wal` or `-shm` sidecars.
 
 The supplied `offline/code.manifest.json` freezes the executable source, scripts, tests, configs, and
 this Skill. `scripts/offline_preflight.py` verifies every listed file before model startup. Never edit
@@ -77,10 +81,11 @@ python3 -m pytest
 If any wheel is missing or incompatible, stop. Do not connect to PyPI, change dependency versions,
 or build a substitute environment on the compute node.
 
-Do not run `build-vector-store` on this execution host. Dense document and query embeddings have
-already been computed with the pinned `Qwen3-Embedding-0.6B` revision and are checksum-covered by
-the bundle. Runtime retrieval reads that exact-cosine database and loads only the declared reranker;
-it does not load the embedding model beside vLLM.
+Do not run `build-vector-store`, call the OpenAI-compatible embedding endpoint, or call Cohere on
+this execution host. Exact-vector Top-20 recall, complete Cohere candidate reranking, local Top-10
+selection, and all five conditionings were completed on the connected preparation side. GPU Actor
+execution reads only the immutable prepared payloads. The checksum-covered vector database and
+rerank trace are provenance inputs; no embedding or reranking runtime is installed beside vLLM.
 
 ## Two mandatory preflights
 
@@ -99,34 +104,32 @@ LOCAL_API_KEY=local-offline LOCAL_MODEL=preflight python3 skills/side-profile-ex
 Stop before model startup if any check is false. Return the JSON failure to the preparation side; do
 not repair data, fetch a missing asset, lower coverage, or edit a manifest.
 
+Verify the two preparation-side artifacts before any tokenizer or model is loaded:
+
+```bash
+sideprofile verify-conditionings --prepared-dir <supplied-panel-a-prepared-dir>
+sideprofile verify-conditionings --prepared-dir <supplied-panel-d-prepared-dir>
+```
+
+Both manifests must identify `profiler_provider: GPT`, `profiler_model: gpt-5.6-sol`,
+`embedding_model: text-embedding-3-small`, `reranker_model: Cohere-rerank-v4.0-pro`, candidate
+Top-20/final Top-10, all five conditions, `isolated_per_probe_top10`, the current frozen input-bundle
+hash, and valid artifact checksums. A
+failure is returned unchanged to the preparation side. Never run `prepare-conditionings` on this
+host.
+
 ## vLLM execution invariant
 
 Use `scripts/run_vllm_stage.sh`, which sets only the local endpoint/model identity and vLLM network
 address. It does not set `max_tokens`, model length, retry policy, temperature, top-p, seed, dtype,
 quantization, or another decoding parameter. The model and vLLM defaults therefore remain in force.
-The experiment also sets no prompt-level output-length request, conditioning truncation,
-length normalization, or length gate. Each internal condition keeps its native payload.
+The experiment also sets no prompt-level output-length request, conditioning truncation, or length
+normalization. Native context-window compatibility is audited without modifying evidence. Each
+internal condition keeps its native payload.
 The script enters vLLM through the project's text-only launcher, which marks Transformers' optional
 torchvision backend unavailable before importing vLLM. This prevents an unused native image
 extension from affecting text execution; it does not alter text weights, prompts, or inference
 parameters.
-
-The fixed profiler is `qwen2.5-14b-instruct`. Prepare all six shared conditionings once for each
-panel:
-
-```bash
-scripts/run_vllm_stage.sh prepare configs/offline/panel-a.yaml \
-  qwen2.5-14b-instruct "$SIDEPROFILE_ASSET_ROOT"
-scripts/run_vllm_stage.sh prepare configs/offline/panel-d.yaml \
-  qwen2.5-14b-instruct "$SIDEPROFILE_ASSET_ROOT"
-```
-
-Record the two emitted immutable `prepared_dir` paths. Verify each before any actor starts:
-
-```bash
-sideprofile verify-conditionings --prepared-dir <panel-a-prepared-dir>
-sideprofile verify-conditionings --prepared-dir <panel-d-prepared-dir>
-```
 
 Every actor reuses its panel's exact prepared directory. Panel A actor matrix:
 
@@ -134,7 +137,6 @@ Every actor reuses its panel's exact prepared directory. Panel A actor matrix:
 llama-3.1-8b-instruct
 qwen2.5-7b-instruct
 qwen2.5-14b-instruct
-gemma-2-9b-it
 mistral-7b-instruct-v0.3
 ```
 
@@ -146,6 +148,23 @@ qwen2.5-7b-instruct
 qwen2.5-14b-instruct
 ```
 
+Before starting vLLM, statically tokenize every exact Actor request with each retained model's own
+local tokenizer and chat template. For each Panel A Actor above, run:
+
+```bash
+python3 scripts/audit_actor_input_lengths.py \
+  --config configs/offline/panel-a.yaml \
+  --prepared-dir <supplied-panel-a-prepared-dir> \
+  --model-dir "$SIDEPROFILE_ASSET_ROOT/models/<model-key>" \
+  --model-key <model-key> \
+  --output "runs/panel-a-<model-key>-input-audit.json"
+```
+
+Repeat for each Panel D Actor with the Panel D config and supplied prepared directory. Every audit
+must report `ok: true`, no failures, and positive `minimum_remaining_context`. This renders all five
+condition payloads without truncation and makes no generation call. A failure is a hard stop: do not
+shorten or normalize any input, change model context settings, or silently choose another Actor.
+
 For each model key, run:
 
 ```bash
@@ -153,9 +172,17 @@ scripts/run_vllm_stage.sh actor configs/offline/<panel>.yaml \
   <model-key> "$SIDEPROFILE_ASSET_ROOT" <panel-prepared-dir>
 ```
 
-One actor run covers all six conditions and three independent replicates. Do not split or regenerate
+One actor run covers all five conditions and three independent replicates. Do not split or regenerate
 individual failed cells. Preserve any failed run directory, then rerun the whole frozen actor unit in
 a new directory and disclose the failure.
+
+After the static audits pass, exercise the registered Actor with the smallest native context first.
+After each Actor
+run, audit its trace with `scripts/audit_context_usage.py --model-dir <actor-model-dir> --trace
+<actor-run>/trace.jsonl --output <actor-run>-context-audit.json`. If the smallest-context actor cannot
+fit a native five-condition payload, do not change vLLM settings or edit the GPU-side registry. Return
+the evidence to the preparation side; a user-authorized replacement with a larger-context registered
+model requires a new local registry, config, code manifest, and bundle freeze.
 
 ## Official evaluators
 
@@ -190,7 +217,6 @@ panel-level aggregator. Supply every actor run directory exactly once:
 python3 scripts/analyze_panel_results.py --panel A \
   --run-dir <panel-a-llama-run> --run-dir <panel-a-qwen7-run> \
   --run-dir <panel-a-qwen14-run> \
-  --run-dir <panel-a-gemma-run> \
   --run-dir <panel-a-mistral-run> --output-dir results/panel-a-official
 
 python3 scripts/analyze_panel_results.py --panel D \
@@ -213,5 +239,6 @@ Report exact model revisions from `offline/models.yaml`, bundle hashes, prepared
 failed calls, wall time, corpus coverage, and evaluator status.
 
 Do not analyze a run as research evidence unless its `status.json` is completed, `research_valid` is
-true, bundle, vector-database, and prepared checksums pass, the configured hybrid retriever actually ran, all 24 probes
+true, bundle, vector-database, and prepared checksums pass, the frozen vector-recall/Cohere-rerank
+records are complete, all 24 probes
 were used, and the claimed official evaluator artifact exists.

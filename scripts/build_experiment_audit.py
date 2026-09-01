@@ -13,7 +13,7 @@ from pathlib import Path
 import yaml
 
 
-EXPECTED_CONDITIONS = ["none", "personality", "raw", "summary", "gold", "ours"]
+EXPECTED_CONDITIONS = ["none", "personality", "summary", "gold", "ours"]
 FORBIDDEN_KEYS = {
     "max_tokens", "max_completion_tokens", "max_calls", "max_retries", "target_tokens",
     "temperature", "top_p", "seed", "seeds",
@@ -65,7 +65,7 @@ def audit_panel(root: Path, config_path: Path, registry: dict) -> tuple[dict, li
     failures = []
     conditions = list(run.get("conditions", []))
     if conditions != EXPECTED_CONDITIONS:
-        failures.append(f"{run['name']}: conditions differ from the six retained treatments")
+        failures.append(f"{run['name']}: conditions differ from the five retained treatments")
     forbidden = forbidden_paths(config)
     if forbidden:
         failures.append(f"{run['name']}: forbidden settings: {', '.join(forbidden)}")
@@ -94,13 +94,31 @@ def audit_panel(root: Path, config_path: Path, registry: dict) -> tuple[dict, li
     if not actors or undefined:
         failures.append(f"{run['name']}: invalid actor matrix {undefined}")
     retrieval = config.get("retrieval", {})
-    embedding_model_key = str(retrieval.get("embedding_model_key", ""))
+    embedding_provider = str(retrieval.get("embedding_provider", "")).upper()
+    embedding_model = str(retrieval.get("embedding_model", ""))
+    reranker_provider = str(retrieval.get("reranker_provider", "")).upper()
+    reranker_model = str(retrieval.get("reranker_model", ""))
     vector_store_value = str(retrieval.get("vector_store", ""))
-    if retrieval.get("mode") == "hybrid":
-        if embedding_model_key not in registry.get("models", {}):
-            failures.append(
-                f"{run['name']}: undefined embedding model {embedding_model_key}"
-            )
+    retrieval_plan = registry.get("retrieval_preparation") or {}
+    expected_embedding = retrieval_plan.get("embedding") or {}
+    expected_reranker = retrieval_plan.get("reranker") or {}
+    if retrieval.get("mode") != "vector_rerank":
+        failures.append(f"{run['name']}: research retrieval must be vector_rerank")
+    else:
+        if (embedding_provider, embedding_model) != (
+            str(expected_embedding.get("provider", "")).upper(),
+            str(expected_embedding.get("model", "")),
+        ):
+            failures.append(f"{run['name']}: embedding service differs from registry")
+        if (reranker_provider, reranker_model) != (
+            str(expected_reranker.get("provider", "")).upper(),
+            str(expected_reranker.get("model", "")),
+        ):
+            failures.append(f"{run['name']}: reranker service differs from registry")
+        if int(retrieval.get("candidate_top_k", 0)) != 20:
+            failures.append(f"{run['name']}: candidate_top_k must be 20")
+        if int(retrieval.get("final_top_k", 0)) != 10:
+            failures.append(f"{run['name']}: final_top_k must be 10")
         vector_store_path = root / vector_store_value
         if not vector_store_value or not vector_store_path.is_file():
             failures.append(f"{run['name']}: missing frozen vector store {vector_store_value}")
@@ -119,8 +137,12 @@ def audit_panel(root: Path, config_path: Path, registry: dict) -> tuple[dict, li
             "retrieval": {
                 "mode": retrieval.get("mode"),
                 "vector_store": vector_store_value,
-                "embedding_model_key": embedding_model_key,
-                "reranker_model": retrieval.get("reranker_model"),
+                "embedding_provider": embedding_provider,
+                "embedding_model": embedding_model,
+                "reranker_provider": reranker_provider,
+                "reranker_model": reranker_model,
+                "candidate_top_k": retrieval.get("candidate_top_k"),
+                "final_top_k": retrieval.get("final_top_k"),
             },
             "coverage": data.get("coverage"),
             "characters": selected,
@@ -152,10 +174,20 @@ def main() -> int:
     registry = yaml.safe_load(registry_path.read_text(encoding="utf-8"))
     failures = []
     if scope.get("supported_conditions") != EXPECTED_CONDITIONS:
-        failures.append("configs/scope.yaml does not define the exact six retained conditions")
-    profiler = str(registry.get("profiler", {}).get("model", ""))
-    if profiler != "qwen2.5-14b-instruct":
-        failures.append(f"wrong fixed profiler: {profiler}")
+        failures.append("configs/scope.yaml does not define the exact five retained conditions")
+    profiler_spec = registry.get("profiler") or {}
+    profiler = str(profiler_spec.get("model", ""))
+    profiler_provider = str(profiler_spec.get("provider", "")).upper()
+    profiler_location = str(profiler_spec.get("execution_location", ""))
+    if (
+        profiler_provider != "GPT"
+        or profiler != "gpt-5.6-sol"
+        or profiler_location != "connected_preparation"
+    ):
+        failures.append(
+            "wrong fixed profiler: "
+            f"{profiler_provider}/{profiler}@{profiler_location}"
+        )
     panels = []
     for name in ("panel-a.yaml", "panel-d.yaml"):
         panel, panel_failures = audit_panel(root, root / "configs/offline" / name, registry)
@@ -186,7 +218,9 @@ def main() -> int:
         "model_registry": {
             "path": "offline/models.yaml",
             "sha256": sha256_file(registry_path),
+            "profiler_provider": profiler_provider,
             "profiler": profiler,
+            "profiler_execution_location": profiler_location,
             "decoding": registry.get("decoding"),
         },
         "panels": panels,

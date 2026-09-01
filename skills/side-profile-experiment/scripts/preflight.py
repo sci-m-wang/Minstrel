@@ -3,7 +3,6 @@ from __future__ import annotations
 
 import argparse
 import hashlib
-import importlib.util
 import json
 import os
 import sqlite3
@@ -106,7 +105,7 @@ def main() -> int:
     benchmark_path = resolve(root, data.get("benchmark", "missing"))
     selected = config.get("run", {}).get("character_ids", [])
     conditions = config.get("run", {}).get("conditions", [])
-    expected_conditions = ["none", "personality", "raw", "summary", "gold", "ours"]
+    expected_conditions = ["none", "personality", "summary", "gold", "ours"]
     check(
         "condition_scope",
         is_smoke or conditions == expected_conditions,
@@ -154,11 +153,16 @@ def main() -> int:
             bool(actors) and not undefined_actors,
             f"panel={panel_key}; actors={actors}; undefined={undefined_actors}",
         )
-        profiler = str((registry.get("profiler") or {}).get("model") or "")
+        profiler_spec = registry.get("profiler") or {}
+        profiler = str(profiler_spec.get("model") or "")
+        profiler_provider = str(profiler_spec.get("provider") or "").upper()
+        profiler_location = str(profiler_spec.get("execution_location") or "")
         check(
             "fixed_profiler",
-            profiler == "qwen2.5-14b-instruct" and profiler in defined_models,
-            profiler,
+            profiler_provider == "GPT"
+            and profiler == "gpt-5.6-sol"
+            and profiler_location == "connected_preparation",
+            f"{profiler_provider}/{profiler}@{profiler_location}",
         )
     db = resolve(root, data.get("corpus_db", "missing"))
     check("corpus_db", db.is_file(), str(db))
@@ -197,7 +201,9 @@ def main() -> int:
     if db.is_file() and coverage:
         include_synthetic = bool(data.get("include_synthetic", False))
         failures = []
-        connection = sqlite3.connect(db)
+        connection = sqlite3.connect(
+            f"{db.resolve().as_uri()}?mode=ro&immutable=1", uri=True
+        )
         try:
             for character_id in selected:
                 synthetic_clause = "" if include_synthetic else " AND is_synthetic = 0"
@@ -230,42 +236,48 @@ def main() -> int:
     retrieval = config.get("retrieval", {})
     mode = retrieval.get("mode", "auto")
     vector_store_value = retrieval.get("vector_store")
-    embedding_model_key = str(retrieval.get("embedding_model_key", ""))
-    if mode == "hybrid" and not is_smoke:
+    embedding_model = str(retrieval.get("embedding_model", ""))
+    if mode == "vector_rerank" and not is_smoke:
         vector_store_path = resolve(root, vector_store_value or "missing")
-        expected_revision = str(
-            ((registry.get("models") or {}).get(embedding_model_key) or {}).get(
-                "revision", ""
-            )
-        )
+        retrieval_plan = registry.get("retrieval_preparation") or {}
+        expected_embedding = retrieval_plan.get("embedding") or {}
+        expected_reranker = retrieval_plan.get("reranker") or {}
         vector_failures: list[str] = []
+        if (
+            str(retrieval.get("embedding_provider", "")).upper()
+            != str(expected_embedding.get("provider", "")).upper()
+            or embedding_model != str(expected_embedding.get("model", ""))
+        ):
+            vector_failures.append("embedding service differs from frozen registry")
+        if (
+            str(retrieval.get("reranker_provider", "")).upper()
+            != str(expected_reranker.get("provider", "")).upper()
+            or str(retrieval.get("reranker_model", ""))
+            != str(expected_reranker.get("model", ""))
+        ):
+            vector_failures.append("reranker service differs from frozen registry")
         try:
             from sideprofile.vector_store import verify_vector_store  # noqa: PLC0415
 
             vector_result = verify_vector_store(
                 vector_store=vector_store_path,
                 corpus_db=db,
-                expected_model_key=embedding_model_key,
-                expected_model_revision=expected_revision,
+                expected_model_key=embedding_model,
+                expected_model_revision="provider_managed",
             )
             vector_failures.extend(vector_result["failures"])
         except Exception as exc:  # noqa: BLE001
             vector_failures.append(str(exc))
         check(
             "frozen_vector_store",
-            not vector_failures and bool(expected_revision),
+            not vector_failures,
             "; ".join(vector_failures)
-            or f"{embedding_model_key}@{expected_revision}: {vector_store_path}",
+            or f"{embedding_model}@provider_managed: {vector_store_path}",
         )
-    numpy_available = importlib.util.find_spec("numpy") is not None
-    reranker_required = bool(retrieval.get("reranker_model"))
-    reranker_available = importlib.util.find_spec("sentence_transformers") is not None
     check(
         "retrieval_runtime",
-        mode != "hybrid"
-        or (numpy_available and (not reranker_required or reranker_available)),
-        f"mode={mode}; numpy={'available' if numpy_available else 'missing'}; "
-        f"reranker_runtime={'available' if reranker_available else 'missing'}",
+        True,
+        f"mode={mode}; retrieval and reranking are frozen preparation inputs, not GPU runtime",
     )
     probes = config.get("profiling", {}).get("probe_ids")
     check(

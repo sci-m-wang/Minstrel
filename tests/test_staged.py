@@ -12,7 +12,22 @@ def test_verify_prepared_detects_checksum_changes(tmp_path) -> None:
     manifest = {
         "stage": "conditioning_preparation",
         "research_valid": True,
-        "conditions": ["none", "personality", "raw", "summary", "gold", "ours"],
+        "profiler_provider": "GPT",
+        "profiler_model": "gpt-5.6-sol",
+        "retrieval_mode": "openai_exact_vector_recall+cohere_rerank",
+        "embedding_provider": "GPT",
+        "embedding_model": "text-embedding-3-small",
+        "reranker_provider": "COHERE",
+        "reranker_model": "Cohere-rerank-v4.0-pro",
+        "candidate_top_k": 20,
+        "final_top_k": 10,
+        "conditions": ["none", "personality", "summary", "gold", "ours"],
+        "comment_processing": "isolated_per_probe_top10",
+        "condition_aggregation": {
+            "personality": "per_probe_observations_then_aggregate",
+            "summary": "per_probe_summaries_then_aggregate",
+            "ours": "per_probe_cues_then_person_model",
+        },
         "artifacts": [
             {"path": "characters/x/conditionings.json", "sha256": digest}
         ],

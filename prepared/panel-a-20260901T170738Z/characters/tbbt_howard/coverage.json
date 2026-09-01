@@ -1,0 +1,16 @@
+{
+  "by_domain": {
+    "D1": 2,
+    "D2": 1,
+    "D4": 2,
+    "D5": 3,
+    "D6": 4,
+    "D7": 5,
+    "D8": 10
+  },
+  "by_status": {
+    "CONTESTED": 1,
+    "SUPPORTED": 11,
+    "WEAK": 15
+  }
+}

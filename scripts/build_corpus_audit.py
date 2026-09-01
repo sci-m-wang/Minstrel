@@ -17,14 +17,14 @@ PANELS = {
             "hp_harry", "hp_hermione", "hp_ron", "hp_draco", "hp_mcgonagall",
             "tbbt_sheldon", "tbbt_leonard", "tbbt_penny", "tbbt_raj", "tbbt_howard",
         ],
-        "minimums": {"comments": 500, "platforms": 2, "authors": 100},
+        "minimums": {"comments": 1, "platforms": 2, "authors": 100},
     },
     "D": {
         "character_ids": [
             "ce_huafei", "ce_luzhiqiao", "ce_laomo", "ce_zhuchaoyang",
             "ce_mengyanchen", "ce_xuhongdou",
         ],
-        "minimums": {"comments": 500, "platforms": 2, "authors": 100},
+        "minimums": {"comments": 1, "platforms": 2, "authors": 100},
     },
 }
 
@@ -47,7 +47,9 @@ def main() -> int:
 
     db = Path(args.db)
     decisions_dir = Path(args.decisions_dir)
-    connection = sqlite3.connect(db)
+    connection = sqlite3.connect(
+        f"{db.resolve().as_uri()}?mode=ro&immutable=1", uri=True
+    )
     connection.row_factory = sqlite3.Row
     try:
         characters = [

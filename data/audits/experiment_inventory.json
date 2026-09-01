@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T06:40:18.409733+00:00",
+  "generated_at": "2026-09-01T14:48:30.509621+00:00",
   "ready": true,
   "failures": [],
   "scope": {
     "path": "configs/scope.yaml",
-    "sha256": "14a3b0af823a5c712eaba1303943784d7186b5ae699f63347f07f45c77a0dc53",
+    "sha256": "a957d47235a9db566842c328845d3b9b676280bab0be839fd9567c2b7d5093b8",
     "active_panels": [
       "A",
       "D"
@@ -13,16 +13,14 @@
     "retained_conditions": [
       "none",
       "personality",
-      "raw",
       "summary",
       "gold",
       "ours"
     ],
     "internal_condition_definitions": {
       "none": "Anonymous Vanilla: no persona information.",
-      "personality": "Personality Only: anonymous Big Five description inferred from the shared comment evidence.",
-      "raw": "Raw Comments: the shared retrieved third-party comments, identity-masked, without rewriting.",
-      "summary": "Generic Summary: the shared comments passed to a generic summarize-this-person prompt.",
+      "personality": "Personality Only: per-probe Big Five observations from each probe's Top-10, then aggregated into an anonymous Big Five description.",
+      "summary": "Generic Summary: per-probe summaries from each probe's Top-10, then aggregated into one anonymous person summary.",
       "gold": "Anonymous Gold Profile: the official benchmark profile with identity strings removed.",
       "ours": "Ours: 24 probes, evidence-cited cues, and the reconstructed anonymous Person Model."
     },
@@ -35,34 +33,39 @@
   },
   "model_registry": {
     "path": "offline/models.yaml",
-    "sha256": "236ae8d0e5edd0fc3a71d06dcdfada62386c0a2410279751576b54ec4a309254",
-    "profiler": "qwen2.5-14b-instruct",
+    "sha256": "4c362e38e1bffc65c1ea22cf7ba0e9310d78882381dc5039cdc1ff119761493c",
+    "profiler_provider": "GPT",
+    "profiler": "gpt-5.6-sol",
+    "profiler_execution_location": "connected_preparation",
     "decoding": "provider_default"
   },
   "panels": [
     {
       "panel": "panel-a",
       "config": "configs/offline/panel-a.yaml",
-      "config_sha256": "0b2e01ea47fba9b471a7c0c3bab1d1d64f7cf9913108078ab6bc68867310c787",
+      "config_sha256": "3e337f92e82bd703b734371ce98b6e6ae1a6dc32915cbda8f00ebcdd237d23bc",
       "conditions": [
         "none",
         "personality",
-        "raw",
         "summary",
         "gold",
         "ours"
       ],
       "replicates": 3,
       "decoding": "provider_default",
-      "retrieval_mode": "hybrid",
+      "retrieval_mode": "vector_rerank",
       "retrieval": {
-        "mode": "hybrid",
-        "vector_store": "data/vector_store/qwen3-embedding-0.6b.sqlite",
-        "embedding_model_key": "qwen3-embedding-0.6b",
-        "reranker_model": "$SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3"
+        "mode": "vector_rerank",
+        "vector_store": "data/vector_store/text-embedding-3-small.sqlite",
+        "embedding_provider": "GPT",
+        "embedding_model": "text-embedding-3-small",
+        "reranker_provider": "COHERE",
+        "reranker_model": "Cohere-rerank-v4.0-pro",
+        "candidate_top_k": 20,
+        "final_top_k": 10
       },
       "coverage": {
-        "min_comments": 500,
+        "min_comments": 1,
         "min_platforms": 2,
         "min_authors": 100
       },
@@ -165,7 +168,6 @@
         "llama-3.1-8b-instruct",
         "qwen2.5-7b-instruct",
         "qwen2.5-14b-instruct",
-        "gemma-2-9b-it",
         "mistral-7b-instruct-v0.3"
       ],
       "forbidden_config_paths": [],
@@ -174,26 +176,29 @@
     {
       "panel": "panel-d",
       "config": "configs/offline/panel-d.yaml",
-      "config_sha256": "842749c58e8a9c3d2ebb544a3387600cde077e36c670effeda5cf9b3f9ddf611",
+      "config_sha256": "e68db0d39aa06d03a2e76b6ffcf05e5913f96d1e0a3f4a30b41d283caabb46d3",
       "conditions": [
         "none",
         "personality",
-        "raw",
         "summary",
         "gold",
         "ours"
       ],
       "replicates": 3,
       "decoding": "provider_default",
-      "retrieval_mode": "hybrid",
+      "retrieval_mode": "vector_rerank",
       "retrieval": {
-        "mode": "hybrid",
-        "vector_store": "data/vector_store/qwen3-embedding-0.6b.sqlite",
-        "embedding_model_key": "qwen3-embedding-0.6b",
-        "reranker_model": "$SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3"
+        "mode": "vector_rerank",
+        "vector_store": "data/vector_store/text-embedding-3-small.sqlite",
+        "embedding_provider": "GPT",
+        "embedding_model": "text-embedding-3-small",
+        "reranker_provider": "COHERE",
+        "reranker_model": "Cohere-rerank-v4.0-pro",
+        "candidate_top_k": 20,
+        "final_top_k": 10
       },
       "coverage": {
-        "min_comments": 500,
+        "min_comments": 1,
         "min_platforms": 2,
         "min_authors": 100
       },

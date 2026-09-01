@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-if [[ $# -lt 4 || $# -gt 5 ]]; then
-  echo "usage: $0 prepare|actor CONFIG MODEL_KEY ASSET_ROOT [PREPARED_DIR]" >&2
+if [[ $# -ne 5 ]]; then
+  echo "usage: $0 actor CONFIG MODEL_KEY ASSET_ROOT PREPARED_DIR" >&2
   exit 2
 fi
 
@@ -14,19 +14,18 @@ prepared_dir=${5:-}
 model_path="$asset_root/models/$model_key"
 script_dir=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
 
+if [[ "$stage" != actor ]]; then
+  echo "GPU vLLM stage is actor-only; conditionings must be prepared on the connected preparation side" >&2
+  exit 2
+fi
 if [[ ! -d "$model_path" ]]; then
   echo "missing frozen model directory: $model_path" >&2
   exit 2
 fi
-if [[ "$stage" == actor && -z "$prepared_dir" ]]; then
+if [[ -z "$prepared_dir" ]]; then
   echo "actor stage requires PREPARED_DIR" >&2
   exit 2
 fi
-if [[ "$stage" != prepare && "$stage" != actor ]]; then
-  echo "stage must be prepare or actor" >&2
-  exit 2
-fi
-
 export LOCAL_API_KEY=local-offline
 export LOCAL_BASE_URL=http://127.0.0.1:8000/v1
 export LOCAL_MODEL=$model_key
@@ -59,8 +58,4 @@ until curl -fsS http://127.0.0.1:8000/health >/dev/null; do
   sleep 2
 done
 
-if [[ "$stage" == prepare ]]; then
-  sideprofile prepare-conditionings --config "$config"
-else
-  sideprofile run-actor --config "$config" --prepared-dir "$prepared_dir"
-fi
+sideprofile run-actor --config "$config" --prepared-dir "$prepared_dir"

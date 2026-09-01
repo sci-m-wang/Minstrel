@@ -3,14 +3,25 @@ asset_root_env: SIDEPROFILE_ASSET_ROOT
 decoding: provider_default
 
 profiler:
-  model: qwen2.5-14b-instruct
+  provider: GPT
+  model: gpt-5.6-sol
+  execution_location: connected_preparation
+
+retrieval_preparation:
+  embedding:
+    provider: GPT
+    model: text-embedding-3-small
+    execution_location: connected_preparation
+  reranker:
+    provider: COHERE
+    model: Cohere-rerank-v4.0-pro
+    execution_location: connected_preparation
 
 actor_matrix:
   panel_a:
     - llama-3.1-8b-instruct
     - qwen2.5-7b-instruct
     - qwen2.5-14b-instruct
-    - gemma-2-9b-it
     - mistral-7b-instruct-v0.3
   panel_d:
     # Two native multilingual actors plus the English-centric cross-language control.
@@ -36,27 +47,13 @@ models:
   qwen2.5-14b-instruct:
     repo_id: Qwen/Qwen2.5-14B-Instruct
     revision: cf98f3b3bbb457ad9e2bb7baf9a0125b6b88caa8
-    purpose: profiler_and_actor
-  gemma-2-9b-it:
-    repo_id: google/gemma-2-9b-it
-    revision: 11c9b309abf73637e4b6f9a3fa1e92e615547819
     purpose: actor
-    license_gate: true
   mistral-7b-instruct-v0.3:
     repo_id: mistralai/Mistral-7B-Instruct-v0.3
     revision: c170c708c41dac9275d15a8fff4eca08d52bab71
     purpose: actor
     exclude:
       - consolidated.safetensors
-  qwen3-embedding-0.6b:
-    repo_id: Qwen/Qwen3-Embedding-0.6B
-    revision: 97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3
-    purpose: frozen_vector_store_construction
-    execution_required: false
-  bge-reranker-v2-m3:
-    repo_id: BAAI/bge-reranker-v2-m3
-    revision: 953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e
-    purpose: reranking
   baichuan-char-rm:
     repo_id: morecry/BaichuanCharRM
     revision: e953da5f57b86db7adca3a2714b4c3720f5b96a2

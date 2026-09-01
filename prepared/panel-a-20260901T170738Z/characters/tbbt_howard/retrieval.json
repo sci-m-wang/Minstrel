@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_156c03f5eb647d2efbc4",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is sitting in Sheldon’s spot and Sheldon isn’t freaking out.",
+      "platform": "youtube",
+      "author_hash": "2865e5aceca3c067ff5987db",
+      "language": "en",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fba61504d83a71d5e82f",
+      "anonymous_id": "TARGET_A10",
+      "text": "After sheldon",
+      "platform": "youtube",
+      "author_hash": "f216b1261d1d6b9ae0d514d7",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_201282d02f626444d72f",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:25 real reaction from sheldon and [TARGET]",
+      "platform": "youtube",
+      "author_hash": "5c054077c9dd116df453d90f",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a26c8136ab420e959e14",
+      "anonymous_id": "TARGET_A10",
+      "text": "I'm impressed by [TARGET]'s transformation from creepy weird guy to a responsible father of 2",
+      "platform": "youtube",
+      "author_hash": "4200874326605f0683f8bccd",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a77d50a1abe4373a3843",
+      "anonymous_id": "TARGET_A10",
+      "text": "When he copies sheldon",
+      "platform": "youtube",
+      "author_hash": "44c9a18b36ff8c231a6b4e8f",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3015de19c79e49a04f38",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sheldon, Stuart, then [TARGET].....",
+      "platform": "youtube",
+      "author_hash": "494b5461a682c06d15aa52a8",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bdc3f7c5e4448dad0a60",
+      "anonymous_id": "TARGET_A10",
+      "text": "0:48 Sheldon is Letting [TARGET] sit in his spot????????",
+      "platform": "youtube",
+      "author_hash": "2e30881292f5be82f220621e",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_bccb63f8f5cb80f4fc8d",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is the grown up will from stranger thing",
+      "platform": "youtube",
+      "author_hash": "7a6912ef5a9d979b3044f1b1",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fba61504d83a71d5e82f",
+      "anonymous_id": "TARGET_A10",
+      "text": "After sheldon",
+      "platform": "youtube",
+      "author_hash": "f216b1261d1d6b9ae0d514d7",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_54195f7957871db50a92",
+      "anonymous_id": "TARGET_A10",
+      "text": "In the later seasons they became friends outside of academia and that might be the explanation for how they change what they call each other. Although I have a professor friend who calls his other professor friends by their last names often even when they have hung out consistently outside of work for decades.",
+      "platform": "stackexchange",
+      "author_hash": "643efdd455331beb84b56703",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_f70cddf407d09b43f618",
+      "anonymous_id": "TARGET_A10",
+      "text": "It has nothing to being foreigner, but problem is his. what about [TARGET] and Leonard and Stuart? They aren't foreigners",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_97b7058f453395754cef",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sheldon is good at saying random things and [TARGET] is a funny and creepy person",
+      "platform": "youtube",
+      "author_hash": "2c63ba0a19021ee8f766c107",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f28447a8a094a71f7840",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] yeah because he was creepy compared to the others on the show ( other than Amy she's also creepy) but compared to other people he isn't that creepy",
+      "platform": "youtube",
+      "author_hash": "4781a334714cc742cad320e1",
+      "language": "en",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_3acf0d9c2437a7fd2366",
+      "anonymous_id": "TARGET_A10",
+      "text": "They all work in an education environment, where this would not be at all unusual. There are people I went to school with whose first names I never knew; and even actual friends would be called by surname or nickname. First names [or more likely initials] were only ever used to differentiate two identical last names.",
+      "platform": "stackexchange",
+      "author_hash": "a758ca13ed8f4148985a3ee7",
+      "language": "en",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_201282d02f626444d72f",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:25 real reaction from sheldon and [TARGET]",
+      "platform": "youtube",
+      "author_hash": "5c054077c9dd116df453d90f",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bf38628cf9f7fe223a66",
+      "anonymous_id": "TARGET_A10",
+      "text": "+Eugene got swag [TARGET] is different than Sheldon: he is more sociable and the way he tries to attract woman are hilarious. And the conversations with his mom make me crack up as well. Don't get me wrong, Sheldon is hilarious and love his antics. However, Sheldon Cooper has gotten worse ever since Amy came into his life. She is very needy and manipulative, leeching the no nonsense personality Sheldon is known for, and what she says to Penny about the body is very disturbing.",
+      "platform": "youtube",
+      "author_hash": "239d000653e8249bdfeca63c",
+      "language": "en",
+      "score": 0.33598232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fba61504d83a71d5e82f",
+      "anonymous_id": "TARGET_A10",
+      "text": "After sheldon",
+      "platform": "youtube",
+      "author_hash": "f216b1261d1d6b9ae0d514d7",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3015de19c79e49a04f38",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sheldon, Stuart, then [TARGET].....",
+      "platform": "youtube",
+      "author_hash": "494b5461a682c06d15aa52a8",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0705d53086e870beda29",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he will be perfect quagmire",
+      "platform": "youtube",
+      "author_hash": "b6f08da83f4b31ee91191bbe",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_97b7058f453395754cef",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sheldon is good at saying random things and [TARGET] is a funny and creepy person",
+      "platform": "youtube",
+      "author_hash": "2c63ba0a19021ee8f766c107",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3447b3cf74acd3c099a4",
+      "anonymous_id": "TARGET_A10",
+      "text": "Attitude. [TARGET] is the best . He makes the play alive.",
+      "platform": "youtube",
+      "author_hash": "539252a7d58a7a84fdbeba13",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4cd023819d01a85e20ff",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is talking jokes with a serious face...LOL",
+      "platform": "youtube",
+      "author_hash": "b67a6d96e84071cc0ef547fc",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_56f647f23d595400182e",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] You know what's creepy, he's an average normal Post Millenial now. Internet has made some people his tier of Nerds lol",
+      "platform": "youtube",
+      "author_hash": "96a916f75e5fa79e0d76fb73",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_439e5dc9ffac60c3b022",
+      "anonymous_id": "TARGET_A10",
+      "text": "The best character ...",
+      "platform": "youtube",
+      "author_hash": "13513655d8e593f1b1377715",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_1dc085ba8b79b2ae1768",
+      "anonymous_id": "TARGET_A10",
+      "text": "i love this character so much",
+      "platform": "youtube",
+      "author_hash": "36db79fd3004a65cff64fb5c",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_ce0287c96228ab00d76f",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] The second answer says that he wants to start on it... Not that he has started on it.",
+      "platform": "stackexchange",
+      "author_hash": "91d4daba305a7b4d429215fa",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_e696d6b045c9f9a6b3cd",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] become flirty to one woman man.. I really think the bbt is all about him♥️",
+      "platform": "youtube",
+      "author_hash": "203311897611cbd18fa3d285",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a1df4aef7bd6803420fd",
+      "anonymous_id": "TARGET_A10",
+      "text": "my favourite character",
+      "platform": "youtube",
+      "author_hash": "70850382f1c89a66a9c241f8",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_75dd401ae0f9af15e0e1",
+      "anonymous_id": "TARGET_A10",
+      "text": "still my favorite character",
+      "platform": "youtube",
+      "author_hash": "edb8998bd2aa0a9990377352",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0705d53086e870beda29",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he will be perfect quagmire",
+      "platform": "youtube",
+      "author_hash": "b6f08da83f4b31ee91191bbe",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3277fa059b8b22d6169f",
+      "anonymous_id": "TARGET_A10",
+      "text": "hes my favorite!",
+      "platform": "youtube",
+      "author_hash": "5ceea79308c9e95bcb6f0b4a",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a77d50a1abe4373a3843",
+      "anonymous_id": "TARGET_A10",
+      "text": "When he copies sheldon",
+      "platform": "youtube",
+      "author_hash": "44c9a18b36ff8c231a6b4e8f",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_e0e0d83f601dba8b8d7c",
+      "anonymous_id": "TARGET_A10",
+      "text": "Very talented, the most talented",
+      "platform": "youtube",
+      "author_hash": "5abd665cff7f822eeaf2642c",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_9f4a634a510fe7f60d58",
+      "anonymous_id": "TARGET_A10",
+      "text": "Wish he was a real person",
+      "platform": "youtube",
+      "author_hash": "629ac036911db2301fa2fbbc",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c613f43bcbeedb9715d8",
+      "anonymous_id": "TARGET_A10",
+      "text": "keep it real, babe",
+      "platform": "youtube",
+      "author_hash": "e459228174f0bd1f39342a3a",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0b702b7bc86ae22b0f95",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:23 he looks exactly like that Nicolas Cage meme I'm dead",
+      "platform": "youtube",
+      "author_hash": "6f155b1cb87abf075b346051",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_767154fab74653e1d1f1",
+      "anonymous_id": "TARGET_A10",
+      "text": "Owww... I mean Ohhww",
+      "platform": "youtube",
+      "author_hash": "51c61f0ea24127e94fedd305",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_125be997d7616c498dd8",
+      "anonymous_id": "TARGET_A10",
+      "text": "keep it real babe ..lol",
+      "platform": "youtube",
+      "author_hash": "a4bb3d024e17f59185160fc5",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a1df4aef7bd6803420fd",
+      "anonymous_id": "TARGET_A10",
+      "text": "my favourite character",
+      "platform": "youtube",
+      "author_hash": "70850382f1c89a66a9c241f8",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_05a8c846f800bd913ba5",
+      "anonymous_id": "TARGET_A10",
+      "text": "He'll pay for it",
+      "platform": "youtube",
+      "author_hash": "e1c3b65319ae38b10a166184",
+      "language": "en",
+      "score": 0.7413745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_771fc73adcdbf1dd2ecf",
+      "anonymous_id": "TARGET_A10",
+      "text": "Daniel Nababan I count that time he said he would give his share of the money as a scholarship for [TARGET]’s daughter.",
+      "platform": "youtube",
+      "author_hash": "f14a619365168b0008feba3f",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_439e5dc9ffac60c3b022",
+      "anonymous_id": "TARGET_A10",
+      "text": "The best character ...",
+      "platform": "youtube",
+      "author_hash": "13513655d8e593f1b1377715",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_95edd8fa0849aecefa9f",
+      "anonymous_id": "TARGET_A10",
+      "text": "He havd the best character development",
+      "platform": "youtube",
+      "author_hash": "21653ebb61351faee746496c",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0705d53086e870beda29",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he will be perfect quagmire",
+      "platform": "youtube",
+      "author_hash": "b6f08da83f4b31ee91191bbe",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_ce0287c96228ab00d76f",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] The second answer says that he wants to start on it... Not that he has started on it.",
+      "platform": "stackexchange",
+      "author_hash": "91d4daba305a7b4d429215fa",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_95077683638bf64c26a1",
+      "anonymous_id": "TARGET_A10",
+      "text": "Jesuschrist, this guy is the strongest character in the show.",
+      "platform": "youtube",
+      "author_hash": "e8b4f8cb103e7d6a76ed99e7",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4853d13233f23e56bccc",
+      "anonymous_id": "TARGET_A10",
+      "text": "For what, making me sound like a Simpsons character 😆 😆",
+      "platform": "youtube",
+      "author_hash": "7a828a8fe6a8663cf795679d",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c0910e9ef0c7855a0072",
+      "anonymous_id": "TARGET_A10",
+      "text": "he could play the entire cast on his own",
+      "platform": "youtube",
+      "author_hash": "3f7d4bb1b1f13ec858846d98",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a72b7a77428d06c6da9c",
+      "anonymous_id": "TARGET_A10",
+      "text": "King Luey well sometimes Sheldon is very funny so I give it a Tie",
+      "platform": "youtube",
+      "author_hash": "339a1e4e8435d87d6a479954",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c00b022ef5658c722522",
+      "anonymous_id": "TARGET_A10",
+      "text": "My favorite character",
+      "platform": "youtube",
+      "author_hash": "b51ddee7e92210b42d1fa7d7",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_5d5b4f1ac0614b12fa6d",
+      "anonymous_id": "TARGET_A10",
+      "text": "Why is [TARGET] sitting in sheldon spot",
+      "platform": "youtube",
+      "author_hash": "ea9596da0483415efe466b47",
+      "language": "en",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bdc3f7c5e4448dad0a60",
+      "anonymous_id": "TARGET_A10",
+      "text": "0:48 Sheldon is Letting [TARGET] sit in his spot????????",
+      "platform": "youtube",
+      "author_hash": "2e30881292f5be82f220621e",
+      "language": "en",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fc32e6fe67e92ab9015a",
+      "anonymous_id": "TARGET_A10",
+      "text": "yeah some times he is but I think he is sitting in sheldons spot 1.04",
+      "platform": "youtube",
+      "author_hash": "82b15176d249f306f4dc559a",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_2dc916e384b8f846470c",
+      "anonymous_id": "TARGET_A10",
+      "text": "Did i get it wrong at 1:07. Sheldon let [TARGET] sit on his spot",
+      "platform": "youtube",
+      "author_hash": "7e910b33e170c446756e5a63",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_615eb027278105122341",
+      "anonymous_id": "TARGET_A10",
+      "text": "my favorite caracter is [TARGET] and bernadets hather and sheldom",
+      "platform": "youtube",
+      "author_hash": "442cb33dcae4a2b8fa3bbed6",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_b0f65892efaaca02f29c",
+      "anonymous_id": "TARGET_A10",
+      "text": "Actually his character is better than leonard😂",
+      "platform": "youtube",
+      "author_hash": "828f22b3456084f7cae79735",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f6e1fe543c866ba0885d",
+      "anonymous_id": "TARGET_A10",
+      "text": "Did anyone else notice Sheldon didn't care that [TARGET] sat in his spot",
+      "platform": "youtube",
+      "author_hash": "0018fe59fa66561189dd9558",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.6202536,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bb425ae43006f66208b2",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he owns the show He does what he wants, not hindered by sheldon at all unlike others",
+      "platform": "youtube",
+      "author_hash": "be1ef69df6f8f99c3d8bed49",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_31f92dd728f5b02cf9b4",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] sits in sheldons place",
+      "platform": "youtube",
+      "author_hash": "9743383c270aecad77909047",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a77d50a1abe4373a3843",
+      "anonymous_id": "TARGET_A10",
+      "text": "When he copies sheldon",
+      "platform": "youtube",
+      "author_hash": "44c9a18b36ff8c231a6b4e8f",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71355b2f6128c275d3b6",
+      "anonymous_id": "TARGET_A10",
+      "text": "The needy and desperate [TARGET] was so funny than the Mr.bernadette [TARGET]",
+      "platform": "youtube",
+      "author_hash": "690b03e02a55923b23c7b3c0",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_16d328cd231928ca0de5",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is the friend you weren't supposed to have, but wish you did.",
+      "platform": "youtube",
+      "author_hash": "b5d017f90421caf0ce6b4936",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_5d5b4f1ac0614b12fa6d",
+      "anonymous_id": "TARGET_A10",
+      "text": "Why is [TARGET] sitting in sheldon spot",
+      "platform": "youtube",
+      "author_hash": "ea9596da0483415efe466b47",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_e072d6883eb40a313f34",
+      "anonymous_id": "TARGET_A10",
+      "text": "That’s very offensive",
+      "platform": "youtube",
+      "author_hash": "7b92a7f4afd961761e86674e",
+      "language": "en",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4e91adb6453d13ec1673",
+      "anonymous_id": "TARGET_A10",
+      "text": "I'm sorry, but as the series has gone on he just completely is a creep that no one would ever want to be friends with.",
+      "platform": "youtube",
+      "author_hash": "b9ae15fd421a95a2bf9c956f",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_99fe32cb378c9b09c16e",
+      "anonymous_id": "TARGET_A10",
+      "text": "Totally agree. Unfortunately, the character is not very lovable. He is fairly often downright sleazy and creepy.",
+      "platform": "youtube",
+      "author_hash": "e742522e6649ff790fd556b0",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_ce0287c96228ab00d76f",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] The second answer says that he wants to start on it... Not that he has started on it.",
+      "platform": "stackexchange",
+      "author_hash": "91d4daba305a7b4d429215fa",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_8c81402061a780c82354",
+      "anonymous_id": "TARGET_A10",
+      "text": "Lemmie try gangsta...Hells no.",
+      "platform": "youtube",
+      "author_hash": "bcbcdb93f582dade1fd123f5",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_8168d5cd5f48dd640097",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is cool guy. That girl is all wrong for him",
+      "platform": "youtube",
+      "author_hash": "119a51f87d4800ef996d6af2",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c12f372355760f0850b9",
+      "anonymous_id": "TARGET_A10",
+      "text": "I can't possibly sit on this elephant",
+      "platform": "youtube",
+      "author_hash": "06dc9b38583992497427a381",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ce102b197762168da011",
+      "anonymous_id": "TARGET_A10",
+      "text": "what he can’t do cmon ahhahaha",
+      "platform": "youtube",
+      "author_hash": "c13310c40ead645d341acb03",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_7a3f5c847f9fbdd45aee",
+      "anonymous_id": "TARGET_A10",
+      "text": "He actually never was a creepy guy",
+      "platform": "youtube",
+      "author_hash": "5ad39d85a9369220beb832a8",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f60a00babc99d9af4a9d",
+      "anonymous_id": "TARGET_A10",
+      "text": "His impressions are the best",
+      "platform": "youtube",
+      "author_hash": "b159ad09e7f337c3cca98960",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0705d53086e870beda29",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he will be perfect quagmire",
+      "platform": "youtube",
+      "author_hash": "b6f08da83f4b31ee91191bbe",
+      "language": "en",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4cffc4b553e22d476d2c",
+      "anonymous_id": "TARGET_A10",
+      "text": "He's not really handsome but somehow I feel really attracted to him",
+      "platform": "youtube",
+      "author_hash": "ba45714836491c0600f15194",
+      "language": "en",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.35006577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4a0967adb1cb1b3de607",
+      "anonymous_id": "TARGET_A10",
+      "text": "HOW CAN I ASK THEM WHEN IM TALKING TO YOU?",
+      "platform": "youtube",
+      "author_hash": "4f0c5c5d083857f48fbe006e",
+      "language": "en",
+      "score": 0.3256063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fc32e6fe67e92ab9015a",
+      "anonymous_id": "TARGET_A10",
+      "text": "yeah some times he is but I think he is sitting in sheldons spot 1.04",
+      "platform": "youtube",
+      "author_hash": "82b15176d249f306f4dc559a",
+      "language": "en",
+      "score": 0.30869016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4ad890a825bcdb6b7030",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] Pretty sure he said that to Raj when they went on the scavenger hunt",
+      "platform": "youtube",
+      "author_hash": "1a08704a5590e31b4464e092",
+      "language": "en",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_0d5c642a9aea70d522a0",
+      "anonymous_id": "TARGET_A10",
+      "text": "Its not good honestly its mocking he doesnt really know how to do it well he just speaks some racist stuff and pronounces every letter still not good honestly the mimick he does, anyone can do",
+      "platform": "youtube",
+      "author_hash": "4fa078262b4c772014eef769",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_46de3fc6b4bd134794ea",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] lol u just bitter close to jealous cos you got no skills.. that's good impersonation",
+      "platform": "youtube",
+      "author_hash": "a71f04924733b8086e1ef24a",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_8ff4af2fa3b54d793891",
+      "anonymous_id": "TARGET_A10",
+      "text": "Bernadette ruined his comedy",
+      "platform": "youtube",
+      "author_hash": "20bf3365ea7e01ba132be414",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f60a00babc99d9af4a9d",
+      "anonymous_id": "TARGET_A10",
+      "text": "His impressions are the best",
+      "platform": "youtube",
+      "author_hash": "b159ad09e7f337c3cca98960",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_2c5d39ecdf65a5805e1c",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET]: I'm Batman Sheldon: I'm sorry",
+      "platform": "youtube",
+      "author_hash": "a11547ad30f42e1076d1fd0d",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_dcedfb535170f55185aa",
+      "anonymous_id": "TARGET_A10",
+      "text": "​ [USER] [TARGET] was the best character on TBBT. He got to go in space, which made Sheldon really jealous. He (Sheldon) doubled down on insulting [TARGET] when he got back. Sheldon always put down Leonard's work and abilities. Burt won the McCarthy Grant. Sheldon is a jerk! How did he have ANY friends?",
+      "platform": "youtube",
+      "author_hash": "01540dda21355677933bfdd6",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bb425ae43006f66208b2",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he owns the show He does what he wants, not hindered by sheldon at all unlike others",
+      "platform": "youtube",
+      "author_hash": "be1ef69df6f8f99c3d8bed49",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f60a00babc99d9af4a9d",
+      "anonymous_id": "TARGET_A10",
+      "text": "His impressions are the best",
+      "platform": "youtube",
+      "author_hash": "b159ad09e7f337c3cca98960",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ec411d084c71292da425",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is amazing made the voice of Raj and Stephan Hawking and Sheldon is a naive boy he still believe it",
+      "platform": "youtube",
+      "author_hash": "1ac2b4f6bb9eddadcf538aad",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ae878d562174910014bd",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET]’s living situation is better than most; today’s modern women and their afflicted issues",
+      "platform": "youtube",
+      "author_hash": "42c14ca201a9702bb7d10375",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_701448870d7e64b8cb40",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] he's like chandler. A sarcastic ass we can't help but love",
+      "platform": "youtube",
+      "author_hash": "746e117636c3f5a195cb4117",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f22fd35968ec16605673",
+      "anonymous_id": "TARGET_A10",
+      "text": "The JUNGKOOK of [TARGET]",
+      "platform": "youtube",
+      "author_hash": "3f7db94478012629e47a438c",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_9f4a634a510fe7f60d58",
+      "anonymous_id": "TARGET_A10",
+      "text": "Wish he was a real person",
+      "platform": "youtube",
+      "author_hash": "629ac036911db2301fa2fbbc",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_d989af883db429b43c3b",
+      "anonymous_id": "TARGET_A10",
+      "text": "Wolovitz is love",
+      "platform": "youtube",
+      "author_hash": "2feb5c41da246748a8e4ad55",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_23bb1271036e18dd6467",
+      "anonymous_id": "TARGET_A10",
+      "text": "No one underrate him lol",
+      "platform": "youtube",
+      "author_hash": "87dbf11d32c9d21942f0feec",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_01777376644f4727013c",
+      "anonymous_id": "TARGET_A10",
+      "text": "Love his Impressions A Lot",
+      "platform": "youtube",
+      "author_hash": "256401e7b6b01fec6004fe1a",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0172d780b42add440271",
+      "anonymous_id": "TARGET_A10",
+      "text": "I mean \"owh\" cracks me up",
+      "platform": "youtube",
+      "author_hash": "dbdccfe18a9388d0e06493d0",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_2a04f0e5921c25661fb1",
+      "anonymous_id": "TARGET_A10",
+      "text": "1:35 you know it’s bad when it even has Sheldon disturbed",
+      "platform": "youtube",
+      "author_hash": "f55c960c02cd254113b9ca11",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_30dd174407614a597de4",
+      "anonymous_id": "TARGET_A10",
+      "text": "When hes dressed like sheldon really cracks me up 😂",
+      "platform": "youtube",
+      "author_hash": "f01992634a8b2ae1b1a8b623",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f6c94cf8197fcb0af6ee",
+      "anonymous_id": "TARGET_A10",
+      "text": "I mean 'Owww'",
+      "platform": "youtube",
+      "author_hash": "fc73dd1bfa8f520b212764fd",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_201282d02f626444d72f",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:25 real reaction from sheldon and [TARGET]",
+      "platform": "youtube",
+      "author_hash": "5c054077c9dd116df453d90f",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_60c4ebda865293c8b29f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Emily or Cinnamon is the funniest thing [TARGET] has every done",
+      "platform": "youtube",
+      "author_hash": "ade5ad071a8c723a5bcece6e",
+      "language": "en",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_e696d6b045c9f9a6b3cd",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] become flirty to one woman man.. I really think the bbt is all about him♥️",
+      "platform": "youtube",
+      "author_hash": "203311897611cbd18fa3d285",
+      "language": "en",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c00b022ef5658c722522",
+      "anonymous_id": "TARGET_A10",
+      "text": "My favorite character",
+      "platform": "youtube",
+      "author_hash": "b51ddee7e92210b42d1fa7d7",
+      "language": "en",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_4cd023819d01a85e20ff",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is talking jokes with a serious face...LOL",
+      "platform": "youtube",
+      "author_hash": "b67a6d96e84071cc0ef547fc",
+      "language": "en",
+      "score": 0.7941296,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_808cfcf8c979791278ee",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:41 Look at that genuine laugh on Sheldon's Face 😂 [TARGET]'s impersonations are on point",
+      "platform": "youtube",
+      "author_hash": "70b041ac336f0b32ba36e101",
+      "language": "en",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_201282d02f626444d72f",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:25 real reaction from sheldon and [TARGET]",
+      "platform": "youtube",
+      "author_hash": "5c054077c9dd116df453d90f",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ba39e5c2df7a62b6b5dc",
+      "anonymous_id": "TARGET_A10",
+      "text": "Raj: Do I really sound like that? [TARGET]: tEll hiM hE sOuNds liKe tHat",
+      "platform": "youtube",
+      "author_hash": "12637fb6ead214a3109af313",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_b998ba9f8df350d7fdb7",
+      "anonymous_id": "TARGET_A10",
+      "text": "His mimicry is epic",
+      "platform": "youtube",
+      "author_hash": "4eb856112494e37fff6de78d",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_6528080c55321626b80b",
+      "anonymous_id": "TARGET_A10",
+      "text": "When [TARGET] imitated Raj,I would seriously think that was Raj talking if I'm not looking at the scene.",
+      "platform": "youtube",
+      "author_hash": "2b7d6a144a68750ecf922543",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c9848de9be4555531c41",
+      "anonymous_id": "TARGET_A10",
+      "text": "He didn't do a Jack Nickelson impression??",
+      "platform": "youtube",
+      "author_hash": "88e1fcfe26df8e5b2734a591",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_46de3fc6b4bd134794ea",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] lol u just bitter close to jealous cos you got no skills.. that's good impersonation",
+      "platform": "youtube",
+      "author_hash": "a71f04924733b8086e1ef24a",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.64744157,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_156c03f5eb647d2efbc4",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is sitting in Sheldon’s spot and Sheldon isn’t freaking out.",
+      "platform": "youtube",
+      "author_hash": "2865e5aceca3c067ff5987db",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_196b0d062b71563148db",
+      "anonymous_id": "TARGET_A10",
+      "text": "Damm this guy is good",
+      "platform": "youtube",
+      "author_hash": "84a0e8247976ded821e066cd",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4cd023819d01a85e20ff",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is talking jokes with a serious face...LOL",
+      "platform": "youtube",
+      "author_hash": "b67a6d96e84071cc0ef547fc",
+      "language": "en",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a77d50a1abe4373a3843",
+      "anonymous_id": "TARGET_A10",
+      "text": "When he copies sheldon",
+      "platform": "youtube",
+      "author_hash": "44c9a18b36ff8c231a6b4e8f",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_d47b343235a55ad3a3bd",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] they mention it in season 8. The second answer here has the synopsis of episode 2, where he says he is starting the process.",
+      "platform": "stackexchange",
+      "author_hash": "ae499db5b5755508feee13d1",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a26c8136ab420e959e14",
+      "anonymous_id": "TARGET_A10",
+      "text": "I'm impressed by [TARGET]'s transformation from creepy weird guy to a responsible father of 2",
+      "platform": "youtube",
+      "author_hash": "4200874326605f0683f8bccd",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_6ace5788890ceb3117a7",
+      "anonymous_id": "TARGET_A10",
+      "text": "can do beatbox, drums, dance, sing, do impressions, piano,speaks klingon,russian, chinese,japanese etc. Engineer, best dungeon master and have beautiful wife.",
+      "platform": "youtube",
+      "author_hash": "af23e38a62776bf1589f55a4",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bccb63f8f5cb80f4fc8d",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is the grown up will from stranger thing",
+      "platform": "youtube",
+      "author_hash": "7a6912ef5a9d979b3044f1b1",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_22e488137c4ca13f474a",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] ma'am with all due respect. No one here talks like that, unless they're all deliberately speaking to you like that.",
+      "platform": "youtube",
+      "author_hash": "b5186cafa32480bd0fc80267",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f28447a8a094a71f7840",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] yeah because he was creepy compared to the others on the show ( other than Amy she's also creepy) but compared to other people he isn't that creepy",
+      "platform": "youtube",
+      "author_hash": "4781a334714cc742cad320e1",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f604e1c2badf5a5d9c4d",
+      "anonymous_id": "TARGET_A10",
+      "text": "HE is my favourite. He is funny, creepy, intelligent. I could relate myself to him. :D",
+      "platform": "youtube",
+      "author_hash": "ce4ae347367abaab8a9e32d0",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3933480922d78c0ff1b5",
+      "anonymous_id": "TARGET_A10",
+      "text": "Does anyone else find [TARGET] to be a disgusting human being? Almost everything about his as bad in my opinion. A friend asked what's the difference between him and quagmire. Atleast he comes off funny about it and not slimy.",
+      "platform": "youtube",
+      "author_hash": "ab5627b2e48641e0efb86d7a",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.63847464,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_22e488137c4ca13f474a",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] ma'am with all due respect. No one here talks like that, unless they're all deliberately speaking to you like that.",
+      "platform": "youtube",
+      "author_hash": "b5186cafa32480bd0fc80267",
+      "language": "en",
+      "score": 0.6312306,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_701448870d7e64b8cb40",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] he's like chandler. A sarcastic ass we can't help but love",
+      "platform": "youtube",
+      "author_hash": "746e117636c3f5a195cb4117",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_1dc085ba8b79b2ae1768",
+      "anonymous_id": "TARGET_A10",
+      "text": "i love this character so much",
+      "platform": "youtube",
+      "author_hash": "36db79fd3004a65cff64fb5c",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_767154fab74653e1d1f1",
+      "anonymous_id": "TARGET_A10",
+      "text": "Owww... I mean Ohhww",
+      "platform": "youtube",
+      "author_hash": "51c61f0ea24127e94fedd305",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4ebcd682241df8dae274",
+      "anonymous_id": "TARGET_A10",
+      "text": "I really like him ❤ tho i hate when he's mean to his mom.",
+      "platform": "youtube",
+      "author_hash": "6b50acbb9efe012b09e9b555",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4a0967adb1cb1b3de607",
+      "anonymous_id": "TARGET_A10",
+      "text": "HOW CAN I ASK THEM WHEN IM TALKING TO YOU?",
+      "platform": "youtube",
+      "author_hash": "4f0c5c5d083857f48fbe006e",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_c613f43bcbeedb9715d8",
+      "anonymous_id": "TARGET_A10",
+      "text": "keep it real, babe",
+      "platform": "youtube",
+      "author_hash": "e459228174f0bd1f39342a3a",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_701448870d7e64b8cb40",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] he's like chandler. A sarcastic ass we can't help but love",
+      "platform": "youtube",
+      "author_hash": "746e117636c3f5a195cb4117",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3015de19c79e49a04f38",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sheldon, Stuart, then [TARGET].....",
+      "platform": "youtube",
+      "author_hash": "494b5461a682c06d15aa52a8",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4a0967adb1cb1b3de607",
+      "anonymous_id": "TARGET_A10",
+      "text": "HOW CAN I ASK THEM WHEN IM TALKING TO YOU?",
+      "platform": "youtube",
+      "author_hash": "4f0c5c5d083857f48fbe006e",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bb425ae43006f66208b2",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he owns the show He does what he wants, not hindered by sheldon at all unlike others",
+      "platform": "youtube",
+      "author_hash": "be1ef69df6f8f99c3d8bed49",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0705d53086e870beda29",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he will be perfect quagmire",
+      "platform": "youtube",
+      "author_hash": "b6f08da83f4b31ee91191bbe",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fc32e6fe67e92ab9015a",
+      "anonymous_id": "TARGET_A10",
+      "text": "yeah some times he is but I think he is sitting in sheldons spot 1.04",
+      "platform": "youtube",
+      "author_hash": "82b15176d249f306f4dc559a",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a77d50a1abe4373a3843",
+      "anonymous_id": "TARGET_A10",
+      "text": "When he copies sheldon",
+      "platform": "youtube",
+      "author_hash": "44c9a18b36ff8c231a6b4e8f",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_ec411d084c71292da425",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is amazing made the voice of Raj and Stephan Hawking and Sheldon is a naive boy he still believe it",
+      "platform": "youtube",
+      "author_hash": "1ac2b4f6bb9eddadcf538aad",
+      "language": "en",
+      "score": 0.66506255,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_7fb1788b27100627a366",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET]'s character development is one of the, if not the best in the show. From creepy stalker to loving father of two. I swear hearing Astronaut [TARGET] was more satisfying than seeing Sheldon win the Nobel.",
+      "platform": "youtube",
+      "author_hash": "635e28cf3c4de193c8604588",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ae30f786320bd668156f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Out of all characters on the show [TARGET] has grown the most and its awesome. That is because he got vary lucky to find Bernadette and she made him a better person. Plus their chemistry is so wonderful. Out of the top 3 relationships on the show they are tied for first with Leonard and penny.",
+      "platform": "youtube",
+      "author_hash": "58454d8007d9c0aa00202865",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.6312306,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:stackexchange_2f33184e9fe65fda69c5",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] 'In the later seasons they became friends outside of academia and that might be the explanation for how they change what they call each other. ' --> seriously? they were friends at the start i believe. even the flashback episode with how leonard met sheldon we see leonard already becoming friends with raj and [TARGET]...or something",
+      "platform": "stackexchange",
+      "author_hash": "54c549e0d397dae1442bc606",
+      "language": "en",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_95edd8fa0849aecefa9f",
+      "anonymous_id": "TARGET_A10",
+      "text": "He havd the best character development",
+      "platform": "youtube",
+      "author_hash": "21653ebb61351faee746496c",
+      "language": "en",
+      "score": 0.6202536,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f60a00babc99d9af4a9d",
+      "anonymous_id": "TARGET_A10",
+      "text": "His impressions are the best",
+      "platform": "youtube",
+      "author_hash": "b159ad09e7f337c3cca98960",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0226f0ced0cf48e82bb1",
+      "anonymous_id": "TARGET_A10",
+      "text": "No [TARGET] became Sheldon student? Pass",
+      "platform": "youtube",
+      "author_hash": "19c08ea70bd496af7ed62bd4",
+      "language": "en",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f2fddd7a594d024bd415",
+      "anonymous_id": "TARGET_A10",
+      "text": "so many impressions n voices he did.. perfected them🙌",
+      "platform": "youtube",
+      "author_hash": "52814d8eb0e52950a193ea23",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_7a64a8bdd300b2689df7",
+      "anonymous_id": "TARGET_A10",
+      "text": "I can see him putting on a liverpool accent to pick up chicks, claiming he’s Ringo Starr’s son.",
+      "platform": "youtube",
+      "author_hash": "51a1fcb4077c61a9074ba476",
+      "language": "en",
+      "score": 0.69064254,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.68223506,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f60a00babc99d9af4a9d",
+      "anonymous_id": "TARGET_A10",
+      "text": "His impressions are the best",
+      "platform": "youtube",
+      "author_hash": "b159ad09e7f337c3cca98960",
+      "language": "en",
+      "score": 0.66332006,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f34446eb1a25b12930f5",
+      "anonymous_id": "TARGET_A10",
+      "text": "he looks like a beatles reject",
+      "platform": "youtube",
+      "author_hash": "41fd57ddb0b889aaaf1e97eb",
+      "language": "en",
+      "score": 0.640276,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ba39e5c2df7a62b6b5dc",
+      "anonymous_id": "TARGET_A10",
+      "text": "Raj: Do I really sound like that? [TARGET]: tEll hiM hE sOuNds liKe tHat",
+      "platform": "youtube",
+      "author_hash": "12637fb6ead214a3109af313",
+      "language": "en",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_cfc1a2f1b35559b142de",
+      "anonymous_id": "TARGET_A10",
+      "text": "his attitude, his hair, his wardrobe and his belt is legend",
+      "platform": "youtube",
+      "author_hash": "0a4d1eb79a8db38b856b733e",
+      "language": "en",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_ac565c0f3818efee81e2",
+      "anonymous_id": "TARGET_A10",
+      "text": "That Raj impression tho",
+      "platform": "youtube",
+      "author_hash": "cefc19b7228c6730fda91e42",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fb0b0a548912681c3f48",
+      "anonymous_id": "TARGET_A10",
+      "text": "The impressions are great.",
+      "platform": "youtube",
+      "author_hash": "2329307d4aeb234ff00aaa31",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_01777376644f4727013c",
+      "anonymous_id": "TARGET_A10",
+      "text": "Love his Impressions A Lot",
+      "platform": "youtube",
+      "author_hash": "256401e7b6b01fec6004fe1a",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a26c8136ab420e959e14",
+      "anonymous_id": "TARGET_A10",
+      "text": "I'm impressed by [TARGET]'s transformation from creepy weird guy to a responsible father of 2",
+      "platform": "youtube",
+      "author_hash": "4200874326605f0683f8bccd",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_166b703b35ed713c96ab",
+      "anonymous_id": "TARGET_A10",
+      "text": "Ya it is spot on",
+      "platform": "youtube",
+      "author_hash": "941bfbc6d5781081c1345d22",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_3ffc9b731bdeb8788042",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is in 'the spot'",
+      "platform": "youtube",
+      "author_hash": "a539b84a6e12fdb7d87ea828",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_5d5b4f1ac0614b12fa6d",
+      "anonymous_id": "TARGET_A10",
+      "text": "Why is [TARGET] sitting in sheldon spot",
+      "platform": "youtube",
+      "author_hash": "ea9596da0483415efe466b47",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_8950381b4ebaa0ab6ac6",
+      "anonymous_id": "TARGET_A10",
+      "text": "Did anyone notice [TARGET] siting in Sheldon's spot",
+      "platform": "youtube",
+      "author_hash": "1b880ac037134d9dd2e0bedb",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f60a00babc99d9af4a9d",
+      "anonymous_id": "TARGET_A10",
+      "text": "His impressions are the best",
+      "platform": "youtube",
+      "author_hash": "b159ad09e7f337c3cca98960",
+      "language": "en",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_05ac799f3b3a1b08b3b3",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] impression of benie though",
+      "platform": "youtube",
+      "author_hash": "fb2bb9ac14d144eaa453647d",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_71fa1129ae92def59729",
+      "anonymous_id": "TARGET_A10",
+      "text": "missing when imitating sheldon",
+      "platform": "youtube",
+      "author_hash": "d1f9218ecc561f61c914423c",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_67fa697c8d613d799f28",
+      "anonymous_id": "TARGET_A10",
+      "text": "wait Sheldon isnt complaining that [TARGET] is in his spot 0;43",
+      "platform": "youtube",
+      "author_hash": "09bdd10b591e7b088a8bd956",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f6e1fe543c866ba0885d",
+      "anonymous_id": "TARGET_A10",
+      "text": "Did anyone else notice Sheldon didn't care that [TARGET] sat in his spot",
+      "platform": "youtube",
+      "author_hash": "0018fe59fa66561189dd9558",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fa3fef200a1adb1c494e",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:38 the best imitation I ever heard",
+      "platform": "youtube",
+      "author_hash": "db526c7a3b53c3f0d759af64",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "tbbt_howard:youtube_156c03f5eb647d2efbc4",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is sitting in Sheldon’s spot and Sheldon isn’t freaking out.",
+      "platform": "youtube",
+      "author_hash": "2865e5aceca3c067ff5987db",
+      "language": "en",
+      "score": 0.6509999,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_201282d02f626444d72f",
+      "anonymous_id": "TARGET_A10",
+      "text": "6:25 real reaction from sheldon and [TARGET]",
+      "platform": "youtube",
+      "author_hash": "5c054077c9dd116df453d90f",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4cd023819d01a85e20ff",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is talking jokes with a serious face...LOL",
+      "platform": "youtube",
+      "author_hash": "b67a6d96e84071cc0ef547fc",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_2a04f0e5921c25661fb1",
+      "anonymous_id": "TARGET_A10",
+      "text": "1:35 you know it’s bad when it even has Sheldon disturbed",
+      "platform": "youtube",
+      "author_hash": "f55c960c02cd254113b9ca11",
+      "language": "en",
+      "score": 0.5922893,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fd0e91ac16bb281f4ac4",
+      "anonymous_id": "TARGET_A10",
+      "text": "His shouting matches with his out of view mom",
+      "platform": "youtube",
+      "author_hash": "785aa36c9a1c1878386cdc2a",
+      "language": "en",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_94654c7931776e3bbbb8",
+      "anonymous_id": "TARGET_A10",
+      "text": "Relax no ones going to be looking at her hair! Punch Ow!! I mean Ow…",
+      "platform": "youtube",
+      "author_hash": "7086a250ea86c41034c1b09c",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f56527ac4efbe46182c9",
+      "anonymous_id": "TARGET_A10",
+      "text": "How hard it is to be [TARGET]",
+      "platform": "youtube",
+      "author_hash": "44de271559e1d27a5f81f529",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82b87045f418ea72546b",
+      "anonymous_id": "TARGET_A10",
+      "text": "My constant struggle is choosing who's the funniest among these 4",
+      "platform": "youtube",
+      "author_hash": "11c702212e462e4016b2c559",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_06950824ac3ad263bac1",
+      "anonymous_id": "TARGET_A10",
+      "text": "Relax..no one is going to see her hair..always on point [TARGET]? Or should i say points?",
+      "platform": "youtube",
+      "author_hash": "76b3aee97581f4c45a8e5609",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "tbbt_howard:youtube_00fdadd2fdace8cd91f8",
+      "anonymous_id": "TARGET_A10",
+      "text": "Except when they're not. Then it's hilarious",
+      "platform": "youtube",
+      "author_hash": "f6412fb6d66e5f5ad4937c39",
+      "language": "en",
+      "score": 0.67370707,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_b963954f2b4b6f8c9b4f",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sometimes??? He is better",
+      "platform": "youtube",
+      "author_hash": "5f59b6e38bb604c5a3884c4d",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_22e488137c4ca13f474a",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] ma'am with all due respect. No one here talks like that, unless they're all deliberately speaking to you like that.",
+      "platform": "youtube",
+      "author_hash": "b5186cafa32480bd0fc80267",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_78d269070c32a9d0146e",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] on One/1 Pranks PrankMaster He is nor boring neither useless. Annoying we can say but to other characters not to audience",
+      "platform": "youtube",
+      "author_hash": "9c7d4de628ddcbd0f3041605",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_f28447a8a094a71f7840",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] yeah because he was creepy compared to the others on the show ( other than Amy she's also creepy) but compared to other people he isn't that creepy",
+      "platform": "youtube",
+      "author_hash": "4781a334714cc742cad320e1",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_82553ecb94c8ef49fd38",
+      "anonymous_id": "TARGET_A10",
+      "text": "+sibi nandan he's kind of a dick though.",
+      "platform": "youtube",
+      "author_hash": "ebbb2fe7b712e19003cfe1d9",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_a77d50a1abe4373a3843",
+      "anonymous_id": "TARGET_A10",
+      "text": "When he copies sheldon",
+      "platform": "youtube",
+      "author_hash": "44c9a18b36ff8c231a6b4e8f",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fc32e6fe67e92ab9015a",
+      "anonymous_id": "TARGET_A10",
+      "text": "yeah some times he is but I think he is sitting in sheldons spot 1.04",
+      "platform": "youtube",
+      "author_hash": "82b15176d249f306f4dc559a",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_bb425ae43006f66208b2",
+      "anonymous_id": "TARGET_A10",
+      "text": "I think he owns the show He does what he wants, not hindered by sheldon at all unlike others",
+      "platform": "youtube",
+      "author_hash": "be1ef69df6f8f99c3d8bed49",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_fba61504d83a71d5e82f",
+      "anonymous_id": "TARGET_A10",
+      "text": "After sheldon",
+      "platform": "youtube",
+      "author_hash": "f216b1261d1d6b9ae0d514d7",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "tbbt_howard:youtube_701448870d7e64b8cb40",
+      "anonymous_id": "TARGET_A10",
+      "text": "[USER] he's like chandler. A sarcastic ass we can't help but love",
+      "platform": "youtube",
+      "author_hash": "746e117636c3f5a195cb4117",
+      "language": "en",
+      "score": 0.8287171,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_55dc3f43eaf775d77587",
+      "anonymous_id": "TARGET_A10",
+      "text": "I remember paying extra attention whenever [TARGET] speaks in TBBT episodes coz whatever he says is funny",
+      "platform": "youtube",
+      "author_hash": "e46d92661b9f4b518765e326",
+      "language": "en",
+      "score": 0.7928494,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_97b7058f453395754cef",
+      "anonymous_id": "TARGET_A10",
+      "text": "Sheldon is good at saying random things and [TARGET] is a funny and creepy person",
+      "platform": "youtube",
+      "author_hash": "2c63ba0a19021ee8f766c107",
+      "language": "en",
+      "score": 0.7743104,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_914b3421dd8500824f02",
+      "anonymous_id": "TARGET_A10",
+      "text": "He just like Chandler Bing, the funniest guy. They crack me up",
+      "platform": "youtube",
+      "author_hash": "fb2984371c23add997b715c4",
+      "language": "en",
+      "score": 0.7715682,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_cdc889737fae020f59ad",
+      "anonymous_id": "TARGET_A10",
+      "text": "Amazing funny guy",
+      "platform": "youtube",
+      "author_hash": "5ef2ae437d157ce3eb9634d0",
+      "language": "en",
+      "score": 0.7715682,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_cef49e4ad97eac8c08fd",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is funny",
+      "platform": "youtube",
+      "author_hash": "9e559db92ff4f373e2ad4ae9",
+      "language": "en",
+      "score": 0.75750744,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_0505425c5ac7808f6a13",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET]'s mimicry,beatboxing,accents,sarcasm,etc😂😂😂😂 he just wins it everytime!!😂😂",
+      "platform": "youtube",
+      "author_hash": "c42ae8f11a4d6fff7e9f8f53",
+      "language": "en",
+      "score": 0.73987377,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4130a593ed6a36ac946d",
+      "anonymous_id": "TARGET_A10",
+      "text": "\" So...what are you wearing\" hahaha the indian accent makes it so funny",
+      "platform": "youtube",
+      "author_hash": "4565ac555f9848648ea3602a",
+      "language": "en",
+      "score": 0.71827835,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_1aab8b9fc3fc6155410a",
+      "anonymous_id": "TARGET_A10",
+      "text": "What was [TARGET] thinking, imitating Raj? \"Keep it real, babe!\" Lol.",
+      "platform": "youtube",
+      "author_hash": "292f82612baefc96b73827c1",
+      "language": "en",
+      "score": 0.7166947,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_howard:youtube_4cd023819d01a85e20ff",
+      "anonymous_id": "TARGET_A10",
+      "text": "[TARGET] is talking jokes with a serious face...LOL",
+      "platform": "youtube",
+      "author_hash": "b67a6d96e84071cc0ef547fc",
+      "language": "en",
+      "score": 0.7151058,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_f6c17854c75a623bc7da",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER], \"Snape was to kill him before [TARGET] could, and for [TARGET] to get into a position to kill Dumbledore, he had to succeed at whatever he was doing. Everything was going as planned, no cause for alarm.\" I think that sounds plausible. He might have hurried from the castle to finish the Horcux mission before [TARGET]'s plan unfolded, and eventually caused Snape to step in.",
+      "platform": "stackexchange",
+      "author_hash": "ea662f126a4f76e10bffcd47",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_512dd949dbcea417201e",
+      "anonymous_id": "TARGET_A04",
+      "text": "All that was arranged before Harry told him of [TARGET]s celebrations; it does not answer why Dumbledore still thought his precautions sufficient after Harry told him that [TARGET] had just achieved something. Since Dravo was celebrating that very moment, Dumbledore certainly did not knew about his success when he arranged these precautions.",
+      "platform": "stackexchange",
+      "author_hash": "c2f96dd6624ba5275feb595a",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d344a3a846a90d09fa37",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - As mentioned before, Dumbledore had already tasked Snape to handle [TARGET]. There was no reason to devote any more attention to it since he had already written the end of the play, as it were. Everything was proceeding as planned. Why worry about that action specifically?",
+      "platform": "stackexchange",
+      "author_hash": "884a2120f4ebdc8e07659c9d",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_3f8a32ea31cc713c79cd",
+      "anonymous_id": "TARGET_A04",
+      "text": "Great answer. Note that it's \"if it seems [TARGET] will fail\", not \"if [TARGET] fails\". Context, context, context.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_cc21efda8038c25188d4",
+      "anonymous_id": "TARGET_A04",
+      "text": "Who says he didn't? He had Snape trying all year to find out [TARGET]'s plans.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_f79811a310eb40351a70",
+      "anonymous_id": "TARGET_A04",
+      "text": "Also, I doubt even Dumbledore expected [TARGET] to do this well in his task. While disarmed and talking with [TARGET], Dumbledore confesses that he thought introducing death eaters in Hogwarts would be impossible. So maybe Dumbledore thought [TARGET] will eventually try to openly attack him and won't as he's not a killer. Then Snape can swoop in according to plan.",
+      "platform": "stackexchange",
+      "author_hash": "e93a331f31ad153ebce3ded6",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2f097ee1938a48889b3e",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] [TARGET] singlehandedly came up with the idea for Vanishing Cabinets as a transport mechanism in Dumbledore's assassination plot, had a command of Occlumency that even Snape couldn't break, and then there was that whole scene in CoS where Lucius gets mad at [TARGET] for underperforming compared to Hermione, showing that he was set high standards and expected to maintain them.",
+      "platform": "stackexchange",
+      "author_hash": "20ffaa1959b90e2a790f85a6",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_0f4b5a3d2edbf42b9e50",
+      "anonymous_id": "TARGET_A04",
+      "text": "The reason Moody stopped [TARGET] from attacking is most likely to make sure he couldn’t do anything to Harry that would stop him winning the Tournament. There’s a quote where he mentioned protecting Harry for this reason, and it’s highly unlikely that he’d do it solely for revenge on Lucius while having such a tightly controlled act as Moody. It’s unlikely he’d risk Transfiguring a student without it furthering his plan somewhat.",
+      "platform": "stackexchange",
+      "author_hash": "700d73dfcb9d8c7e6977b004",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_92451ba9de6063da2224",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Mr Know-Who wasn't in contact with the [TARGET]s, and was actively engaged in a different plot to return. Wasn't that Voldy's plan after failing with the Philosophers stone, and the Diary, and after being found again by Wormtail? We're onto plan C by then.",
+      "platform": "stackexchange",
+      "author_hash": "6587e7a9388a4d1456f4b7a2",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_4e2c37f5e3ddac959e25",
+      "anonymous_id": "TARGET_A04",
+      "text": "Can you even make an assumption that he DID recognize Harry?",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_88885ac5465ec92e6c62",
+      "anonymous_id": "TARGET_A04",
+      "text": "to simply your theory: Hermione hangs out with Harry and Harry and [TARGET] do not get along. It likely came up when researching Harry and his friends.",
+      "platform": "stackexchange",
+      "author_hash": "a2a3ca109ff639ba32500bb2",
+      "language": "en",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_9b1b8b9406a233318c22",
+      "anonymous_id": "TARGET_A04",
+      "text": "Isn’t the first time they meet actually in the clothing shop? Where harry already gets a bad vibe from him when [TARGET] mentions his family etc",
+      "platform": "youtube",
+      "author_hash": "2dd5c4f649036ec5d59cc2f6",
+      "language": "en",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.3429895,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_f65e5dece154f3f0361a",
+      "anonymous_id": "TARGET_A04",
+      "text": "But [TARGET] succeeded.. Shouldn't Voldemort feel strange?",
+      "platform": "stackexchange",
+      "author_hash": "7540916749a73b9348409e53",
+      "language": "en",
+      "score": 0.33250543,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_ea32605e5266a91fd7a4",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] On the first day of school, after stepping through what you thought was a solid wall but actually turns out to be a magical portal to a hidden train platform? I imagine if the Wizarding world is brand new to you you're going to have a distinctive look of fascination/confusion that wouldn't be matched by a member of a Wizarding family. Even in Chamber of Secrets they seem utterly bemused/fascinated by everything going on in Diagon Alley, and you'd assume they'd already been there once before prior to her first year.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6293ff5a615e9d600530",
+      "anonymous_id": "TARGET_A04",
+      "text": "It's pretty clear from the books that [TARGET] recognizes Harry/Hermione/Ron. But fortunately , he's too afraid of the consequences so he pretends he doesn't recognize them.",
+      "platform": "stackexchange",
+      "author_hash": "f9003e5f76c06aaca56a0d92",
+      "language": "en",
+      "score": 0.3256063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_1c606091f1c7f5c1dbf2",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] It could have be a simple mannerism that is common to muggles (checking a smartphone, talking about dentistry, dressing 'appropriately', etc...) that gives them away. TBH my comment was simply reflecting on a general feeling I got while reading the books that it was easy for magical folk to identify muggles; especially when those muggles are in a \"magical\" area. I am not suggesting, however, that it is impossible for a muggle to \"fit in\" with a magical crowd.",
+      "platform": "stackexchange",
+      "author_hash": "cd99cfef8c31ed93c6398b10",
+      "language": "en",
+      "score": 0.32218465,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8000f8491e7093b979c1",
+      "anonymous_id": "TARGET_A04",
+      "text": "When [TARGET] tried to befriend Harry, that was before Harry was sorted in Gryffindor, and before we knew [TARGET] despised muggle-borns. It could have been nothing more than one 11 year old boy wanting to befriend a famous 11 year old boy.",
+      "platform": "stackexchange",
+      "author_hash": "0d63e778a11477a2bef30dfe",
+      "language": "en",
+      "score": 0.30536577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_2a53577da739db0811b1",
+      "anonymous_id": "TARGET_A04",
+      "text": "As someone who read the books and actually likes book [TARGET] as an antagonist, I'm glad people are seeing and talking about how different the two [TARGET]'s are. Thank you",
+      "platform": "youtube",
+      "author_hash": "54b1b9eb74182b3278787e45",
+      "language": "en",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_bbc9a49068d68b250541",
+      "anonymous_id": "TARGET_A04",
+      "text": "A quote from DUNE comes to mind...\"Make our enemy aware we know which hand holds the knife?...We see the knife now, who knows where it might be shifted next?\"",
+      "platform": "stackexchange",
+      "author_hash": "7af2a5922a9fcff52f81d4d4",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_4a4a256dcd0296c91992",
+      "anonymous_id": "TARGET_A04",
+      "text": "I suggest a bit of everything here, something a bit more moderate. [TARGET] is a clever and spoiled Slytherin. Conjuring a snake could well be something pretty common to have a go at in the Slytherin Common Room. It would freak others out, it's classically Slytherin, etc. I don't think Snape would teach him and [TARGET] would laugh . Surely it's a suggestion that [TARGET] likes.",
+      "platform": "stackexchange",
+      "author_hash": "35fc3ba14381eae4d48601a5",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_be690652e2c19c2722d4",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Plus, [TARGET] was continuously reckless around wild animals during that class. He would always assume that he could just stroll up to some beast and command it to roll over and lick his hand and it would obey. If anything, [TARGET] should be the one in trouble for that situation, not Hagrid. [TARGET] is old enough to understand basic safety procedures and listen when told not to approach a dangerous animal a certain way. Hagrid can only do so much. The classes have a certain curriculum, I'd imagine, so [TARGET] would've seen a beast of that species one way or another and get hurt.",
+      "platform": "stackexchange",
+      "author_hash": "05171faaa7899ff824893094",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_ea32605e5266a91fd7a4",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] On the first day of school, after stepping through what you thought was a solid wall but actually turns out to be a magical portal to a hidden train platform? I imagine if the Wizarding world is brand new to you you're going to have a distinctive look of fascination/confusion that wouldn't be matched by a member of a Wizarding family. Even in Chamber of Secrets they seem utterly bemused/fascinated by everything going on in Diagon Alley, and you'd assume they'd already been there once before prior to her first year.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_02d7410b2d7dfb76e608",
+      "anonymous_id": "TARGET_A04",
+      "text": "While these events do mold [TARGET]'s character from the \"simple villain\" he is in the early books to a more complex character, the key personality trait of the character - that of the spoiled selfish brat - remains. [TARGET]'s acts are always ultimately selfish. At the same time, he's never very mature about making them; they are always very short-sighted, and his parents always seem to figure directly into the choices he makes.",
+      "platform": "stackexchange",
+      "author_hash": "f1711deb2d8b8d5298ba051f",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_ec2e2f6016c8d5fbc5db",
+      "anonymous_id": "TARGET_A04",
+      "text": "\"Wet blanket\" I think that is a perfect description for his movie version. He never felt intimidating, nor especially intelligent, competent, strategic, threatening, and so on. He just made some nasty comments in passing like a joker trying to look cool. Not like a dark wizard in the making.",
+      "platform": "youtube",
+      "author_hash": "8b9755d3f359146cc3fecbf8",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_12432a97ce6188d7085f",
+      "anonymous_id": "TARGET_A04",
+      "text": "Narcissa cares about her son the most and will do what it takes to protect them from Voldermort. Same with Regulus. Voldermort doesn't understand love. If you attempt hurt the loved ones of your followers they will turn their back on you.",
+      "platform": "stackexchange",
+      "author_hash": "16fb865dcc8dce385f630f01",
+      "language": "en",
+      "score": 0.7214293,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_acf5f64545488c37d99e",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not positively identifying the trio including the Mudblood - as he called Hermione repeatedly and even docks points simply because of that fact - Hermione as any kind of redemption? He could have said yes; and although he confronts the trio in The Room of Hidden Things he doesn’t seem bent on hurting them. You can argue that he only did it because The Dark Lord was to kill Harry but what about the others? And need I remind you that Severus can use this conveniently when he wants to protect Harry?",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.6771325,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.66506255,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_ac60c247d447d21fc455",
+      "anonymous_id": "TARGET_A04",
+      "text": "I’m not sure I fully understand your last two questions. 2) When exactly do you mean? You mean when Harry and Voldemort are circling each other right before Voldemort dies? Does he reveal the allegiance any time before that? But [TARGET]’s not in any real danger there..? 3) Surely, protecting [TARGET] was the whole point of that Unbreakable Vow; or rather, [TARGET]’s protection and safe-keeping was what made Narcissa ask Snape to make the Unbreakable Vow to begin with. She doesn’t really care that much whether Dumbledore lives or dies, but she cares a great deal whether her son is kept safe.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_0f4b5a3d2edbf42b9e50",
+      "anonymous_id": "TARGET_A04",
+      "text": "The reason Moody stopped [TARGET] from attacking is most likely to make sure he couldn’t do anything to Harry that would stop him winning the Tournament. There’s a quote where he mentioned protecting Harry for this reason, and it’s highly unlikely that he’d do it solely for revenge on Lucius while having such a tightly controlled act as Moody. It’s unlikely he’d risk Transfiguring a student without it furthering his plan somewhat.",
+      "platform": "stackexchange",
+      "author_hash": "700d73dfcb9d8c7e6977b004",
+      "language": "en",
+      "score": 0.6184117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_f3d8cca95e0f98c76cac",
+      "anonymous_id": "TARGET_A04",
+      "text": "We can also assume that if she found that Harry lied, she would have killed Harry herself. She is a mother putting a desperate hope into stranger, the stranger who she believes is the only person that can stand up to Voldy and ensure her son's safety.",
+      "platform": "stackexchange",
+      "author_hash": "4334c86628a3c6b978eaf941",
+      "language": "en",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_72557e9bbf3324a2ecb4",
+      "anonymous_id": "TARGET_A04",
+      "text": "I would say it's more specific; as I just posted a comment to the question: And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort. Maybe you want to integrate it into the answer though; by all means if you want to go ahead.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_bca04fb8c1a403d13c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] It's a matter of perspective, I guess. I agree she was brave by betraying him, but she's also being cowardly by betraying her friends and allies repeatedly whenever she is threatened. The [TARGET]s in general have no courage of their convictions.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_3f8a32ea31cc713c79cd",
+      "anonymous_id": "TARGET_A04",
+      "text": "Great answer. Note that it's \"if it seems [TARGET] will fail\", not \"if [TARGET] fails\". Context, context, context.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.5922893,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_264f047295d7ce76d026",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER]'s Suggestion seems to me the most likely. And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_cf20db50f077e187f5ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "I didn't down vote this but: you might want to provide a bit more elaboration. But the thing is this: I understand what you're getting at; they say parents fear most the harm or death of their child and I totally understand the loss of a spouse being very terrifying concept too. But at the same time I don't think it's that simple. Fear is a strange thing and there are fears hidden in people that are far more terrifying than the loss of a loved one. Whether he has one who can tell but the fact he can compartmentalise himself means it's harder for anyone to say for certain.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.8497718,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.82760537,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_72557e9bbf3324a2ecb4",
+      "anonymous_id": "TARGET_A04",
+      "text": "I would say it's more specific; as I just posted a comment to the question: And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort. Maybe you want to integrate it into the answer though; by all means if you want to go ahead.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_264f047295d7ce76d026",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER]'s Suggestion seems to me the most likely. And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d69749a9b1d3cb2841da",
+      "anonymous_id": "TARGET_A04",
+      "text": "Possibly his father, as he seems terrified of disappointing him.",
+      "platform": "stackexchange",
+      "author_hash": "0711e9dc5cf2169479693324",
+      "language": "en",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_03c3c05c8812354fb35c",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wonder if his biggest fear could be Lord Voldemort himself, punishing him and his family.",
+      "platform": "stackexchange",
+      "author_hash": "85caf70dad5b4ffe1c22f191",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_ab140e0d0d41fd4f6c60",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not necessarily. But unlike Voldemort who feared death above all else and was incapable of facing it, there's nothing to suggest that [TARGET] or especially Dumbledore (who we know did face death quite calmly) was particularly incapable of facing death, should the need arise. That's not to say he necessarily had done so; but he could , unlike Voldemort who, up until the very last second of his life, refused to consider his own mortality and regard death as a possible event to occur to him.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_d670e152e66405bfa012",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wrote the difference off as someone being worried that if the actor did well playing the character that he would be the target of people who were Obsessed with one character or another. Make him nicer to avoid death threats",
+      "platform": "youtube",
+      "author_hash": "a552b5ed6e4b3cb4f88a3162",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_1ec4f8677e1cfa8aabe6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Ive known ppl like this. He wants to be friends with the golden trio but his parents and friend groups dont allow him. He knows if he i.d.s harry old Voldi will only like the [TARGET]s briefly and will lose out again. Yet he cant not go with Goil to confront harry when death eater parents/friend r pressuring him too. But he would have never attacked harry",
+      "platform": "youtube",
+      "author_hash": "a102a8349722bcde31f7fdba",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_12432a97ce6188d7085f",
+      "anonymous_id": "TARGET_A04",
+      "text": "Narcissa cares about her son the most and will do what it takes to protect them from Voldermort. Same with Regulus. Voldermort doesn't understand love. If you attempt hurt the loved ones of your followers they will turn their back on you.",
+      "platform": "stackexchange",
+      "author_hash": "16fb865dcc8dce385f630f01",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_ed19e78ae29e0d6ae323",
+      "anonymous_id": "TARGET_A04",
+      "text": "While what Dumbledore speaks the truth here, he still isn't really honest about his motives. If he wanted to live, he would do something else to protect [TARGET]. However he is going to die and his death has more important purpose than just saving [TARGET]'s life.",
+      "platform": "stackexchange",
+      "author_hash": "098afeaf5511f9dc01227dd5",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b4f4ec466d599f49f648",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER], from DH, Chapter 33: \"If you don't mind dying,\" said Snape roughly, \"why not let [TARGET] do it?\" \"That boy's soul is not yet so damaged,\" said Dumbledore. \"I would not have it ripped apart on my account.\"",
+      "platform": "stackexchange",
+      "author_hash": "60b87a365926dedf0d2dc87d",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_1ec4f8677e1cfa8aabe6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Ive known ppl like this. He wants to be friends with the golden trio but his parents and friend groups dont allow him. He knows if he i.d.s harry old Voldi will only like the [TARGET]s briefly and will lose out again. Yet he cant not go with Goil to confront harry when death eater parents/friend r pressuring him too. But he would have never attacked harry",
+      "platform": "youtube",
+      "author_hash": "a102a8349722bcde31f7fdba",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_abef73a0dd2a807343bf",
+      "anonymous_id": "TARGET_A04",
+      "text": "He sort of had to let [TARGET] go along with that didn't he? He knew what he was tasked with and although yes it's dangerous he always did stress for the greater good. Who knows what he'd have done if another person had died but nobody else did (well until a Death Eater decided to indiscriminately fire off AK!). Dumbledore had to and he was dying anyway; keep in mind he was also saving [TARGET] too! I refer not to just his soul but his life too (and he even offers to help take his family and give them safety - from the Order perhaps? But then the Death Eaters and Severus arrive...)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_3f8a32ea31cc713c79cd",
+      "anonymous_id": "TARGET_A04",
+      "text": "Great answer. Note that it's \"if it seems [TARGET] will fail\", not \"if [TARGET] fails\". Context, context, context.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_dd230a7ee81f3146d375",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Your answer is thoroughly sourced and explains DD's motivation regarding [TARGET] pretty nicely. I've got one suggestion for an extension: One more reason why DD didn't push in any direct way on [TARGET] was probably also Snape's vow - he promised to help [TARGET], any direct action against [TARGET] might have \"triggered\" the vow. And DD couldn't afford to loose Snape, either by having to kill him nor by having to arrest him. Nor did he want to die prematurely himself...",
+      "platform": "stackexchange",
+      "author_hash": "8d1f55e23ec6a3962bfa2e2f",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_ab140e0d0d41fd4f6c60",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not necessarily. But unlike Voldemort who feared death above all else and was incapable of facing it, there's nothing to suggest that [TARGET] or especially Dumbledore (who we know did face death quite calmly) was particularly incapable of facing death, should the need arise. That's not to say he necessarily had done so; but he could , unlike Voldemort who, up until the very last second of his life, refused to consider his own mortality and regard death as a possible event to occur to him.",
+      "platform": "stackexchange",
+      "author_hash": "447123846cc3ad2e7f898e0f",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_261c155421949eac6905",
+      "anonymous_id": "TARGET_A04",
+      "text": "This incident further emphasizes the fact that [TARGET] is simply a boy that's in over his head. By this point, he's come to grasp what being a Death Eater means and what they do, and he's understandably horrified. Just like what happened in HBP, [TARGET] is confronted with a choice: is he willing to condemn someone to death? Just as with Dumbledore, [TARGET] falters on the side of morality. Even if he didn't recognize Harry due to the Stinging Hex, he could've said it was Harry to gain some esteem within the Death Eater ranks.",
+      "platform": "stackexchange",
+      "author_hash": "ae50fb031b79649722347221",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_3028724ec22070afa200",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] that’s a fair definition of why this counts as “defeat” and I’d agree with it. It probably counts more than Harry just taking the [TARGET]’s wand out of his hand when he’s distracted. But it’s the Elder Wand’s decision to follow this interpretation. In the end, “ The wand chooses the wizard ” still remains the most important rule.",
+      "platform": "stackexchange",
+      "author_hash": "d53f6cbe5d00ec7beaa4a3ca",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_061bb23e275ac7c06d55",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think John O is correct, it's likely a bit of both. That said, with the level of entitlement [TARGET] displays throughout the books he'd likely feel that he \"fairly deserved to be there\" even if he was absolutely awful.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_c32d6c9a61fb9cd1b011",
+      "anonymous_id": "TARGET_A04",
+      "text": "Depends. If the Unbreakable vow was so weak that being ambiguous would stop it from working, it would be common knowledge. Narcissa isn't a fool, she would have known that. Spirit of the Law vs Letter of the Law. Obviously Voldy wanted Dumbledore dead a.s.a.p., but he didn't care if [TARGET] succeeded or not. It was a win/win in that if [TARGET] succeeded, Dumbledore died. If he didn't, Lucian was punished. See related: scifi.stackexchange.com/questions/17436/…",
+      "platform": "stackexchange",
+      "author_hash": "2dae4eb9c913af3b94d56198",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_36dbd114e1dee4ee137c",
+      "anonymous_id": "TARGET_A04",
+      "text": "On the contrary, a person who bribed his way onto the team might be frantically trying to forget that fact, and so it stings when forgetting is not allowed.",
+      "platform": "stackexchange",
+      "author_hash": "f29dcca433befc3692b5961d",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7bef06c9dcf39dce873d",
+      "anonymous_id": "TARGET_A04",
+      "text": "Look at it this way; it was taken from the hand of it's owner by the holder of the hawthorn wand ([TARGET]). That wand was taken from it's owner by Harry. Even though it was not taken directly by Harry, the chain of dominance remains unbroken -- Harry defeated [TARGET] who defeated Dumbledore. The wand simply recognizes when it's owner is defeated and gives it's allegiance to the victor; the fact that it was never in his hand is irrelevant -- the wand 'knows'.... It seeks the 'best' to be held by, and it determines this by who wins. Lose while you have it's allegiance, and it serves the winner.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2b1a9b210d34ddd4e26c",
+      "anonymous_id": "TARGET_A04",
+      "text": "But that doesn't make any sense. According to Ollivander, the WAND has to be won from its owner, in order for it to change allegiance. Harry didn't win the Elder Wand; he won the hawthorn wand. If this wasn't the rule, no one would want to win another's wand. If he lost it or gave it back, he'd lose his own too (lose one of your wands means losing all of them to the winner). Capturing another's wand increases your vulnerability to your wand switching allegiance. If you ask me it makes more sense that the Elder Wand refused to attack Harry because it thought [TARGET] was holding the hawthorn wand.",
+      "platform": "stackexchange",
+      "author_hash": "e0b501f2dde77dd59ddfa7d7",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_7fe371f2b719ed8c2f9c",
+      "anonymous_id": "TARGET_A04",
+      "text": "His actions went from selfish and incredibly dangerous to selfish and less harmful. He began to see the effects of his actions on others, and did not relish in bringing harm to others. That is a form of redemption, even if it is soaked with guilt and self-loathing.",
+      "platform": "stackexchange",
+      "author_hash": "a75849cc279fac76b86b2f93",
+      "language": "en",
+      "score": 0.6294102,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_1ec4f8677e1cfa8aabe6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Ive known ppl like this. He wants to be friends with the golden trio but his parents and friend groups dont allow him. He knows if he i.d.s harry old Voldi will only like the [TARGET]s briefly and will lose out again. Yet he cant not go with Goil to confront harry when death eater parents/friend r pressuring him too. But he would have never attacked harry",
+      "platform": "youtube",
+      "author_hash": "a102a8349722bcde31f7fdba",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_261c155421949eac6905",
+      "anonymous_id": "TARGET_A04",
+      "text": "This incident further emphasizes the fact that [TARGET] is simply a boy that's in over his head. By this point, he's come to grasp what being a Death Eater means and what they do, and he's understandably horrified. Just like what happened in HBP, [TARGET] is confronted with a choice: is he willing to condemn someone to death? Just as with Dumbledore, [TARGET] falters on the side of morality. Even if he didn't recognize Harry due to the Stinging Hex, he could've said it was Harry to gain some esteem within the Death Eater ranks.",
+      "platform": "stackexchange",
+      "author_hash": "ae50fb031b79649722347221",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_abef73a0dd2a807343bf",
+      "anonymous_id": "TARGET_A04",
+      "text": "He sort of had to let [TARGET] go along with that didn't he? He knew what he was tasked with and although yes it's dangerous he always did stress for the greater good. Who knows what he'd have done if another person had died but nobody else did (well until a Death Eater decided to indiscriminately fire off AK!). Dumbledore had to and he was dying anyway; keep in mind he was also saving [TARGET] too! I refer not to just his soul but his life too (and he even offers to help take his family and give them safety - from the Order perhaps? But then the Death Eaters and Severus arrive...)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_dcbf31a095d1794e73e1",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] While it is true that feigning compassion is something Voldemort would do, feigning it towards [TARGET] would not benefit him at all. Without knowledge of [TARGET]’s failures as a Death Eater or his personal misgivings, the onlookers at Hogwarts would only see [TARGET] as a Death Eater. At best, it would show that he was willing to forgive his followers’ transgressions.",
+      "platform": "stackexchange",
+      "author_hash": "700d73dfcb9d8c7e6977b004",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_02d7410b2d7dfb76e608",
+      "anonymous_id": "TARGET_A04",
+      "text": "While these events do mold [TARGET]'s character from the \"simple villain\" he is in the early books to a more complex character, the key personality trait of the character - that of the spoiled selfish brat - remains. [TARGET]'s acts are always ultimately selfish. At the same time, he's never very mature about making them; they are always very short-sighted, and his parents always seem to figure directly into the choices he makes.",
+      "platform": "stackexchange",
+      "author_hash": "f1711deb2d8b8d5298ba051f",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_ed19e78ae29e0d6ae323",
+      "anonymous_id": "TARGET_A04",
+      "text": "While what Dumbledore speaks the truth here, he still isn't really honest about his motives. If he wanted to live, he would do something else to protect [TARGET]. However he is going to die and his death has more important purpose than just saving [TARGET]'s life.",
+      "platform": "stackexchange",
+      "author_hash": "098afeaf5511f9dc01227dd5",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_aa375c7eed989a4d0df4",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think the Dumbledore is implying he can help [TARGET] because he's helped someone in a similar situation before, so +1 for Snape. I always thought he best represented that quote. He made all of the wrong choices, and suffered the consequences of them. Then he beseeched Dumbledore for help, and turned things around. I think that, from Dumbledore's perspective, Snape is the best match for the line of thought that would prompt that sentence.",
+      "platform": "stackexchange",
+      "author_hash": "683fd70e0c9721e08b661416",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_261c155421949eac6905",
+      "anonymous_id": "TARGET_A04",
+      "text": "This incident further emphasizes the fact that [TARGET] is simply a boy that's in over his head. By this point, he's come to grasp what being a Death Eater means and what they do, and he's understandably horrified. Just like what happened in HBP, [TARGET] is confronted with a choice: is he willing to condemn someone to death? Just as with Dumbledore, [TARGET] falters on the side of morality. Even if he didn't recognize Harry due to the Stinging Hex, he could've said it was Harry to gain some esteem within the Death Eater ranks.",
+      "platform": "stackexchange",
+      "author_hash": "ae50fb031b79649722347221",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_1ec4f8677e1cfa8aabe6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Ive known ppl like this. He wants to be friends with the golden trio but his parents and friend groups dont allow him. He knows if he i.d.s harry old Voldi will only like the [TARGET]s briefly and will lose out again. Yet he cant not go with Goil to confront harry when death eater parents/friend r pressuring him too. But he would have never attacked harry",
+      "platform": "youtube",
+      "author_hash": "a102a8349722bcde31f7fdba",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7fe371f2b719ed8c2f9c",
+      "anonymous_id": "TARGET_A04",
+      "text": "His actions went from selfish and incredibly dangerous to selfish and less harmful. He began to see the effects of his actions on others, and did not relish in bringing harm to others. That is a form of redemption, even if it is soaked with guilt and self-loathing.",
+      "platform": "stackexchange",
+      "author_hash": "a75849cc279fac76b86b2f93",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d69749a9b1d3cb2841da",
+      "anonymous_id": "TARGET_A04",
+      "text": "Possibly his father, as he seems terrified of disappointing him.",
+      "platform": "stackexchange",
+      "author_hash": "0711e9dc5cf2169479693324",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_acf5f64545488c37d99e",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not positively identifying the trio including the Mudblood - as he called Hermione repeatedly and even docks points simply because of that fact - Hermione as any kind of redemption? He could have said yes; and although he confronts the trio in The Room of Hidden Things he doesn’t seem bent on hurting them. You can argue that he only did it because The Dark Lord was to kill Harry but what about the others? And need I remind you that Severus can use this conveniently when he wants to protect Harry?",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_cf20db50f077e187f5ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "I didn't down vote this but: you might want to provide a bit more elaboration. But the thing is this: I understand what you're getting at; they say parents fear most the harm or death of their child and I totally understand the loss of a spouse being very terrifying concept too. But at the same time I don't think it's that simple. Fear is a strange thing and there are fears hidden in people that are far more terrifying than the loss of a loved one. Whether he has one who can tell but the fact he can compartmentalise himself means it's harder for anyone to say for certain.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_4b208a1f6103bce3a6f6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Say he was given detention. Do you truly believe he would suddenly stop saying those things? If only racism/bigotry/bullying was that simple to fix. But it's not and any claim to the contrary is naïve at best (and I'm not saying you made such a claim). People do what they want to regardless of the consequences, quite often, and kids are more likely to do so because they truly believe they are invincible (or I should say almost all of them are) and this has resulted in kids dying e.g. from trying to steal copper despite the huge warning signs in front of them.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_194c5b8452a9f68c206b",
+      "anonymous_id": "TARGET_A04",
+      "text": "'that discrimination based on blood status was already non-existent in wizarding society before' You mean it existed, right? And I think it's quite simply answered but unfortunately there really is no solution except all parents/guardians teaching - preaching if they must - to respect everyone no matter what. And even then some won't care. It's the same with bullying. Define 'allow'. Even if he was given detention do you really think that would stop him? That's not how racism/bigotry works.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_d14d9b9527afc9ac4605",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER]: from the text it's clear Narcissa thinks that's the case, but there's no real evidence for that either.",
+      "platform": "stackexchange",
+      "author_hash": "d7b82d4b774eccedb2a3295e",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_99a17cc922508e3cac7b",
+      "anonymous_id": "TARGET_A04",
+      "text": "'I'm not so sure [TARGET] is right in blaming Dumbledore' --> seriously? there's a chance [TARGET] is actually right?",
+      "platform": "stackexchange",
+      "author_hash": "0331594e0299d72393edac74",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_c8819ecefb3eb132d3de",
+      "anonymous_id": "TARGET_A04",
+      "text": "Hmm... I think then that Voldemort may have misjudged Dumbledore - it seems doubtful that Dumbledore would kill [TARGET] even in response to an attempt on his life",
+      "platform": "stackexchange",
+      "author_hash": "c1c0c8c89d6cdd2e2d5c9d04",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_75b1659905932b388583",
+      "anonymous_id": "TARGET_A04",
+      "text": "Good question, I suspect the answer is either that he took a guess, or he felt it. taking [TARGET]'s wand might have made Harry feel some sort of connection to the Elder Wand.",
+      "platform": "stackexchange",
+      "author_hash": "c5e63ea8d2fcc427c2bb1a89",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_0bcba45573559eb5d3cf",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] We don't know how Lucius felt about Harry until after [TARGET]'s interaction with him. At that point obviously he was disliked, however there is no way to know how he felt before that.",
+      "platform": "stackexchange",
+      "author_hash": "36f5f2d29b482e688d2f4065",
+      "language": "en",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.36441556,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_17d66e6c85b5755bde73",
+      "anonymous_id": "TARGET_A04",
+      "text": "I disagree with your [TARGET] redemption part being ambiguous because Ron and Hermione had no disguise. I think one of them, Bellatrix (if I am not wrong), even asks [TARGET] if they are Ron and Hermione and [TARGET] hesitated and said maybe, I don’t know. It was clear he deliberately saved them. The reason is ambiguous but I think it is because he had seen the worst of Voldemort and has already come to understand thats not what he wanted.",
+      "platform": "youtube",
+      "author_hash": "47cafdf7bfaede8978197587",
+      "language": "en",
+      "score": 0.3429895,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_92c69977f28cb15a48cd",
+      "anonymous_id": "TARGET_A04",
+      "text": "I thought that too. But we never really know how much Snapes knows. He was always questioning [TARGET] and I have no doubt he would, lets say 'spy', on him",
+      "platform": "stackexchange",
+      "author_hash": "85c58267f24f021b2298c525",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_9271f4b5c1c95626f234",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Seems probable; I'd expect him to have kind of a \"grass is always greener\" feeling about Durmstrang. It's the Dark School, run by a former Death Eater. I think that, initially, he thought he'd be happier at Hogwarts (lots of muggleborns and half-bloods form him to lord over), but over time he probably wondered enviously about what things would have been like if he'd gone somewhere that really understood him",
+      "platform": "stackexchange",
+      "author_hash": "f4121847a14825355a0911ac",
+      "language": "en",
+      "score": 0.33598232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.6184117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_fe53c83be3bd28374c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Getting the &*(% beat out of you when you truly deserve it can trigger some growth. It doesn't work for everyone but it seems to have helped [TARGET] in the end.",
+      "platform": "stackexchange",
+      "author_hash": "1d94c1536b15f56155bde054",
+      "language": "en",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d69749a9b1d3cb2841da",
+      "anonymous_id": "TARGET_A04",
+      "text": "Possibly his father, as he seems terrified of disappointing him.",
+      "platform": "stackexchange",
+      "author_hash": "0711e9dc5cf2169479693324",
+      "language": "en",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b05a1a5769056d798893",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] I mean that I'd expect [TARGET] to have built up an image in his head of Durmstrang as the place that would have rewarded him for his merits (like his talents, his pedigree, his wealth, his blood-status); it would have satisfied his self-image, instead of challenging it the way Hogwarts did. I'd expect him to have imagined himself basically being the prince of the school, the way he imagined himself to be prince of Hogwarts before he actually went there. Since he didn't have any direct experience with the school, he never would have had to challenge that delusion",
+      "platform": "stackexchange",
+      "author_hash": "f4121847a14825355a0911ac",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_08c5f0ca903f622f01ab",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] it doesn’t seem to be well defined what “defeat” actually means and to me, it seems the Elder Wand itself is stretching the rules when it fits its own agenda, i.e. wanting to do impressive things together with a powerful wizard. It even accepted stealing as a defeat, as it provided an opportunity to switch from the nerd Gregorovitch to the promising Grindelwald. Likewise, it accepted [TARGET] for just disarming a dying man because the alternative was dying undefeated with Dumbledore. But it didn’t want to stay with [TARGET], so it took the first opportunity to switch to famous [TARGET].",
+      "platform": "stackexchange",
+      "author_hash": "d53f6cbe5d00ec7beaa4a3ca",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_373f8f75eba7162b25ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "The thing with [TARGET] is that he emulated his father, showing he wanted to be prejudiced and a bully, instead of questioning whether he should go against his parents' beliefs.",
+      "platform": "youtube",
+      "author_hash": "6bfb1686c1d583434ca58d69",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_3f8a32ea31cc713c79cd",
+      "anonymous_id": "TARGET_A04",
+      "text": "Great answer. Note that it's \"if it seems [TARGET] will fail\", not \"if [TARGET] fails\". Context, context, context.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_71dbb603e10cd32c4475",
+      "anonymous_id": "TARGET_A04",
+      "text": "I don't have canon backup (hence the comment instead of an answer).. But, off the top of my head, Harry represents Power. Perhaps from fame, perhaps whatever unknown mysterious power defeated Voldy, or what have you... But [TARGET] as the scion of a powerful family would have been raised to automatically cozy up to and take the measure of any strong power; either to add it to his own strength (as an ally, or whatever) or to know the limits of it in case it was an opponent. Besides... Just imagine the points he could have gotten for converting the boy who lived into a willing Death Eater!",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_4b208a1f6103bce3a6f6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Say he was given detention. Do you truly believe he would suddenly stop saying those things? If only racism/bigotry/bullying was that simple to fix. But it's not and any claim to the contrary is naïve at best (and I'm not saying you made such a claim). People do what they want to regardless of the consequences, quite often, and kids are more likely to do so because they truly believe they are invincible (or I should say almost all of them are) and this has resulted in kids dying e.g. from trying to steal copper despite the huge warning signs in front of them.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.7054605,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_9074bdd27e8668136915",
+      "anonymous_id": "TARGET_A04",
+      "text": "I was hoping for that. Good to know. Unless of course it's because you, being the Dark Lord, understand it because detention wouldn't change your behaviour. Whatever the case it's unfortunately simple to understand but without a solution: people do whatever they want with no disregard for others or themselves; it's simply part of mankind. Racism/bigotry is just another form of bullying, when it's acted on/out, as [TARGET] does.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.68729424,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_c54addb672ca6840c220",
+      "anonymous_id": "TARGET_A04",
+      "text": "Isn't that just Harry's assumption then, not a statement by [TARGET]?",
+      "platform": "stackexchange",
+      "author_hash": "7a5be99f7f9fb616cda3f0ab",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_061bb23e275ac7c06d55",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think John O is correct, it's likely a bit of both. That said, with the level of entitlement [TARGET] displays throughout the books he'd likely feel that he \"fairly deserved to be there\" even if he was absolutely awful.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b05a1a5769056d798893",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] I mean that I'd expect [TARGET] to have built up an image in his head of Durmstrang as the place that would have rewarded him for his merits (like his talents, his pedigree, his wealth, his blood-status); it would have satisfied his self-image, instead of challenging it the way Hogwarts did. I'd expect him to have imagined himself basically being the prince of the school, the way he imagined himself to be prince of Hogwarts before he actually went there. Since he didn't have any direct experience with the school, he never would have had to challenge that delusion",
+      "platform": "stackexchange",
+      "author_hash": "f4121847a14825355a0911ac",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_cea588a7dddeae8b36b2",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - I think the other reason for the \"classism\" in the Potterverse has to do with blood. The [TARGET]s are pureblooded and quite proud of that fact. While they look down on the Weasley family for their economic status and size, they also look down on them for assorting themselves with mudbloods and halfbreeds. I could be wrong, but I was always under the impression many of the Ministry of Magic were also purebloods (Weasleys,Umbridge,Fudge,etc.) and while they tolerate those of without pureblood in their society they don't fully accept them either. Kind of like today w/ LGBTQ community",
+      "platform": "stackexchange",
+      "author_hash": "bf1269f12f04781d39fc4c01",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_f347e48adb77c286beb0",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] The assumption about an owl is fine, but it's only a guess. But the fact about [TARGET] using that insult on anyone is not correct as that term (mudblood) is well defined and used only in 'muddle parent' cases. +what Joe White wrote.",
+      "platform": "stackexchange",
+      "author_hash": "c39d5e693641d65db423d66c",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_9271f4b5c1c95626f234",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Seems probable; I'd expect him to have kind of a \"grass is always greener\" feeling about Durmstrang. It's the Dark School, run by a former Death Eater. I think that, initially, he thought he'd be happier at Hogwarts (lots of muggleborns and half-bloods form him to lord over), but over time he probably wondered enviously about what things would have been like if he'd gone somewhere that really understood him",
+      "platform": "stackexchange",
+      "author_hash": "f4121847a14825355a0911ac",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7ad51e53f1d09c8abc7a",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Voldemort obsessed over Harry, and we all know how stupid that was, in hindsight. I think it's good character development - wizards don't seem very open minded or good at lateral thinking, especially purebloods.",
+      "platform": "stackexchange",
+      "author_hash": "4b72f98559f193548bbac5cf",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d69749a9b1d3cb2841da",
+      "anonymous_id": "TARGET_A04",
+      "text": "Possibly his father, as he seems terrified of disappointing him.",
+      "platform": "stackexchange",
+      "author_hash": "0711e9dc5cf2169479693324",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_fe53c83be3bd28374c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Getting the &*(% beat out of you when you truly deserve it can trigger some growth. It doesn't work for everyone but it seems to have helped [TARGET] in the end.",
+      "platform": "stackexchange",
+      "author_hash": "1d94c1536b15f56155bde054",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_f2e03f1b4796dafbdc21",
+      "anonymous_id": "TARGET_A04",
+      "text": "It must be something scary, if you go by Prisoner of Azkaban chapter 6 where Fred recounts [TARGET]'s reaction when he's met the Dementor on the Hogwarts Express.",
+      "platform": "stackexchange",
+      "author_hash": "85caf70dad5b4ffe1c22f191",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_cf20db50f077e187f5ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "I didn't down vote this but: you might want to provide a bit more elaboration. But the thing is this: I understand what you're getting at; they say parents fear most the harm or death of their child and I totally understand the loss of a spouse being very terrifying concept too. But at the same time I don't think it's that simple. Fear is a strange thing and there are fears hidden in people that are far more terrifying than the loss of a loved one. Whether he has one who can tell but the fact he can compartmentalise himself means it's harder for anyone to say for certain.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_02d7410b2d7dfb76e608",
+      "anonymous_id": "TARGET_A04",
+      "text": "While these events do mold [TARGET]'s character from the \"simple villain\" he is in the early books to a more complex character, the key personality trait of the character - that of the spoiled selfish brat - remains. [TARGET]'s acts are always ultimately selfish. At the same time, he's never very mature about making them; they are always very short-sighted, and his parents always seem to figure directly into the choices he makes.",
+      "platform": "stackexchange",
+      "author_hash": "f1711deb2d8b8d5298ba051f",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_03c3c05c8812354fb35c",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wonder if his biggest fear could be Lord Voldemort himself, punishing him and his family.",
+      "platform": "stackexchange",
+      "author_hash": "85caf70dad5b4ffe1c22f191",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_72557e9bbf3324a2ecb4",
+      "anonymous_id": "TARGET_A04",
+      "text": "I would say it's more specific; as I just posted a comment to the question: And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort. Maybe you want to integrate it into the answer though; by all means if you want to go ahead.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2c6072ee61c19de9c202",
+      "anonymous_id": "TARGET_A04",
+      "text": "Children are extremely skilled at figuring out the most cutting insult they can apply to another child.",
+      "platform": "stackexchange",
+      "author_hash": "477e839494be9e38987308bc",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_dcbf31a095d1794e73e1",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] While it is true that feigning compassion is something Voldemort would do, feigning it towards [TARGET] would not benefit him at all. Without knowledge of [TARGET]’s failures as a Death Eater or his personal misgivings, the onlookers at Hogwarts would only see [TARGET] as a Death Eater. At best, it would show that he was willing to forgive his followers’ transgressions.",
+      "platform": "stackexchange",
+      "author_hash": "700d73dfcb9d8c7e6977b004",
+      "language": "en",
+      "score": 0.5922893,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_cf20db50f077e187f5ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "I didn't down vote this but: you might want to provide a bit more elaboration. But the thing is this: I understand what you're getting at; they say parents fear most the harm or death of their child and I totally understand the loss of a spouse being very terrifying concept too. But at the same time I don't think it's that simple. Fear is a strange thing and there are fears hidden in people that are far more terrifying than the loss of a loved one. Whether he has one who can tell but the fact he can compartmentalise himself means it's harder for anyone to say for certain.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_ea05df01f6fb660e2d51",
+      "anonymous_id": "TARGET_A04",
+      "text": "This really explains Rowlings being exasperated by fan girls who like to sympathize [TARGET] when his personality in the books is very different in the films.",
+      "platform": "youtube",
+      "author_hash": "f85c679ed34885920daade96",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_47d8cf6e2caadb5b1f7a",
+      "anonymous_id": "TARGET_A04",
+      "text": "Presumably, when one is surrounded by Death Eaters, it becomes a matter of survival to distinguish the truth from a lie. Narcissa probably could tell accurately that Harry had told the truth.",
+      "platform": "stackexchange",
+      "author_hash": "02cb9e444bafd77985b93b2a",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8aeb37c759215be77aa6",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] [TARGET]. He is showing off the bitemark, not the dark mark.",
+      "platform": "stackexchange",
+      "author_hash": "dca9226abd95335e7e6f6623",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_7c3a40769e9fc7940041",
+      "anonymous_id": "TARGET_A04",
+      "text": "He, like Tom Riddle, is an example of how people can forgive everything if a person has a pretty face",
+      "platform": "youtube",
+      "author_hash": "d0f38ea0fa45017ab8b3fe7e",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_ec2e2f6016c8d5fbc5db",
+      "anonymous_id": "TARGET_A04",
+      "text": "\"Wet blanket\" I think that is a perfect description for his movie version. He never felt intimidating, nor especially intelligent, competent, strategic, threatening, and so on. He just made some nasty comments in passing like a joker trying to look cool. Not like a dark wizard in the making.",
+      "platform": "youtube",
+      "author_hash": "8b9755d3f359146cc3fecbf8",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_4ba46fbaaa2847a2b380",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Snape doesn't need to see into [TARGET]'s mind, only to learn that he can't see into [TARGET]'s mind . Once Snape learns [TARGET] can shut him out, he guesses Bellatrix taught him.",
+      "platform": "stackexchange",
+      "author_hash": "0d63e778a11477a2bef30dfe",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_1c606091f1c7f5c1dbf2",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] It could have be a simple mannerism that is common to muggles (checking a smartphone, talking about dentistry, dressing 'appropriately', etc...) that gives them away. TBH my comment was simply reflecting on a general feeling I got while reading the books that it was easy for magical folk to identify muggles; especially when those muggles are in a \"magical\" area. I am not suggesting, however, that it is impossible for a muggle to \"fit in\" with a magical crowd.",
+      "platform": "stackexchange",
+      "author_hash": "cd99cfef8c31ed93c6398b10",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_d670e152e66405bfa012",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wrote the difference off as someone being worried that if the actor did well playing the character that he would be the target of people who were Obsessed with one character or another. Make him nicer to avoid death threats",
+      "platform": "youtube",
+      "author_hash": "a552b5ed6e4b3cb4f88a3162",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_cf20db50f077e187f5ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "I didn't down vote this but: you might want to provide a bit more elaboration. But the thing is this: I understand what you're getting at; they say parents fear most the harm or death of their child and I totally understand the loss of a spouse being very terrifying concept too. But at the same time I don't think it's that simple. Fear is a strange thing and there are fears hidden in people that are far more terrifying than the loss of a loved one. Whether he has one who can tell but the fact he can compartmentalise himself means it's harder for anyone to say for certain.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_fe53c83be3bd28374c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Getting the &*(% beat out of you when you truly deserve it can trigger some growth. It doesn't work for everyone but it seems to have helped [TARGET] in the end.",
+      "platform": "stackexchange",
+      "author_hash": "1d94c1536b15f56155bde054",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d969e299f71253edad81",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - [TARGET] didn't \"grow out of it\". He got the &*(% beat out of him, both literally and figuratively speaking, to mellow him out some.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_36dbd114e1dee4ee137c",
+      "anonymous_id": "TARGET_A04",
+      "text": "On the contrary, a person who bribed his way onto the team might be frantically trying to forget that fact, and so it stings when forgetting is not allowed.",
+      "platform": "stackexchange",
+      "author_hash": "f29dcca433befc3692b5961d",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7fe371f2b719ed8c2f9c",
+      "anonymous_id": "TARGET_A04",
+      "text": "His actions went from selfish and incredibly dangerous to selfish and less harmful. He began to see the effects of his actions on others, and did not relish in bringing harm to others. That is a form of redemption, even if it is soaked with guilt and self-loathing.",
+      "platform": "stackexchange",
+      "author_hash": "a75849cc279fac76b86b2f93",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_464b21f720f4e7f95e63",
+      "anonymous_id": "TARGET_A04",
+      "text": "Seriously? this is a highly subjective question, which is fine but if you are going to down vote then at least have the courtesy to mention why. I feel my answer is perfectly in line with how the potter verse and characters have developed. We all know [TARGET] is a cry baby, and Dumbledore would do anything to avoid harm to any of his students, disarming him in this circumstance is the only real alternative.",
+      "platform": "stackexchange",
+      "author_hash": "a666207475f73491b1f1b934",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_42dd327f8562d6f40544",
+      "anonymous_id": "TARGET_A04",
+      "text": "As for question 1, isn't the answer \"kind of\"? What really saved [TARGET]'s life was [TARGET] hesitating to finish the job, which allowed Snape to show up, quickly analyze the situation, and take Dumbledore out. Disarming Dumbledore first certainly allowed [TARGET] more time, in theory. But it's not really clear what Dumbledore would have done if [TARGET] had simply confronted him without disarming him since Dumbledore still planned on dying.",
+      "platform": "stackexchange",
+      "author_hash": "683fd70e0c9721e08b661416",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "hp_draco:youtube_1ec4f8677e1cfa8aabe6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Ive known ppl like this. He wants to be friends with the golden trio but his parents and friend groups dont allow him. He knows if he i.d.s harry old Voldi will only like the [TARGET]s briefly and will lose out again. Yet he cant not go with Goil to confront harry when death eater parents/friend r pressuring him too. But he would have never attacked harry",
+      "platform": "youtube",
+      "author_hash": "a102a8349722bcde31f7fdba",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_d670e152e66405bfa012",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wrote the difference off as someone being worried that if the actor did well playing the character that he would be the target of people who were Obsessed with one character or another. Make him nicer to avoid death threats",
+      "platform": "youtube",
+      "author_hash": "a552b5ed6e4b3cb4f88a3162",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_22c05fbde5e4abe208a8",
+      "anonymous_id": "TARGET_A04",
+      "text": "Famous celebrity = \"cool kid\" reputation. A total weasel would be all over that, lips to rear.",
+      "platform": "stackexchange",
+      "author_hash": "d753d72d081c233af22c1174",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_47d8cf6e2caadb5b1f7a",
+      "anonymous_id": "TARGET_A04",
+      "text": "Presumably, when one is surrounded by Death Eaters, it becomes a matter of survival to distinguish the truth from a lie. Narcissa probably could tell accurately that Harry had told the truth.",
+      "platform": "stackexchange",
+      "author_hash": "02cb9e444bafd77985b93b2a",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_bca04fb8c1a403d13c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] It's a matter of perspective, I guess. I agree she was brave by betraying him, but she's also being cowardly by betraying her friends and allies repeatedly whenever she is threatened. The [TARGET]s in general have no courage of their convictions.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_464b21f720f4e7f95e63",
+      "anonymous_id": "TARGET_A04",
+      "text": "Seriously? this is a highly subjective question, which is fine but if you are going to down vote then at least have the courtesy to mention why. I feel my answer is perfectly in line with how the potter verse and characters have developed. We all know [TARGET] is a cry baby, and Dumbledore would do anything to avoid harm to any of his students, disarming him in this circumstance is the only real alternative.",
+      "platform": "stackexchange",
+      "author_hash": "a666207475f73491b1f1b934",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_509e7adcaf7503b3da7a",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] I understood your objection. But not only are there more than one definition of the word but it's also a highly debatable and even contentious debate on what redeeming oneself can be. Either way call it as you wish and I can call it as I wish; it's more of an opinion and that means fact is less important. And of course...the site will be whining about chatting soon so I'll just drop out. I don't view it the same way you do and that's quite all right (not that I think he truly had his heart in working for Voldemort; there's working for and working for - but this too is opinion).",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.61286587,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_24276b3383bff643e36b",
+      "anonymous_id": "TARGET_A04",
+      "text": "About the Malffoy manor scene, I think it's very clear in the books that [TARGET] knowingly saved Harry. It's clear because Hermione and Ron was there too. At some point Bellatrix asks [TARGET]: \"isn't it the moodblood and the Weasly boy that are Potter's friends\"? And [TARGET] says something like: \"yeah maybe, I'm not sure\". There was no reason for him not to recognize Ron and Hermione. He clearly figured the situation out, but was reluctant to give them away. Now why did he do it is unclear. Personally I interpreted it like Malffoy actually cares for them deep down.",
+      "platform": "youtube",
+      "author_hash": "eb74d237a8a9c2fa3be66e83",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_513cd579aaca3d856ef2",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Sure, but he felt sorry for him for a reason. He felt sorry for him, for instance, because he thought he was being manipulated and forced on pain of death to do things he didn't want to do. I think there's material here that you could work with. I'm not sure I can produce an answer and maybe you're right and nobody will be able to, but I don't feel it's a false premise or close worthy myself",
+      "platform": "stackexchange",
+      "author_hash": "6c295a749ce7f918aadf281b",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d69749a9b1d3cb2841da",
+      "anonymous_id": "TARGET_A04",
+      "text": "Possibly his father, as he seems terrified of disappointing him.",
+      "platform": "stackexchange",
+      "author_hash": "0711e9dc5cf2169479693324",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_acf5f64545488c37d99e",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not positively identifying the trio including the Mudblood - as he called Hermione repeatedly and even docks points simply because of that fact - Hermione as any kind of redemption? He could have said yes; and although he confronts the trio in The Room of Hidden Things he doesn’t seem bent on hurting them. You can argue that he only did it because The Dark Lord was to kill Harry but what about the others? And need I remind you that Severus can use this conveniently when he wants to protect Harry?",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_12432a97ce6188d7085f",
+      "anonymous_id": "TARGET_A04",
+      "text": "Narcissa cares about her son the most and will do what it takes to protect them from Voldermort. Same with Regulus. Voldermort doesn't understand love. If you attempt hurt the loved ones of your followers they will turn their back on you.",
+      "platform": "stackexchange",
+      "author_hash": "16fb865dcc8dce385f630f01",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2c6072ee61c19de9c202",
+      "anonymous_id": "TARGET_A04",
+      "text": "Children are extremely skilled at figuring out the most cutting insult they can apply to another child.",
+      "platform": "stackexchange",
+      "author_hash": "477e839494be9e38987308bc",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7d326d57f509164fa3f4",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Also Rowling wrote that he wasn’t capable of murder and this confused him as his father had no problem with this type of violence. And he certainly didn’t enjoy being forced to torture Rowle &c. The fact he probably wouldn’t have cared if Harry were to be killed years earlier should say something too. Doesn’t mean he’s a nice person but there’s something still there. Oh and he loves his family. That’s significant. Call it what you want but you can’t take these facts away if you care about canon.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_749257ad0bd0fc0e459d",
+      "anonymous_id": "TARGET_A04",
+      "text": "Not hard for someone like [TARGET] to buy out or bully someone else into getting him things, either.",
+      "platform": "stackexchange",
+      "author_hash": "9b8a47ca80f901b87e8e027f",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_061bb23e275ac7c06d55",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think John O is correct, it's likely a bit of both. That said, with the level of entitlement [TARGET] displays throughout the books he'd likely feel that he \"fairly deserved to be there\" even if he was absolutely awful.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_4a4a256dcd0296c91992",
+      "anonymous_id": "TARGET_A04",
+      "text": "I suggest a bit of everything here, something a bit more moderate. [TARGET] is a clever and spoiled Slytherin. Conjuring a snake could well be something pretty common to have a go at in the Slytherin Common Room. It would freak others out, it's classically Slytherin, etc. I don't think Snape would teach him and [TARGET] would laugh . Surely it's a suggestion that [TARGET] likes.",
+      "platform": "stackexchange",
+      "author_hash": "35fc3ba14381eae4d48601a5",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2a2289534125fc470383",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - Neither Why is [TARGET] a jerk? nor Why was [TARGET] a jerk is the question being asked here. But it's a great question Hint Hint Nod Nod !",
+      "platform": "stackexchange",
+      "author_hash": "147ffbc39dab7755fe7c8ecf",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_373f8f75eba7162b25ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "The thing with [TARGET] is that he emulated his father, showing he wanted to be prejudiced and a bully, instead of questioning whether he should go against his parents' beliefs.",
+      "platform": "youtube",
+      "author_hash": "6bfb1686c1d583434ca58d69",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_02d7410b2d7dfb76e608",
+      "anonymous_id": "TARGET_A04",
+      "text": "While these events do mold [TARGET]'s character from the \"simple villain\" he is in the early books to a more complex character, the key personality trait of the character - that of the spoiled selfish brat - remains. [TARGET]'s acts are always ultimately selfish. At the same time, he's never very mature about making them; they are always very short-sighted, and his parents always seem to figure directly into the choices he makes.",
+      "platform": "stackexchange",
+      "author_hash": "f1711deb2d8b8d5298ba051f",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_464b21f720f4e7f95e63",
+      "anonymous_id": "TARGET_A04",
+      "text": "Seriously? this is a highly subjective question, which is fine but if you are going to down vote then at least have the courtesy to mention why. I feel my answer is perfectly in line with how the potter verse and characters have developed. We all know [TARGET] is a cry baby, and Dumbledore would do anything to avoid harm to any of his students, disarming him in this circumstance is the only real alternative.",
+      "platform": "stackexchange",
+      "author_hash": "a666207475f73491b1f1b934",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_fe53c83be3bd28374c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Getting the &*(% beat out of you when you truly deserve it can trigger some growth. It doesn't work for everyone but it seems to have helped [TARGET] in the end.",
+      "platform": "stackexchange",
+      "author_hash": "1d94c1536b15f56155bde054",
+      "language": "en",
+      "score": 0.8173413,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7fe371f2b719ed8c2f9c",
+      "anonymous_id": "TARGET_A04",
+      "text": "His actions went from selfish and incredibly dangerous to selfish and less harmful. He began to see the effects of his actions on others, and did not relish in bringing harm to others. That is a form of redemption, even if it is soaked with guilt and self-loathing.",
+      "platform": "stackexchange",
+      "author_hash": "a75849cc279fac76b86b2f93",
+      "language": "en",
+      "score": 0.7517211,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d969e299f71253edad81",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - [TARGET] didn't \"grow out of it\". He got the &*(% beat out of him, both literally and figuratively speaking, to mellow him out some.",
+      "platform": "stackexchange",
+      "author_hash": "566adff327169309b0bf5d96",
+      "language": "en",
+      "score": 0.74879336,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_72557e9bbf3324a2ecb4",
+      "anonymous_id": "TARGET_A04",
+      "text": "I would say it's more specific; as I just posted a comment to the question: And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort. Maybe you want to integrate it into the answer though; by all means if you want to go ahead.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.7307513,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_264f047295d7ce76d026",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER]'s Suggestion seems to me the most likely. And more so afraid of his life and his family's life from Voldemort. Rowling sort of suggests this but doesn't directly say it would be his Boggart. But she does write quite a lot about his upbringing, how his life falls apart and how he tries to be a better person than his parents: pottermore.com/writing-by-jk-rowling/[TARGET]-[TARGET] (I don't know if it's enough to truly answer or state that canonically it's Lord Voldemort.)",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.7229966,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_3f0afef34b59f50f1e1e",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Fact is he wasn't the same person at all by the end of the seventh book; he was a better person. Now that doesn't mean he was necessarily a great person or a kind person - Rowling states otherwise in fact - but to go from a racist bigot who feels right at home with his father's Death Eater activity to someone who not only saves Harry but the blood traitor Ron and the Mudblood Hermione? That's a huge change seeing as how he used to love bullying them. Sure he interfered in the Battle of Hogwarts but even that was out of love for his family, trying to restore his standing. For a bit..",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.7229966,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b05a1a5769056d798893",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] I mean that I'd expect [TARGET] to have built up an image in his head of Durmstrang as the place that would have rewarded him for his merits (like his talents, his pedigree, his wealth, his blood-status); it would have satisfied his self-image, instead of challenging it the way Hogwarts did. I'd expect him to have imagined himself basically being the prince of the school, the way he imagined himself to be prince of Hogwarts before he actually went there. Since he didn't have any direct experience with the school, he never would have had to challenge that delusion",
+      "platform": "stackexchange",
+      "author_hash": "f4121847a14825355a0911ac",
+      "language": "en",
+      "score": 0.67542213,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_513cd579aaca3d856ef2",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Sure, but he felt sorry for him for a reason. He felt sorry for him, for instance, because he thought he was being manipulated and forced on pain of death to do things he didn't want to do. I think there's material here that you could work with. I'm not sure I can produce an answer and maybe you're right and nobody will be able to, but I don't feel it's a false premise or close worthy myself",
+      "platform": "stackexchange",
+      "author_hash": "6c295a749ce7f918aadf281b",
+      "language": "en",
+      "score": 0.66332006,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b4f80926ef17005b3a77",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think also that muggles tend to stick out when surrounded by witches/wizards. Presumably Hermione's parents were with her on the platform boarding the train and [TARGET] simply observed her parents were muggles.",
+      "platform": "stackexchange",
+      "author_hash": "cd99cfef8c31ed93c6398b10",
+      "language": "en",
+      "score": 0.63847464,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_75b1659905932b388583",
+      "anonymous_id": "TARGET_A04",
+      "text": "Good question, I suspect the answer is either that he took a guess, or he felt it. taking [TARGET]'s wand might have made Harry feel some sort of connection to the Elder Wand.",
+      "platform": "stackexchange",
+      "author_hash": "c5e63ea8d2fcc427c2bb1a89",
+      "language": "en",
+      "score": 0.63304734,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_b05a1a5769056d798893",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] I mean that I'd expect [TARGET] to have built up an image in his head of Durmstrang as the place that would have rewarded him for his merits (like his talents, his pedigree, his wealth, his blood-status); it would have satisfied his self-image, instead of challenging it the way Hogwarts did. I'd expect him to have imagined himself basically being the prince of the school, the way he imagined himself to be prince of Hogwarts before he actually went there. Since he didn't have any direct experience with the school, he never would have had to challenge that delusion",
+      "platform": "stackexchange",
+      "author_hash": "f4121847a14825355a0911ac",
+      "language": "en",
+      "score": 0.8442036,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_22c05fbde5e4abe208a8",
+      "anonymous_id": "TARGET_A04",
+      "text": "Famous celebrity = \"cool kid\" reputation. A total weasel would be all over that, lips to rear.",
+      "platform": "stackexchange",
+      "author_hash": "d753d72d081c233af22c1174",
+      "language": "en",
+      "score": 0.72921133,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8aeb37c759215be77aa6",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] [TARGET]. He is showing off the bitemark, not the dark mark.",
+      "platform": "stackexchange",
+      "author_hash": "dca9226abd95335e7e6f6623",
+      "language": "en",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_c5c64f50a7a47902cdf7",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] A significantly larger stretch than \"He's lying/boasting and doesn't know what he's talking about. Bear in mind it's [TARGET] \"Bouncing Ferret, Death Eater Wannabe, and General Shitweasel\" [TARGET] we're talking about here.",
+      "platform": "stackexchange",
+      "author_hash": "3fbe6a618442f5ad51c176d6",
+      "language": "en",
+      "score": 0.6184117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_061bb23e275ac7c06d55",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think John O is correct, it's likely a bit of both. That said, with the level of entitlement [TARGET] displays throughout the books he'd likely feel that he \"fairly deserved to be there\" even if he was absolutely awful.",
+      "platform": "stackexchange",
+      "author_hash": "ac468d5ad9894b3379334d6f",
+      "language": "en",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_02d7410b2d7dfb76e608",
+      "anonymous_id": "TARGET_A04",
+      "text": "While these events do mold [TARGET]'s character from the \"simple villain\" he is in the early books to a more complex character, the key personality trait of the character - that of the spoiled selfish brat - remains. [TARGET]'s acts are always ultimately selfish. At the same time, he's never very mature about making them; they are always very short-sighted, and his parents always seem to figure directly into the choices he makes.",
+      "platform": "stackexchange",
+      "author_hash": "f1711deb2d8b8d5298ba051f",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_7c3a40769e9fc7940041",
+      "anonymous_id": "TARGET_A04",
+      "text": "He, like Tom Riddle, is an example of how people can forgive everything if a person has a pretty face",
+      "platform": "youtube",
+      "author_hash": "d0f38ea0fa45017ab8b3fe7e",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_5cc3145f773de0ccb965",
+      "anonymous_id": "TARGET_A04",
+      "text": "To be honest knowing [TARGET] and his character, he probably got it and he probably boasted about it around school at some point",
+      "platform": "stackexchange",
+      "author_hash": "6c295a749ce7f918aadf281b",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_10b72f4fd04fac76b36a",
+      "anonymous_id": "TARGET_A04",
+      "text": "we can assume that the [TARGET]s did wear Muggle clothes ... but dressed flamboyantly or in an out of date style to show their superiority. - makes the image of the [TARGET]s at the station even more bizzare :D",
+      "platform": "stackexchange",
+      "author_hash": "9396f51a64970c4fadbb3c0c",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "hp_draco:stackexchange_bca04fb8c1a403d13c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] It's a matter of perspective, I guess. I agree she was brave by betraying him, but she's also being cowardly by betraying her friends and allies repeatedly whenever she is threatened. The [TARGET]s in general have no courage of their convictions.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_62da66e66c3cc21f785f",
+      "anonymous_id": "TARGET_A04",
+      "text": "The age old nature vs nurture. I appreciate that you bring up the ambiguity!",
+      "platform": "youtube",
+      "author_hash": "c41cf2d8a4438667d1ebf446",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2a2289534125fc470383",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - Neither Why is [TARGET] a jerk? nor Why was [TARGET] a jerk is the question being asked here. But it's a great question Hint Hint Nod Nod !",
+      "platform": "stackexchange",
+      "author_hash": "147ffbc39dab7755fe7c8ecf",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_373f8f75eba7162b25ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "The thing with [TARGET] is that he emulated his father, showing he wanted to be prejudiced and a bully, instead of questioning whether he should go against his parents' beliefs.",
+      "platform": "youtube",
+      "author_hash": "6bfb1686c1d583434ca58d69",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_f7dbf225417a73c2d2d7",
+      "anonymous_id": "TARGET_A04",
+      "text": "One impressive thing that Yudkowsky did with the characters in HPMOR is that he moved them away from the Archetypes they are usually shown as. Harry is good, but not without serious flaws. [TARGET] was raised to be evil, but is not without good traits, nor is his father. Voldemort may have decided on an path most would call evil, yet he believes in his own motives. There are almost no truly 'evil' characters (evil, in HPMOR tends to be a side-effect of being misguided), nor absolutely 'good' ones, although Heromine comes close.",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_92a9e99c824668c25c27",
+      "anonymous_id": "TARGET_A04",
+      "text": "What I liked and hated about the [TARGET]s, no matter how criminal, evil or dispicable they are, they somehow manage to escape Azkeban or any deserved punishment for their actions. This is very reflective of many wealthy people in real life, who are corrupt and awful but somehow always avoid the full punishment of the law. Utterly frustrating but a reflection of real life.",
+      "platform": "youtube",
+      "author_hash": "e5c284cf6cd367819a9dba3e",
+      "language": "en",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_36dbd114e1dee4ee137c",
+      "anonymous_id": "TARGET_A04",
+      "text": "On the contrary, a person who bribed his way onto the team might be frantically trying to forget that fact, and so it stings when forgetting is not allowed.",
+      "platform": "stackexchange",
+      "author_hash": "f29dcca433befc3692b5961d",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_bbc9a49068d68b250541",
+      "anonymous_id": "TARGET_A04",
+      "text": "A quote from DUNE comes to mind...\"Make our enemy aware we know which hand holds the knife?...We see the knife now, who knows where it might be shifted next?\"",
+      "platform": "stackexchange",
+      "author_hash": "7af2a5922a9fcff52f81d4d4",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_7fe371f2b719ed8c2f9c",
+      "anonymous_id": "TARGET_A04",
+      "text": "His actions went from selfish and incredibly dangerous to selfish and less harmful. He began to see the effects of his actions on others, and did not relish in bringing harm to others. That is a form of redemption, even if it is soaked with guilt and self-loathing.",
+      "platform": "stackexchange",
+      "author_hash": "a75849cc279fac76b86b2f93",
+      "language": "en",
+      "score": 0.36441556,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "hp_draco:stackexchange_d69749a9b1d3cb2841da",
+      "anonymous_id": "TARGET_A04",
+      "text": "Possibly his father, as he seems terrified of disappointing him.",
+      "platform": "stackexchange",
+      "author_hash": "0711e9dc5cf2169479693324",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.61286587,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_03c3c05c8812354fb35c",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wonder if his biggest fear could be Lord Voldemort himself, punishing him and his family.",
+      "platform": "stackexchange",
+      "author_hash": "85caf70dad5b4ffe1c22f191",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_bca04fb8c1a403d13c57",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] It's a matter of perspective, I guess. I agree she was brave by betraying him, but she's also being cowardly by betraying her friends and allies repeatedly whenever she is threatened. The [TARGET]s in general have no courage of their convictions.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_cf20db50f077e187f5ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "I didn't down vote this but: you might want to provide a bit more elaboration. But the thing is this: I understand what you're getting at; they say parents fear most the harm or death of their child and I totally understand the loss of a spouse being very terrifying concept too. But at the same time I don't think it's that simple. Fear is a strange thing and there are fears hidden in people that are far more terrifying than the loss of a loved one. Whether he has one who can tell but the fact he can compartmentalise himself means it's harder for anyone to say for certain.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_261c155421949eac6905",
+      "anonymous_id": "TARGET_A04",
+      "text": "This incident further emphasizes the fact that [TARGET] is simply a boy that's in over his head. By this point, he's come to grasp what being a Death Eater means and what they do, and he's understandably horrified. Just like what happened in HBP, [TARGET] is confronted with a choice: is he willing to condemn someone to death? Just as with Dumbledore, [TARGET] falters on the side of morality. Even if he didn't recognize Harry due to the Stinging Hex, he could've said it was Harry to gain some esteem within the Death Eater ranks.",
+      "platform": "stackexchange",
+      "author_hash": "ae50fb031b79649722347221",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_464b21f720f4e7f95e63",
+      "anonymous_id": "TARGET_A04",
+      "text": "Seriously? this is a highly subjective question, which is fine but if you are going to down vote then at least have the courtesy to mention why. I feel my answer is perfectly in line with how the potter verse and characters have developed. We all know [TARGET] is a cry baby, and Dumbledore would do anything to avoid harm to any of his students, disarming him in this circumstance is the only real alternative.",
+      "platform": "stackexchange",
+      "author_hash": "a666207475f73491b1f1b934",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_91ff2700fef7dc0ecc4f",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Not identifying the trio at the manner and his actions afterward in regard to anything he did against the explicit wishes of V all required courage he had not previously had. No he isn't courageous enough to stand up and fight directly, but V has [TARGET]'s family in his hands and yet [TARGET] still makes decisions not to just do as told without any thought. While I agree, he still isn't a model of self sacrifice, courage and admirablity, I disagree his acts were still totally selfish or parent directed at the end.",
+      "platform": "stackexchange",
+      "author_hash": "a2d4f4c4b8fcf85cf8a15f45",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_d670e152e66405bfa012",
+      "anonymous_id": "TARGET_A04",
+      "text": "I wrote the difference off as someone being worried that if the actor did well playing the character that he would be the target of people who were Obsessed with one character or another. Make him nicer to avoid death threats",
+      "platform": "youtube",
+      "author_hash": "a552b5ed6e4b3cb4f88a3162",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "hp_draco:stackexchange_83983cad4ab31c8e8bda",
+      "anonymous_id": "TARGET_A04",
+      "text": "'[TARGET] though is clearly shown to be a stubborn bully, so for him perhaps those punishments weren't enough to change his mind.' Bullies don't care about punishment, usually, unless it's extremely harsh. But then they just do it when they're sure they can get away with it. But too often they don't get punished at all and even get protected. This was a problem to me in my youth; the little brats were protected and defended in what they did even by the headmistress in one case even in front of my mother. Bullying runs in generations until a really strong person stands up against it successfully.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.680539,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_b810df4ffb33cc8215ff",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or both parents. As the spoiled rich kid doing anything to please his parents (including, but not limited to, murder) I think that disappointing them or becoming disowned would be the one thing he is scared most of.",
+      "platform": "stackexchange",
+      "author_hash": "c94fb3a84c041530ba70419f",
+      "language": "en",
+      "score": 0.6771325,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8d58a2a785f4eb052995",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] could you imagine how it would look for a professor to just ignore one student attacking another? He had to do something, and he did it in a manner appropriate to how Moody would probably discipline.",
+      "platform": "stackexchange",
+      "author_hash": "6bb1c1938d27255590343d73",
+      "language": "en",
+      "score": 0.6202536,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_02d7410b2d7dfb76e608",
+      "anonymous_id": "TARGET_A04",
+      "text": "While these events do mold [TARGET]'s character from the \"simple villain\" he is in the early books to a more complex character, the key personality trait of the character - that of the spoiled selfish brat - remains. [TARGET]'s acts are always ultimately selfish. At the same time, he's never very mature about making them; they are always very short-sighted, and his parents always seem to figure directly into the choices he makes.",
+      "platform": "stackexchange",
+      "author_hash": "f1711deb2d8b8d5298ba051f",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_464b21f720f4e7f95e63",
+      "anonymous_id": "TARGET_A04",
+      "text": "Seriously? this is a highly subjective question, which is fine but if you are going to down vote then at least have the courtesy to mention why. I feel my answer is perfectly in line with how the potter verse and characters have developed. We all know [TARGET] is a cry baby, and Dumbledore would do anything to avoid harm to any of his students, disarming him in this circumstance is the only real alternative.",
+      "platform": "stackexchange",
+      "author_hash": "a666207475f73491b1f1b934",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_4b208a1f6103bce3a6f6",
+      "anonymous_id": "TARGET_A04",
+      "text": "Say he was given detention. Do you truly believe he would suddenly stop saying those things? If only racism/bigotry/bullying was that simple to fix. But it's not and any claim to the contrary is naïve at best (and I'm not saying you made such a claim). People do what they want to regardless of the consequences, quite often, and kids are more likely to do so because they truly believe they are invincible (or I should say almost all of them are) and this has resulted in kids dying e.g. from trying to steal copper despite the huge warning signs in front of them.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_e16869521dc85c9a4383",
+      "anonymous_id": "TARGET_A04",
+      "text": "Oh, and OUT of universe.. The author was laughing his head off making this scene hilariously out-of-character from the books, despite being perfectly logical, if you look at it from the right perspective. (It's not that odd to use a perfect stranger to facilitate a joke; they don't always play along, but when they do, it's hilarious.)",
+      "platform": "stackexchange",
+      "author_hash": "31160cfccd876c5e6cd19f2c",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_6b26cfa2d228e6662e78",
+      "anonymous_id": "TARGET_A04",
+      "text": "In the real world, such things can be a \"little of both\". Who's to say that he didn't have borderline talent and then made up the rest with minor bribery? That would especially explain the reaction Hermione provokes. A person who merely bribed their way on wouldn't give a crap, a person who got in on pure talent would roll their eyes... but the guy who felt he fairly deserved to be there but it still wasn't quite enough, I imagine for such a person the bribery might be a sore point.",
+      "platform": "stackexchange",
+      "author_hash": "4ee7dbc5e74b9c2505ec06ed",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_9074bdd27e8668136915",
+      "anonymous_id": "TARGET_A04",
+      "text": "I was hoping for that. Good to know. Unless of course it's because you, being the Dark Lord, understand it because detention wouldn't change your behaviour. Whatever the case it's unfortunately simple to understand but without a solution: people do whatever they want with no disregard for others or themselves; it's simply part of mankind. Racism/bigotry is just another form of bullying, when it's acted on/out, as [TARGET] does.",
+      "platform": "stackexchange",
+      "author_hash": "9962005597ab2792347fb7c8",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_8abc96bd0b71ab344959",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Your mileage may very on this, of course, but in my opinion not enjoying torturing people and not actively participating in fascist behaviour, hardly makes you a good, or even mediocre person. [TARGET] had no trouble supporting Voldemort's regime of cruelty and intolerance in principle, he just couldn't handle the reality of it when he was forced to participate. Certainly makes him better than the sadistic maniacs he hung around, but that doesn't strike me as a particularly high bar.",
+      "platform": "stackexchange",
+      "author_hash": "f3b2a3ff3ef74d8a4e306241",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "hp_draco:youtube_5f88bfbcd9546da58080",
+      "anonymous_id": "TARGET_A04",
+      "text": "I find it hilarious that Harry can always tell what [TARGET] is saying when everybody is eating at the Great Hall, even though the Slytherin table is described as being at the opposite end of the Gryffindor table, with the two other house tables in between them. Goes to show just how loud [TARGET] actually talks.",
+      "platform": "youtube",
+      "author_hash": "10ea6a5ee9261a778a652d9b",
+      "language": "en",
+      "score": 0.69727916,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_ec2e2f6016c8d5fbc5db",
+      "anonymous_id": "TARGET_A04",
+      "text": "\"Wet blanket\" I think that is a perfect description for his movie version. He never felt intimidating, nor especially intelligent, competent, strategic, threatening, and so on. He just made some nasty comments in passing like a joker trying to look cool. Not like a dark wizard in the making.",
+      "platform": "youtube",
+      "author_hash": "8b9755d3f359146cc3fecbf8",
+      "language": "en",
+      "score": 0.67026305,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:youtube_e452eb86a1417459bc73",
+      "anonymous_id": "TARGET_A04",
+      "text": "Honestly I’ve always liked book canon [TARGET] as a character. Not because there’s anything particularly lovely about him, but because he’s so entertaining. I do admire his passion for ragebaiting everyone he doesn’t like. Composing an entire song & getting everyone to sing it to mock Ron was serious commitment",
+      "platform": "youtube",
+      "author_hash": "9f165378a9082f693babebec",
+      "language": "en",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_d0b1bf809ac64eb0e258",
+      "anonymous_id": "TARGET_A04",
+      "text": "[Jeremy voice:] Director said, make this character rip a page off a book to make him look more like an a**hole.",
+      "platform": "stackexchange",
+      "author_hash": "3fe3004e74419ea728d35ff8",
+      "language": "en",
+      "score": 0.66332006,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_a8d988166df9b8a93d01",
+      "anonymous_id": "TARGET_A04",
+      "text": "Or maybe she mailed [TARGET] the questions and along with the meeting point and time. When he met her, [TARGET] just went \"Answer 1: I was attacked by a Hippogriff and Goyle was bitten by a flobberworm... Answer 2: We're all terrified of Hagrid....\" and so on.",
+      "platform": "stackexchange",
+      "author_hash": "84235d576c274813ae044780",
+      "language": "en",
+      "score": 0.6563059,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_c5c64f50a7a47902cdf7",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] A significantly larger stretch than \"He's lying/boasting and doesn't know what he's talking about. Bear in mind it's [TARGET] \"Bouncing Ferret, Death Eater Wannabe, and General Shitweasel\" [TARGET] we're talking about here.",
+      "platform": "stackexchange",
+      "author_hash": "3fbe6a618442f5ad51c176d6",
+      "language": "en",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_2a2289534125fc470383",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] - Neither Why is [TARGET] a jerk? nor Why was [TARGET] a jerk is the question being asked here. But it's a great question Hint Hint Nod Nod !",
+      "platform": "stackexchange",
+      "author_hash": "147ffbc39dab7755fe7c8ecf",
+      "language": "en",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_a23c804494e920f9043b",
+      "anonymous_id": "TARGET_A04",
+      "text": "I think your username was well chosen [USER] He's using unkind language at a big school out of the direct earshot of teachers. You'd get away with it in any school I've ever been associated with - and I'm a teacher.",
+      "platform": "stackexchange",
+      "author_hash": "35fc3ba14381eae4d48601a5",
+      "language": "en",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_56b8f2363dd158dca942",
+      "anonymous_id": "TARGET_A04",
+      "text": "[USER] Like father, like son :D",
+      "platform": "stackexchange",
+      "author_hash": "75a44604dab5fef9ed043043",
+      "language": "en",
+      "score": 0.6202536,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "hp_draco:stackexchange_4a4a256dcd0296c91992",
+      "anonymous_id": "TARGET_A04",
+      "text": "I suggest a bit of everything here, something a bit more moderate. [TARGET] is a clever and spoiled Slytherin. Conjuring a snake could well be something pretty common to have a go at in the Slytherin Common Room. It would freak others out, it's classically Slytherin, etc. I don't think Snape would teach him and [TARGET] would laugh . Surely it's a suggestion that [TARGET] likes.",
+      "platform": "stackexchange",
+      "author_hash": "35fc3ba14381eae4d48601a5",
+      "language": "en",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

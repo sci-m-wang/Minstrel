@@ -2,7 +2,7 @@
 
 为保证另一端 Agent 可以在本仓库中零补丁执行，当前正式可执行范围固定为：
 
-- **Panel A / Panel D**：`Anonymous Vanilla / Personality Only / Raw Comments / Generic Summary / Anonymous Gold Profile / Ours`，定位为本方法内部条件与消融子实验。Raw、Summary、Personality、Ours 复用同一选定评论集合；Gold 使用 benchmark 官方 profile；Vanilla 不使用 persona 信息。条件共用 Actor 与 evaluator，使用模型/服务默认解码且不显式设置 seed。
+- **Panel A / Panel D**：`Anonymous Vanilla / Personality Only / Generic Summary / Anonymous Gold Profile / Ours`，定位为本方法内部条件与消融子实验。Summary、Personality 和 Ours 复用每个 probe 各自的 Top-10；任何处理请求都不会合并 24 个 probe 的原始评论。Gold 使用 benchmark 官方 profile；Vanilla 不使用 persona 信息。条件共用 Actor 与 evaluator，使用模型/服务默认解码且不显式设置 seed。
 - **Panel B 暂移除**：AMADEUS 的官方数据、检索管线及可固定版本实现未随本项目提供，当前不进入默认实验网格或论文结果声明。
 - **Panel C 暂移除**：RoleGPT / RoleLLM、PersonaForge、CoSER 涉及外部代码、专用模型或训练产物，当前无法保证另一端 Agent 零补丁运行，故不进入默认实验网格或结果声明。
 - Panel B/C 可在未来获得并锁定官方仓库、模型权重、数据许可和复现实验版本后恢复；恢复前必须新增预检、适配器和端到端测试。
@@ -65,13 +65,14 @@ filter: character_id = tbbt_sheldon
 query: disruption of routine / rules / unexpected change / exceptions
 ```
 
-建议：
+固定检索：
 
-**BM25 Top-20 + Qwen3-Embedding-0.6B 精确向量库 Top-20 → RRF 合并 → rerank → Top 8–12 comments**
+**text-embedding-3-small 精确向量召回 Top-20 → Cohere-rerank-v4.0-pro 完整重排 → Top-10 comments**
 
-Qwen3-Embedding-0.6B 支持 100+ 语言，与原 BGE-M3 同为约 0.6B 规模；文档向量和固定
-中英文 probe 查询向量在正式实验前一次性构建并冻结。正式运行只做精确余弦检索，不使用
-HNSW、量化或在线重建，避免额外索引参数成为无关变量。
+评论向量和固定中英文 probe 查询向量在本地准备阶段一次性构建并冻结。每个 probe 先在
+该角色评论中做精确余弦 Top-20 召回，再把 20 条匿名候选完整交给 Cohere 重排；请求不设置
+`top_n` 或文档 token 上限，本地取 Top-10。BM25、RRF、HNSW、量化与在线重建均不属于
+正式方法。GPU 机器只读取冻结后的五条件输入，完全不运行检索或 profile 构建。
 
 ---
 
@@ -186,10 +187,10 @@ Benchmark Query
 
 | Panel                     | 数据/角色                  | 主要目的              | 主要方法对比                                                                  |
 | ------------------------- | ---------------------- | ----------------- | ----------------------------------------------------------------------- |
-| **A. Internal Conditions** | RoleAgentBench Core-10 | 英文内部条件与消融子实验      | Raw / Summary / Personality / Gold Profile / Ours / RoleAgent reference |
+| **A. Internal Conditions** | RoleAgentBench Core-10 | 英文内部条件与消融子实验      | Summary / Personality / Gold Profile / Ours / RoleAgent reference |
 | **B. CharacterRAG**       | CharacterRAG-15        | 与最新 RAG 型角色方法正面对比 | AMADEUS vs Ours                                                         |
 | **C. RoleBench**          | RoleBench-8            | 与经典及最新角色实例化方法对比   | RoleGPT / PersonaForge / CoSER / Ours                                   |
-| **D. Chinese Validation** | CharacterEval-6        | 中文、跨语言和日常人物验证     | Profile / Raw / Summary / Ours + CharacterRM                            |
+| **D. Chinese Validation** | CharacterEval-6        | 中文、跨语言和日常人物验证     | Profile / Summary / Personality / Ours + CharacterRM                    |
 
 ---
 
@@ -245,9 +246,9 @@ CharacterRAG 动漫角色另外补：
 
 **MyAnimeList / 动漫社区讨论**
 
-目标每角色：
-
-> **≥500 usable comments，≥2个平台，尽量 ≥100 个独立作者。**
+每角色样本量按清理后的实际数量报告，不再设置 500 条硬门槛；数据完整性要求为非空、
+至少 2 个平台和 100 个独立作者。正式语料只保留 Stack Exchange comment，并排除所有
+长度达到 1,000 Unicode 字符的非合成记录。
 
 ---
 
@@ -292,15 +293,12 @@ How does this person typically respond when a close
 friend asks for help that conflicts with their own plans?
 ```
 
-后台只在该角色评论库中搜索：
+本地准备阶段只在该角色评论库中搜索：
 
 ```text
-BM25 Top-20
-+
-Qwen3-Embedding-0.6B frozen exact-vector Top-20
-→ RRF
-→ reranker
-→ Top 8–12 comments
+text-embedding-3-small frozen exact-vector Top-20
+→ Cohere-rerank-v4.0-pro reranks all 20 candidates
+→ local Top-10 comments
 ```
 
 然后传给 Cue Extractor。
@@ -502,14 +500,11 @@ TARGET_07
 | -------------------------- | ------------------------------------------ |
 | **Anonymous Vanilla**      | 什么 persona 信息都没有                           |
 | **Personality Only**       | 匿名人格描述/Big Five                            |
-| **Raw Comments**           | 同样的第三方评论直接输入                               |
-| **Generic Summary**        | 同样评论 → “Summarize this person”             |
+| **Generic Summary**        | 每个 probe 的 Top-10 分别总结，再聚合为人物总结           |
 | **Anonymous Gold Profile** | benchmark 官方 profile，去身份信息，作为 Oracle       |
 | **Ours**                   | comments → 24 probes → cues → Person Model |
 
 其中最关键比较是：
-
-> **Ours vs Raw Comments**：证明需要 reconstruction。
 
 > **Ours vs Generic Summary**：证明不是简单总结。
 
@@ -517,9 +512,15 @@ TARGET_07
 
 > **Ours vs Anonymous Gold Profile**：看社会侧写能恢复多少 oracle persona 信息。
 
-Raw 使用完整选定评论集合；Summary 与 Personality 读取完整选定评论集合并自然生成；Ours
-由完整 probe 检索结果提取 Cues 并自然构建 Person Model；Gold 保持 benchmark 或对应方法的
-原始 profile。所有条件均不设置 conditioning 长度目标、截断或长度门槛。
+Summary 与 Personality 对 24 个 probe 的 Top-10 分别处理，再只聚合各自的局部输出；Ours
+也逐 probe 提取 Cues，再由 Cues 自然构建 Person Model。任何一次 Cue、Summary 或
+Personality 局部请求都不得包含其他 probe 的原始评论。Gold 保持 benchmark 或对应方法的
+原始 profile。所有条件均不设置 conditioning 长度目标、截断或长度归一化；另行记录真实
+token 数并检查模型原生上下文兼容性。
+
+正式评论库使用可复现的确定性清理：删除 Stack Exchange question/answer，并删除
+`LENGTH(raw_text) >= 1000` 的非合成记录。评论数量是冻结后按角色报告的描述性样本量，
+不通过补抓或降质记录强制达到统一数量。
 
 ---
 
@@ -679,7 +680,8 @@ CharacterEval 包含 77 个中文小说/剧本角色、1,785 个多轮对话和 
 
 **虎扑**
 
-同样每角色目标 ≥500 usable comments，且至少覆盖 2 个平台和 100 位作者。
+同样按清理后的实际评论数报告，并要求至少覆盖 2 个平台和 100 位作者，不设置 500 条
+硬门槛。
 
 ---
 
@@ -705,7 +707,6 @@ Knowledge Exposure / Accuracy / Hallucination 可以报告，但**不作为主�
 ```text
 Anonymous Vanilla
 Personality Only
-Raw Comments
 Generic Summary
 Anonymous Gold Profile
 Ours
@@ -726,16 +727,22 @@ Ours
 | **Llama-3.1-8B-Instruct**    |      |
 | **Qwen2.5-7B-Instruct**      |      |
 | **Qwen2.5-14B-Instruct**     |      |
-| **Gemma-2-9B-it**            |      |
 | **Mistral-7B-Instruct-v0.3** | <br> |
 
 Llama-3.1-8B-Instruct 使用 ModelScope 的官方权重镜像
 `LLM-Research/Meta-Llama-3.1-8B-Instruct`，固定到提交
 `359efdbb8af05b788a4ad4185215c6b8caa9052c`；不从 Hugging Face 下载。
 
+Gemma-2-9B-it 因原生上下文仅为 8K，不进入可执行实验矩阵，也不作替换。
+保留 Actor 的最小原生上下文为 32,768 tokens；Llama-3.1-8B-Instruct 为
+131,072 tokens。上下文兼容性通过真实 tokenizer 对完整输入静态计数验证，
+不截断、不归一化，也不修改模型或 vLLM 默认配置。
+
 Profiler 固定：
 
-> **Qwen2.5-14B-Instruct**
+> **GPT-5.6 Sol (`gpt-5.6-sol`)**
+
+Profiler 只在有外网的本地准备端通过 `.env` 调用。生成的五条件 prepared 目录经校验和冻结后交给无外网 GPU 端；GPU 端不持有 GPT 密钥，也不构建或修改 profile。
 
 这样同一个 reconstructed person model 再交给不同 Actor，避免把“Profiler 强弱”和“Role-playing 强弱”混起来。
 
@@ -817,7 +824,7 @@ Which of these 10/15 characters is this person?
 
 ### Panel A — 内部条件与消融子实验
 
-**10 characters × 5 actors × 6 conditions**
+**10 characters × 5 actors × 5 conditions**
 
 RoleAgentBench：
 
@@ -845,7 +852,7 @@ RoleAgentBench：
 
 ### Panel D
 
-**CharacterEval 6 Chinese roles × 3 actors × 6 conditions**
+**CharacterEval 6 Chinese roles × 3 actors × 5 conditions**
 
 重点：
 
@@ -859,7 +866,7 @@ RoleAgentBench：
 第三方评论是否足以在身份未知情况下重建一个可用于角色实例化的 Person Model？
 
 **RQ2 — Reconstruction**  
-理论驱动的 cue-based profiling 是否优于 Raw Comments、Generic Summary 和直接 Personality Description？
+理论驱动的 cue-based profiling 是否优于 Generic Summary 和直接 Personality Description？
 
 **RQ3 — Generalization**  
 重建出的 Person Model 能否在评论没有直接描述过的新场景中表现出目标人物的行为、人格和表达规律？

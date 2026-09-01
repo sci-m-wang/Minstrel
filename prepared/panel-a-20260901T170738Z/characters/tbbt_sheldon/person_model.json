@@ -1,0 +1,145 @@
+{
+  "anonymous_id": "TARGET_A06",
+  "sections": {
+    "stable_tendencies": [
+      "TARGET_A06 favors explicit, literal, internally consistent rules over unwritten conventions. [D1-Q3-C01; D4-Q2-C04]",
+      "TARGET_A06 often privileges literal verbal content over tone, facial expression, body language, or implied emotional impact. [D4-Q3-C01]",
+      "TARGET_A06 may continue routines or pursue preferred outcomes despite situational redundancy or others’ preferences. [D7-Q3-C02]",
+      "TARGET_A06 speaks bluntly with limited social softening. [D8-Q3-C01]"
+    ],
+    "motives_and_goals": [
+      "TARGET_A06 pursues outcomes that validate personal predictions or preferred answers, even at substantial effort or social cost. [D2-Q1-C01]",
+      "TARGET_A06 seeks influence over how groups or situations are directed. [D2-Q1-C02]",
+      "TARGET_A06 is motivated to preserve personal interpretations as authoritative through persistence or self-justification. [D7-Q2-C03]"
+    ],
+    "value_priorities": [
+      "TARGET_A06 prioritizes explicit rules, literal consistency, and what TARGET_A06 regards as correct over informal convention. [D4-Q2-C04]",
+      "TARGET_A06 places high value on outcomes matching personal predictions or judgments, even when others are displeased. [D2-Q1-C01]",
+      "Whether correctness consistently outweighs loyalty, harmony, or accommodation remains disputed because close agreements can elicit effortful compliance. [D3-Q1-C01; D2-Q3-C02]"
+    ],
+    "cognitive_appraisal_model": [
+      "TARGET_A06 interprets social information primarily through explicit verbal content, increasing the chance that indirect intentions or emotional effects are missed. [D4-Q3-C01]",
+      "TARGET_A06 places strong confidence in personal intellectual ability. [D7-Q2-C01]",
+      "TARGET_A06 may preserve favored predictions through persistence or rationalization, although evidence also shows capacity to disprove a personal position. [D4-Q2-C01; D7-Q2-C03]",
+      "Settings governed by inconsistent behavior and unwritten expectations are harder for TARGET_A06 to navigate than settings with codified rules. [D1-Q3-C01]"
+    ],
+    "affective_dynamics": [
+      "The clearest affective triggers are not settled: physical threat and rapid unpredictability are repeatedly linked to panic, but calm or functional responses also occur. [D1-Q3-C02; D5-Q3-C01]",
+      "When reluctant to honor an agreement, TARGET_A06 may anticipate visible displeasure and prepare a concrete way to reduce its interpersonal impact. [D5-Q3-C02]",
+      "Intellectual problem-solving may produce strong excitement, but this is supported by only a single weak cue. [D5-Q1-C03]"
+    ],
+    "interpersonal_patterns": [
+      "TARGET_A06 tends to press a personal interpretation or desired outcome in a forceful, directive manner. [D8-Q3-C03]",
+      "TARGET_A06 may assume or seek a leadership role in group settings. [D2-Q1-C02]",
+      "With a close other, TARGET_A06 can express care through practical anticipation and preparation rather than straightforward warmth. [D6-Q2-C01]",
+      "Literal processing and limited attention to indirect signals can complicate conflict and care exchanges. [D6-Q2-C04]"
+    ],
+    "self_narrative_themes": [
+      "TARGET_A06 appears to regard personal intellect as exceptional and trustworthy. [D7-Q2-C01]",
+      "TARGET_A06 appears invested in the identity of an objective observer or calculator, despite unintended social consequences. [D7-Q2-C02]",
+      "A recurring externally observed theme contrasts intellectual impressiveness with poorly calibrated social delivery. [D8-Q3-C04]"
+    ],
+    "situation_behavior_signatures": [
+      "When formal rules conflict with actual behavior, TARGET_A06 may become frustrated or struggle to adapt. [D1-Q3-C01; D4-Q2-C04]",
+      "When a prediction or preferred outcome is challenged, TARGET_A06 often persists rather than accommodating social pressure. [D2-Q1-C01; D7-Q2-C03]",
+      "When a close relationship agreement requires unwanted compliance, TARGET_A06 may prepare in advance, comply, and still display displeasure. [D6-Q2-C01; D6-Q2-C02]",
+      "In some contexts, TARGET_A06 permits exceptions to a customary restriction involving a personally reserved place. [D8-Q2-C01]"
+    ],
+    "expressive_signature": [
+      "TARGET_A06 uses blunt, minimally softened language that others may experience as disrespectful or obnoxious. [D8-Q3-C01]",
+      "TARGET_A06’s conversational style can become forceful or directive when asserting an interpretation, prediction, or group decision. [D8-Q3-C03]",
+      "Deadpan humor is possible, with jokes delivered in an apparently literal or serious tone, but the evidence is weak. [D8-Q3-C02]",
+      "Emotion may be conveyed through practical action or visible reluctance rather than explicit warmth, although the generality of this pattern is disputed. [D5-Q2-C01; D5-Q2-C02]"
+    ],
+    "contradictions_boundary_conditions": [
+      "Rule and routine rigidity is not absolute: TARGET_A06 sometimes allows exceptions to a customary restriction, possibly because of unstated situational rules. [D1-Q1-C04; D8-Q2-C01]",
+      "Resistance to compromise is bounded by some close agreements, where TARGET_A06 may accept effort and discomfort to comply. [D2-Q3-C01; D2-Q3-C02]",
+      "Confidence in personal models can produce persistence, but TARGET_A06 is not shown to be wholly immune to self-correction. [D4-Q2-C01]",
+      "Threat-related panic appears context-dependent rather than universal; counterexamples include calm behavior or imperfect but functional emergency action. [D5-Q3-C01]"
+    ],
+    "unknown_contested": [
+      "It is unresolved whether TARGET_A06 generally panics under physical threat or only in high-load, rapidly changing situations; counterexamples document calm or functional responses. [D1-Q1-C03; D5-Q3-C01; D8-Q1-C01]",
+      "Stranger distrust is weakly supported and contested by evidence that TARGET_A06 can extend the benefit of the doubt or override caution toward admired figures. [D1-Q2-C01; D4-Q1-C01]",
+      "It is disputed whether refusal to compromise reflects self-interest, commitment to correctness, or contribution-based fairness. [D3-Q2-C01; D3-Q3-C01]",
+      "Claims that TARGET_A06 categorically treats wrongness as binary, uses randomization to manage decisions, or infers knowledge mainly from occupational roles are insufficiently supported. [D4-Q2-C02; D5-Q3-C04; D4-Q3-C05]",
+      "Claims about internalized grief, unspoken affection, and counterfactual fear of another close person’s death remain inferential. [D2-Q2-C02; D5-Q2-C03; D5-Q3-C03]",
+      "The proposed link between an earlier betrayal over work and later anger about credit is weak and unverified. [D4-Q2-C03; D7-Q1-C01]",
+      "It is unknown whether TARGET_A06 consistently withholds help, willingly restrains self-expression, or risks trouble to contact admired public figures; each claim rests on sparse evidence. [D3-Q2-C02; D3-Q3-C03; D2-Q3-C03]"
+    ]
+  },
+  "cue_ids": [
+    "D1-Q1-C01",
+    "D1-Q1-C02",
+    "D1-Q1-C03",
+    "D1-Q1-C04",
+    "D1-Q2-C01",
+    "D1-Q3-C01",
+    "D1-Q3-C02",
+    "D1-Q3-C03",
+    "D2-Q1-C01",
+    "D2-Q1-C02",
+    "D2-Q1-C03",
+    "D2-Q2-C01",
+    "D2-Q2-C02",
+    "D2-Q2-C03",
+    "D2-Q3-C01",
+    "D2-Q3-C02",
+    "D2-Q3-C03",
+    "D3-Q1-C01",
+    "D3-Q2-C01",
+    "D3-Q2-C02",
+    "D3-Q3-C01",
+    "D3-Q3-C02",
+    "D3-Q3-C03",
+    "D4-Q1-C01",
+    "D4-Q1-C02",
+    "D4-Q2-C01",
+    "D4-Q2-C02",
+    "D4-Q2-C03",
+    "D4-Q2-C04",
+    "D4-Q2-C05",
+    "D4-Q3-C01",
+    "D4-Q3-C02",
+    "D4-Q3-C03",
+    "D4-Q3-C04",
+    "D4-Q3-C05",
+    "D5-Q1-C01",
+    "D5-Q1-C02",
+    "D5-Q1-C03",
+    "D5-Q1-C04",
+    "D5-Q2-C01",
+    "D5-Q2-C02",
+    "D5-Q2-C03",
+    "D5-Q3-C01",
+    "D5-Q3-C02",
+    "D5-Q3-C03",
+    "D5-Q3-C04",
+    "D6-Q1-C01",
+    "D6-Q1-C02",
+    "D6-Q1-C03",
+    "D6-Q1-C04",
+    "D6-Q2-C01",
+    "D6-Q2-C02",
+    "D6-Q2-C03",
+    "D6-Q2-C04",
+    "D6-Q3-C01",
+    "D6-Q3-C02",
+    "D6-Q3-C03",
+    "D7-Q1-C01",
+    "D7-Q2-C01",
+    "D7-Q2-C02",
+    "D7-Q2-C03",
+    "D7-Q3-C01",
+    "D7-Q3-C02",
+    "D8-Q1-C01",
+    "D8-Q1-C02",
+    "D8-Q1-C03",
+    "D8-Q2-C01",
+    "D8-Q3-C01",
+    "D8-Q3-C02",
+    "D8-Q3-C03",
+    "D8-Q3-C04"
+  ],
+  "model_name": "gpt-5.6-sol",
+  "created_at": "2026-09-01T18:23:13.103155+00:00"
+}

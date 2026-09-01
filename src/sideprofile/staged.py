@@ -27,7 +27,7 @@ from .pipeline import (
 from .probes import select_probes
 from .profile import cue_coverage
 from .report import build_report
-from .retrieval import HybridRetriever
+from .retrieval import VectorRerankRetriever, build_retriever
 from .roleplay import generate_response
 from .schema import GenerationRecord, PersonModel
 
@@ -84,8 +84,38 @@ def _panel_key(run_cfg: dict[str, Any]) -> str:
     return name
 
 
+def _profiler_spec(model_plan: dict[str, Any]) -> tuple[str, str, str]:
+    spec = model_plan.get("profiler") or {}
+    provider = str(spec.get("provider") or "").strip().upper()
+    model = str(spec.get("model") or "").strip()
+    location = str(spec.get("execution_location") or "").strip()
+    if not provider or not model or not location:
+        raise RuntimeError(
+            "model registry profiler requires provider, model, and execution_location"
+        )
+    return provider, model, location
+
+
+def _retrieval_service_spec(model_plan: dict[str, Any]) -> dict[str, str]:
+    preparation = model_plan.get("retrieval_preparation") or {}
+    values: dict[str, str] = {}
+    for role in ("embedding", "reranker"):
+        spec = preparation.get(role) or {}
+        provider = str(spec.get("provider") or "").strip().upper()
+        model = str(spec.get("model") or "").strip()
+        location = str(spec.get("execution_location") or "").strip()
+        if not provider or not model or location != "connected_preparation":
+            raise RuntimeError(
+                f"model registry {role} requires provider, model, and "
+                "execution_location=connected_preparation"
+            )
+        values[f"{role}_provider"] = provider
+        values[f"{role}_model"] = model
+    return values
+
+
 class ConditioningPreparer:
-    """Build the shared retrieval, cues, person model, and six conditionings once."""
+    """Build shared retrieval, cues, person model, and five condition payloads once."""
 
     def __init__(self, config: dict[str, Any]) -> None:
         self.config = config
@@ -104,19 +134,27 @@ class ConditioningPreparer:
         conditions = list(run_cfg.get("conditions", SUPPORTED_CONDITIONS))
         _validate_conditions(conditions)
         if set(conditions) != set(SUPPORTED_CONDITIONS):
-            raise RuntimeError("formal conditioning preparation must build all six conditions")
+            raise RuntimeError("formal conditioning preparation must build all five conditions")
 
-        provider_cfg = self.config.get("provider", {})
-        settings = ProviderSettings.from_env(
-            provider_cfg.get("name", "LOCAL"),
-            _resolve(self.project_root, provider_cfg.get("env_file", ".env")),
-        )
         model_plan = _load_model_plan(self.config, self.project_root)
-        expected_profiler = str(model_plan.get("profiler", {}).get("model", ""))
-        if not expected_profiler or settings.model != expected_profiler:
+        expected_provider, expected_profiler, execution_location = _profiler_spec(model_plan)
+        retrieval_services = _retrieval_service_spec(model_plan)
+        if execution_location != "connected_preparation":
+            raise RuntimeError(
+                "conditioning preparation requires profiler execution_location "
+                "'connected_preparation'"
+            )
+        provider_cfg = self.config.get("provider", {})
+        env_file = _resolve(self.project_root, provider_cfg.get("env_file", ".env"))
+        settings = ProviderSettings.from_env(
+            expected_provider,
+            env_file,
+        )
+        if settings.model != expected_profiler:
             raise RuntimeError(
                 "conditioning preparation requires the pre-registered profiler "
-                f"{expected_profiler!r}, got {settings.model!r}"
+                f"{expected_provider}/{expected_profiler!r}, got "
+                f"{settings.provider}/{settings.model!r}"
             )
         stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
         name = str(run_cfg.get("name", "conditioning"))
@@ -132,14 +170,36 @@ class ConditioningPreparer:
         db_path = _resolve(self.project_root, data_cfg["corpus_db"])
         catalog_path = _resolve(self.project_root, data_cfg["catalog"])
         benchmark_path = _resolve(self.project_root, data_cfg["benchmark"])
+        catalog = {
+            spec.character_id: spec for spec in load_character_catalog(catalog_path)
+        }
         examples = load_benchmark(benchmark_path)
         character_ids = list(run_cfg.get("character_ids") or sorted({
             example.character_id for example in examples
         }))
+        missing_catalog = [item for item in character_ids if item not in catalog]
+        missing_gold = [
+            item
+            for item in character_ids
+            if item in catalog and "gold" in conditions and not catalog[item].gold_profile
+        ]
+        if missing_catalog or missing_gold:
+            raise RuntimeError(
+                "frozen catalog preflight failed: "
+                f"missing_characters={missing_catalog}; missing_gold={missing_gold}"
+            )
         retrieval_cfg = self.config.get("retrieval", {})
+        for key, expected in retrieval_services.items():
+            observed = str(retrieval_cfg.get(key, ""))
+            if key.endswith("_provider"):
+                observed = observed.upper()
+            if observed != expected:
+                raise RuntimeError(
+                    f"conditioning preparation requires {key}={expected!r}, got {observed!r}"
+                )
         vector_store_value = retrieval_cfg.get("vector_store")
-        retriever = HybridRetriever(
-            mode=retrieval_cfg.get("mode", "hybrid"),
+        retriever = build_retriever(
+            mode=str(retrieval_cfg.get("mode", "vector_rerank")),
             vector_store=(
                 str(
                     _resolve(
@@ -150,27 +210,27 @@ class ConditioningPreparer:
                 if vector_store_value
                 else None
             ),
-            embedding_model_key=retrieval_cfg.get(
-                "embedding_model_key", "qwen3-embedding-0.6b"
+            embedding_model_key=str(
+                retrieval_cfg.get("embedding_model", "text-embedding-3-small")
             ),
-            reranker_model=(
-                os.path.expandvars(retrieval_cfg["reranker_model"])
-                if retrieval_cfg.get("reranker_model")
-                else None
+            reranker_model=str(
+                retrieval_cfg.get("reranker_model", "Cohere-rerank-v4.0-pro")
             ),
-            bm25_top_k=int(retrieval_cfg.get("bm25_top_k", 20)),
-            dense_top_k=int(retrieval_cfg.get("dense_top_k", 20)),
+            env_file=str(env_file),
+            rerank_trace_path=str(output_dir / "rerank.trace.jsonl"),
+            candidate_top_k=int(retrieval_cfg.get("candidate_top_k", 20)),
             final_top_k=int(retrieval_cfg.get("final_top_k", 10)),
         )
+        if not isinstance(retriever, VectorRerankRetriever):
+            raise RuntimeError("formal conditioning preparation requires vector_rerank")
         profiling_cfg = self.config.get("profiling", {})
         probes = select_probes(profiling_cfg.get("probe_ids"))
         if len(probes) != 24:
             raise RuntimeError("formal conditioning preparation requires all 24 probes")
         llm = LLMClient(settings, trace_path=output_dir / "trace.jsonl")
         artifacts: list[dict[str, str]] = []
-        with CommentCorpus(db_path) as corpus:
+        with CommentCorpus(db_path, read_only=True) as corpus:
             corpus.initialize()
-            corpus.add_characters(load_character_catalog(catalog_path))
             coverage = data_cfg["coverage"]
             audit = corpus.validate_targets(
                 min_comments=int(coverage["min_comments"]),
@@ -190,6 +250,7 @@ class ConditioningPreparer:
                 corpus,
                 llm,
                 retriever,
+                characters=catalog,
                 include_synthetic=False,
             )
             for character_id in character_ids:
@@ -233,17 +294,48 @@ class ConditioningPreparer:
                     )
             corpus_stats = corpus.stats(include_synthetic=False)
 
+        trace_path = output_dir / "trace.jsonl"
+        if trace_path.is_file():
+            artifacts.append(
+                {
+                    "path": str(trace_path.relative_to(output_dir)),
+                    "sha256": _sha256(trace_path),
+                }
+            )
+        rerank_trace_path = output_dir / "rerank.trace.jsonl"
+        if rerank_trace_path.is_file():
+            artifacts.append(
+                {
+                    "path": str(rerank_trace_path.relative_to(output_dir)),
+                    "sha256": _sha256(rerank_trace_path),
+                }
+            )
+
         manifest = {
             "schema_version": 1,
             "stage": "conditioning_preparation",
             "created_at": datetime.now(timezone.utc).isoformat(),
             "provider": settings.provider,
+            "profiler_provider": settings.provider,
             "profiler_model": settings.model,
             "decoding": "provider_default",
             "characters": character_ids,
             "conditions": conditions,
             "probe_ids": [probe.probe_id for probe in probes],
+            "comment_processing": "isolated_per_probe_top10",
+            "condition_aggregation": {
+                "personality": "per_probe_observations_then_aggregate",
+                "summary": "per_probe_summaries_then_aggregate",
+                "ours": "per_probe_cues_then_person_model",
+            },
             "retrieval_mode": retriever.effective_mode,
+            "embedding_provider": retrieval_services["embedding_provider"],
+            "embedding_model": retriever.embedding_model_key,
+            "reranker_provider": retriever.reranker.settings.provider,
+            "reranker_model": retriever.reranker.settings.model,
+            "candidate_top_k": retriever.candidate_top_k,
+            "final_top_k": retriever.final_top_k,
+            "reranker_usage": retriever.reranker.usage,
             "corpus_stats": corpus_stats,
             "coverage_audit": audit,
             "input_bundle": bundle["manifest"],
@@ -269,8 +361,30 @@ def verify_prepared(path: str | Path) -> dict[str, Any]:
         failures.append("wrong prepared stage")
     if manifest.get("research_valid") is not True:
         failures.append("prepared conditionings are not research_valid")
+    if not manifest.get("profiler_provider") or not manifest.get("profiler_model"):
+        failures.append("prepared conditionings do not identify the fixed profiler")
+    if manifest.get("retrieval_mode") != "openai_exact_vector_recall+cohere_rerank":
+        failures.append("prepared conditionings used the wrong retrieval mode")
+    for field in (
+        "embedding_provider",
+        "embedding_model",
+        "reranker_provider",
+        "reranker_model",
+    ):
+        if not manifest.get(field):
+            failures.append(f"prepared conditionings do not identify {field}")
+    if manifest.get("candidate_top_k") != 20 or manifest.get("final_top_k") != 10:
+        failures.append("prepared conditionings used the wrong retrieval Top-K contract")
     if set(manifest.get("conditions", [])) != set(SUPPORTED_CONDITIONS):
-        failures.append("prepared conditionings do not contain all six conditions")
+        failures.append("prepared conditionings do not contain all five conditions")
+    if manifest.get("comment_processing") != "isolated_per_probe_top10":
+        failures.append("prepared comments were not processed as isolated per-probe Top-10 sets")
+    if manifest.get("condition_aggregation") != {
+        "personality": "per_probe_observations_then_aggregate",
+        "summary": "per_probe_summaries_then_aggregate",
+        "ours": "per_probe_cues_then_person_model",
+    }:
+        failures.append("prepared condition aggregation contract differs")
     for item in manifest.get("artifacts", []):
         artifact = root / item["path"]
         if not artifact.is_file():
@@ -331,9 +445,18 @@ class ActorRunner:
                 f"actor {settings.model!r} is not pre-registered for {panel_key}: "
                 + ", ".join(allowed_actors)
             )
-        expected_profiler = str(model_plan.get("profiler", {}).get("model", ""))
-        if prepared_manifest.get("profiler_model") != expected_profiler:
+        expected_provider, expected_profiler, _ = _profiler_spec(model_plan)
+        if (
+            prepared_manifest.get("profiler_provider") != expected_provider
+            or prepared_manifest.get("profiler_model") != expected_profiler
+        ):
             raise RuntimeError("prepared conditionings used the wrong profiler model")
+        retrieval_services = _retrieval_service_spec(model_plan)
+        if any(
+            prepared_manifest.get(key) != expected
+            for key, expected in retrieval_services.items()
+        ):
+            raise RuntimeError("prepared conditionings used the wrong retrieval services")
         safe_model = re.sub(r"[^A-Za-z0-9_.-]+", "-", settings.model).strip("-")[-80:]
         stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
         run_id = f"{run_cfg.get('name', 'actor')}-{safe_model}-{stamp}"

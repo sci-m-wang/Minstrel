@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_840f29d32e52bbd2db40",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]其实算幸运的了 现实生活中 有很多被现实推着走的人 只能随波逐流",
+      "platform": "bilibili",
+      "author_hash": "db6c689efc258f5e3fe545f4",
+      "language": "zh",
+      "score": 0.68729424,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_910fe4be3906e2b7050e",
+      "anonymous_id": "TARGET_D06",
+      "text": "有点儿能代入自己，上班上伤了，大厂有时候十一点才回家，晚饭都吃不上，辞职出去玩了一大圈东南亚一圈，欧洲一圈也走了一趟，几个月把上班这几年的压力都疏解了，碰上疫情歇了三年，放开了，2023重新出发吧~~已经调整好了[打call][打call]",
+      "platform": "bilibili",
+      "author_hash": "6a7dbb852963186e87fcec0f",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3523e944d1c5f734c09c",
+      "anonymous_id": "TARGET_D06",
+      "text": "是的，主要还是手机摔掉了，需要跟人交流了，不然其实就是换个地方继续自己一个人，有事情什么的还是靠手机，不会想到去问人就不会产生交集",
+      "platform": "bilibili",
+      "author_hash": "c5f9d98f0e5e96d7d25e7919",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4424a107e956f41b5b5f",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的，前厅经理特别累，真的真的啥都要管，虽然工资高，但不是那么容易",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_aa326704c9291b8778da",
+      "anonymous_id": "TARGET_D06",
+      "text": "虽然但是 ，前厅经理一般不是只负责酒店大堂业务吗，怎么会有餐饮部分的工作",
+      "platform": "bilibili",
+      "author_hash": "e055050d82dd5d46b8caf44f",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1fe0dd5c31857948719e",
+      "anonymous_id": "TARGET_D06",
+      "text": "同意，前部分讲得挺好，引起很多社畜共鸣，但什么第二集开始ok不ok那里不太赞同，什么节奏慢，其实我想正是因为生活让人喘不过气，所以才需要慢下来感受一些东西，喘口气。正是因为困在自己目前的生活，所以才需要遇见另一种生活，有比较，才发现问题。才可能去解决，我想这里并没有就表示全然不顾自己的责任，抛弃一切。",
+      "platform": "bilibili",
+      "author_hash": "75030a990eb58c4a6559b701",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4269100c924e38792baf",
+      "anonymous_id": "TARGET_D06",
+      "text": "一句话，这部剧里都是正常思维正常人",
+      "platform": "bilibili",
+      "author_hash": "761a2c39bab0eee7034e7090",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_cb17e423998b9a573143",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]：“一定要干点什么吗？”",
+      "platform": "bilibili",
+      "author_hash": "f1b55d83a92e99725b61584f",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1e5c195fc095f9bce952",
+      "anonymous_id": "TARGET_D06",
+      "text": "剧里太多点都能戳到我，就说最新一集，[TARGET]说她姐一点睡，睡前要玩两小时手机，报复性娱乐。我之前在会计师事务所上班，电脑不离身，吃饭都有工作电话，只有半夜睡前的时候才是完全属于自己的时间，不玩两小时手机，我会觉得自己太惨了。[大哭]",
+      "platform": "bilibili",
+      "author_hash": "f1b55d83a92e99725b61584f",
+      "language": "zh",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ddf72127c057a6766455",
+      "anonymous_id": "TARGET_D06",
+      "text": "我26岁，换过三次工作，中间两度辞职半年及以上，都去当背包客了或者躺家里，最近一段辞职经历…是现在，至于为什么要辞职，大多数是因为在公司没有发展前景，但事实是我真没办法适应办公环境，然后摆烂也很膈应，所以做的冲动选择。至于我为什么有底气辞职，我觉得有点点像[TARGET]，虽然我独生，但是家里只有母亲，且我妈每天很忙，身体也很棒，钱的事可能还得她救济我，奥我妈的爸爸妈妈，也就是我姥姥姥爷有退休金且有我大姨照料，所以我们家各管各就好了，不算富裕，大病不准备治，小病能维持的状态，一年半载我也没有计划结婚，只想谈恋爱，享受恋爱美好，不想考虑柴米油盐，未来结不结婚我也不知道，大概率不要孩子，我妈不催我偶尔唠叨，大概觉得我在家有点烦哈哈哈。我没车没房，有一点点存款，大概能维持我一年吃喝拉撒，用完再去上班就好了，我就这样想的，其实这样挺快乐的，活在当下。",
+      "platform": "bilibili",
+      "author_hash": "47135b65b9b04d3e0a043510",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9fbbe39a5e61e42f0545",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @纠结的人儿请记得微笑 :其实我也注意到挺多细节啦，女主给闺蜜发了她发给家族群的男主视频，握手犹豫啊什么的。但是没思考，哈哈哈哈，根本不想思考",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b8a862cd3fb759a21ad5",
+      "anonymous_id": "TARGET_D06",
+      "text": "最触动我的就是，云南美景好风光，有风小院人情真，传统技艺放光彩男女主清醒认真 ——如果我不能陪她去北京，我为什么要求人家为我留下来 ——这人在陌生的环境里，一放松，就会让人不小心走进来。",
+      "platform": "bilibili",
+      "author_hash": "5e748c7207356a4c3c3fa254",
+      "language": "zh",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_832f9caf7f433f2c96cb",
+      "anonymous_id": "TARGET_D06",
+      "text": "很正常，因为女主是个陌生人来到云南有风小院，她是最后加入的，这些人都互相熟悉，女主视角起码得她融入这个环境后才能体现吧",
+      "platform": "bilibili",
+      "author_hash": "7b5afbcd7692f65a24d92510",
+      "language": "zh",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3a39ea80343469b07045",
+      "anonymous_id": "TARGET_D06",
+      "text": "哈哈哈哈哈哈哈哈哈哈你要笑死我，但是，肤色差，谁懂[滑稽][滑稽][滑稽]",
+      "platform": "bilibili",
+      "author_hash": "56c9b782466276d17cba27bc",
+      "language": "zh",
+      "score": 0.31878194,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_25fdfa5c2b3e43712509",
+      "anonymous_id": "TARGET_D06",
+      "text": "女主除了美貌，其他地方跟我很像，我经常一个人出国，到了中国吃饭手机故障店老板也不收钱😅还有个性也超级像我所以我越看越难过",
+      "platform": "youtube",
+      "author_hash": "0fad26e7687106a374f14fc5",
+      "language": "zh",
+      "score": 0.30536577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d44f9eb8e93c2f42839c",
+      "anonymous_id": "TARGET_D06",
+      "text": "越漂亮反倒没事，就怕我这长的普普通通的，放人堆里都不起眼。不过回过头想想，第一天就在别人家吃饭，确实挺胆大的。但是毕竟要住三个月嘛，女主又挺有脑子的，是主动找到男主家的，可能夹杂了各方面的判断，可能对男主的不动产和人品的初步判断[doge]",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b40f2892997fc9035ff6",
+      "anonymous_id": "TARGET_D06",
+      "text": "别的偶像剧，强行再偶遇，然后:是你。 这剧男女主又见面。男主解释，这地方小。肯定会经常碰到。",
+      "platform": "bilibili",
+      "author_hash": "1d1cbc651d30cc5d3c7533a3",
+      "language": "zh",
+      "score": 0.29877773,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f50f569a25407bc8d895",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @孟令织 :但是王语嫣，小龙女，赵灵儿三个角色明显不一样啊，你肯定能区分啊，就算是最近有争议的赵盼儿，那也和[TARGET]很不一样啊",
+      "platform": "bilibili",
+      "author_hash": "832ff9950d03116685a4acee",
+      "language": "zh",
+      "score": 0.29877773,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.67883813,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_840f29d32e52bbd2db40",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]其实算幸运的了 现实生活中 有很多被现实推着走的人 只能随波逐流",
+      "platform": "bilibili",
+      "author_hash": "db6c689efc258f5e3fe545f4",
+      "language": "zh",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_910fe4be3906e2b7050e",
+      "anonymous_id": "TARGET_D06",
+      "text": "有点儿能代入自己，上班上伤了，大厂有时候十一点才回家，晚饭都吃不上，辞职出去玩了一大圈东南亚一圈，欧洲一圈也走了一趟，几个月把上班这几年的压力都疏解了，碰上疫情歇了三年，放开了，2023重新出发吧~~已经调整好了[打call][打call]",
+      "platform": "bilibili",
+      "author_hash": "6a7dbb852963186e87fcec0f",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0cc996ed769860977a99",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且女主是带着自己的问题去旅居的，过程中这些问题又重新被一个个抛出来，被探讨，我真的很喜欢，因为我也同样面临这些问题，是躺平还是卷？是忘记还是铭记？未来到底想要什么生活？",
+      "platform": "bilibili",
+      "author_hash": "d18a28a3bd3d1ac0b9e8be95",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b9b378e2ec63bf9b2a3c",
+      "anonymous_id": "TARGET_D06",
+      "text": "现实中，我有和可以像[TARGET]一样，放下一切去远行的那些客观条件，但我还是不敢。 PS：总不能献祭闺蜜吧[doge][喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "bb1906b0eba5ee4263014e07",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4269100c924e38792baf",
+      "anonymous_id": "TARGET_D06",
+      "text": "一句话，这部剧里都是正常思维正常人",
+      "platform": "bilibili",
+      "author_hash": "761a2c39bab0eee7034e7090",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9fbbe39a5e61e42f0545",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @纠结的人儿请记得微笑 :其实我也注意到挺多细节啦，女主给闺蜜发了她发给家族群的男主视频，握手犹豫啊什么的。但是没思考，哈哈哈哈，根本不想思考",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:youtube_1f647a7cde010457beb6",
+      "anonymous_id": "TARGET_D06",
+      "text": "去年初自己有看完全集，真的很棒👍 自己看著南星錄給紅豆的遺言感動的淚水狂流，也一直思考我人生到底再追求什麼？ 自己笑了兩聲告訴自己放下吧💜",
+      "platform": "youtube",
+      "author_hash": "52059935f8633277ef550036",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d370ed05d34c920cc376",
+      "anonymous_id": "TARGET_D06",
+      "text": "这个是说阿遥说以后要是异地他就飞去看她，但是[TARGET]不相信他会无怨无悔去看他，觉得是天上掉馅饼，于是就想了个办法诱惑他",
+      "platform": "bilibili",
+      "author_hash": "a9996b22984a9bf412f731ef",
+      "language": "zh",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_428c738a2d565e15a3b9",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得她去旅行一部分是为了死去好友的愿望 替她完成愿望",
+      "platform": "bilibili",
+      "author_hash": "1c5689e24f5b99a774749037",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_199c8be303117636181c",
+      "anonymous_id": "TARGET_D06",
+      "text": "把持？我为什么要把持，我直接上了啊[喜欢]",
+      "platform": "bilibili",
+      "author_hash": "be80e8a0b9e980e43d2a8ed3",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_747fd833b51c334a48d3",
+      "anonymous_id": "TARGET_D06",
+      "text": "谁懂啊，真的喜欢[TARGET][星星眼]",
+      "platform": "bilibili",
+      "author_hash": "25e384683aa04b295e372a10",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f978e6e463087c15c8dc",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 [USER]睿阿 :感觉他对女主有好感，但是女主还没有感觉，他俩的对手戏不多，而且也没有双向发展感情",
+      "platform": "bilibili",
+      "author_hash": "e2abe42510d67bd8628debb0",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_cb17e423998b9a573143",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]：“一定要干点什么吗？”",
+      "platform": "bilibili",
+      "author_hash": "f1b55d83a92e99725b61584f",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a9a852e7dd6835c3670",
+      "anonymous_id": "TARGET_D06",
+      "text": "超级喜欢里面的谢之遥，教育环境不好就考到北京、读研、就业，有了一定的积蓄就回家建设乡村。一开始没人支持，但能凭着自己的专业和乐观，把村子建设起来，村子上上下下都能打点得很好，还能照顾老老少少，办事妥帖，照顾每个人的情绪，尊重每个人的选择（知道弟弟在原来的学校出丑了不愿意回去读书，就给他联系新的学校。弟弟想去打工，他就安眼线保证安全，但不干涉他的选择；小辈被骗钱，他默默兜着；又用行动感化木雕师父）。对豆姐也没有见色起意（虽然肯定喜欢她的外貌），而是慢慢了解、默默支持。真的很喜欢这个又有责任感又无微不至又幽默乐观的角色！[保卫萝卜_哇][保卫萝卜_哇]",
+      "platform": "bilibili",
+      "author_hash": "a866078facf45b5926d580be",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_c3303010da1b2d93041b",
+      "anonymous_id": "TARGET_D06",
+      "text": "这部剧最让我难忘的是男主说为什么[TARGET]要为了我留下来，不能我陪她去北京，难道女性就应为爱情付出一切，而男人只需要说一句口头的承诺",
+      "platform": "bilibili",
+      "author_hash": "a1644513727df0644de33e4f",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_5bfc91b00e3024308499",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]呀，你不能走近[呲牙]小心谢之遥[doge]",
+      "platform": "bilibili",
+      "author_hash": "0ed9ad784fd44d40e90c7d37",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_17bd99060f578211b3ea",
+      "anonymous_id": "TARGET_D06",
+      "text": "看闺蜜去世的那一段我哭得不行，想到了我的闺蜜，如果她不在了我该多崩溃啊，我永远不要失去她[大哭]",
+      "platform": "bilibili",
+      "author_hash": "c4e3888d39ac9c1a0792a8bf",
+      "language": "zh",
+      "score": 0.61286587,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_0ff35a3b6274e3523929",
+      "anonymous_id": "TARGET_D06",
+      "text": "37:11 truly the greater grief is to be the one left when the one you love has gone",
+      "platform": "youtube",
+      "author_hash": "3549c34923b96f03db28ae9f",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_8645344df9de0a4724df",
+      "anonymous_id": "TARGET_D06",
+      "text": "因为最好的闺蜜因病去世了，给她的打击很大",
+      "platform": "bilibili",
+      "author_hash": "95bc4486e86536d27938d89c",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b9b378e2ec63bf9b2a3c",
+      "anonymous_id": "TARGET_D06",
+      "text": "现实中，我有和可以像[TARGET]一样，放下一切去远行的那些客观条件，但我还是不敢。 PS：总不能献祭闺蜜吧[doge][喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "bb1906b0eba5ee4263014e07",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d370ed05d34c920cc376",
+      "anonymous_id": "TARGET_D06",
+      "text": "这个是说阿遥说以后要是异地他就飞去看她，但是[TARGET]不相信他会无怨无悔去看他，觉得是天上掉馅饼，于是就想了个办法诱惑他",
+      "platform": "bilibili",
+      "author_hash": "a9996b22984a9bf412f731ef",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_963cc058ca4f6abdb6a7",
+      "anonymous_id": "TARGET_D06",
+      "text": "别怕，二十多集男女主感情线才定下，但是可能会小虐一下，最新一集刺绣衣服的阿婶的爱情故事已经做下铺垫了，男女主之前最大的关于去留的问题",
+      "platform": "bilibili",
+      "author_hash": "e6987bf5fa2497791d1a1ae8",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_bda70f28fdbc8bf395f5",
+      "anonymous_id": "TARGET_D06",
+      "text": "还有跟马爷比打坐那块，那不就是要面子的刘亦菲么[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "7359f3c517fbb4cdf63d7450",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0cc996ed769860977a99",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且女主是带着自己的问题去旅居的，过程中这些问题又重新被一个个抛出来，被探讨，我真的很喜欢，因为我也同样面临这些问题，是躺平还是卷？是忘记还是铭记？未来到底想要什么生活？",
+      "platform": "bilibili",
+      "author_hash": "d18a28a3bd3d1ac0b9e8be95",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_17ee45e6b08e5a80b0f2",
+      "anonymous_id": "TARGET_D06",
+      "text": "根本把持不住啊天哪[doge][打call][打call]甜死了",
+      "platform": "bilibili",
+      "author_hash": "39d9897436344ce8aed3e3d9",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_5bfc91b00e3024308499",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]呀，你不能走近[呲牙]小心谢之遥[doge]",
+      "platform": "bilibili",
+      "author_hash": "0ed9ad784fd44d40e90c7d37",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b9b378e2ec63bf9b2a3c",
+      "anonymous_id": "TARGET_D06",
+      "text": "现实中，我有和可以像[TARGET]一样，放下一切去远行的那些客观条件，但我还是不敢。 PS：总不能献祭闺蜜吧[doge][喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "bb1906b0eba5ee4263014e07",
+      "language": "zh",
+      "score": 0.6294102,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_c3303010da1b2d93041b",
+      "anonymous_id": "TARGET_D06",
+      "text": "这部剧最让我难忘的是男主说为什么[TARGET]要为了我留下来，不能我陪她去北京，难道女性就应为爱情付出一切，而男人只需要说一句口头的承诺",
+      "platform": "bilibili",
+      "author_hash": "a1644513727df0644de33e4f",
+      "language": "zh",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_428c738a2d565e15a3b9",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得她去旅行一部分是为了死去好友的愿望 替她完成愿望",
+      "platform": "bilibili",
+      "author_hash": "1c5689e24f5b99a774749037",
+      "language": "zh",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_07552cc742400b627c47",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且里面的价值观太对了，阿奶攒了钱给[TARGET]比三那里，以为是三千，其实是三百，现在的人金钱观念太淡薄了。动不动几百万几千万的想",
+      "platform": "bilibili",
+      "author_hash": "672d6787a0fee775bab11542",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_cb17e423998b9a573143",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]：“一定要干点什么吗？”",
+      "platform": "bilibili",
+      "author_hash": "f1b55d83a92e99725b61584f",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1bd9295b1ea80ace60f7",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]能辞职去云南旅游三个月确实是大部分人做不到的，但我也愿意看剧来骗骗自己。如果完全写实，身边人还不够看吗，完全没必要在休闲时刻也要在电视剧里找不痛快了。",
+      "platform": "bilibili",
+      "author_hash": "4ebef9d4531708753767a932",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_adb0df29ce1f9e965c69",
+      "anonymous_id": "TARGET_D06",
+      "text": "后面跟网络透明小作者大麦交心那段很好很好，梦想就是有钱，有钱之后就退休，但是人还是有点梦想在的，比如明天我的订阅量➕100什么的[捂眼]",
+      "platform": "bilibili",
+      "author_hash": "5e5520b141d7738831cdcec0",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1442f76806593b717b5d",
+      "anonymous_id": "TARGET_D06",
+      "text": "大部分没有结婚没有孩子工作很多年有储蓄的人其实都能做到，只不过大家都没有勇气迈出这一步，她替我们体验了我们曾梦想过的生活。其实剧里的[TARGET]也不是直接躺平，而是想要换个心情再出发。到最后还是要振作起来继续加油啊！",
+      "platform": "bilibili",
+      "author_hash": "c1fc7c7d844305c7eec66b84",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ecefd2ecdc88c30677ba",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得她心态转变就很合理，最开始想着升职，然后发现自己再累也赚不够买房的钱，然后好友去世让她意识到自己曾经为了根本不能实现的买房梦错过了太多，但是生活只能继续，后来她自己也晕倒了，这时候她意识到在这边机械性的工作不仅没有价值甚至也依旧无法在北京留下，然后她就带着好友的梦想跑去散心。留在北京工作她也攒不够钱，但是不在北京工作她还能干什么？于是这三个月应该是给她找寻自己接下来活着的意义的时间。",
+      "platform": "bilibili",
+      "author_hash": "6ab828e33344b03abc64fad0",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3b5ae53544615528d8d9",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @老李i了 :男主视角所谓的正义都被女主视角推翻了",
+      "platform": "bilibili",
+      "author_hash": "faefe1e0edd6805229df213b",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_597210f3a822fc62ca23",
+      "anonymous_id": "TARGET_D06",
+      "text": "感觉整个剧是平平淡淡的说一些深刻的思考，不是像那些所谓的正剧一样给你强硬的说一些深刻的道理，要求你一定要怎么样，这个剧就是平平淡淡的给出一些不同人的看法，引发人思考。引发思考比高高在上的强硬要求更尊重观众，更有好感，整体是深刻但不剧烈。生活哪里像一些所谓正剧一样情绪歇斯底里，情绪起伏大，平平淡淡才是主要的，哀而不伤，节奏把握好，让观众觉得不累，在放松的时候也能引发思考，对社会对自己，太喜欢了[tv_色][tv_色][tv_色]。那些所谓正剧才不是现实，老是刻意站在俯瞰的角度叙事，刻意摘取痛苦部分，感觉现实生活就是苦大仇深，完全没有看的兴趣。但有风就很温柔，所有人都在努力活得更好，生活是丰富的，不是只有好或者只有坏，而且叙事是客观平淡的，没有刻意的苦大仇深，整体哀而不伤，有很多积极的地方，支持支持[打call][打call][打call][打call]",
+      "platform": "bilibili",
+      "author_hash": "0acd41181816db4627d46172",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a9a852e7dd6835c3670",
+      "anonymous_id": "TARGET_D06",
+      "text": "超级喜欢里面的谢之遥，教育环境不好就考到北京、读研、就业，有了一定的积蓄就回家建设乡村。一开始没人支持，但能凭着自己的专业和乐观，把村子建设起来，村子上上下下都能打点得很好，还能照顾老老少少，办事妥帖，照顾每个人的情绪，尊重每个人的选择（知道弟弟在原来的学校出丑了不愿意回去读书，就给他联系新的学校。弟弟想去打工，他就安眼线保证安全，但不干涉他的选择；小辈被骗钱，他默默兜着；又用行动感化木雕师父）。对豆姐也没有见色起意（虽然肯定喜欢她的外貌），而是慢慢了解、默默支持。真的很喜欢这个又有责任感又无微不至又幽默乐观的角色！[保卫萝卜_哇][保卫萝卜_哇]",
+      "platform": "bilibili",
+      "author_hash": "a866078facf45b5926d580be",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f985b2589113ca46c050",
+      "anonymous_id": "TARGET_D06",
+      "text": "人家郎才女貌轮得着你反对",
+      "platform": "bilibili",
+      "author_hash": "af6d1c3be277201838849be0",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b9b378e2ec63bf9b2a3c",
+      "anonymous_id": "TARGET_D06",
+      "text": "现实中，我有和可以像[TARGET]一样，放下一切去远行的那些客观条件，但我还是不敢。 PS：总不能献祭闺蜜吧[doge][喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "bb1906b0eba5ee4263014e07",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_cc0255a527cee9a198e8",
+      "anonymous_id": "TARGET_D06",
+      "text": "你们以为自己是谁，人家走到哪里都有人投喂，不全是因为当地民风淳朴，最重要是因为她是刘亦菲，是国民神！仙！姐！姐！ 年轻人要学会抓住主要矛盾，那就是：我们不配！！🤣😂😅😇",
+      "platform": "youtube",
+      "author_hash": "ec5575ab97f47ca4a3e5fb5d",
+      "language": "zh",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_49f0b860d15f434d516c",
+      "anonymous_id": "TARGET_D06",
+      "text": "一、一个北漂监狱警察的生活状态，他每天面对着让人绝望的工作和无法承受的生活压力，最终选择了辞职去寻找自己的彩云之南。 00:01 - 描述了现代人的生活压力和无奈 00:42 - 提出要去寻找一个属于自己的地方，摆脱资本的束缚 02:51 - 呼吁人们要勇敢选择自己的生活，不要被现实所束缚 二、普通人在生活中所面临的种种困难和压力，以及这些问题对于人们的选择和生活的影响。同时，也提到了《[TARGET]》这部剧的优缺点。 03:02 - 他来到云南 替那个回不来的故人完成梦想 03:42 - 尤其是在父母逐渐老去 需要照顾的时候 体现得尤为明显 05:43 - 编剧在这部剧里想要展现的问题很多 比如非遗文化的传承问题 三、作者对于电视剧《[TARGET]》中[TARGET]北漂生活的羡慕以及对于头皮油脂问题的解决方法，推荐了果壳控油蓬松洗发泡泡。 06:01 - 电影标签不能代表好电影，编剧能力需要体现。 06:22 - 打工人想旅游却没时间，[TARGET]的北漂生活是辛酸日常。 07:44 - 扁头少女遇到果壳控油蓬松洗发泡泡，控油解决头油头痒问题。 --本内容由AI视频小助理生成，关注解锁AI助理，由@east-dd 召唤发送",
+      "platform": "bilibili",
+      "author_hash": "bf61d5175b81d46fa2fdf682",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_a70e7e0d34a9c2933116",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @派大星星向荣 :那是因为她是经理还是五星酒店比较严格，一下也不让坐站一天，我是小酒店偶尔还可以坐，没那么严格",
+      "platform": "bilibili",
+      "author_hash": "39b36806efceebee8fb26a71",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_840f29d32e52bbd2db40",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]其实算幸运的了 现实生活中 有很多被现实推着走的人 只能随波逐流",
+      "platform": "bilibili",
+      "author_hash": "db6c689efc258f5e3fe545f4",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a9a852e7dd6835c3670",
+      "anonymous_id": "TARGET_D06",
+      "text": "超级喜欢里面的谢之遥，教育环境不好就考到北京、读研、就业，有了一定的积蓄就回家建设乡村。一开始没人支持，但能凭着自己的专业和乐观，把村子建设起来，村子上上下下都能打点得很好，还能照顾老老少少，办事妥帖，照顾每个人的情绪，尊重每个人的选择（知道弟弟在原来的学校出丑了不愿意回去读书，就给他联系新的学校。弟弟想去打工，他就安眼线保证安全，但不干涉他的选择；小辈被骗钱，他默默兜着；又用行动感化木雕师父）。对豆姐也没有见色起意（虽然肯定喜欢她的外貌），而是慢慢了解、默默支持。真的很喜欢这个又有责任感又无微不至又幽默乐观的角色！[保卫萝卜_哇][保卫萝卜_哇]",
+      "platform": "bilibili",
+      "author_hash": "a866078facf45b5926d580be",
+      "language": "zh",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_07552cc742400b627c47",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且里面的价值观太对了，阿奶攒了钱给[TARGET]比三那里，以为是三千，其实是三百，现在的人金钱观念太淡薄了。动不动几百万几千万的想",
+      "platform": "bilibili",
+      "author_hash": "672d6787a0fee775bab11542",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_f506a06361964346d00f",
+      "anonymous_id": "TARGET_D06",
+      "text": "人生有值得為他哭泣的朋友，是幸福的⋯⋯❤",
+      "platform": "youtube",
+      "author_hash": "89b83f5521327ef827e1a933",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d783437e78f426e490f8",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 [USER]无情的搬运机器 :我觉得恋爱最吸引人的就是互相拉扯的时候[doge]",
+      "platform": "bilibili",
+      "author_hash": "923cd7b97729957ad18d1bd1",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ecefd2ecdc88c30677ba",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得她心态转变就很合理，最开始想着升职，然后发现自己再累也赚不够买房的钱，然后好友去世让她意识到自己曾经为了根本不能实现的买房梦错过了太多，但是生活只能继续，后来她自己也晕倒了，这时候她意识到在这边机械性的工作不仅没有价值甚至也依旧无法在北京留下，然后她就带着好友的梦想跑去散心。留在北京工作她也攒不够钱，但是不在北京工作她还能干什么？于是这三个月应该是给她找寻自己接下来活着的意义的时间。",
+      "platform": "bilibili",
+      "author_hash": "6ab828e33344b03abc64fad0",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_49f0b860d15f434d516c",
+      "anonymous_id": "TARGET_D06",
+      "text": "一、一个北漂监狱警察的生活状态，他每天面对着让人绝望的工作和无法承受的生活压力，最终选择了辞职去寻找自己的彩云之南。 00:01 - 描述了现代人的生活压力和无奈 00:42 - 提出要去寻找一个属于自己的地方，摆脱资本的束缚 02:51 - 呼吁人们要勇敢选择自己的生活，不要被现实所束缚 二、普通人在生活中所面临的种种困难和压力，以及这些问题对于人们的选择和生活的影响。同时，也提到了《[TARGET]》这部剧的优缺点。 03:02 - 他来到云南 替那个回不来的故人完成梦想 03:42 - 尤其是在父母逐渐老去 需要照顾的时候 体现得尤为明显 05:43 - 编剧在这部剧里想要展现的问题很多 比如非遗文化的传承问题 三、作者对于电视剧《[TARGET]》中[TARGET]北漂生活的羡慕以及对于头皮油脂问题的解决方法，推荐了果壳控油蓬松洗发泡泡。 06:01 - 电影标签不能代表好电影，编剧能力需要体现。 06:22 - 打工人想旅游却没时间，[TARGET]的北漂生活是辛酸日常。 07:44 - 扁头少女遇到果壳控油蓬松洗发泡泡，控油解决头油头痒问题。 --本内容由AI视频小助理生成，关注解锁AI助理，由@east-dd 召唤发送",
+      "platform": "bilibili",
+      "author_hash": "bf61d5175b81d46fa2fdf682",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d370ed05d34c920cc376",
+      "anonymous_id": "TARGET_D06",
+      "text": "这个是说阿遥说以后要是异地他就飞去看她，但是[TARGET]不相信他会无怨无悔去看他，觉得是天上掉馅饼，于是就想了个办法诱惑他",
+      "platform": "bilibili",
+      "author_hash": "a9996b22984a9bf412f731ef",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_5bfc91b00e3024308499",
+      "anonymous_id": "TARGET_D06",
+      "text": "[TARGET]呀，你不能走近[呲牙]小心谢之遥[doge]",
+      "platform": "bilibili",
+      "author_hash": "0ed9ad784fd44d40e90c7d37",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9600acb37503e4a57276",
+      "anonymous_id": "TARGET_D06",
+      "text": "一线不行就二线 二线不行就三线。没必要非在北京。[微笑]",
+      "platform": "bilibili",
+      "author_hash": "855856f9ac71f23b3d92aa01",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b9b378e2ec63bf9b2a3c",
+      "anonymous_id": "TARGET_D06",
+      "text": "现实中，我有和可以像[TARGET]一样，放下一切去远行的那些客观条件，但我还是不敢。 PS：总不能献祭闺蜜吧[doge][喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "bb1906b0eba5ee4263014e07",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_963cc058ca4f6abdb6a7",
+      "anonymous_id": "TARGET_D06",
+      "text": "别怕，二十多集男女主感情线才定下，但是可能会小虐一下，最新一集刺绣衣服的阿婶的爱情故事已经做下铺垫了，男女主之前最大的关于去留的问题",
+      "platform": "bilibili",
+      "author_hash": "e6987bf5fa2497791d1a1ae8",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_bda70f28fdbc8bf395f5",
+      "anonymous_id": "TARGET_D06",
+      "text": "还有跟马爷比打坐那块，那不就是要面子的刘亦菲么[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "7359f3c517fbb4cdf63d7450",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_24a157e54d0784734e74",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得不可能，如果男主是精神小伙的话，男女主从三观来说都不契合，没有共同语言，根本发展不起来，到时感情那一块儿就很迷惑。",
+      "platform": "bilibili",
+      "author_hash": "153fc4ffe502926d2a5dbf27",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a49b18804493179daad",
+      "anonymous_id": "TARGET_D06",
+      "text": "深科理解她说的一句话，优雅就是不装",
+      "platform": "bilibili",
+      "author_hash": "79b1315d28d611c354614d80",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d370ed05d34c920cc376",
+      "anonymous_id": "TARGET_D06",
+      "text": "这个是说阿遥说以后要是异地他就飞去看她，但是[TARGET]不相信他会无怨无悔去看他，觉得是天上掉馅饼，于是就想了个办法诱惑他",
+      "platform": "bilibili",
+      "author_hash": "a9996b22984a9bf412f731ef",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d44f9eb8e93c2f42839c",
+      "anonymous_id": "TARGET_D06",
+      "text": "越漂亮反倒没事，就怕我这长的普普通通的，放人堆里都不起眼。不过回过头想想，第一天就在别人家吃饭，确实挺胆大的。但是毕竟要住三个月嘛，女主又挺有脑子的，是主动找到男主家的，可能夹杂了各方面的判断，可能对男主的不动产和人品的初步判断[doge]",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9fbbe39a5e61e42f0545",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @纠结的人儿请记得微笑 :其实我也注意到挺多细节啦，女主给闺蜜发了她发给家族群的男主视频，握手犹豫啊什么的。但是没思考，哈哈哈哈，根本不想思考",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_a45b552328557bb09f6d",
+      "anonymous_id": "TARGET_D06",
+      "text": "太真实了，[TARGET]先是往下瞟了一眼，然后解开头发[doge]",
+      "platform": "bilibili",
+      "author_hash": "b474e7e4f78294162427bec1",
+      "language": "zh",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_832f9caf7f433f2c96cb",
+      "anonymous_id": "TARGET_D06",
+      "text": "很正常，因为女主是个陌生人来到云南有风小院，她是最后加入的，这些人都互相熟悉，女主视角起码得她融入这个环境后才能体现吧",
+      "platform": "bilibili",
+      "author_hash": "7b5afbcd7692f65a24d92510",
+      "language": "zh",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f978e6e463087c15c8dc",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 [USER]睿阿 :感觉他对女主有好感，但是女主还没有感觉，他俩的对手戏不多，而且也没有双向发展感情",
+      "platform": "bilibili",
+      "author_hash": "e2abe42510d67bd8628debb0",
+      "language": "zh",
+      "score": 0.3256063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_91c50f218c1bf3e7bb2e",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @疯狂暗示 : 手机其实挺明显：大麦第一次见面就说了：“换个地方玩手机吗？”。然后女主就不着急修手机了，而男主才有了那句：“你是在躲债吗？”。 因为没有手机，女主还要找男主、找娜娜她们借手机，没法付饭钱进而引出饭店老板多温暖。",
+      "platform": "bilibili",
+      "author_hash": "7863c8239e93456f21f04de6",
+      "language": "zh",
+      "score": 0.32218465,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_07552cc742400b627c47",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且里面的价值观太对了，阿奶攒了钱给[TARGET]比三那里，以为是三千，其实是三百，现在的人金钱观念太淡薄了。动不动几百万几千万的想",
+      "platform": "bilibili",
+      "author_hash": "672d6787a0fee775bab11542",
+      "language": "zh",
+      "score": 0.31539848,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.31539848,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_dd4eb10fe6d4b9f0f498",
+      "anonymous_id": "TARGET_D06",
+      "text": "做不到[TARGET]那样，是因为你为自己加了太多杠杆，买房、生孩和孩子教育是最主要的杠杆。天地不仁，以万物为刍狗。天地根本不会在意你给自己加的杠杆有多少，也不会在意你能不能抗住。",
+      "platform": "bilibili",
+      "author_hash": "101d4d95180ea678bda1d747",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0abbabea9cbe14444559",
+      "anonymous_id": "TARGET_D06",
+      "text": "伤心难过不需要资格，[TARGET]不需要理由",
+      "platform": "bilibili",
+      "author_hash": "68939126351dc3ce317783aa",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_7ae6407026bfa5e04458",
+      "anonymous_id": "TARGET_D06",
+      "text": "李现这个男主真的很失败 这种美景 真的很需要非常非常非常非常清新的那种。纯少年。不娘。但是不能太阳刚。李现以往都是走阳刚路线。突然走清新 会很奇怪。阳刚就是杀气。怎么可能还清新呢。龚俊我觉得比李现适合的多。需要奶油一点的男生啊。女强男弱是ok的。但两个a在一起 他俩就打架啊。输的一方就会显得窝囊。朱一龙也可以吧 白宇。李现算是初次演这种不霸气的男生吧。转型太硬。他一次也没演过失败的男人。或者是什么奶狗 年下 弱气 傻屌之类的角色。突然来演这个角色就觉得他个角色是窝囊",
+      "platform": "youtube",
+      "author_hash": "958ac1af011900d9c6f58864",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_597210f3a822fc62ca23",
+      "anonymous_id": "TARGET_D06",
+      "text": "感觉整个剧是平平淡淡的说一些深刻的思考，不是像那些所谓的正剧一样给你强硬的说一些深刻的道理，要求你一定要怎么样，这个剧就是平平淡淡的给出一些不同人的看法，引发人思考。引发思考比高高在上的强硬要求更尊重观众，更有好感，整体是深刻但不剧烈。生活哪里像一些所谓正剧一样情绪歇斯底里，情绪起伏大，平平淡淡才是主要的，哀而不伤，节奏把握好，让观众觉得不累，在放松的时候也能引发思考，对社会对自己，太喜欢了[tv_色][tv_色][tv_色]。那些所谓正剧才不是现实，老是刻意站在俯瞰的角度叙事，刻意摘取痛苦部分，感觉现实生活就是苦大仇深，完全没有看的兴趣。但有风就很温柔，所有人都在努力活得更好，生活是丰富的，不是只有好或者只有坏，而且叙事是客观平淡的，没有刻意的苦大仇深，整体哀而不伤，有很多积极的地方，支持支持[打call][打call][打call][打call]",
+      "platform": "bilibili",
+      "author_hash": "0acd41181816db4627d46172",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1fe0dd5c31857948719e",
+      "anonymous_id": "TARGET_D06",
+      "text": "同意，前部分讲得挺好，引起很多社畜共鸣，但什么第二集开始ok不ok那里不太赞同，什么节奏慢，其实我想正是因为生活让人喘不过气，所以才需要慢下来感受一些东西，喘口气。正是因为困在自己目前的生活，所以才需要遇见另一种生活，有比较，才发现问题。才可能去解决，我想这里并没有就表示全然不顾自己的责任，抛弃一切。",
+      "platform": "bilibili",
+      "author_hash": "75030a990eb58c4a6559b701",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_cc0255a527cee9a198e8",
+      "anonymous_id": "TARGET_D06",
+      "text": "你们以为自己是谁，人家走到哪里都有人投喂，不全是因为当地民风淳朴，最重要是因为她是刘亦菲，是国民神！仙！姐！姐！ 年轻人要学会抓住主要矛盾，那就是：我们不配！！🤣😂😅😇",
+      "platform": "youtube",
+      "author_hash": "ec5575ab97f47ca4a3e5fb5d",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_7a3ca7458112888d4193",
+      "anonymous_id": "TARGET_D06",
+      "text": "这剧看完解说，最好的一点是觉得人物说话不作，很轻松的剧情，这就很难得了",
+      "platform": "bilibili",
+      "author_hash": "75add861c1a8064595634dbb",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_3af16b52364c9763f243",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 谁没看啊。需要奶油因为她搭的刘亦菲是辞职来过生活。刘亦菲本来一种有钱人家的孩子的气质。还来辞职过生活。就是要享受生活的。创业？创业会和来躺的人搞一块吗？那他应该去演大山的女儿 和杨蓉那个角色就OK。就是要生意有一搭没一搭的做 与世无争好吗？杀气不行啊。他演了太多男a的角色。突然男o很窝囊",
+      "platform": "youtube",
+      "author_hash": "958ac1af011900d9c6f58864",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0cc996ed769860977a99",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且女主是带着自己的问题去旅居的，过程中这些问题又重新被一个个抛出来，被探讨，我真的很喜欢，因为我也同样面临这些问题，是躺平还是卷？是忘记还是铭记？未来到底想要什么生活？",
+      "platform": "bilibili",
+      "author_hash": "d18a28a3bd3d1ac0b9e8be95",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4269100c924e38792baf",
+      "anonymous_id": "TARGET_D06",
+      "text": "一句话，这部剧里都是正常思维正常人",
+      "platform": "bilibili",
+      "author_hash": "761a2c39bab0eee7034e7090",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_fa3d4f7a63e5f543a026",
+      "anonymous_id": "TARGET_D06",
+      "text": "世上怎么会有这么迷人的女人",
+      "platform": "bilibili",
+      "author_hash": "b96adcdce49df1855aa16564",
+      "language": "zh",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_cc0255a527cee9a198e8",
+      "anonymous_id": "TARGET_D06",
+      "text": "你们以为自己是谁，人家走到哪里都有人投喂，不全是因为当地民风淳朴，最重要是因为她是刘亦菲，是国民神！仙！姐！姐！ 年轻人要学会抓住主要矛盾，那就是：我们不配！！🤣😂😅😇",
+      "platform": "youtube",
+      "author_hash": "ec5575ab97f47ca4a3e5fb5d",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3b5ae53544615528d8d9",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @老李i了 :男主视角所谓的正义都被女主视角推翻了",
+      "platform": "bilibili",
+      "author_hash": "faefe1e0edd6805229df213b",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_71b350e3b2000793dbe8",
+      "anonymous_id": "TARGET_D06",
+      "text": "本来看一些影评还是觉得等更完了去倍数看看的 感觉这题材试合下饭 一些细节确实脱离现实 让人觉得里面的人都是架构出来的 对比现实一些跌宕起伏的经历来看[TARGET]去云南的“顺利” 再加上设计主题的复杂 相对比“有风的地方”这个主题下体现的各类现象的堆叠 但是 看剧吗 确实映射现实一部分的同事是反思现实 剧是剧又不是纪录片 哈哈哈提上日程（看天仙 ）",
+      "platform": "bilibili",
+      "author_hash": "b055f7a67cee40d97b1820ed",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b40f2892997fc9035ff6",
+      "anonymous_id": "TARGET_D06",
+      "text": "别的偶像剧，强行再偶遇，然后:是你。 这剧男女主又见面。男主解释，这地方小。肯定会经常碰到。",
+      "platform": "bilibili",
+      "author_hash": "1d1cbc651d30cc5d3c7533a3",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b8a862cd3fb759a21ad5",
+      "anonymous_id": "TARGET_D06",
+      "text": "最触动我的就是，云南美景好风光，有风小院人情真，传统技艺放光彩男女主清醒认真 ——如果我不能陪她去北京，我为什么要求人家为我留下来 ——这人在陌生的环境里，一放松，就会让人不小心走进来。",
+      "platform": "bilibili",
+      "author_hash": "5e748c7207356a4c3c3fa254",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_859c1ec9a0333fe9b74b",
+      "anonymous_id": "TARGET_D06",
+      "text": "女主小时候说长大想开小卖铺要给外婆养小鸡还有阿遥爷爷给他买包子都让给他一个人吃好多好多地方都好好哭，莫名其妙的就被触动到了，感觉触摸到了那个没有伪装和防备的自己",
+      "platform": "bilibili",
+      "author_hash": "43441fd9209e370badc57b90",
+      "language": "zh",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_8483b53b5a50c8e28506",
+      "anonymous_id": "TARGET_D06",
+      "text": "就是每次都会不经意间会哭，[TARGET]给家人寄鲜花饼。她父母吃我觉得没啥，结果她姐看到纸条后跟员工说这是她妹做的，当时一下就戳中点哭了。[委屈]",
+      "platform": "bilibili",
+      "author_hash": "f39224c20bf8a32ca555e343",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1e5c195fc095f9bce952",
+      "anonymous_id": "TARGET_D06",
+      "text": "剧里太多点都能戳到我，就说最新一集，[TARGET]说她姐一点睡，睡前要玩两小时手机，报复性娱乐。我之前在会计师事务所上班，电脑不离身，吃饭都有工作电话，只有半夜睡前的时候才是完全属于自己的时间，不玩两小时手机，我会觉得自己太惨了。[大哭]",
+      "platform": "bilibili",
+      "author_hash": "f1b55d83a92e99725b61584f",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_7efb84d0309028e520a4",
+      "anonymous_id": "TARGET_D06",
+      "text": "有一段戏是晚上男主送女主回客栈开了手电筒，瞬间激起了我对老家的回忆哈哈哈哈，经常玩到天黑也不肯回家，完了后一个人又害怕村里的夜路，总是要人来接，那一束手电筒的光特别美好。",
+      "platform": "bilibili",
+      "author_hash": "03e3b28f048e69248e85b3af",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6a041663f8c638a37826",
+      "anonymous_id": "TARGET_D06",
+      "text": "我感觉有闺蜜的人都很容易看进去，我就是因为闺蜜死了[TARGET]去旅行这段入坑的，真的太痛了感觉[笑哭][笑哭]",
+      "platform": "bilibili",
+      "author_hash": "e374cfe1d6765fbab1939cb2",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_97537417e9f818c3feab",
+      "anonymous_id": "TARGET_D06",
+      "text": "看这部剧的时候，总是会情不自禁的笑，不是大笑，就是嘴角疯狂上扬。太温馨了，总有一个人的故事或细节打动你，可能是人群里姐弟俩儿的相视一笑，可能是阳光下阿奶给[TARGET]扎头发，可能是灯光下短暂回乡的母亲边洗碗边落泪……因为在他们身上，有那么一瞬间，觉得那好像是我的故事，我的回忆，我的爱与乡愁。",
+      "platform": "bilibili",
+      "author_hash": "8776fd5feec92037ac99ba36",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6142f58575111898bf4c",
+      "anonymous_id": "TARGET_D06",
+      "text": "抱完又各自骂自己，太细腻了。我哇哇哭",
+      "platform": "bilibili",
+      "author_hash": "c1a30e6cb41dd5cb78d7ef03",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9fbbe39a5e61e42f0545",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @纠结的人儿请记得微笑 :其实我也注意到挺多细节啦，女主给闺蜜发了她发给家族群的男主视频，握手犹豫啊什么的。但是没思考，哈哈哈哈，根本不想思考",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0abbabea9cbe14444559",
+      "anonymous_id": "TARGET_D06",
+      "text": "伤心难过不需要资格，[TARGET]不需要理由",
+      "platform": "bilibili",
+      "author_hash": "68939126351dc3ce317783aa",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_e18fa0e34af06b04321c",
+      "anonymous_id": "TARGET_D06",
+      "text": "刘亦菲演得真的满满都是细节 情绪层次 灵动又美好 像风一样淡淡的，让我跟着她哭，跟着她笑。",
+      "platform": "bilibili",
+      "author_hash": "a7397a1e892e145a484091e3",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a49b18804493179daad",
+      "anonymous_id": "TARGET_D06",
+      "text": "深科理解她说的一句话，优雅就是不装",
+      "platform": "bilibili",
+      "author_hash": "79b1315d28d611c354614d80",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c887650c1cc9b908a992",
+      "anonymous_id": "TARGET_D06",
+      "text": "喜欢戏里戏外的人，真实、不作、李刘结婚吧",
+      "platform": "youtube",
+      "author_hash": "aa808e3a94c54e1d5e95156a",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9cb2f8afa017610b6586",
+      "anonymous_id": "TARGET_D06",
+      "text": "编剧真的不按套路出牌，吃烧烤那里，我以为[TARGET]会说，几年后我老了，没有那么美了，那人家还会喜欢我吗？结果她说的是，我美貌还在，而对方条件不行了。我真的一声炸笑，禁止自我否定，禁止给自己制造焦虑！[TARGET]给自己松绑，当然这也很刘亦菲，实在是太美辽！",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_c2621ff823064a1bf0c5",
+      "anonymous_id": "TARGET_D06",
+      "text": "从内散发而出的温柔洒脱气质，皮囊终会老去，优雅永不过时",
+      "platform": "bilibili",
+      "author_hash": "4e6fa079c83b79a47b8f98f4",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_06c0edb0d76e3924abc0",
+      "anonymous_id": "TARGET_D06",
+      "text": "up很真实，跟我的感受也是一样的。我作为刘亦菲的粉丝，其实这部剧不算我的菜，第一集往后的剧情对我来说太平淡，但是第一集的社畜生活，我真的百看不厌，经常回顾，拍的特别真实有共鸣。",
+      "platform": "bilibili",
+      "author_hash": "b971f8f01014a81771338ed9",
+      "language": "zh",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_97537417e9f818c3feab",
+      "anonymous_id": "TARGET_D06",
+      "text": "看这部剧的时候，总是会情不自禁的笑，不是大笑，就是嘴角疯狂上扬。太温馨了，总有一个人的故事或细节打动你，可能是人群里姐弟俩儿的相视一笑，可能是阳光下阿奶给[TARGET]扎头发，可能是灯光下短暂回乡的母亲边洗碗边落泪……因为在他们身上，有那么一瞬间，觉得那好像是我的故事，我的回忆，我的爱与乡愁。",
+      "platform": "bilibili",
+      "author_hash": "8776fd5feec92037ac99ba36",
+      "language": "zh",
+      "score": 0.36441556,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d6b263ba25c0017d0434",
+      "anonymous_id": "TARGET_D06",
+      "text": "平淡但是上头～就像他们直播的时候刘亦菲说的，一些深刻在平淡中体现，每一个角色的刻画都非常立体！大家都特别好。感兴趣的话可以试着看看！会越来越上头哈哈",
+      "platform": "bilibili",
+      "author_hash": "ab0ce8c10114fe7265899eae",
+      "language": "zh",
+      "score": 0.36441556,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_71b350e3b2000793dbe8",
+      "anonymous_id": "TARGET_D06",
+      "text": "本来看一些影评还是觉得等更完了去倍数看看的 感觉这题材试合下饭 一些细节确实脱离现实 让人觉得里面的人都是架构出来的 对比现实一些跌宕起伏的经历来看[TARGET]去云南的“顺利” 再加上设计主题的复杂 相对比“有风的地方”这个主题下体现的各类现象的堆叠 但是 看剧吗 确实映射现实一部分的同事是反思现实 剧是剧又不是纪录片 哈哈哈提上日程（看天仙 ）",
+      "platform": "bilibili",
+      "author_hash": "b055f7a67cee40d97b1820ed",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_910fe4be3906e2b7050e",
+      "anonymous_id": "TARGET_D06",
+      "text": "有点儿能代入自己，上班上伤了，大厂有时候十一点才回家，晚饭都吃不上，辞职出去玩了一大圈东南亚一圈，欧洲一圈也走了一趟，几个月把上班这几年的压力都疏解了，碰上疫情歇了三年，放开了，2023重新出发吧~~已经调整好了[打call][打call]",
+      "platform": "bilibili",
+      "author_hash": "6a7dbb852963186e87fcec0f",
+      "language": "zh",
+      "score": 0.7783799,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3305eb64a4b9bef44758",
+      "anonymous_id": "TARGET_D06",
+      "text": "她去旅游以后，那个精气神一下就恢复了😂好真实，只要不工作，马上状态达到最佳",
+      "platform": "bilibili",
+      "author_hash": "d3138a5b25111d8dc165d390",
+      "language": "zh",
+      "score": 0.7531763,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_a4c6ac469c24521a364b",
+      "anonymous_id": "TARGET_D06",
+      "text": "有时候哭并不定要撕心裂肺眼泪哗啦啦一堆，成人的世界，表面装坚强，哭也只会尽量隐忍，可是刘亦菲演的[TARGET]让我跟一起哭了[大哭][大哭][TARGET]肯定抑郁了，所以她觉得她得调整自己，再次热爱生活，最新一集小马出生那里绝了！第一次觉得小动物的出生这么治愈有力量[大哭][大哭]",
+      "platform": "bilibili",
+      "author_hash": "9278ed0b6413cf09e8cefe44",
+      "language": "zh",
+      "score": 0.66332006,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ecefd2ecdc88c30677ba",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得她心态转变就很合理，最开始想着升职，然后发现自己再累也赚不够买房的钱，然后好友去世让她意识到自己曾经为了根本不能实现的买房梦错过了太多，但是生活只能继续，后来她自己也晕倒了，这时候她意识到在这边机械性的工作不仅没有价值甚至也依旧无法在北京留下，然后她就带着好友的梦想跑去散心。留在北京工作她也攒不够钱，但是不在北京工作她还能干什么？于是这三个月应该是给她找寻自己接下来活着的意义的时间。",
+      "platform": "bilibili",
+      "author_hash": "6ab828e33344b03abc64fad0",
+      "language": "zh",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_04e8349d09271f5a674f",
+      "anonymous_id": "TARGET_D06",
+      "text": "这部剧我追到11集了 是我搬砖回家之后就想点开疗愈一番的佳作 节奏平缓 但确实演出了普通人的现状 偶尔焦虑偶尔找不到方向 但还好有朋友 积攒起勇气总能再出发[给心心][给心心][给心心][给心心][给心心]",
+      "platform": "bilibili",
+      "author_hash": "b2bd6c6a07f14d485626ad88",
+      "language": "zh",
+      "score": 0.61286587,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0a805d83cc86bfd6874f",
+      "anonymous_id": "TARGET_D06",
+      "text": "该说不说，这剧治好了我的失眠， 不是黑这剧哈～去年辞职考研，却在考研第一天阳了，上吐下泻，政治甚至没写完，第二天发高烧下午专业课写了一半睡过去了，考完试我就是一个半死不活的状态，阳康了就开始失眠焦虑，然后随手点开这部剧，看着看着居然睡着了[喜极而泣] 不管怎么说，这剧看着挺放松的，推荐给焦虑失眠的人看。看完几集我的想法居然是赶紧找工作存钱，然后出去旅游[喜极而泣] 弱弱的说，毕竟没积蓄没女主的底气",
+      "platform": "bilibili",
+      "author_hash": "a0922153c54ee6c4f035eb55",
+      "language": "zh",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f4666add3b88ced60b43",
+      "anonymous_id": "TARGET_D06",
+      "text": "真的很喜欢这部剧，最近心情都很焦虑，但是看了这部剧后瞬间就被治愈了，好像自己就跟着[TARGET]在云南旅游一样，身心都好舒服[星星眼][星星眼][星星眼]",
+      "platform": "bilibili",
+      "author_hash": "13d7f4cf9520f29fc6a58536",
+      "language": "zh",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_406c93d3169582f62b64",
+      "anonymous_id": "TARGET_D06",
+      "text": "这部剧制作真的很用心，每一个剧情设计都是经得起推敲的。比如女主寄快递回家，女主妈妈拿酒精喷雾给快递消毒，我看到这里真的蚌埠住了，太真实了[笑哭]整部剧真的很生活化，很治愈。另外这部剧也不是纯粹给观众灌心灵鸡汤，反而还有很多“反鸡汤”的剧情，当年轻人们把人生想的太简单，以为成功触手可及时，或者希望通过停滞来寻求解脱时，老一辈的人会以过来人的身份“泼凉水”，会告诉你要脚踏实地走好每一步，会告诉你人生并不是一帆风顺，会提醒你要务实，只有靠自己的双手去奋斗才能换来幸福。剧中没有生硬的说教，但处处都蕴含人生哲理，除了给观众带来放松和治愈，也会带给我们很多思考。旅行不是逃避，而是要找到重新出发的力量啊[打call]",
+      "platform": "bilibili",
+      "author_hash": "9400dfbbcb782d464b11c36a",
+      "language": "zh",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1e5c195fc095f9bce952",
+      "anonymous_id": "TARGET_D06",
+      "text": "剧里太多点都能戳到我，就说最新一集，[TARGET]说她姐一点睡，睡前要玩两小时手机，报复性娱乐。我之前在会计师事务所上班，电脑不离身，吃饭都有工作电话，只有半夜睡前的时候才是完全属于自己的时间，不玩两小时手机，我会觉得自己太惨了。[大哭]",
+      "platform": "bilibili",
+      "author_hash": "f1b55d83a92e99725b61584f",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_22a3a1dad35cbebabf6a",
+      "anonymous_id": "TARGET_D06",
+      "text": "刘亦菲的[TARGET]演的太棒啦，治愈了我疫情以来焦躁不安的心。[委屈][委屈][委屈]",
+      "platform": "bilibili",
+      "author_hash": "be09582e427c83c0054fb13d",
+      "language": "zh",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f50f569a25407bc8d895",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @孟令织 :但是王语嫣，小龙女，赵灵儿三个角色明显不一样啊，你肯定能区分啊，就算是最近有争议的赵盼儿，那也和[TARGET]很不一样啊",
+      "platform": "bilibili",
+      "author_hash": "832ff9950d03116685a4acee",
+      "language": "zh",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.29227197,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f985b2589113ca46c050",
+      "anonymous_id": "TARGET_D06",
+      "text": "人家郎才女貌轮得着你反对",
+      "platform": "bilibili",
+      "author_hash": "af6d1c3be277201838849be0",
+      "language": "zh",
+      "score": 0.28585014,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_832f9caf7f433f2c96cb",
+      "anonymous_id": "TARGET_D06",
+      "text": "很正常，因为女主是个陌生人来到云南有风小院，她是最后加入的，这些人都互相熟悉，女主视角起码得她融入这个环境后才能体现吧",
+      "platform": "bilibili",
+      "author_hash": "7b5afbcd7692f65a24d92510",
+      "language": "zh",
+      "score": 0.2640546,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_cc0255a527cee9a198e8",
+      "anonymous_id": "TARGET_D06",
+      "text": "你们以为自己是谁，人家走到哪里都有人投喂，不全是因为当地民风淳朴，最重要是因为她是刘亦菲，是国民神！仙！姐！姐！ 年轻人要学会抓住主要矛盾，那就是：我们不配！！🤣😂😅😇",
+      "platform": "youtube",
+      "author_hash": "ec5575ab97f47ca4a3e5fb5d",
+      "language": "zh",
+      "score": 0.2491548,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d44f9eb8e93c2f42839c",
+      "anonymous_id": "TARGET_D06",
+      "text": "越漂亮反倒没事，就怕我这长的普普通通的，放人堆里都不起眼。不过回过头想想，第一天就在别人家吃饭，确实挺胆大的。但是毕竟要住三个月嘛，女主又挺有脑子的，是主动找到男主家的，可能夹杂了各方面的判断，可能对男主的不动产和人品的初步判断[doge]",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.24335459,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a49b18804493179daad",
+      "anonymous_id": "TARGET_D06",
+      "text": "深科理解她说的一句话，优雅就是不装",
+      "platform": "bilibili",
+      "author_hash": "79b1315d28d611c354614d80",
+      "language": "zh",
+      "score": 0.24048907,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3a39ea80343469b07045",
+      "anonymous_id": "TARGET_D06",
+      "text": "哈哈哈哈哈哈哈哈哈哈你要笑死我，但是，肤色差，谁懂[滑稽][滑稽][滑稽]",
+      "platform": "bilibili",
+      "author_hash": "56c9b782466276d17cba27bc",
+      "language": "zh",
+      "score": 0.24048907,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b40f2892997fc9035ff6",
+      "anonymous_id": "TARGET_D06",
+      "text": "别的偶像剧，强行再偶遇，然后:是你。 这剧男女主又见面。男主解释，这地方小。肯定会经常碰到。",
+      "platform": "bilibili",
+      "author_hash": "1d1cbc651d30cc5d3c7533a3",
+      "language": "zh",
+      "score": 0.24048907,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.66506255,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0d00817d1d7cfe24c86f",
+      "anonymous_id": "TARGET_D06",
+      "text": "她都叫我宝子了，我拒绝不了了啊",
+      "platform": "bilibili",
+      "author_hash": "fbffacab1e64b1e9c8b592d5",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_a0366aa18a5d0540ff1b",
+      "anonymous_id": "TARGET_D06",
+      "text": "39:00 姊對不起 +擁抱 看哭了我😢",
+      "platform": "youtube",
+      "author_hash": "8c7057e1a571d54d59a6eece",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b87b584a138abdee1048",
+      "anonymous_id": "TARGET_D06",
+      "text": "这个剧有一种很让人舒服的活人感，没有那种很刻意很狗血很套路的台词，每个人的行为互动和语言都是那种生活中真正会下意识做到的，让人感觉很亲切很生活。",
+      "platform": "bilibili",
+      "author_hash": "a4341028af65ccda88e26de8",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_231e4df7d20576d4c538",
+      "anonymous_id": "TARGET_D06",
+      "text": "其实现实生活里说‘是你’，还挺没礼貌的[笑哭]不会好好说话吗",
+      "platform": "bilibili",
+      "author_hash": "c97d3c30a4bbbf3f7d727851",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6768960bc645e9813c5e",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @需消耗6硬币 :看到你一提我才发现，开头她找理由拒绝同事说要回家遛狗，原来遛的是电子狗啊[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "92b8eec19819116f984fcf45",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9fbbe39a5e61e42f0545",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @纠结的人儿请记得微笑 :其实我也注意到挺多细节啦，女主给闺蜜发了她发给家族群的男主视频，握手犹豫啊什么的。但是没思考，哈哈哈哈，根本不想思考",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f985b2589113ca46c050",
+      "anonymous_id": "TARGET_D06",
+      "text": "人家郎才女貌轮得着你反对",
+      "platform": "bilibili",
+      "author_hash": "af6d1c3be277201838849be0",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_c3303010da1b2d93041b",
+      "anonymous_id": "TARGET_D06",
+      "text": "这部剧最让我难忘的是男主说为什么[TARGET]要为了我留下来，不能我陪她去北京，难道女性就应为爱情付出一切，而男人只需要说一句口头的承诺",
+      "platform": "bilibili",
+      "author_hash": "a1644513727df0644de33e4f",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d783437e78f426e490f8",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 [USER]无情的搬运机器 :我觉得恋爱最吸引人的就是互相拉扯的时候[doge]",
+      "platform": "bilibili",
+      "author_hash": "923cd7b97729957ad18d1bd1",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_199c8be303117636181c",
+      "anonymous_id": "TARGET_D06",
+      "text": "把持？我为什么要把持，我直接上了啊[喜欢]",
+      "platform": "bilibili",
+      "author_hash": "be80e8a0b9e980e43d2a8ed3",
+      "language": "zh",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4424a107e956f41b5b5f",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的，前厅经理特别累，真的真的啥都要管，虽然工资高，但不是那么容易",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f985b2589113ca46c050",
+      "anonymous_id": "TARGET_D06",
+      "text": "人家郎才女貌轮得着你反对",
+      "platform": "bilibili",
+      "author_hash": "af6d1c3be277201838849be0",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4839d527b66a53577c6a",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且没有降智的人！！大家都是鲜活独立的，不是为了让男女主搞对象的工具",
+      "platform": "bilibili",
+      "author_hash": "b86bd3540bc02b2c377627ba",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_f978e6e463087c15c8dc",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 [USER]睿阿 :感觉他对女主有好感，但是女主还没有感觉，他俩的对手戏不多，而且也没有双向发展感情",
+      "platform": "bilibili",
+      "author_hash": "e2abe42510d67bd8628debb0",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_832f9caf7f433f2c96cb",
+      "anonymous_id": "TARGET_D06",
+      "text": "很正常，因为女主是个陌生人来到云南有风小院，她是最后加入的，这些人都互相熟悉，女主视角起码得她融入这个环境后才能体现吧",
+      "platform": "bilibili",
+      "author_hash": "7b5afbcd7692f65a24d92510",
+      "language": "zh",
+      "score": 0.3429895,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_a2cbb6d427823933f4fc",
+      "anonymous_id": "TARGET_D06",
+      "text": "越来越好看，越来越上头，感情线也很自然[脱单doge]",
+      "platform": "bilibili",
+      "author_hash": "9aee36045629cdf14b5dcc3d",
+      "language": "zh",
+      "score": 0.33598232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6d49bea1be737f44585d",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @你像镜子一样哦 :说到感情线，我特别希望[TARGET]和遥哥的感情就是那种顺其自然的发展，别又整个什么前男友，前女友出来搅局，然后又是各种误会，然后解除误会，最后在一起这种的，这些套路都看烦了。",
+      "platform": "bilibili",
+      "author_hash": "0cda2e35fd32bd6d867334df",
+      "language": "zh",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ecefd2ecdc88c30677ba",
+      "anonymous_id": "TARGET_D06",
+      "text": "我觉得她心态转变就很合理，最开始想着升职，然后发现自己再累也赚不够买房的钱，然后好友去世让她意识到自己曾经为了根本不能实现的买房梦错过了太多，但是生活只能继续，后来她自己也晕倒了，这时候她意识到在这边机械性的工作不仅没有价值甚至也依旧无法在北京留下，然后她就带着好友的梦想跑去散心。留在北京工作她也攒不够钱，但是不在北京工作她还能干什么？于是这三个月应该是给她找寻自己接下来活着的意义的时间。",
+      "platform": "bilibili",
+      "author_hash": "6ab828e33344b03abc64fad0",
+      "language": "zh",
+      "score": 0.7688026,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.7428696,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_859c1ec9a0333fe9b74b",
+      "anonymous_id": "TARGET_D06",
+      "text": "女主小时候说长大想开小卖铺要给外婆养小鸡还有阿遥爷爷给他买包子都让给他一个人吃好多好多地方都好好哭，莫名其妙的就被触动到了，感觉触摸到了那个没有伪装和防备的自己",
+      "platform": "bilibili",
+      "author_hash": "43441fd9209e370badc57b90",
+      "language": "zh",
+      "score": 0.69562757,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_71b350e3b2000793dbe8",
+      "anonymous_id": "TARGET_D06",
+      "text": "本来看一些影评还是觉得等更完了去倍数看看的 感觉这题材试合下饭 一些细节确实脱离现实 让人觉得里面的人都是架构出来的 对比现实一些跌宕起伏的经历来看[TARGET]去云南的“顺利” 再加上设计主题的复杂 相对比“有风的地方”这个主题下体现的各类现象的堆叠 但是 看剧吗 确实映射现实一部分的同事是反思现实 剧是剧又不是纪录片 哈哈哈提上日程（看天仙 ）",
+      "platform": "bilibili",
+      "author_hash": "b055f7a67cee40d97b1820ed",
+      "language": "zh",
+      "score": 0.658066,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_a07c2ecc064fbdb4abff",
+      "anonymous_id": "TARGET_D06",
+      "text": "“我以前想放下，现在不想放下”这句话太戳我了，让我从另一角度看待苦难悲痛，也许那也是段珍贵的回忆",
+      "platform": "bilibili",
+      "author_hash": "672d6787a0fee775bab11542",
+      "language": "zh",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3c8405c4e75a0b69e93e",
+      "anonymous_id": "TARGET_D06",
+      "text": "文案满分，如果你要问我[TARGET]讲了一个什么故事，我大概一时半会说不出来抑或是只能照着故事简介给你读一遍，有风的故事很碎很细却很真实，我跟着[TARGET]的视角云游了一番，内心得到了满足，我仿佛并不是在远在千里之外的地方隔着屏幕追剧，而是身处云南大理给自己放了个长假，yq三年，我早已失去了说走就走的勇气，和闺蜜约定好的旅游计划也被迫搁浅了，我想，看了这部剧，我好像重拾了出发的勇气。",
+      "platform": "bilibili",
+      "author_hash": "8cfec164075341f0c54ba6ff",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_5543c58c9f2e19769003",
+      "anonymous_id": "TARGET_D06",
+      "text": "太真实了，这编剧是懂生活的。跟我当时拉着提溜着托运条的箱子在铺满石头的小巷子里找我订的民宿的时候一模一样啊",
+      "platform": "bilibili",
+      "author_hash": "0a791076acbb0d18ee77d70b",
+      "language": "zh",
+      "score": 0.62209207,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_729549239822639efda4",
+      "anonymous_id": "TARGET_D06",
+      "text": "我更喜欢刘亦菲这种体验派的演员，好容易带动观众，下意识的把她当成[TARGET]看，这就是我很喜欢她演戏的方式，细细品味真的很耐看，很多小动作微表情都是符合人物特点",
+      "platform": "bilibili",
+      "author_hash": "a7397a1e892e145a484091e3",
+      "language": "zh",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0cc996ed769860977a99",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且女主是带着自己的问题去旅居的，过程中这些问题又重新被一个个抛出来，被探讨，我真的很喜欢，因为我也同样面临这些问题，是躺平还是卷？是忘记还是铭记？未来到底想要什么生活？",
+      "platform": "bilibili",
+      "author_hash": "d18a28a3bd3d1ac0b9e8be95",
+      "language": "zh",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_406c93d3169582f62b64",
+      "anonymous_id": "TARGET_D06",
+      "text": "这部剧制作真的很用心，每一个剧情设计都是经得起推敲的。比如女主寄快递回家，女主妈妈拿酒精喷雾给快递消毒，我看到这里真的蚌埠住了，太真实了[笑哭]整部剧真的很生活化，很治愈。另外这部剧也不是纯粹给观众灌心灵鸡汤，反而还有很多“反鸡汤”的剧情，当年轻人们把人生想的太简单，以为成功触手可及时，或者希望通过停滞来寻求解脱时，老一辈的人会以过来人的身份“泼凉水”，会告诉你要脚踏实地走好每一步，会告诉你人生并不是一帆风顺，会提醒你要务实，只有靠自己的双手去奋斗才能换来幸福。剧中没有生硬的说教，但处处都蕴含人生哲理，除了给观众带来放松和治愈，也会带给我们很多思考。旅行不是逃避，而是要找到重新出发的力量啊[打call]",
+      "platform": "bilibili",
+      "author_hash": "9400dfbbcb782d464b11c36a",
+      "language": "zh",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.7166947,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a9a852e7dd6835c3670",
+      "anonymous_id": "TARGET_D06",
+      "text": "超级喜欢里面的谢之遥，教育环境不好就考到北京、读研、就业，有了一定的积蓄就回家建设乡村。一开始没人支持，但能凭着自己的专业和乐观，把村子建设起来，村子上上下下都能打点得很好，还能照顾老老少少，办事妥帖，照顾每个人的情绪，尊重每个人的选择（知道弟弟在原来的学校出丑了不愿意回去读书，就给他联系新的学校。弟弟想去打工，他就安眼线保证安全，但不干涉他的选择；小辈被骗钱，他默默兜着；又用行动感化木雕师父）。对豆姐也没有见色起意（虽然肯定喜欢她的外貌），而是慢慢了解、默默支持。真的很喜欢这个又有责任感又无微不至又幽默乐观的角色！[保卫萝卜_哇][保卫萝卜_哇]",
+      "platform": "bilibili",
+      "author_hash": "a866078facf45b5926d580be",
+      "language": "zh",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9cb2f8afa017610b6586",
+      "anonymous_id": "TARGET_D06",
+      "text": "编剧真的不按套路出牌，吃烧烤那里，我以为[TARGET]会说，几年后我老了，没有那么美了，那人家还会喜欢我吗？结果她说的是，我美貌还在，而对方条件不行了。我真的一声炸笑，禁止自我否定，禁止给自己制造焦虑！[TARGET]给自己松绑，当然这也很刘亦菲，实在是太美辽！",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_62dde674185116ef977b",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @喵于之罘 :尤其是[TARGET]那句，过几年我还是大美女，那人家条件还好吗？ 焦虑这种事，千万不要不要不要。 可是这还有人在网上喷呢，说刘亦菲过于自信啥的。",
+      "platform": "bilibili",
+      "author_hash": "7359f3c517fbb4cdf63d7450",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1a49b18804493179daad",
+      "anonymous_id": "TARGET_D06",
+      "text": "深科理解她说的一句话，优雅就是不装",
+      "platform": "bilibili",
+      "author_hash": "79b1315d28d611c354614d80",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_5c552e49603e3df7ddaa",
+      "anonymous_id": "TARGET_D06",
+      "text": "她好漂亮，造型和取景都挺不错",
+      "platform": "bilibili",
+      "author_hash": "859f3944fa67c43aef2e801e",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_25fdfa5c2b3e43712509",
+      "anonymous_id": "TARGET_D06",
+      "text": "女主除了美貌，其他地方跟我很像，我经常一个人出国，到了中国吃饭手机故障店老板也不收钱😅还有个性也超级像我所以我越看越难过",
+      "platform": "youtube",
+      "author_hash": "0fad26e7687106a374f14fc5",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_2cd176521b5caec6abba",
+      "anonymous_id": "TARGET_D06",
+      "text": "陈南星：[TARGET]你别老仗着自己好看就什么都不在乎[微笑]",
+      "platform": "bilibili",
+      "author_hash": "64c68a6934527447d9b2e132",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:youtube_c684a195abdf2a0a2f65",
+      "anonymous_id": "TARGET_D06",
+      "text": "[USER] 同意。我也覺得李現在這部劇裡演繹的腳色「謝之遙」並非奶油小生的劇情。 謝之遙的人物故事和性格，他小時候是村裡的留守兒童，由阿爺阿奶養大。 研究所畢業後在北京的金融業工作，也取得了一些成就。 謝之遙是個重感情的人，也對阿爺阿奶很孝順。對親情的珍惜、對家鄉的感恩，讓他想回到鄉村，回饋鄰里。 謝之遙在雲苗村的工作包括電商、民宿還有馬場，從劇情上看，人物性格溫柔、陽光，很積極、有毅力，而且腳踏實地做事，不會只說空話。 謝之遙不是失敗的人，也不是奶狗、年下、弱氣，甚至不是像流水一樣沒有深度的「小清新」。 相反的，他是有煙火氣、孝順、熱情、友善，樂善好施的人。 這些故事加在一起，我覺得李現的演繹並不差。 而且電視劇的人物並不是只有AO之分，人也不是。那只是小說同人文裡粗略的分類。 一個細緻、有厚度的角色塑造，絕對不僅僅是AO可以一言以蔽之。 AO、霸氣、狼狗、奶狗，淺顯易懂的標簽，有這些內容的網文都是什麼沒有深度，只有感官享受的垃圾。 使得像montane 這樣的網友，喪失了深度探討文本的能力。 另外，劉亦菲在這部劇裡演繹的「許紅豆」，辭職去雲南，不僅僅是享受生活，更像是療傷。 因為閨蜜去世，許紅豆不只是要離開傷心的北京、幫閨蜜去看看世界，她也在尋找生命的重心。 許紅豆在劇中有提到，畢業之後忙於工作，暮然回首，才發現自己並不想要這些。 放在社會學（Sociology）中，這就叫「社會學的想像」(sociological imagination)，許紅豆理解了：她的個人煩惱（personal problem）「買車買房」的價值觀，其實並不是她想要的；只是和她一樣的青年們、整個社會都在追逐這個目標。 有了這個體悟，她打破複製這個社會架構（social structure）的循環，去雲南體驗生活。 在雲南，許紅豆遇見了同樣打破「買車買房住一線城市、結婚生子、階級複製」等等諸多主流思維的謝之遙，還有對建設鄉村懷抱熱情的村官黃欣欣。 在他們身上，許紅豆看見了「為理想奮鬥的熱情」還有其他各式各樣的人。 例如在聽爸媽的話當老師（選擇保守安穩的道路）還是堅持當冷門作家（選擇理想）之間掙扎的大麥。 還有經歷公司破產，從雲端跌入泥田中，重新挑戰創業的馬爺。 許紅豆看到了其他人的故事，由此一點一點的，找回屬於她自己的生命力量。 生活不僅僅是享受，還有勞動所帶來的成就感。",
+      "platform": "youtube",
+      "author_hash": "d3ef9f7e8cea59c73bc0e471",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0cc996ed769860977a99",
+      "anonymous_id": "TARGET_D06",
+      "text": "而且女主是带着自己的问题去旅居的，过程中这些问题又重新被一个个抛出来，被探讨，我真的很喜欢，因为我也同样面临这些问题，是躺平还是卷？是忘记还是铭记？未来到底想要什么生活？",
+      "platform": "bilibili",
+      "author_hash": "d18a28a3bd3d1ac0b9e8be95",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1fe0dd5c31857948719e",
+      "anonymous_id": "TARGET_D06",
+      "text": "同意，前部分讲得挺好，引起很多社畜共鸣，但什么第二集开始ok不ok那里不太赞同，什么节奏慢，其实我想正是因为生活让人喘不过气，所以才需要慢下来感受一些东西，喘口气。正是因为困在自己目前的生活，所以才需要遇见另一种生活，有比较，才发现问题。才可能去解决，我想这里并没有就表示全然不顾自己的责任，抛弃一切。",
+      "platform": "bilibili",
+      "author_hash": "75030a990eb58c4a6559b701",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_71b350e3b2000793dbe8",
+      "anonymous_id": "TARGET_D06",
+      "text": "本来看一些影评还是觉得等更完了去倍数看看的 感觉这题材试合下饭 一些细节确实脱离现实 让人觉得里面的人都是架构出来的 对比现实一些跌宕起伏的经历来看[TARGET]去云南的“顺利” 再加上设计主题的复杂 相对比“有风的地方”这个主题下体现的各类现象的堆叠 但是 看剧吗 确实映射现实一部分的同事是反思现实 剧是剧又不是纪录片 哈哈哈提上日程（看天仙 ）",
+      "platform": "bilibili",
+      "author_hash": "b055f7a67cee40d97b1820ed",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9cdf638ed1f199c22a56",
+      "anonymous_id": "TARGET_D06",
+      "text": "我才知道诶，你看得好细，我太专注[TARGET]美貌了，我有罪[大哭]",
+      "platform": "bilibili",
+      "author_hash": "d1f18cd7668438b08b0df341",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9b43a68e24b28084fabb",
+      "anonymous_id": "TARGET_D06",
+      "text": "有的人总说，喜欢又不能当饭吃，爱又不能当饭吃，既然觉得不合适，一开始为什么要走进来呢，糊涂了之后又觉得该清醒了，这何尝又不是耍流氓呢，虽然耍流氓没有罪，你喜欢就好咯，又有什么所谓呢",
+      "platform": "bilibili",
+      "author_hash": "b3f08759faf1dc1be9d129f2",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3b5ae53544615528d8d9",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @老李i了 :男主视角所谓的正义都被女主视角推翻了",
+      "platform": "bilibili",
+      "author_hash": "faefe1e0edd6805229df213b",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_cc0255a527cee9a198e8",
+      "anonymous_id": "TARGET_D06",
+      "text": "你们以为自己是谁，人家走到哪里都有人投喂，不全是因为当地民风淳朴，最重要是因为她是刘亦菲，是国民神！仙！姐！姐！ 年轻人要学会抓住主要矛盾，那就是：我们不配！！🤣😂😅😇",
+      "platform": "youtube",
+      "author_hash": "ec5575ab97f47ca4a3e5fb5d",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_62dde674185116ef977b",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @喵于之罘 :尤其是[TARGET]那句，过几年我还是大美女，那人家条件还好吗？ 焦虑这种事，千万不要不要不要。 可是这还有人在网上喷呢，说刘亦菲过于自信啥的。",
+      "platform": "bilibili",
+      "author_hash": "7359f3c517fbb4cdf63d7450",
+      "language": "zh",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6142f58575111898bf4c",
+      "anonymous_id": "TARGET_D06",
+      "text": "抱完又各自骂自己，太细腻了。我哇哇哭",
+      "platform": "bilibili",
+      "author_hash": "c1a30e6cb41dd5cb78d7ef03",
+      "language": "zh",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_1721b081331bc292391e",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @滚滚王 :[TARGET]接客户电话挨骂，后面还说因为房间进蚊子被客户裸着骂一个小时就超级现实了。 我表姐说，小问题不会有人找她，找她的全是解决不了的大问题，她们就是挨骂去的。 还有，他们看[TARGET]套被罩的方式就看得出来很专业了，我姐说她们抢房的时候，甭管什么职务，全都得去套被罩",
+      "platform": "bilibili",
+      "author_hash": "3f952aa47344b2de2191f463",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_c70332708330075ec797",
+      "anonymous_id": "TARGET_D06",
+      "text": "有个富婆亲姐真的毫无压力了",
+      "platform": "bilibili",
+      "author_hash": "a1190c4a771d28f15d507476",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_8483b53b5a50c8e28506",
+      "anonymous_id": "TARGET_D06",
+      "text": "就是每次都会不经意间会哭，[TARGET]给家人寄鲜花饼。她父母吃我觉得没啥，结果她姐看到纸条后跟员工说这是她妹做的，当时一下就戳中点哭了。[委屈]",
+      "platform": "bilibili",
+      "author_hash": "f39224c20bf8a32ca555e343",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_8a4eb97095867ec90dcf",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @萧诗婷 :[TARGET]说他有多坚强，我的眼泪刷就掉下来了[大哭]",
+      "platform": "bilibili",
+      "author_hash": "f7ad75d2a7d78ac3ca5729f5",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6142f58575111898bf4c",
+      "anonymous_id": "TARGET_D06",
+      "text": "抱完又各自骂自己，太细腻了。我哇哇哭",
+      "platform": "bilibili",
+      "author_hash": "c1a30e6cb41dd5cb78d7ef03",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_910fe4be3906e2b7050e",
+      "anonymous_id": "TARGET_D06",
+      "text": "有点儿能代入自己，上班上伤了，大厂有时候十一点才回家，晚饭都吃不上，辞职出去玩了一大圈东南亚一圈，欧洲一圈也走了一趟，几个月把上班这几年的压力都疏解了，碰上疫情歇了三年，放开了，2023重新出发吧~~已经调整好了[打call][打call]",
+      "platform": "bilibili",
+      "author_hash": "6a7dbb852963186e87fcec0f",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_6410a07a8189df0266f3",
+      "anonymous_id": "TARGET_D06",
+      "text": "啊啊啊啊啊啊[TARGET]真的在演我本人，我也想辞职[大哭][大哭][大哭]",
+      "platform": "bilibili",
+      "author_hash": "2cfd12b8b994e741e53f56b5",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_a4c6ac469c24521a364b",
+      "anonymous_id": "TARGET_D06",
+      "text": "有时候哭并不定要撕心裂肺眼泪哗啦啦一堆，成人的世界，表面装坚强，哭也只会尽量隐忍，可是刘亦菲演的[TARGET]让我跟一起哭了[大哭][大哭][TARGET]肯定抑郁了，所以她觉得她得调整自己，再次热爱生活，最新一集小马出生那里绝了！第一次觉得小动物的出生这么治愈有力量[大哭][大哭]",
+      "platform": "bilibili",
+      "author_hash": "9278ed0b6413cf09e8cefe44",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_83b30b7970b72405c4a4",
+      "anonymous_id": "TARGET_D06",
+      "text": "有人会因为见不了面甩了刘亦菲，听着老离谱了，但换个角度想想，刘亦菲是你女朋友，你天天见不到，你受得了？！",
+      "platform": "bilibili",
+      "author_hash": "504c514e79eabbe0b1584ed5",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_62dde674185116ef977b",
+      "anonymous_id": "TARGET_D06",
+      "text": "回复 @喵于之罘 :尤其是[TARGET]那句，过几年我还是大美女，那人家条件还好吗？ 焦虑这种事，千万不要不要不要。 可是这还有人在网上喷呢，说刘亦菲过于自信啥的。",
+      "platform": "bilibili",
+      "author_hash": "7359f3c517fbb4cdf63d7450",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ef499638e4ca25480bd0",
+      "anonymous_id": "TARGET_D06",
+      "text": "一些细节看[TARGET]这个人的性格特质 1、提点新人的时候语气很温和 2、和闺蜜在一起会斗嘴 3、手机被撞坏了会找上门理赔，让对方出一半 4、让男主别打弟弟了 5、听到男主说奶奶八十了还工作养全家，有点不屑看不上，但没有多言 6、和陌生租客初次见面，客气礼貌保持距离 7、被冤枉了着急解释眼睛都红了 8、家里亲戚要定北京酒店，虽然离职了但还是想办法做了权衡调整 9、看男主不着急找弟弟还有点不满 一些简单的细节勾勒出[TARGET]人物形象，善良但又讲原则，亲和但不冒进遇到喜欢的人或事也会很热情，聪明并且善于协调处理复杂关系。 她是个小人物，但你会很想和她做朋友。",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_85e5e23e85c6c7919ca9",
+      "anonymous_id": "TARGET_D06",
+      "text": "人物有个性，又真实，真的很难得",
+      "platform": "bilibili",
+      "author_hash": "2c027020b2a6d262e801102c",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d249b6d6589095b8bb0f",
+      "anonymous_id": "TARGET_D06",
+      "text": "突然发现我有一切除了经济的[TARGET]的条件",
+      "platform": "bilibili",
+      "author_hash": "51ed38284dad71f2d89d6f54",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_4269100c924e38792baf",
+      "anonymous_id": "TARGET_D06",
+      "text": "一句话，这部剧里都是正常思维正常人",
+      "platform": "bilibili",
+      "author_hash": "761a2c39bab0eee7034e7090",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_0abbabea9cbe14444559",
+      "anonymous_id": "TARGET_D06",
+      "text": "伤心难过不需要资格，[TARGET]不需要理由",
+      "platform": "bilibili",
+      "author_hash": "68939126351dc3ce317783aa",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d9e9182157514043b8c2",
+      "anonymous_id": "TARGET_D06",
+      "text": "看看就行了 辞职三个月去云南旅游遇到长得帅性格幽默三观正高学历的三十未婚单身男青年的概率基本为0",
+      "platform": "bilibili",
+      "author_hash": "44c9ea869843a4e96c769840",
+      "language": "zh",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:youtube_25fdfa5c2b3e43712509",
+      "anonymous_id": "TARGET_D06",
+      "text": "女主除了美貌，其他地方跟我很像，我经常一个人出国，到了中国吃饭手机故障店老板也不收钱😅还有个性也超级像我所以我越看越难过",
+      "platform": "youtube",
+      "author_hash": "0fad26e7687106a374f14fc5",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_ab6d25a8b7dccb08147e",
+      "anonymous_id": "TARGET_D06",
+      "text": "大多数人都是其实比不上这个剧里的女主角家庭的条件的吧……太难过了",
+      "platform": "bilibili",
+      "author_hash": "b8b4e0ce16a5da26c43f71d0",
+      "language": "zh",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b40f2892997fc9035ff6",
+      "anonymous_id": "TARGET_D06",
+      "text": "别的偶像剧，强行再偶遇，然后:是你。 这剧男女主又见面。男主解释，这地方小。肯定会经常碰到。",
+      "platform": "bilibili",
+      "author_hash": "1d1cbc651d30cc5d3c7533a3",
+      "language": "zh",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_832f9caf7f433f2c96cb",
+      "anonymous_id": "TARGET_D06",
+      "text": "很正常，因为女主是个陌生人来到云南有风小院，她是最后加入的，这些人都互相熟悉，女主视角起码得她融入这个环境后才能体现吧",
+      "platform": "bilibili",
+      "author_hash": "7b5afbcd7692f65a24d92510",
+      "language": "zh",
+      "score": 0.33598232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "ce_xuhongdou:bilibili_b87b584a138abdee1048",
+      "anonymous_id": "TARGET_D06",
+      "text": "这个剧有一种很让人舒服的活人感，没有那种很刻意很狗血很套路的台词，每个人的行为互动和语言都是那种生活中真正会下意识做到的，让人感觉很亲切很生活。",
+      "platform": "bilibili",
+      "author_hash": "a4341028af65ccda88e26de8",
+      "language": "zh",
+      "score": 0.71827835,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_aef0b33bfd41fbec85fb",
+      "anonymous_id": "TARGET_D06",
+      "text": "为了快乐再出发和这部剧开了芒果会员，我倒不是为了磕糖，看了十几集，觉得[TARGET]和男主之间那种打趣调侃很轻松，男主挺搞笑的。我最喜欢的是阿桂婶的云南话，还有表现风吹过的几个场景，很容易想起上学时候懒洋洋轻松的吹着风的午休。",
+      "platform": "bilibili",
+      "author_hash": "b48eb2cda6778778810cd553",
+      "language": "zh",
+      "score": 0.67026305,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_7a3ca7458112888d4193",
+      "anonymous_id": "TARGET_D06",
+      "text": "这剧看完解说，最好的一点是觉得人物说话不作，很轻松的剧情，这就很难得了",
+      "platform": "bilibili",
+      "author_hash": "75add861c1a8064595634dbb",
+      "language": "zh",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_231e4df7d20576d4c538",
+      "anonymous_id": "TARGET_D06",
+      "text": "其实现实生活里说‘是你’，还挺没礼貌的[笑哭]不会好好说话吗",
+      "platform": "bilibili",
+      "author_hash": "c97d3c30a4bbbf3f7d727851",
+      "language": "zh",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_9cb2f8afa017610b6586",
+      "anonymous_id": "TARGET_D06",
+      "text": "编剧真的不按套路出牌，吃烧烤那里，我以为[TARGET]会说，几年后我老了，没有那么美了，那人家还会喜欢我吗？结果她说的是，我美貌还在，而对方条件不行了。我真的一声炸笑，禁止自我否定，禁止给自己制造焦虑！[TARGET]给自己松绑，当然这也很刘亦菲，实在是太美辽！",
+      "platform": "bilibili",
+      "author_hash": "ddefdff2297cf46851059696",
+      "language": "zh",
+      "score": 0.63304734,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_194f430c72e04b386851",
+      "anonymous_id": "TARGET_D06",
+      "text": "那段[TARGET]和大麦聊手机的对话没把我乐死，大麦真会聊天[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "e52b6f62fce6bfada2fb2678",
+      "language": "zh",
+      "score": 0.6312306,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_d500f84ac405f4546436",
+      "anonymous_id": "TARGET_D06",
+      "text": "很喜欢刘亦菲的台词，很温柔。",
+      "platform": "bilibili",
+      "author_hash": "694683f6fe3250b1d970682f",
+      "language": "zh",
+      "score": 0.62209207,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_2ec7ad4dff0061de7549",
+      "anonymous_id": "TARGET_D06",
+      "text": "开年好剧好吧 我要陷在李现的笑眼里了 而且真的爱这种群像剧 每个角色都能拎得出来也能放的进去 里边的人生道理也不是纯灌输鸡汤 就感觉 生活了这么多年的人们 蕴含的人生哲理自然而然就说出来了 很喜欢马爷和大麦的夜宵对话：什么是花路？是充满荆棘的，与众不同的路 还有稍稍爱显摆的阿桂婶（话糙理不糙） 还有种种 真的很适合慢慢品 因为每个人都有每个人的故事 每个人都与众不同 大家相遇在有风小院 才有了我们 （再夸一句 每个人都演的好自然啊啊啊 真的就是日常相处 夫妻间 姐弟间 小情侣间 邻居间） （希望不要像以家人之名一样烂尾 球球）",
+      "platform": "bilibili",
+      "author_hash": "ebd284545131edb214009712",
+      "language": "zh",
+      "score": 0.6184117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_3a39ea80343469b07045",
+      "anonymous_id": "TARGET_D06",
+      "text": "哈哈哈哈哈哈哈哈哈哈你要笑死我，但是，肤色差，谁懂[滑稽][滑稽][滑稽]",
+      "platform": "bilibili",
+      "author_hash": "56c9b782466276d17cba27bc",
+      "language": "zh",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_xuhongdou:bilibili_8ff4d2c200fa337f587e",
+      "anonymous_id": "TARGET_D06",
+      "text": "你的梦想是什么？ ”———“有钱。” “有钱之后呢？”———“退休。” “退休之后呢？”———“当个没用的废人。” [TARGET]的经典台词太多了，和李现搭配不错，是我网络嘴替",
+      "platform": "bilibili",
+      "author_hash": "ee27cc0faed5384a6b145c84",
+      "language": "zh",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

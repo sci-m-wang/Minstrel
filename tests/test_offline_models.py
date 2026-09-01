@@ -39,6 +39,52 @@ class OfflineModelSourceTests(unittest.TestCase):
         command = MODULE.download_command(item, Path("/models/qwen"))
         self.assertEqual(command[:2], ["hf", "download"])
 
+    def test_executable_actor_matrix_excludes_gemma(self):
+        registry = yaml.safe_load((ROOT / "offline/models.yaml").read_text(encoding="utf-8"))
+        self.assertNotIn("gemma-2-9b-it", registry["models"])
+        self.assertNotIn("gemma-2-9b-it", registry["actor_matrix"]["panel_a"])
+        self.assertEqual(
+            registry["actor_matrix"]["panel_a"],
+            [
+                "llama-3.1-8b-instruct",
+                "qwen2.5-7b-instruct",
+                "qwen2.5-14b-instruct",
+                "mistral-7b-instruct-v0.3",
+            ],
+        )
+
+    def test_profiler_is_connected_gpt_and_not_a_local_model_asset(self):
+        registry = yaml.safe_load((ROOT / "offline/models.yaml").read_text(encoding="utf-8"))
+        self.assertEqual(
+            registry["profiler"],
+            {
+                "provider": "GPT",
+                "model": "gpt-5.6-sol",
+                "execution_location": "connected_preparation",
+            },
+        )
+        self.assertNotIn("gpt-5.6-sol", registry["models"])
+
+    def test_retrieval_services_are_connected_and_not_local_assets(self):
+        registry = yaml.safe_load((ROOT / "offline/models.yaml").read_text(encoding="utf-8"))
+        self.assertEqual(
+            registry["retrieval_preparation"],
+            {
+                "embedding": {
+                    "provider": "GPT",
+                    "model": "text-embedding-3-small",
+                    "execution_location": "connected_preparation",
+                },
+                "reranker": {
+                    "provider": "COHERE",
+                    "model": "Cohere-rerank-v4.0-pro",
+                    "execution_location": "connected_preparation",
+                },
+            },
+        )
+        self.assertNotIn("qwen3-embedding-0.6b", registry["models"])
+        self.assertNotIn("bge-reranker-v2-m3", registry["models"])
+
 
 if __name__ == "__main__":
     unittest.main()

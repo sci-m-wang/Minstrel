@@ -3,15 +3,13 @@ active_panels: [A, D]
 supported_conditions:
   - none
   - personality
-  - raw
   - summary
   - gold
   - ours
 internal_condition_definitions:
   none: "Anonymous Vanilla: no persona information."
-  personality: "Personality Only: anonymous Big Five description inferred from the shared comment evidence."
-  raw: "Raw Comments: the shared retrieved third-party comments, identity-masked, without rewriting."
-  summary: "Generic Summary: the shared comments passed to a generic summarize-this-person prompt."
+  personality: "Personality Only: per-probe Big Five observations from each probe's Top-10, then aggregated into an anonymous Big Five description."
+  summary: "Generic Summary: per-probe summaries from each probe's Top-10, then aggregated into one anonymous person summary."
   gold: "Anonymous Gold Profile: the official benchmark profile with identity strings removed."
   ours: "Ours: 24 probes, evidence-cited cues, and the reconstructed anonymous Person Model."
 removed_external_baselines:

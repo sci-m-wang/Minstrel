@@ -13,9 +13,7 @@ data:
     min_authors: 10
 
 retrieval:
-  mode: bm25
-  bm25_top_k: 10
-  dense_top_k: 10
+  mode: deterministic_smoke
   final_top_k: 10
 
 profiling:
@@ -25,6 +23,6 @@ run:
   name: baselines-smoke
   output_dir: runs
   character_ids: [demo_alex]
-  conditions: [none, personality, raw, summary, gold, ours]
+  conditions: [none, personality, summary, gold, ours]
   replicates: 1
   judge: true

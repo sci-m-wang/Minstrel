@@ -1,5 +1,9 @@
 from __future__ import annotations
 
+import hashlib
+
+import pytest
+
 from sideprofile.corpus import CommentCorpus
 from sideprofile.schema import CharacterSpec, Comment
 
@@ -51,3 +55,20 @@ def test_corpus_validates_research_targets(tmp_path) -> None:
         assert not result["ready"]
         assert result["characters"][0]["failures"] == ["comments<2"]
 
+
+def test_read_only_corpus_never_rewrites_frozen_database(tmp_path) -> None:
+    path = tmp_path / "comments.sqlite"
+    with CommentCorpus(path) as corpus:
+        corpus.add_character(spec())
+        corpus.add_comment(comment("c1"))
+    before = hashlib.sha256(path.read_bytes()).hexdigest()
+    with CommentCorpus(path, read_only=True) as corpus:
+        corpus.initialize()
+        assert corpus.get_character("x").character_id == "x"
+        assert len(corpus.comments_for("x")) == 1
+        with pytest.raises(RuntimeError, match="read-only"):
+            corpus.add_character(spec())
+    after = hashlib.sha256(path.read_bytes()).hexdigest()
+    assert after == before
+    assert not path.with_name(path.name + "-wal").exists()
+    assert not path.with_name(path.name + "-shm").exists()

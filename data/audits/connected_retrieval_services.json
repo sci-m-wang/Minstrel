@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "embedding": {
+    "provider": "GPT",
+    "model": "text-embedding-3-small",
+    "vectors": 2,
+    "dimensions": [
+      1536
+    ],
+    "usage": {
+      "calls": 1,
+      "prompt_tokens": 33,
+      "total_tokens": 33,
+      "returned_models": [
+        "text-embedding-3-small"
+      ]
+    }
+  },
+  "reranker": {
+    "provider": "COHERE",
+    "model": "Cohere-rerank-v4.0-pro",
+    "documents": 3,
+    "ranking": [
+      1,
+      0,
+      2
+    ],
+    "scores": [
+      0.9212444,
+      0.9473031,
+      0.43936244
+    ],
+    "usage": {
+      "calls": 1,
+      "search_units": 1
+    },
+    "request_contract": "all_candidates_without_top_n_or_max_tokens_per_doc"
+  }
+}

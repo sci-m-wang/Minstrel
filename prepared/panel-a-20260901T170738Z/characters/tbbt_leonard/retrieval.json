@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_0c0fd1b113290d336594",
+      "anonymous_id": "TARGET_A07",
+      "text": "like this guy",
+      "platform": "youtube",
+      "author_hash": "94829748d3484d3d5bff3277",
+      "language": "en",
+      "score": 0.74879336,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.6563059,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a5f4859b6ec4a27f71d9",
+      "anonymous_id": "TARGET_A07",
+      "text": "This actually sheds more light about his relationship with Sheldon. I always found it interesting how Sheldon is so much like Beverly. One eg that comes to mind is how Sheldon has to quiz [TARGET] to make sure he gets his takeout order right and hoe Bev does the same with her tea.",
+      "platform": "youtube",
+      "author_hash": "dcd204832090ea6cdb4cb30c",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f338025b0c04fdb00355",
+      "anonymous_id": "TARGET_A07",
+      "text": "The character archetype is known as \"The Straight Man.\" The character who is supposed to be largely unreactive to the antics of the cast, so as to allow the audience to relate and connect with the madness happening on stage. In other words, the psychological grounding rod.",
+      "platform": "youtube",
+      "author_hash": "c1f8f42ffa2938baae9d7b8a",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_ed1110be65fe361d7014",
+      "anonymous_id": "TARGET_A07",
+      "text": "An underrated relationship of [TARGET]'s is Sheldon. He's the most consistent in a somewhat unconventional way. For all the chaos and craziness that Sheldon brings to [TARGET]'s life, there are little crumbs that Sheldon does for [TARGET] that he doesn't always realize because of his past. Its also a weird continuity of how his mum used to treat him in Sheldon.",
+      "platform": "youtube",
+      "author_hash": "29aeece1e4af069defacf36a",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_38519bc432ab172ae0b6",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"See after you leave i still have to live with him\"",
+      "platform": "youtube",
+      "author_hash": "16b6dd02823b722701ef1b6e",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_278658ca936e8076fbcd",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think because [TARGET] has Better social skills and more common sense than they do .",
+      "platform": "youtube",
+      "author_hash": "276d34c1d17c092e3ae4cba1",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_cdb758bd866fbf75c3e6",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"Familiarity breeds contempt\". [TARGET] was an \"everyman\" (in addition to being the greatest Nebish in TV history). We all saw a lot of ourselves in [TARGET].",
+      "platform": "youtube",
+      "author_hash": "b60587baf310cd8a46228514",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_f70cddf407d09b43f618",
+      "anonymous_id": "TARGET_A07",
+      "text": "It has nothing to being foreigner, but problem is his. what about Howard and [TARGET] and Stuart? They aren't foreigners",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_7738cdc7dbb08a1304e6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Because the part which is wrong is the part which needs social cues to understand . And they can see the genius side of it not the part about what will people think of it .",
+      "platform": "youtube",
+      "author_hash": "b0840facf189321e86e19bd6",
+      "language": "en",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_3acf0d9c2437a7fd2366",
+      "anonymous_id": "TARGET_A07",
+      "text": "They all work in an education environment, where this would not be at all unusual. There are people I went to school with whose first names I never knew; and even actual friends would be called by surname or nickname. First names [or more likely initials] were only ever used to differentiate two identical last names.",
+      "platform": "stackexchange",
+      "author_hash": "a758ca13ed8f4148985a3ee7",
+      "language": "en",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_bc74c2d1cb84c1218609",
+      "anonymous_id": "TARGET_A07",
+      "text": "i am not surprised at all, out of them all [TARGET] has the most social awareness. the other three not so much especially sheldon.",
+      "platform": "youtube",
+      "author_hash": "fec15e0fc72154ff83566ccc",
+      "language": "en",
+      "score": 0.35006577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.3256063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.7413745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0c0fd1b113290d336594",
+      "anonymous_id": "TARGET_A07",
+      "text": "like this guy",
+      "platform": "youtube",
+      "author_hash": "94829748d3484d3d5bff3277",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_fb43c1e3a1f177e50d19",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is my favorite. He's actually most balanced of the lot. Smart but not socially awkward..",
+      "platform": "youtube",
+      "author_hash": "4ec77c0aef52e7f1f4ad1a60",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_88b2e75911e1f8f8adaf",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] [TARGET] is an insecure person. Johnny, on the contrary, is very confident. Johnny drives cool motorcycles in his life. Johnny is like his hero only in that both are kind and with a big heart.",
+      "platform": "youtube",
+      "author_hash": "93d9d7211cbd0b2b8fdff0e9",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a9a4cb68245f2ea4baf6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Sometimes [TARGET] the only one with liiitlee common sense",
+      "platform": "youtube",
+      "author_hash": "8b1556a962783adf7c60baf1",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_7473d14624dd6f72ac6d",
+      "anonymous_id": "TARGET_A07",
+      "text": "Sheldon also allows [TARGET] to sit in his spot at the end of the Bat Jar Conjecture during Penny's trivial pursuit 'pop culture' competition....that doesn't seem to go with Sheldon's personality at all",
+      "platform": "stackexchange",
+      "author_hash": "58dbb04988a0e3b8b8a867de",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_3164b4b06f9f1910738c",
+      "anonymous_id": "TARGET_A07",
+      "text": "He provides a good foil to Sheldon's quirky crazy character",
+      "platform": "youtube",
+      "author_hash": "948e53ba0ef2e507062caa9e",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8c1b7670932132118f9a",
+      "anonymous_id": "TARGET_A07",
+      "text": "He wasn't boring; he was overbearing in every way possible. Ther is an example of this in the middle of the video: Are you feeling insecure? Because that's my thing and if you take it then I'm not sure what I'm bringing.\"",
+      "platform": "youtube",
+      "author_hash": "600905c5e2a99d890dc13213",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_d63bf7dc10cc42be44b5",
+      "anonymous_id": "TARGET_A07",
+      "text": "I'll make it easy for everyone cuz I feel like the video is way too long for the answer. What [TARGET] is doing is basically either looking for the love that he never received from his mother or he is looking for someone that is just like his mother, but that actually loves him like he thinks his mother should have. That's what I got from watching the show.",
+      "platform": "youtube",
+      "author_hash": "4e35bd30a6e1999843a6a7fe",
+      "language": "en",
+      "score": 0.66506255,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1d0e6fad3c8538da9756",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] was the friend who keep and gather the group together",
+      "platform": "youtube",
+      "author_hash": "92491115da81d602a71c7da1",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_19033179914e1ab39823",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] would be the bf you keep close for the rest of your life..",
+      "platform": "youtube",
+      "author_hash": "d8043a82de57c271c369593e",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b45873ab0d298d79ad89",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think the Group represents very different psychological ideas. Howard being overly attached to his mother, [TARGET] having a terrible childhood and searching for love, Raj being the \"forever lonely\" person that is actually the most romantic but never given that, and Sheldon having what all other dreamed of love like a miracle.",
+      "platform": "youtube",
+      "author_hash": "0637f031641ae9fa322a5542",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_155abe30ccb900d85978",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] is the guy who has that vulnerable streak which makes the ladies want to look after and love him. He does get the girl frequently despite the things that come out of his mouth that spoil the moment. Classic nerd in glasses but adorable all the same The glue that holds the gang together",
+      "platform": "youtube",
+      "author_hash": "a1778d78573300bf2fe4a97b",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8993146b71f89899cdf0",
+      "anonymous_id": "TARGET_A07",
+      "text": "​[USER] both but not totally sure",
+      "platform": "youtube",
+      "author_hash": "1d0d3a63fb38ec317ca83164",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_ee2778c2b5286a6861ba",
+      "anonymous_id": "TARGET_A07",
+      "text": "It also has LEO in your name, because you have the heart of a lion. That is what your name means (lion strength and lion hearted) and it is a good name for you. Like the King of Beasts, you are brave and noble and worthy and loving and loyal and fiercely protective of your friends and you look like you give very good hugs. There is a reason your name is first in the casting lineup. You are a good man. Any woman would be very blessed to have you. Indeed, I love your character so much that I named one of my owl children after you. [TARGET] Marcus...after you and one of my favorite characters from a book series. You are both very good men.",
+      "platform": "youtube",
+      "author_hash": "4fbdb14a075489a764134cff",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_81ac80a4c76a298cbc18",
+      "anonymous_id": "TARGET_A07",
+      "text": "I would go as far to say that it's not that she won't change, but can't change. She seems very much like a sociopath. She seems like she has no feelings or emotions, and rather than fight against it, she embraced it and turned it into a career. This is [TARGET] accepting his mother for who she is, because his hatred for her does nothing but hold him back.",
+      "platform": "youtube",
+      "author_hash": "bfffb4dccda36612448fbb46",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_413c16e15d266552ecd6",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] - Maybe he simply has a thing about people seeing his feet. It's not an especially rare phobia.",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A07",
+      "text": "He was a bully. You can see [TARGET] and Sheldon's fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both [TARGET] and Sheldon came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_83ee3dfde08a8da38324",
+      "anonymous_id": "TARGET_A07",
+      "text": "It could be insecurity? A hoodie represents the ability to hide one's face, even if he doesn't normally hide it.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_577232dfcf8168a59fbc",
+      "anonymous_id": "TARGET_A07",
+      "text": "How about \"worst\"?",
+      "platform": "youtube",
+      "author_hash": "a8b72586983b7d131dc98baa",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6b1313b5f9cba101c308",
+      "anonymous_id": "TARGET_A07",
+      "text": "Least favourite",
+      "platform": "youtube",
+      "author_hash": "83fd7802bcfdd4e5daeae44c",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_413c16e15d266552ecd6",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] - Maybe he simply has a thing about people seeing his feet. It's not an especially rare phobia.",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_db58e58d94b7c2b43b3a",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] mistakes limerence for love",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6febf1f5a2de7e5e75d0",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] seems like he boosts his self-esteem by having other people look bad next to him. Some really bad online groups call this \"mogging\". [TARGET] did this to choose his friends and this extended to his choice of girlfriends. [TARGET] could be half-man, half dog, and be his own best friend. Leslie didn't look bad next to [TARGET] and that is why [TARGET] ghosted her. Same with Stephanie. [TARGET] used ghosting to avoid admitting to his real reason he ended his relationship with her. [TARGET] liked Penny because he could feel superior to her. When Penny smartened up, got a better job as a pharmaceutical rep, she got smarter in finance, and got her haircut, the relationship got rocky.",
+      "platform": "youtube",
+      "author_hash": "587268534729e99e036720f5",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_8993146b71f89899cdf0",
+      "anonymous_id": "TARGET_A07",
+      "text": "​[USER] both but not totally sure",
+      "platform": "youtube",
+      "author_hash": "1d0d3a63fb38ec317ca83164",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5326db7b98c2066f7ff0",
+      "anonymous_id": "TARGET_A07",
+      "text": "When he did the dirty work so Sheldon can win the Nobel",
+      "platform": "youtube",
+      "author_hash": "db4c8ebae13b07372b8f89bd",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_cd45b3117e8616a27b7d",
+      "anonymous_id": "TARGET_A07",
+      "text": "like a gladiator😆😆😆😆",
+      "platform": "youtube",
+      "author_hash": "1be9d779792dc74fc1661e17",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_d727eccd29b205f38337",
+      "anonymous_id": "TARGET_A07",
+      "text": "The heart and soul of the bunch",
+      "platform": "youtube",
+      "author_hash": "fa2e1b7559bb5d73c376555d",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_19033179914e1ab39823",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] would be the bf you keep close for the rest of your life..",
+      "platform": "youtube",
+      "author_hash": "d8043a82de57c271c369593e",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1dec52497f1e152f2c60",
+      "anonymous_id": "TARGET_A07",
+      "text": "You mean the guy who refused to take \"no\" for an answer and proceeded with wearing Penny down until she gave up and hooked up with him?",
+      "platform": "youtube",
+      "author_hash": "c8224b0ec01ce384e69da8a1",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_3a0f1c3742699dc2e145",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think when he lets Sheldon go at the train station and says he'll miss him was a big one. Who agrees?",
+      "platform": "youtube",
+      "author_hash": "3adc76c5f51b55a0f872efaa",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f229a1f6b7db4e12d439",
+      "anonymous_id": "TARGET_A07",
+      "text": "I agree in some ways. But I think if either of them were going to work in a relationship with [TARGET], there were things he needed to face and overcome first, if that makes sense",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_c8dc45513e636d587d94",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] is pretty mindful and the most sane of the group.",
+      "platform": "youtube",
+      "author_hash": "5ec209e02dbc5496f5f0af37",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_387a55a2878aa31465b0",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] has always been the only one with common sense.",
+      "platform": "youtube",
+      "author_hash": "beb837433f754c356855df8b",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_3d26932f7ae760216e9f",
+      "anonymous_id": "TARGET_A07",
+      "text": "The actual secret is that [TARGET] is loyal to him because Sheldon saved his life.",
+      "platform": "youtube",
+      "author_hash": "13fa10f378be0a67158c14d1",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_bb643189e8583759a4c9",
+      "anonymous_id": "TARGET_A07",
+      "text": "He's the one who is the voice of reason a lot of people don't like that",
+      "platform": "youtube",
+      "author_hash": "accfd1b9f3ffe5a890b934cd",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6540932e8833c92ab1c4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He's the good guy who gets treated badly.",
+      "platform": "youtube",
+      "author_hash": "e86e7ea80168fcee0c5b9b38",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a9a4cb68245f2ea4baf6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Sometimes [TARGET] the only one with liiitlee common sense",
+      "platform": "youtube",
+      "author_hash": "8b1556a962783adf7c60baf1",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_0c0fd1b113290d336594",
+      "anonymous_id": "TARGET_A07",
+      "text": "like this guy",
+      "platform": "youtube",
+      "author_hash": "94829748d3484d3d5bff3277",
+      "language": "en",
+      "score": 0.6202536,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6540932e8833c92ab1c4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He's the good guy who gets treated badly.",
+      "platform": "youtube",
+      "author_hash": "e86e7ea80168fcee0c5b9b38",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_bb643189e8583759a4c9",
+      "anonymous_id": "TARGET_A07",
+      "text": "He's the one who is the voice of reason a lot of people don't like that",
+      "platform": "youtube",
+      "author_hash": "accfd1b9f3ffe5a890b934cd",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5326db7b98c2066f7ff0",
+      "anonymous_id": "TARGET_A07",
+      "text": "When he did the dirty work so Sheldon can win the Nobel",
+      "platform": "youtube",
+      "author_hash": "db4c8ebae13b07372b8f89bd",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_aadf9895f8a737f2e44d",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] True, but in the case of him being treated badly by Penny, that’s mostly his fault, because he enabled and tolerated how awful and obnoxious she was because he wanted to get laid by her and he almost never stood up to her when he should have.",
+      "platform": "youtube",
+      "author_hash": "247a293abcb607556be361d2",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_1dec52497f1e152f2c60",
+      "anonymous_id": "TARGET_A07",
+      "text": "You mean the guy who refused to take \"no\" for an answer and proceeded with wearing Penny down until she gave up and hooked up with him?",
+      "platform": "youtube",
+      "author_hash": "c8224b0ec01ce384e69da8a1",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6b1313b5f9cba101c308",
+      "anonymous_id": "TARGET_A07",
+      "text": "Least favourite",
+      "platform": "youtube",
+      "author_hash": "83fd7802bcfdd4e5daeae44c",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8b62347febc73abcb93a",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"I am not a preschooler.\" \"Fine, I'll take it back\" \"I earned this! Back-off\" HAHAHA",
+      "platform": "youtube",
+      "author_hash": "50e0e87e9180e87708276576",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f30284a211cdc9e5b804",
+      "anonymous_id": "TARGET_A07",
+      "text": "I never liked his relationship with Priya. I don't like her character. She's so controlling.",
+      "platform": "youtube",
+      "author_hash": "c1f9e48460c3b6b2cae9e9d8",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_413c16e15d266552ecd6",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] - Maybe he simply has a thing about people seeing his feet. It's not an especially rare phobia.",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_564eadb9173dae338677",
+      "anonymous_id": "TARGET_A07",
+      "text": "​ [USER] yea I don't get the writing for [TARGET] and Penny in the later seasons at all and [TARGET] has no backbone at all and never stands up for himself at all",
+      "platform": "youtube",
+      "author_hash": "1d0d3a63fb38ec317ca83164",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8c1b7670932132118f9a",
+      "anonymous_id": "TARGET_A07",
+      "text": "He wasn't boring; he was overbearing in every way possible. Ther is an example of this in the middle of the video: Are you feeling insecure? Because that's my thing and if you take it then I'm not sure what I'm bringing.\"",
+      "platform": "youtube",
+      "author_hash": "600905c5e2a99d890dc13213",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b04fb16bcd82f5059535",
+      "anonymous_id": "TARGET_A07",
+      "text": "Must admit I find the character extremely annoying.",
+      "platform": "youtube",
+      "author_hash": "d3547d621057628991da0732",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_8993146b71f89899cdf0",
+      "anonymous_id": "TARGET_A07",
+      "text": "​[USER] both but not totally sure",
+      "platform": "youtube",
+      "author_hash": "1d0d3a63fb38ec317ca83164",
+      "language": "en",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_db58e58d94b7c2b43b3a",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] mistakes limerence for love",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_83ee3dfde08a8da38324",
+      "anonymous_id": "TARGET_A07",
+      "text": "It could be insecurity? A hoodie represents the ability to hide one's face, even if he doesn't normally hide it.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f229a1f6b7db4e12d439",
+      "anonymous_id": "TARGET_A07",
+      "text": "I agree in some ways. But I think if either of them were going to work in a relationship with [TARGET], there were things he needed to face and overcome first, if that makes sense",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_85d03faf4090f60682e2",
+      "anonymous_id": "TARGET_A07",
+      "text": "Thanks, I think so too, but I think he had some things to learn before he could have had a successful relationship with Alice or Alex",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.3429895,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_799acd62cb449ff1856e",
+      "anonymous_id": "TARGET_A07",
+      "text": "A few people feel that way, and I do get it. For reasons expressed in the video, I think [TARGET] needed to develop somewhat before he could have had a successful relationship with her",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_768f9780ff86b9db2516",
+      "anonymous_id": "TARGET_A07",
+      "text": "He didn't rat him out to the landlord... Or Homeland Security",
+      "platform": "youtube",
+      "author_hash": "44c3554bd81907a36e4f4d27",
+      "language": "en",
+      "score": 0.31878194,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_9e8227e2d10737b0f24b",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] I think you should in a separate video!! Remember that one episode where he talks to the woman about kissing her on his expedition, and he mentions the 'weird dream' he has and implies that he has them regularly? People boil it down to friendship but i think its a lot more psychological in every way from borderline romantic to insanely platonic",
+      "platform": "youtube",
+      "author_hash": "8eb6a79084d7842673921720",
+      "language": "en",
+      "score": 0.30536577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.7338144,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_7738cdc7dbb08a1304e6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Because the part which is wrong is the part which needs social cues to understand . And they can see the genius side of it not the part about what will people think of it .",
+      "platform": "youtube",
+      "author_hash": "b0840facf189321e86e19bd6",
+      "language": "en",
+      "score": 0.6563059,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_bb643189e8583759a4c9",
+      "anonymous_id": "TARGET_A07",
+      "text": "He's the one who is the voice of reason a lot of people don't like that",
+      "platform": "youtube",
+      "author_hash": "accfd1b9f3ffe5a890b934cd",
+      "language": "en",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8cc93d955271c8ad0b98",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] Bingham It's not everyone in his family. His father doesn't. Being disfavoured isn't necessarily his fault. He could be disliked for being short, less good-looking, having less good social skills etc.",
+      "platform": "youtube",
+      "author_hash": "e86e7ea80168fcee0c5b9b38",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1a21ca3dc45147a68739",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]s rage can be so extreme at times",
+      "platform": "youtube",
+      "author_hash": "2dedb1d76b1ff01353a8821f",
+      "language": "en",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0e99c379d06fff1df23e",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] whined a lot about his mother. He blamed his mother for his relationship failures, but blaming his mother was a huge mistake. Even him telling her \"I forgive you\" got a lot wrong. He could blame his mother for his crappy childhood, but he was an adult who was independent of his mother. He had plenty of chances to unlearn anything his mother got wrong. The fact that Beverly allowed [TARGET] to have independence from her made her a much better mother than Mrs. Wolowitz and a lot of the mothers on a lot of other TV shows. [TARGET] was lucky his mother was not Lois from Malcolm in the Middle. On that show, Lois deprived Malcolm of any independence from her, ending with her intent to pick out a wife for him. [TARGET] could have realized Beverly got a lot of things right in addition to what she got wrong. Telling her \"I forgive you\" does not capture any appreciation of the things Beverly got right as his mother.",
+      "platform": "youtube",
+      "author_hash": "23ab476bee9332463e3350c7",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_88b2e75911e1f8f8adaf",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] [TARGET] is an insecure person. Johnny, on the contrary, is very confident. Johnny drives cool motorcycles in his life. Johnny is like his hero only in that both are kind and with a big heart.",
+      "platform": "youtube",
+      "author_hash": "93d9d7211cbd0b2b8fdff0e9",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_329e500d0c97975b157b",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] It’s not his fault with his mother but he likely wouldn’t have become a scientist without her and his father. With Sheldon, [TARGET] has indefinite patience and tolerance with him and his mother, we’ve got to give him that, but the issue is that [TARGET] had no trouble standing up to Sheldon, and as I said he enabled and tolerated all the awful and obnoxious ways and things that Penny did to him which were in ways worse than Sheldon just because he wanted to get laid by her, and ironically Sheldon did stand up to Penny even for [TARGET] a number of times in the show and [TARGET] never thanked or appreciated Sheldon for it because he was afraid he’d look bad to Penny and lose his chance to get in bed with her. [TARGET] rarely stood up to Penny and it was because of him that she was in their lives and Sheldon did find ways to tolerate her for [TARGET]’s sake especially when they were dating but she was also obnoxious to Sheldon and [TARGET] didn’t do much about it.",
+      "platform": "youtube",
+      "author_hash": "247a293abcb607556be361d2",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_bc341323ef1ef02b9a1b",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] forgiving his mother is the best. Watching him come to grips with who she is and that she will not change frees him. He stops feeling like he needs her approval.",
+      "platform": "youtube",
+      "author_hash": "a3cdb2dea74a26db31308a95",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.69064254,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.6771325,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e3933cd963cc4267e544",
+      "anonymous_id": "TARGET_A07",
+      "text": "the blackpill is real looks are the only thing that matter",
+      "platform": "youtube",
+      "author_hash": "b595133b37a1ffb5fd4b4356",
+      "language": "en",
+      "score": 0.67026305,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_333d75c522ec9e973215",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"Sheldon believed that Raj knew what the anthropic principle was and believed [TARGET] did not\" - That could also be because he maybe thought an astrophysicist (like Raj ) was much more likely to know about the anthropic principle (which is a common theme in cosmology) than an experimental physicist (like [TARGET] ) and might have been one of Sheldon 's usual statements about experimental physics not being as relevant as theoretical physics. It need not necessarily have come from a general judgement of Raj being more intelligent than [TARGET] .",
+      "platform": "stackexchange",
+      "author_hash": "1ba3af6a06ebdb21d928fc1a",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_c25377268ab91b551d15",
+      "anonymous_id": "TARGET_A07",
+      "text": "I do think an important part of maturing is when you stop blaming other people for all your problems, so I kind of get what you're saying. It's important for [TARGET] to acknowledge what held him back and traumatised him (which some things his mother did obviously did, e.g. that book she wrote about him), but I think it's also important for [TARGET] to find his own agency, and realise he is the master of his own life, and no one else is. But for him to be able to do that, and important step would be letting go of the past including forgiving his mother. I do fully understand why it would take him so long to do that though.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_50d2c986cbd903760c1f",
+      "anonymous_id": "TARGET_A07",
+      "text": "I like how thoughtful and compassionate you are about [TARGET], treating this fictional character as if he were a human being, not the local manifestation of a Type. Your explanations are not excuses but insights. One of the uses of fiction is the opportunity to observe (and, in a way, participate in) the lives of other people without intruding on real people. The lesson I take from the show is, don't dismiss people, no matter how odd and awkward they are. People can be more than their quirks. I like how your \"deep dives\" emphasize the humanity of these characters. Perhaps you'll take a look at some recurring peripheral characters and discuss how they function in the show, such as Burt, Zach, Professor Proton, Janine Davis of Human Resources, and Dr. Gablehauser.",
+      "platform": "youtube",
+      "author_hash": "5a7b819068cd0a2bf0cf4d9b",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_9901cfbd662720852deb",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah, the writers kept insisting that Sheldon is not autistic, but then they go and write Sheldon and [TARGET] friendship as what it looks like when autistic people develop codependent relationships. Yes, we must learn to handle neurodiversity with grace and compassion and try to make our little spots in the great big world less threatening and more accommodating for them. But we all can't control the whole world, so we also need to encourage each other towards more healthful ways to adapt.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b45873ab0d298d79ad89",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think the Group represents very different psychological ideas. Howard being overly attached to his mother, [TARGET] having a terrible childhood and searching for love, Raj being the \"forever lonely\" person that is actually the most romantic but never given that, and Sheldon having what all other dreamed of love like a miracle.",
+      "platform": "youtube",
+      "author_hash": "0637f031641ae9fa322a5542",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_7738cdc7dbb08a1304e6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Because the part which is wrong is the part which needs social cues to understand . And they can see the genius side of it not the part about what will people think of it .",
+      "platform": "youtube",
+      "author_hash": "b0840facf189321e86e19bd6",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a2defaced4f890f38830",
+      "anonymous_id": "TARGET_A07",
+      "text": "Thanks for this interesting take! It surprises me that in the 21st century, you seem to think this \"unloveable\" experience of a human being is unusual. Performance and constant evaluation appear to some of us to be the 21st century relationship dynamic, not some odd exception. This relationship dynamic seems to be part of the reason, along with the various experiences of neurodiversity that helped make this series as popular as it became.",
+      "platform": "youtube",
+      "author_hash": "ff257f24418b2640f5f51e58",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_1a21ca3dc45147a68739",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]s rage can be so extreme at times",
+      "platform": "youtube",
+      "author_hash": "2dedb1d76b1ff01353a8821f",
+      "language": "en",
+      "score": 0.658066,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b5d210e3f8878c7a0516",
+      "anonymous_id": "TARGET_A07",
+      "text": "Poor [TARGET] he had horrible mom who did psyclogical games on him his entire life to write a book and never loved him he had absent minded professor as father and siblings that ignored him and then he got two new bullies in his life Sheldon roommate from hell who constantly criticizes him and put bugs in his food and got joy and making him upset and then penny got mean girl across the hall and he let her bully him and selll his stuff cuz he thought abusive love was all he deserved, love the actor from national lampoon Christmas vacation and roseanne",
+      "platform": "youtube",
+      "author_hash": "72dda92afd294cd2aeb1535c",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_83ee3dfde08a8da38324",
+      "anonymous_id": "TARGET_A07",
+      "text": "It could be insecurity? A hoodie represents the ability to hide one's face, even if he doesn't normally hide it.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.603558,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_413c16e15d266552ecd6",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] - Maybe he simply has a thing about people seeing his feet. It's not an especially rare phobia.",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86be0a536a80fb62f21",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think that this is my favourite of your videos in your big bang playlist. Your psychological review of all the relationships in [TARGET]'s life including Joyce Kim is great. You have hit the nail on the head of [TARGET] seeking approval by his partner based his efforts to improve.",
+      "platform": "youtube",
+      "author_hash": "576d8177f91e9e4c39c10825",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_32d08bee84f30d4b71f9",
+      "anonymous_id": "TARGET_A07",
+      "text": "So his mother was right about him? He can't be happy? 😂",
+      "platform": "youtube",
+      "author_hash": "cd05133636b1e7519c7695a9",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_1a21ca3dc45147a68739",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]s rage can be so extreme at times",
+      "platform": "youtube",
+      "author_hash": "2dedb1d76b1ff01353a8821f",
+      "language": "en",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_99b5af01a28588ad6278",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] can really move his eyebrows in so many angles... First time I'm seeing a person do that.. Like I mean the sad eyebrow, angry, confused, curious etc 😂",
+      "platform": "youtube",
+      "author_hash": "a7839fb91bfa0446c0f5c814",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_83ee3dfde08a8da38324",
+      "anonymous_id": "TARGET_A07",
+      "text": "It could be insecurity? A hoodie represents the ability to hide one's face, even if he doesn't normally hide it.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_88b2e75911e1f8f8adaf",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] [TARGET] is an insecure person. Johnny, on the contrary, is very confident. Johnny drives cool motorcycles in his life. Johnny is like his hero only in that both are kind and with a big heart.",
+      "platform": "youtube",
+      "author_hash": "93d9d7211cbd0b2b8fdff0e9",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_81ac80a4c76a298cbc18",
+      "anonymous_id": "TARGET_A07",
+      "text": "I would go as far to say that it's not that she won't change, but can't change. She seems very much like a sociopath. She seems like she has no feelings or emotions, and rather than fight against it, she embraced it and turned it into a career. This is [TARGET] accepting his mother for who she is, because his hatred for her does nothing but hold him back.",
+      "platform": "youtube",
+      "author_hash": "bfffb4dccda36612448fbb46",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_68380883d8b104571bf4",
+      "anonymous_id": "TARGET_A07",
+      "text": "Or he could have worn something UNDER the sweater.",
+      "platform": "youtube",
+      "author_hash": "78e7770536b91d2cbbaa0099",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_0c0fd1b113290d336594",
+      "anonymous_id": "TARGET_A07",
+      "text": "like this guy",
+      "platform": "youtube",
+      "author_hash": "94829748d3484d3d5bff3277",
+      "language": "en",
+      "score": 0.7413745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_bc341323ef1ef02b9a1b",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] forgiving his mother is the best. Watching him come to grips with who she is and that she will not change frees him. He stops feeling like he needs her approval.",
+      "platform": "youtube",
+      "author_hash": "a3cdb2dea74a26db31308a95",
+      "language": "en",
+      "score": 0.67883813,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b852323119089848eb8b",
+      "anonymous_id": "TARGET_A07",
+      "text": "7:23 dude he was on the verge of tears.",
+      "platform": "youtube",
+      "author_hash": "7e73f91a4614574c957fb31a",
+      "language": "en",
+      "score": 0.65982175,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_5cca4433d79fa35f0ddf",
+      "anonymous_id": "TARGET_A07",
+      "text": "Don't kid yourselves, Penny is a drunk. Getting drunk is her solution to everything. She has to get drunk to tolerate Amy and Bernadette. She has to get drunk to tolerate the guys. And she ESPECIALLY has to get drunk to put up and have sex with [TARGET]. She only puts up with him because he pays all of her bills. You see her disgust with all of them while she knocks them down.",
+      "platform": "stackexchange",
+      "author_hash": "288bd6936616a11001374d45",
+      "language": "en",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_c25377268ab91b551d15",
+      "anonymous_id": "TARGET_A07",
+      "text": "I do think an important part of maturing is when you stop blaming other people for all your problems, so I kind of get what you're saying. It's important for [TARGET] to acknowledge what held him back and traumatised him (which some things his mother did obviously did, e.g. that book she wrote about him), but I think it's also important for [TARGET] to find his own agency, and realise he is the master of his own life, and no one else is. But for him to be able to do that, and important step would be letting go of the past including forgiving his mother. I do fully understand why it would take him so long to do that though.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_cc7c2fd16307266b9ba3",
+      "anonymous_id": "TARGET_A07",
+      "text": "awesome vid, glad youre back on my feed! i can relate a lot to many of [TARGET]s issues with relationships– this is quite insightful!",
+      "platform": "youtube",
+      "author_hash": "7cbc3c7d0661fe9bb280841e",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_81ac80a4c76a298cbc18",
+      "anonymous_id": "TARGET_A07",
+      "text": "I would go as far to say that it's not that she won't change, but can't change. She seems very much like a sociopath. She seems like she has no feelings or emotions, and rather than fight against it, she embraced it and turned it into a career. This is [TARGET] accepting his mother for who she is, because his hatred for her does nothing but hold him back.",
+      "platform": "youtube",
+      "author_hash": "bfffb4dccda36612448fbb46",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_c6a59c8f93fe67fe5d3b",
+      "anonymous_id": "TARGET_A07",
+      "text": "Thanks for sharing that. Do you think watching [TARGET]'s struggles helped you in any way?",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_88b2e75911e1f8f8adaf",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] [TARGET] is an insecure person. Johnny, on the contrary, is very confident. Johnny drives cool motorcycles in his life. Johnny is like his hero only in that both are kind and with a big heart.",
+      "platform": "youtube",
+      "author_hash": "93d9d7211cbd0b2b8fdff0e9",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_278658ca936e8076fbcd",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think because [TARGET] has Better social skills and more common sense than they do .",
+      "platform": "youtube",
+      "author_hash": "276d34c1d17c092e3ae4cba1",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_c94bcbeb8aa9cedf849d",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] pls, do it. Their weird, strange, but tight friendship/brotherhood is really what I wanna dig into.",
+      "platform": "youtube",
+      "author_hash": "871100b8e54298d2000cc17f",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6febf1f5a2de7e5e75d0",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] seems like he boosts his self-esteem by having other people look bad next to him. Some really bad online groups call this \"mogging\". [TARGET] did this to choose his friends and this extended to his choice of girlfriends. [TARGET] could be half-man, half dog, and be his own best friend. Leslie didn't look bad next to [TARGET] and that is why [TARGET] ghosted her. Same with Stephanie. [TARGET] used ghosting to avoid admitting to his real reason he ended his relationship with her. [TARGET] liked Penny because he could feel superior to her. When Penny smartened up, got a better job as a pharmaceutical rep, she got smarter in finance, and got her haircut, the relationship got rocky.",
+      "platform": "youtube",
+      "author_hash": "587268534729e99e036720f5",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A07",
+      "text": "He was a bully. You can see [TARGET] and Sheldon's fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both [TARGET] and Sheldon came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8cc93d955271c8ad0b98",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] Bingham It's not everyone in his family. His father doesn't. Being disfavoured isn't necessarily his fault. He could be disliked for being short, less good-looking, having less good social skills etc.",
+      "platform": "youtube",
+      "author_hash": "e86e7ea80168fcee0c5b9b38",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6dacc7529fba8ba8e794",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] or likes to think he is. The girls are all the alphas.",
+      "platform": "youtube",
+      "author_hash": "ebb737819b8b87ac4f87ea82",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.69064254,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8a24fdbfe8eb97ffbe16",
+      "anonymous_id": "TARGET_A07",
+      "text": "i think we also need to anallyze Penny way of treating [TARGET] : eah time they got an argument she use sex to resolve their problem .sad . its kinda sad because in the end they are both individual who can't go deeper ... Penny only got sex to be an equal to [TARGET] ( because i think she kinda think she can't bring him anything besides that) and for [TARGET] ( his desperation).",
+      "platform": "youtube",
+      "author_hash": "34b1094656ecc8f3ad2f9ef3",
+      "language": "en",
+      "score": 0.640276,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1242e410fbd2078f5ad2",
+      "anonymous_id": "TARGET_A07",
+      "text": "most empathetic character on the show",
+      "platform": "youtube",
+      "author_hash": "58965bded9951062f6330088",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1dec52497f1e152f2c60",
+      "anonymous_id": "TARGET_A07",
+      "text": "You mean the guy who refused to take \"no\" for an answer and proceeded with wearing Penny down until she gave up and hooked up with him?",
+      "platform": "youtube",
+      "author_hash": "c8224b0ec01ce384e69da8a1",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_4eb7a26cac97c1b42df6",
+      "anonymous_id": "TARGET_A07",
+      "text": "9:16: It's times like this I wish I could remember the handful of times where he has said he doesn't need do it on purpose, and he just doesn't care...",
+      "platform": "youtube",
+      "author_hash": "a6ad7527d1f9bcd427d863ec",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86be0a536a80fb62f21",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think that this is my favourite of your videos in your big bang playlist. Your psychological review of all the relationships in [TARGET]'s life including Joyce Kim is great. You have hit the nail on the head of [TARGET] seeking approval by his partner based his efforts to improve.",
+      "platform": "youtube",
+      "author_hash": "576d8177f91e9e4c39c10825",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_38519bc432ab172ae0b6",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"See after you leave i still have to live with him\"",
+      "platform": "youtube",
+      "author_hash": "16b6dd02823b722701ef1b6e",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_f30284a211cdc9e5b804",
+      "anonymous_id": "TARGET_A07",
+      "text": "I never liked his relationship with Priya. I don't like her character. She's so controlling.",
+      "platform": "youtube",
+      "author_hash": "c1f9e48460c3b6b2cae9e9d8",
+      "language": "en",
+      "score": 0.72921133,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8993146b71f89899cdf0",
+      "anonymous_id": "TARGET_A07",
+      "text": "​[USER] both but not totally sure",
+      "platform": "youtube",
+      "author_hash": "1d0d3a63fb38ec317ca83164",
+      "language": "en",
+      "score": 0.65277284,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8c1b7670932132118f9a",
+      "anonymous_id": "TARGET_A07",
+      "text": "He wasn't boring; he was overbearing in every way possible. Ther is an example of this in the middle of the video: Are you feeling insecure? Because that's my thing and if you take it then I'm not sure what I'm bringing.\"",
+      "platform": "youtube",
+      "author_hash": "600905c5e2a99d890dc13213",
+      "language": "en",
+      "score": 0.6492228,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.61286587,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5bdb25463ab4b19b9dd8",
+      "anonymous_id": "TARGET_A07",
+      "text": "Having grown up witnessing a codependent relationship, Penny abd [TARGET]’s is eerily spot on. They believe they need each other to be happy, but resent anything that sets them apart emotionally or socially or physically. They have cycles of being deeply in love to swimming in meanness and blaming each other. The non-alcoholic enables the alcoholic to continue to drink because they're \"nicer\" drunk than sober. But then turns around to use the drunkenness to shame and manipulate. Penny is an alcoholic and [TARGET] is in denial and doesn't want her to change because change may mean she realizes she can be happier and a better person without him. But they stay because resistance to change is their idea of undying and unconditional love.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6dacc7529fba8ba8e794",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] or likes to think he is. The girls are all the alphas.",
+      "platform": "youtube",
+      "author_hash": "ebb737819b8b87ac4f87ea82",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86be0a536a80fb62f21",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think that this is my favourite of your videos in your big bang playlist. Your psychological review of all the relationships in [TARGET]'s life including Joyce Kim is great. You have hit the nail on the head of [TARGET] seeking approval by his partner based his efforts to improve.",
+      "platform": "youtube",
+      "author_hash": "576d8177f91e9e4c39c10825",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_17a2e993c243d50c633a",
+      "anonymous_id": "TARGET_A07",
+      "text": "I do think opposites can attract and last if both parties are mature and secure enough to to 1) understand each other's differences and 2) work at finding common ground. Penny tries to do that but the alcoholism and lack of motivation to change from [TARGET] is still disastrous. I grew up witnessing a codependent and enabling relationship like theirs.",
+      "platform": "youtube",
+      "author_hash": "9920bbd170ae0e1d3bc35765",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_c25377268ab91b551d15",
+      "anonymous_id": "TARGET_A07",
+      "text": "I do think an important part of maturing is when you stop blaming other people for all your problems, so I kind of get what you're saying. It's important for [TARGET] to acknowledge what held him back and traumatised him (which some things his mother did obviously did, e.g. that book she wrote about him), but I think it's also important for [TARGET] to find his own agency, and realise he is the master of his own life, and no one else is. But for him to be able to do that, and important step would be letting go of the past including forgiving his mother. I do fully understand why it would take him so long to do that though.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.74435914,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_452020ffa0cb0bbd946f",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] Yeah [TARGET] had a lot of development over the course of the show especially revolving his relationship with his mother and best friend sheldon",
+      "platform": "youtube",
+      "author_hash": "8278d09dc2f682a923a93335",
+      "language": "en",
+      "score": 0.72921133,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_cfc8cbe86d410be30c53",
+      "anonymous_id": "TARGET_A07",
+      "text": "I went through an extremely similar childhood to [TARGET] and grew up to have the same ideas of love as him. It took going to college and getting my heart broken a few times to fix that and grow",
+      "platform": "youtube",
+      "author_hash": "3e1afbb2cc6969303b6d8b5c",
+      "language": "en",
+      "score": 0.72921133,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a2defaced4f890f38830",
+      "anonymous_id": "TARGET_A07",
+      "text": "Thanks for this interesting take! It surprises me that in the 21st century, you seem to think this \"unloveable\" experience of a human being is unusual. Performance and constant evaluation appear to some of us to be the 21st century relationship dynamic, not some odd exception. This relationship dynamic seems to be part of the reason, along with the various experiences of neurodiversity that helped make this series as popular as it became.",
+      "platform": "youtube",
+      "author_hash": "ff257f24418b2640f5f51e58",
+      "language": "en",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b45873ab0d298d79ad89",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think the Group represents very different psychological ideas. Howard being overly attached to his mother, [TARGET] having a terrible childhood and searching for love, Raj being the \"forever lonely\" person that is actually the most romantic but never given that, and Sheldon having what all other dreamed of love like a miracle.",
+      "platform": "youtube",
+      "author_hash": "0637f031641ae9fa322a5542",
+      "language": "en",
+      "score": 0.658066,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_2f33184e9fe65fda69c5",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] 'In the later seasons they became friends outside of academia and that might be the explanation for how they change what they call each other. ' --> seriously? they were friends at the start i believe. even the flashback episode with how [TARGET] met sheldon we see [TARGET] already becoming friends with raj and howard...or something",
+      "platform": "stackexchange",
+      "author_hash": "54c549e0d397dae1442bc606",
+      "language": "en",
+      "score": 0.65277284,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_04ca8b24392d59bd3b70",
+      "anonymous_id": "TARGET_A07",
+      "text": "Nice addition on bullies and guys' past",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.64744157,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A07",
+      "text": "He was a bully. You can see [TARGET] and Sheldon's fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both [TARGET] and Sheldon came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.640276,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f229a1f6b7db4e12d439",
+      "anonymous_id": "TARGET_A07",
+      "text": "I agree in some ways. But I think if either of them were going to work in a relationship with [TARGET], there were things he needed to face and overcome first, if that makes sense",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.6294102,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "tbbt_leonard:youtube_6dacc7529fba8ba8e794",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] or likes to think he is. The girls are all the alphas.",
+      "platform": "youtube",
+      "author_hash": "ebb737819b8b87ac4f87ea82",
+      "language": "en",
+      "score": 0.7198565,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6febf1f5a2de7e5e75d0",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] seems like he boosts his self-esteem by having other people look bad next to him. Some really bad online groups call this \"mogging\". [TARGET] did this to choose his friends and this extended to his choice of girlfriends. [TARGET] could be half-man, half dog, and be his own best friend. Leslie didn't look bad next to [TARGET] and that is why [TARGET] ghosted her. Same with Stephanie. [TARGET] used ghosting to avoid admitting to his real reason he ended his relationship with her. [TARGET] liked Penny because he could feel superior to her. When Penny smartened up, got a better job as a pharmaceutical rep, she got smarter in finance, and got her haircut, the relationship got rocky.",
+      "platform": "youtube",
+      "author_hash": "587268534729e99e036720f5",
+      "language": "en",
+      "score": 0.7022034,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_88b2e75911e1f8f8adaf",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] [TARGET] is an insecure person. Johnny, on the contrary, is very confident. Johnny drives cool motorcycles in his life. Johnny is like his hero only in that both are kind and with a big heart.",
+      "platform": "youtube",
+      "author_hash": "93d9d7211cbd0b2b8fdff0e9",
+      "language": "en",
+      "score": 0.7022034,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_5cb4aceec0092570e9e1",
+      "anonymous_id": "TARGET_A07",
+      "text": "He's not really pretending. He's just bragging a hell of a lot.",
+      "platform": "youtube",
+      "author_hash": "b5f86f775a804c95c12cac42",
+      "language": "en",
+      "score": 0.6939709,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_83ee3dfde08a8da38324",
+      "anonymous_id": "TARGET_A07",
+      "text": "It could be insecurity? A hoodie represents the ability to hide one's face, even if he doesn't normally hide it.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.65982175,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_6253f4f00cf199df69f7",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] Well IRL, a nerdy, shy, doughy nice little 5-foot-6 hobbit like [TARGET], who gets totally winded after 5 minutes on the treadmill, and works a genius-level job would never actually HAVE a relationship with a smoking hot, celebrity-gossip-and-shoes-loving, shallow, ex-cheerleader ditz who dropped out of CC a while ago. This show just gives fun, false hope to people lol!! 😂😂",
+      "platform": "youtube",
+      "author_hash": "2b93e6d3f15593c15e48620d",
+      "language": "en",
+      "score": 0.6294102,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0c0fd1b113290d336594",
+      "anonymous_id": "TARGET_A07",
+      "text": "like this guy",
+      "platform": "youtube",
+      "author_hash": "94829748d3484d3d5bff3277",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_4331ba717a702fdc87a1",
+      "anonymous_id": "TARGET_A07",
+      "text": "For a character who is supposed to be an uber dork with little appeal to the ladies, he sure did ok.",
+      "platform": "youtube",
+      "author_hash": "41f70772bd0889c8aff0c02f",
+      "language": "en",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86be0a536a80fb62f21",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think that this is my favourite of your videos in your big bang playlist. Your psychological review of all the relationships in [TARGET]'s life including Joyce Kim is great. You have hit the nail on the head of [TARGET] seeking approval by his partner based his efforts to improve.",
+      "platform": "youtube",
+      "author_hash": "576d8177f91e9e4c39c10825",
+      "language": "en",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_27c41c385c35e62796a4",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s big problem is that he's always sabotaging himself",
+      "platform": "youtube",
+      "author_hash": "2fb63eb1a868d76b4761bd44",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1a21ca3dc45147a68739",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]s rage can be so extreme at times",
+      "platform": "youtube",
+      "author_hash": "2dedb1d76b1ff01353a8821f",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_7738cdc7dbb08a1304e6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Because the part which is wrong is the part which needs social cues to understand . And they can see the genius side of it not the part about what will people think of it .",
+      "platform": "youtube",
+      "author_hash": "b0840facf189321e86e19bd6",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_fedd0ee90cbd63ca0a8d",
+      "anonymous_id": "TARGET_A07",
+      "text": "3:20 How?! How did the other three not see what [TARGET] Saw?!?!😂😂😂",
+      "platform": "youtube",
+      "author_hash": "8d83acd4eacd01f52c29ef4c",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86be0a536a80fb62f21",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think that this is my favourite of your videos in your big bang playlist. Your psychological review of all the relationships in [TARGET]'s life including Joyce Kim is great. You have hit the nail on the head of [TARGET] seeking approval by his partner based his efforts to improve.",
+      "platform": "youtube",
+      "author_hash": "576d8177f91e9e4c39c10825",
+      "language": "en",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_7473d14624dd6f72ac6d",
+      "anonymous_id": "TARGET_A07",
+      "text": "Sheldon also allows [TARGET] to sit in his spot at the end of the Bat Jar Conjecture during Penny's trivial pursuit 'pop culture' competition....that doesn't seem to go with Sheldon's personality at all",
+      "platform": "stackexchange",
+      "author_hash": "58dbb04988a0e3b8b8a867de",
+      "language": "en",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e3933cd963cc4267e544",
+      "anonymous_id": "TARGET_A07",
+      "text": "the blackpill is real looks are the only thing that matter",
+      "platform": "youtube",
+      "author_hash": "b595133b37a1ffb5fd4b4356",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "tbbt_leonard:youtube_1a21ca3dc45147a68739",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]s rage can be so extreme at times",
+      "platform": "youtube",
+      "author_hash": "2dedb1d76b1ff01353a8821f",
+      "language": "en",
+      "score": 0.7198565,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.6923092,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_b852323119089848eb8b",
+      "anonymous_id": "TARGET_A07",
+      "text": "7:23 dude he was on the verge of tears.",
+      "platform": "youtube",
+      "author_hash": "7e73f91a4614574c957fb31a",
+      "language": "en",
+      "score": 0.6923092,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_cd45b3117e8616a27b7d",
+      "anonymous_id": "TARGET_A07",
+      "text": "like a gladiator😆😆😆😆",
+      "platform": "youtube",
+      "author_hash": "1be9d779792dc74fc1661e17",
+      "language": "en",
+      "score": 0.67542213,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_cec071b6ec2061efd7ab",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] \"I'm bleeding\" Sheldon \"LIKE A GLADIATOR!\"",
+      "platform": "youtube",
+      "author_hash": "9f9b8ede60a2c38eabf4c2c6",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f86358a2c63547dc5fe2",
+      "anonymous_id": "TARGET_A07",
+      "text": "This video made me realize I might be emotionally similar to [TARGET]. Always giving and loving but then not knowing how to respond when it’s reciprocated back equally",
+      "platform": "youtube",
+      "author_hash": "9959c89642cefd6cf9b6f4c5",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A07",
+      "text": "He was a bully. You can see [TARGET] and Sheldon's fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both [TARGET] and Sheldon came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_83ee3dfde08a8da38324",
+      "anonymous_id": "TARGET_A07",
+      "text": "It could be insecurity? A hoodie represents the ability to hide one's face, even if he doesn't normally hide it.",
+      "platform": "youtube",
+      "author_hash": "91f7184a0e6e9a8b9e54be41",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_f338025b0c04fdb00355",
+      "anonymous_id": "TARGET_A07",
+      "text": "The character archetype is known as \"The Straight Man.\" The character who is supposed to be largely unreactive to the antics of the cast, so as to allow the audience to relate and connect with the madness happening on stage. In other words, the psychological grounding rod.",
+      "platform": "youtube",
+      "author_hash": "c1f8f42ffa2938baae9d7b8a",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8c1b7670932132118f9a",
+      "anonymous_id": "TARGET_A07",
+      "text": "He wasn't boring; he was overbearing in every way possible. Ther is an example of this in the middle of the video: Are you feeling insecure? Because that's my thing and if you take it then I'm not sure what I'm bringing.\"",
+      "platform": "youtube",
+      "author_hash": "600905c5e2a99d890dc13213",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "tbbt_leonard:stackexchange_7473d14624dd6f72ac6d",
+      "anonymous_id": "TARGET_A07",
+      "text": "Sheldon also allows [TARGET] to sit in his spot at the end of the Bat Jar Conjecture during Penny's trivial pursuit 'pop culture' competition....that doesn't seem to go with Sheldon's personality at all",
+      "platform": "stackexchange",
+      "author_hash": "58dbb04988a0e3b8b8a867de",
+      "language": "en",
+      "score": 0.7756728,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_560eef14910738ceb676",
+      "anonymous_id": "TARGET_A07",
+      "text": "Yeah .. you should have put Sheldon in there. It makes total sense how he treats Sheldon. He's mean when Sheldon is likely to ruin his ability to connect to someone else but pretty obedient to Sheldon most of the time. As you said \"What do I have to do? \" is a key question. From the moment he met Sheldon, he was getting the answer to that question more often than not. That cleaning up Penny's with Sheldon instead of taking a stand and making Sheldon leave is part of it. Wow! Thanks for saying the things that made me think of that. And, I wrote all this BEFORE I saw you include Sheldon in the mix. LOL",
+      "platform": "youtube",
+      "author_hash": "397f1f3adf75ac59d05c62c0",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0b3de4e1f4897346fbc4",
+      "anonymous_id": "TARGET_A07",
+      "text": "He is Underconfident Mutual Innosecence Tolerative guy",
+      "platform": "youtube",
+      "author_hash": "eb0555d067c1f8bb4b98b0cf",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_aadf9895f8a737f2e44d",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] True, but in the case of him being treated badly by Penny, that’s mostly his fault, because he enabled and tolerated how awful and obnoxious she was because he wanted to get laid by her and he almost never stood up to her when he should have.",
+      "platform": "youtube",
+      "author_hash": "247a293abcb607556be361d2",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_413c16e15d266552ecd6",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] - Maybe he simply has a thing about people seeing his feet. It's not an especially rare phobia.",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0a56eb8d6b16ad00e743",
+      "anonymous_id": "TARGET_A07",
+      "text": "[USER] If that were true he could've let [TARGET] go boom in the elevator, problem solved. At this point he already considers [TARGET] something more than just a stranger because he's the only one that checklists all of Sheldon's requirements for a roommate. Plus it's probably somewhat in the roommate agreement which states that one of them have to save the other in case of an emergency.",
+      "platform": "youtube",
+      "author_hash": "d4bf2c31350b7151093f5161",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_573daf6970ffc2c894dc",
+      "anonymous_id": "TARGET_A07",
+      "text": "\"This seems pretty weird to me\" - that would be the specific reason, I'd think. A character \"quirk\" for one of the oddballs.",
+      "platform": "stackexchange",
+      "author_hash": "aa12c67c667bda25e8d3d908",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a9a4cb68245f2ea4baf6",
+      "anonymous_id": "TARGET_A07",
+      "text": "Sometimes [TARGET] the only one with liiitlee common sense",
+      "platform": "youtube",
+      "author_hash": "8b1556a962783adf7c60baf1",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_469e70810091b74a7dee",
+      "anonymous_id": "TARGET_A07",
+      "text": "I think the way he allows Sheldon treating him and misses him when he is not around too much adds on the equation",
+      "platform": "youtube",
+      "author_hash": "b5a92d188e81773b059b223b",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "tbbt_leonard:youtube_f7deee7d57f5d723f107",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] is the sarcastic genius, he knows how to mentally bully without hesitation 😂😂 Penny was the one who gave more confidence to be more sarcastic 😅",
+      "platform": "youtube",
+      "author_hash": "0f62a36a3de4058881705df1",
+      "language": "en",
+      "score": 0.7660137,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_0c0fd1b113290d336594",
+      "anonymous_id": "TARGET_A07",
+      "text": "like this guy",
+      "platform": "youtube",
+      "author_hash": "94829748d3484d3d5bff3277",
+      "language": "en",
+      "score": 0.76320153,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_1e7cfb999485ce108555",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET]'s character was like the romantic parts of JD from Scrubs, and Ted from HIMYM, but all the time, and none of the asshole parts.",
+      "platform": "youtube",
+      "author_hash": "7ea36bb64dc915672570d315",
+      "language": "en",
+      "score": 0.75606954,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_85797adac86ae02d3ff8",
+      "anonymous_id": "TARGET_A07",
+      "text": "I love [TARGET]'s sarcasm",
+      "platform": "youtube",
+      "author_hash": "573150d0f3f94c99ffa42f09",
+      "language": "en",
+      "score": 0.72921133,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_8c1b7670932132118f9a",
+      "anonymous_id": "TARGET_A07",
+      "text": "He wasn't boring; he was overbearing in every way possible. Ther is an example of this in the middle of the video: Are you feeling insecure? Because that's my thing and if you take it then I'm not sure what I'm bringing.\"",
+      "platform": "youtube",
+      "author_hash": "600905c5e2a99d890dc13213",
+      "language": "en",
+      "score": 0.7214293,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_155abe30ccb900d85978",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] is the guy who has that vulnerable streak which makes the ladies want to look after and love him. He does get the girl frequently despite the things that come out of his mouth that spoil the moment. Classic nerd in glasses but adorable all the same The glue that holds the gang together",
+      "platform": "youtube",
+      "author_hash": "a1778d78573300bf2fe4a97b",
+      "language": "en",
+      "score": 0.68897086,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_e41edfc6e008d800ac6e",
+      "anonymous_id": "TARGET_A07",
+      "text": "It's probably because Lenard is the only one who understands social cues",
+      "platform": "youtube",
+      "author_hash": "754a738acfd085adcca5f0e2",
+      "language": "en",
+      "score": 0.6856128,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:stackexchange_f36c3fbb74582ffca432",
+      "anonymous_id": "TARGET_A07",
+      "text": "He might have “George” like character traits but in terms of relationship dynamics, [TARGET] is the Seinfeld of the group, Sheldon is Kramer, Howard/Raj is George (sometimes Newman) and Penny is Elaine, it’s the same character format. Oddball, Nitwit, female perspective and the standard lamp shading straight man.",
+      "platform": "stackexchange",
+      "author_hash": "52bb56118ba8c1c388de3c34",
+      "language": "en",
+      "score": 0.67198735,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_a5f4859b6ec4a27f71d9",
+      "anonymous_id": "TARGET_A07",
+      "text": "This actually sheds more light about his relationship with Sheldon. I always found it interesting how Sheldon is so much like Beverly. One eg that comes to mind is how Sheldon has to quiz [TARGET] to make sure he gets his takeout order right and hoe Bev does the same with her tea.",
+      "platform": "youtube",
+      "author_hash": "dcd204832090ea6cdb4cb30c",
+      "language": "en",
+      "score": 0.66680056,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_leonard:youtube_99b5af01a28588ad6278",
+      "anonymous_id": "TARGET_A07",
+      "text": "[TARGET] can really move his eyebrows in so many angles... First time I'm seeing a person do that.. Like I mean the sad eyebrow, angry, confused, curious etc 😂",
+      "platform": "youtube",
+      "author_hash": "a7839fb91bfa0446c0f5c814",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

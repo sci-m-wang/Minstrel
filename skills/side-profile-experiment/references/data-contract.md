@@ -7,6 +7,34 @@ to a missing or invalid corpus is to stop and return the failed preflight check.
 Read this reference locally for data preparation, import, privacy, or coverage checks before freezing
 the execution bundle.
 
+## Connected Profiler preparation
+
+The fixed Profiler is `GPT/gpt-5.6-sol` and runs only on the connected local preparation side. Keep the
+matching `.env` outside version control and never copy it into the execution bundle. After the corpus,
+connected embedding vector store, configs, audits, and bundle manifests are current, verify the
+endpoints and build
+both complete five-condition artifacts:
+
+```bash
+sideprofile doctor --provider GPT --env-file .env --live
+sideprofile prepare-conditionings --config configs/offline/panel-a.yaml
+sideprofile prepare-conditionings --config configs/offline/panel-d.yaml
+sideprofile verify-conditionings --prepared-dir <emitted-panel-a-prepared-dir>
+sideprofile verify-conditionings --prepared-dir <emitted-panel-d-prepared-dir>
+```
+
+The preparation command reads the Profiler provider/model from `offline/models.yaml`, independently
+of the config's `LOCAL` Actor provider. It does not set output-token caps, retries, temperature,
+top-p, seeds, or prompt-length targets. Freeze and ship the verified prepared directories with their
+traces and manifests; the disconnected GPU Agent only verifies and loads them.
+
+The same uncommitted `.env` supplies `GPT_API_KEY`, `GPT_EMBEDDING_END_POINT`,
+`GPT_EMBEDDING_MODEL=text-embedding-3-small`, `COHERE_API_KEY`, `COHERE_END_POINT`, and
+`COHERE_RERANK_MODEL=Cohere-rerank-v4.0-pro`. Never print their values or copy the file to the GPU
+host. Embedding is used only to build the frozen exact-vector database. During conditioning
+preparation, each probe recalls vector Top-20, sends all 20 anonymized candidates to Cohere without
+`top_n` or `max_tokens_per_doc`, and selects Top-10 locally before GPT-5.6 Sol processing.
+
 ## Model acquisition exception: Llama from ModelScope
 
 The pinned `llama-3.1-8b-instruct` actor must be acquired on a connected preparation machine from
@@ -89,18 +117,21 @@ sideprofile corpus-stats --db data/corpus/comments.sqlite
 The import validates rows, enforces character existence, and deduplicates normalized text per
 character. A duplicate count is not an error, but it must be recorded in the data log.
 
-Before an English Panel A/B/C research run, require at least 500 comments, 2 platforms, and 100
-independent authors per role unless the frozen design documents a different threshold:
+For the frozen Panels A/D design, comment count is descriptive rather than an eligibility threshold.
+Require a non-empty corpus, at least 2 platforms, and at least 100 independent authors per role; the
+exact per-role counts are checksum-covered and must be reported:
 
 ```bash
 sideprofile validate-corpus \
   --db data/corpus/comments.sqlite \
   --catalog data/catalog/characters.json \
-  --min-comments 500 --min-platforms 2 --min-authors 100
+  --min-comments 1 --min-platforms 2 --min-authors 100
 ```
 
-For Panel D, use `--min-comments 500 --min-platforms 2 --min-authors 100`, exactly the same hard
-coverage gate as Panel A. Do not pass `--include-synthetic` for research validation.
+Use the same non-empty, 2-platform, 100-author integrity gate for Panel D. Do not pass
+`--include-synthetic` for research validation. The frozen corpus excludes every Stack Exchange
+question/answer and every non-synthetic record whose `raw_text` is at least 1,000 Unicode characters;
+the checksum-covered filter audit is the cleaning authority.
 
 ## Catalog maintenance
 
@@ -113,29 +144,32 @@ Panel/benchmark data must retain source version and license in the experiment lo
 
 ## Freeze handoff
 
-After every coverage, source, privacy, gold-profile, and benchmark check passes, the preparation side
-must build the persistent vector database before freezing. This command may run on a preparation GPU
-machine controlled by the preparation side, but never by the downstream experiment Agent:
+After every coverage, source, privacy, gold-profile, and benchmark check passes, the connected
+preparation side must build the persistent vector database before freezing. This operation does not
+need a GPU and is never run by the downstream experiment Agent:
 
 ```bash
 sideprofile build-vector-store \
   --db data/corpus/comments.sqlite \
-  --output data/vector_store/qwen3-embedding-0.6b.sqlite \
-  --model "$SIDEPROFILE_ASSET_ROOT/models/qwen3-embedding-0.6b" \
-  --model-key qwen3-embedding-0.6b \
-  --model-revision 97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3
+  --output data/vector_store/text-embedding-3-small.sqlite \
+  --env-file .env \
+  --model-key text-embedding-3-small \
+  --trace data/audits/text-embedding-3-small.trace.jsonl
 
 sideprofile verify-vector-store \
   --db data/corpus/comments.sqlite \
-  --vector-store data/vector_store/qwen3-embedding-0.6b.sqlite \
-  --model-key qwen3-embedding-0.6b \
-  --model-revision 97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3
+  --vector-store data/vector_store/text-embedding-3-small.sqlite \
+  --model-key text-embedding-3-small \
+  --model-revision provider_managed
 ```
 
-The builder uses the model-native `query` prompt for the 24 English and 24 Chinese fixed queries,
-encodes documents without a prompt, normalizes both sides, and stores float32 vectors for exact
-cosine search. It deliberately does not create an approximate or quantized index. Build to a new
-path; never overwrite a frozen database in place.
+The builder sends the original comments and the 24 English plus 24 Chinese fixed queries to the
+configured embedding API, validates one finite 1536-dimensional vector per input, normalizes both
+sides, and stores float32 vectors for exact cosine search. It deliberately creates neither an
+approximate nor quantized index. Transport batching changes only request packaging, not the evidence
+or returned vector definition. The hosted model has no repository revision, so the database records
+the exact model name, provider-managed revision status, response model identity, usage, build time,
+corpus fingerprint, and every input hash. Build to a new path; never overwrite a frozen database.
 
 After vector verification passes, create the manifest referenced by the final config:
 

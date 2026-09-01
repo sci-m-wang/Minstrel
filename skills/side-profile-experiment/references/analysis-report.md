@@ -8,7 +8,8 @@ Open `manifest.json` first. A run is not eligible for research claims if any of 
 
 - `research_valid` is false or `include_synthetic` is true;
 - the requested role lacks the documented corpus thresholds;
-- the research config required hybrid retrieval but `retrieval_mode` is `bm25`;
+- the prepared retrieval mode, service identities, Top-20 candidate sets, Cohere scores, or Top-10
+  outputs differ from the frozen `vector_rerank` contract;
 - Actor/profiling/judge model versions or decoding differ across controlled conditions;
 - official benchmark scoring is missing for a claimed benchmark result;
 - identity leakage or invalid Cue citations are unresolved.
@@ -29,7 +30,6 @@ Treat missing cells as missing, never as zero.
 For each panel, report condition mean, standard deviation or confidence interval, sample count, roles,
 Actor, evaluator, replicate count, and corpus coverage. Internal condition analyses are:
 
-- Ours vs Raw Comments: value of reconstruction;
 - Ours vs Generic Summary: value beyond summarization;
 - Ours vs Personality Only: person model beyond traits;
 - Ours vs Anonymous Gold Profile: recovered fraction of oracle persona information.
@@ -63,9 +63,11 @@ Produce a self-contained Markdown report with:
 5. Ablations: coverage, breadth/depth, and identity leakage only when actually run.
 6. Error and evidence analysis, including contested and unknown cues.
 7. Cost: LLM calls/tokens, wall time, failures, and retries.
-8. Limitations: platform selection bias, social-perception bias, model judge limits, licensing, and
+8. Context audit: maximum observed prompt/completion/total tokens and minimum remaining native
+   context for per-probe Cue, Summary, Personality, aggregation, Person Model, and Actor calls.
+9. Limitations: platform selection bias, social-perception bias, model judge limits, licensing, and
    benchmark contamination risk.
-9. Reproduction commands and immutable artifact paths.
+10. Reproduction commands and immutable artifact paths.
 
 Never describe a smoke score as model quality, claim causality from an uncontrolled comparison, or
 replace a missing official score with the built-in GPT judge without an explicit auxiliary label.

@@ -134,7 +134,7 @@ def main() -> int:
             bool(wheel_manifest.get("files")) and not wheel_failures,
             "; ".join(wheel_failures) or f"{len(wheel_manifest.get('files', []))} files",
         )
-    for module in ("sideprofile", "vllm", "torch", "transformers", "sentence_transformers"):
+    for module in ("sideprofile", "vllm", "torch", "transformers"):
         check(f"python:{module}", importlib.util.find_spec(module) is not None, module)
     check(
         "text_vllm_launcher",

@@ -13,9 +13,7 @@ data:
     min_authors: 10
 
 retrieval:
-  mode: bm25
-  bm25_top_k: 10
-  dense_top_k: 10
+  mode: deterministic_smoke
   final_top_k: 10
 
 profiling:

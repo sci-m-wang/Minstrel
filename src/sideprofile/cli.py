@@ -6,12 +6,18 @@ import sys
 from pathlib import Path
 
 from .bundle import build_bundle_manifest, verify_bundle_manifest
+from .connected_retrieval import (
+    CohereReranker,
+    EmbeddingSettings,
+    OpenAIEmbeddingClient,
+    RerankerSettings,
+)
 from .corpus import CommentCorpus, load_character_catalog, load_comments
 from .llm import LLMClient, ProviderSettings
 from .pipeline import ExperimentRunner, ProfileBuilder
 from .probes import select_probes
 from .report import build_report
-from .retrieval import HybridRetriever
+from .retrieval import build_retriever
 from .staged import ActorRunner, ConditioningPreparer, verify_prepared
 from .vector_store import build_vector_store, verify_vector_store
 
@@ -44,17 +50,28 @@ def import_comments(args: argparse.Namespace) -> int:
 
 
 def corpus_stats(args: argparse.Namespace) -> int:
-    with CommentCorpus(args.db) as corpus:
+    with CommentCorpus(args.db, read_only=True) as corpus:
         corpus.initialize()
         _json(corpus.stats(include_synthetic=args.include_synthetic))
     return 0
 
 
 def validate_corpus(args: argparse.Namespace) -> int:
-    with CommentCorpus(args.db) as corpus:
+    with CommentCorpus(args.db, read_only=True) as corpus:
         corpus.initialize()
         if args.catalog:
-            corpus.add_characters(load_character_catalog(args.catalog))
+            catalog_ids = {
+                spec.character_id for spec in load_character_catalog(args.catalog)
+            }
+            missing = [
+                item
+                for item in (args.character_ids or "").split(",")
+                if item.strip() and item.strip() not in catalog_ids
+            ]
+            if missing:
+                raise RuntimeError(
+                    "catalog is missing configured characters: " + ", ".join(missing)
+                )
         result = corpus.validate_targets(
             min_comments=args.min_comments,
             min_platforms=args.min_platforms,
@@ -86,18 +103,67 @@ def doctor(args: argparse.Namespace) -> int:
     return 0
 
 
+def doctor_connected_retrieval(args: argparse.Namespace) -> int:
+    embedding_settings = EmbeddingSettings.from_env(args.env_file)
+    reranker_settings = RerankerSettings.from_env(args.env_file)
+    embedding = OpenAIEmbeddingClient(embedding_settings)
+    vectors = embedding.embed(
+        [
+            "The person restores structure when plans change unexpectedly.",
+            "这个人在计划突然改变时，会试图恢复秩序。",
+        ]
+    )
+    reranker = CohereReranker(reranker_settings)
+    scores = reranker.scores(
+        "How does this person respond when a plan is disrupted? 计划被打乱时会怎么做？",
+        [
+            "They reorganize the schedule and follow the revised plan.",
+            "这个人会重新安排计划，再遵循新的顺序。",
+            "They enjoy tea while listening to music.",
+        ],
+    )
+    result = {
+        "status": "ok",
+        "embedding": {
+            "provider": embedding_settings.provider,
+            "model": embedding_settings.model,
+            "vectors": len(vectors),
+            "dimensions": sorted({len(vector) for vector in vectors}),
+            "usage": embedding.usage,
+        },
+        "reranker": {
+            "provider": reranker_settings.provider,
+            "model": reranker_settings.model,
+            "documents": len(scores),
+            "ranking": sorted(range(len(scores)), key=lambda index: -scores[index]),
+            "scores": scores,
+            "usage": reranker.usage,
+            "request_contract": "all_candidates_without_top_n_or_max_tokens_per_doc",
+        },
+    }
+    if args.output:
+        output = Path(args.output)
+        output.parent.mkdir(parents=True, exist_ok=True)
+        output.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    _json(result)
+    return 0
+
+
 def build_profile_command(args: argparse.Namespace) -> int:
     settings = ProviderSettings.from_env(args.provider, args.env_file)
     llm = LLMClient(settings, trace_path=args.trace)
-    retriever = HybridRetriever(
+    retriever = build_retriever(
         mode=args.retrieval,
         vector_store=args.vector_store,
-        embedding_model_key=args.embedding_model_key,
+        embedding_model_key=args.embedding_model,
         reranker_model=args.reranker_model,
+        env_file=args.env_file,
+        rerank_trace_path=args.rerank_trace,
+        candidate_top_k=args.candidate_top_k,
         final_top_k=args.top_k,
     )
     probes = select_probes(args.probes.split(",") if args.probes else None)
-    with CommentCorpus(args.db) as corpus:
+    with CommentCorpus(args.db, read_only=True) as corpus:
         builder = ProfileBuilder(
             corpus,
             llm,
@@ -125,13 +191,20 @@ def build_profile_command(args: argparse.Namespace) -> int:
 
 
 def build_vector_store_command(args: argparse.Namespace) -> int:
+    settings = EmbeddingSettings.from_env(args.env_file)
+    if args.model_key and args.model_key != settings.model:
+        raise RuntimeError(
+            f"configured embedding model {settings.model!r} differs from {args.model_key!r}"
+        )
+    trace_path = args.trace or str(Path(args.output).with_suffix(".embedding.trace.jsonl"))
+    client = OpenAIEmbeddingClient(settings, trace_path=trace_path)
     result = build_vector_store(
         corpus_db=args.db,
         output_path=args.output,
-        model_path=args.model,
-        model_key=args.model_key,
-        model_revision=args.model_revision,
+        client=client,
+        model_key=settings.model,
     )
+    result["trace"] = str(Path(trace_path).resolve())
     _json(result)
     return 0
 
@@ -278,7 +351,7 @@ def make_parser() -> argparse.ArgumentParser:
     command = sub.add_parser("validate-corpus", help="check coverage targets before a research run")
     command.add_argument("--db", required=True)
     command.add_argument("--catalog")
-    command.add_argument("--min-comments", type=int, default=500)
+    command.add_argument("--min-comments", type=int, default=1)
     command.add_argument("--min-platforms", type=int, default=2)
     command.add_argument("--min-authors", type=int, default=100)
     command.add_argument(
@@ -294,16 +367,30 @@ def make_parser() -> argparse.ArgumentParser:
     command.add_argument("--live", action="store_true")
     command.set_defaults(func=doctor)
 
+    command = sub.add_parser(
+        "doctor-connected-retrieval",
+        help="make one live bilingual embedding and reranking contract test",
+    )
+    command.add_argument("--env-file", default=".env")
+    command.add_argument("--output")
+    command.set_defaults(func=doctor_connected_retrieval)
+
     command = sub.add_parser("build-profile", help="build one identity-blind person model")
     command.add_argument("--db", required=True)
     command.add_argument("--character-id", required=True)
     command.add_argument("--output", required=True)
     command.add_argument("--provider", default="GPT")
     command.add_argument("--env-file", default=".env")
-    command.add_argument("--retrieval", choices=["auto", "bm25", "hybrid"], default="auto")
+    command.add_argument(
+        "--retrieval",
+        choices=["vector_rerank", "deterministic_smoke"],
+        default="vector_rerank",
+    )
     command.add_argument("--vector-store")
-    command.add_argument("--embedding-model-key", default="qwen3-embedding-0.6b")
-    command.add_argument("--reranker-model")
+    command.add_argument("--embedding-model", default="text-embedding-3-small")
+    command.add_argument("--reranker-model", default="Cohere-rerank-v4.0-pro")
+    command.add_argument("--rerank-trace")
+    command.add_argument("--candidate-top-k", type=int, default=20)
     command.add_argument("--top-k", type=int, default=10)
     command.add_argument("--probes", help="comma-separated probe IDs; default is all 24")
     command.add_argument("--trace")
@@ -312,13 +399,13 @@ def make_parser() -> argparse.ArgumentParser:
 
     command = sub.add_parser(
         "build-vector-store",
-        help="precompute the immutable exact Qwen3 comment/query vector database",
+        help="build the immutable exact OpenAI comment/query vector database locally",
     )
     command.add_argument("--db", required=True)
     command.add_argument("--output", required=True)
-    command.add_argument("--model", required=True)
-    command.add_argument("--model-key", required=True)
-    command.add_argument("--model-revision", required=True)
+    command.add_argument("--env-file", default=".env")
+    command.add_argument("--model-key")
+    command.add_argument("--trace")
     command.set_defaults(func=build_vector_store_command)
 
     command = sub.add_parser(
@@ -337,7 +424,7 @@ def make_parser() -> argparse.ArgumentParser:
 
     command = sub.add_parser(
         "prepare-conditionings",
-        help="build and checksum the six internal conditions with the fixed profiler",
+        help="build and checksum five conditions with the registry's connected profiler",
     )
     command.add_argument("--config", required=True)
     command.set_defaults(func=prepare_conditionings)

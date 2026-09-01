@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-01T03:05:28.922283+00:00",
+  "operation": "verified_deletion_only_vector_subset",
+  "model_key": "qwen3-embedding-0.6b",
+  "model_revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+  "source_store": "data/private/recovery/2026-09-01-pre-filter/qwen3-embedding-0.6b.sqlite",
+  "source_store_sha256": "387093b02b263b2e0490bde40a4997875ca5b1c8b12b42b8162a1cb70609a291",
+  "source_corpus": "data/private/recovery/2026-09-01-pre-filter/comments.sqlite",
+  "source_documents": 10540,
+  "target_corpus": "data/corpus/comments.sqlite",
+  "target_documents": 8673,
+  "removed_documents": 1867,
+  "retained_vector_bytes_unchanged": true,
+  "query_embeddings_unchanged": true,
+  "output": "data/vector_store/qwen3-embedding-0.6b.sqlite",
+  "output_sha256": "630fdf99c2572631ea151c9bf8c83e744edd2bd0fbe02e42e22085696bdb8c50",
+  "verification": {
+    "ok": true,
+    "path": "data/vector_store/qwen3-embedding-0.6b.sqlite",
+    "model_key": "qwen3-embedding-0.6b",
+    "model_revision": "97b0c614be4d77ee51c0cef4e5f07c00f9eb65b3",
+    "documents": "8673",
+    "queries": "48",
+    "dimension": "1024",
+    "failures": []
+  }
+}

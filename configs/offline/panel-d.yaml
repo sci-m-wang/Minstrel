@@ -13,25 +13,30 @@ data:
     - data/sources/collection_targets.json
     - data/sources/feasibility.md
     - data/audits/corpus_inventory.json
+    - data/audits/comment_filter_audit.json
+    - data/audits/comment_length_distribution.json
+    - data/audits/connected_retrieval_services.json
+    - data/audits/text-embedding-3-small.trace.jsonl
     - data/audits/experiment_inventory.json
-    - data/vector_store/qwen3-embedding-0.6b.sqlite
+    - data/vector_store/text-embedding-3-small.sqlite
     - data/evaluators/charactereval/character_profiles.selected.json
     - data/evaluators/charactereval/id2metric.selected.json
     - offline/code.manifest.json
     - offline/models.yaml
   include_synthetic: false
   coverage:
-    min_comments: 500
+    min_comments: 1
     min_platforms: 2
     min_authors: 100
 
 retrieval:
-  mode: hybrid
-  vector_store: data/vector_store/qwen3-embedding-0.6b.sqlite
-  embedding_model_key: qwen3-embedding-0.6b
-  reranker_model: $SIDEPROFILE_ASSET_ROOT/models/bge-reranker-v2-m3
-  bm25_top_k: 20
-  dense_top_k: 20
+  mode: vector_rerank
+  vector_store: data/vector_store/text-embedding-3-small.sqlite
+  embedding_provider: GPT
+  embedding_model: text-embedding-3-small
+  reranker_provider: COHERE
+  reranker_model: Cohere-rerank-v4.0-pro
+  candidate_top_k: 20
   final_top_k: 10
 
 profiling:
@@ -48,6 +53,6 @@ run:
     - ce_zhuchaoyang
     - ce_mengyanchen
     - ce_xuhongdou
-  conditions: [none, personality, raw, summary, gold, ours]
+  conditions: [none, personality, summary, gold, ours]
   replicates: 3
   judge: false

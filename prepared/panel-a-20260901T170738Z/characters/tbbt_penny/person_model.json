@@ -1,0 +1,113 @@
+{
+  "anonymous_id": "TARGET_A08",
+  "sections": {
+    "stable_tendencies": [
+      "TARGET_A08 tends to improvise strategically and think independently when navigating difficult situations. [D1-Q1-C01]",
+      "TARGET_A08 can rapidly retain and explain complex interpersonal routines, suggesting capabilities that observers may underestimate. [D7-Q3-C03]",
+      "TARGET_A08 generally stands ground and may actively challenge others rather than withdraw under confrontation. [D8-Q1-C01]"
+    ],
+    "motives_and_goals": [
+      "TARGET_A08 is more likely to engage with unfamiliar or technical material when it connects to personal interest or a concrete reward rather than abstract learning alone. [D1-Q3-C03]"
+    ],
+    "value_priorities": [],
+    "cognitive_appraisal_model": [
+      "Within a familiar peer group, TARGET_A08 appears to treat differences in academic ability as compatible with equal social standing rather than as determinants of self-worth. [D6-Q1-C03]",
+      "When sufficiently engaged, TARGET_A08 can grasp technical material despite limited baseline interest or background. [D8-Q2-C01]"
+    ],
+    "affective_dynamics": [],
+    "interpersonal_patterns": [
+      "TARGET_A08 challenges people with greater recognized intellectual expertise rather than automatically deferring to them. [D4-Q2-C02]",
+      "TARGET_A08 alternates between confrontational or harsh conduct and indirectly expressed care, so surface sharpness does not consistently indicate absence of attachment. [D7-Q3-C01]",
+      "TARGET_A08 appears socially assured and capable in observed interactions, although this assessment comes from third parties rather than direct self-description. [D7-Q2-C01]"
+    ],
+    "self_narrative_themes": [],
+    "situation_behavior_signatures": [
+      "In difficult situations, TARGET_A08 tends toward strategic improvisation rather than exclusive reliance on fixed plans. [D1-Q1-C01]",
+      "When technical content becomes personally interesting or concretely rewarding, TARGET_A08 shifts from low engagement to demonstrable comprehension. [D1-Q3-C03; D8-Q2-C01]",
+      "When confronted or intellectually challenged, TARGET_A08 is more likely to answer directly and hold an equal footing than to defer or retreat. [D4-Q2-C02; D8-Q1-C01]"
+    ],
+    "expressive_signature": [
+      "TARGET_A08 produces quick, improvised humor and rapid wordplay in the moment. [D8-Q3-C01]",
+      "TARGET_A08's humor often uses sharp retorts, sarcasm, and pointed vocal delivery. [D8-Q3-C03]"
+    ],
+    "contradictions_boundary_conditions": [
+      "Demonstrated technical comprehension is engagement-dependent and does not establish broad or sustained interest in technical subjects. [D1-Q3-C03; D8-Q2-C01]",
+      "Confidence about academic differences is documented within a familiar group and should not be generalized to strangers, authorities, or competitive settings. [D6-Q1-C03]",
+      "TARGET_A08's direct, challenging style coexists with caring behavior, making either a uniformly harsh or uniformly warm characterization incomplete. [D7-Q3-C01]",
+      "Observers may let TARGET_A08's appearance influence how they notice mistakes or evaluate social ability, but this indicates observer bias rather than TARGET_A08's own self-concept. [D7-Q3-C02]"
+    ],
+    "unknown_contested": [
+      "It is disputed whether TARGET_A08 consistently pushes others beyond their comfort zones; supporting descriptions are offset by counterevidence. [D1-Q3-C02]",
+      "Reliance on practical, situational know-how is plausible but contested and should not be treated as exclusive of other forms of reasoning. [D1-Q3-C04]",
+      "Whether TARGET_A08 consistently resolves others' social problems and protects close relationships is contested by a claim of difficulty maintaining relationships. [D2-Q1-C01]",
+      "Protecting vulnerable friends and enforcing respectful reciprocity may be important, but some boundary enforcement is perceived as unfair or bullying. [D3-Q1-C01]",
+      "Accounts conflict over whether TARGET_A08 prioritizes self-interest or increasingly caring, helpful relationships, including whether this changed over time. [D3-Q2-C01; D3-Q2-C02]",
+      "It is unclear whether difficulty with academic material primarily reflects low interest and negative learning associations rather than ability. [D4-Q2-C03]",
+      "Verbal minimization of strong feelings and emotionally legible facial expression are both reported, but counterevidence prevents a firm generalization. [D5-Q2-C01; D5-Q2-C02]",
+      "Reports that TARGET_A08 uses alcohol to tolerate stressful social interactions are weak and uncorroborated. [D5-Q3-C01]",
+      "Claims that TARGET_A08 commonly supports others through warmth and tailored practical help are contested by observations of sharpness or reduced emotional legibility. [D6-Q2-C01]",
+      "Direct argument and visible annoyance during conflict are strongly reported, but supportive conduct supplies context-dependent counterevidence. [D6-Q2-C02]",
+      "A motive of deliberate indifference is poorly supported and contradicted by descriptions of caring behavior. [D6-Q2-C03]",
+      "A current self-image centered on caring and regret for past unkindness is possible but contested by reports of continuing harsh behavior. [D7-Q2-C02]",
+      "Evidence that TARGET_A08 personally maintains an appearance-based or entitled self-image is insufficient. [D7-Q2-C03]",
+      "Possible asymmetry around access to personal space is weakly supported by a single reported reversal and cannot establish a general boundary pattern. [D1-Q1-C03; D2-Q2-C01; D8-Q2-C03]",
+      "Possible tendencies involving routine-maintenance neglect, animal-risk caution, recovery through rapport, impatience with frustrating partners, financial motivation, intimacy, controlled responses under tension, deadpan delivery, analogies, and nonverbal signaling remain context-specific or weakly supported. [D1-Q1-C04; D1-Q3-C01; D4-Q2-C01; D5-Q1-C01; D5-Q1-C02; D5-Q1-C03; D5-Q3-C02; D8-Q1-C02; D8-Q1-C03; D8-Q2-C02; D8-Q3-C02; D8-Q3-C04; D8-Q3-C05]"
+    ]
+  },
+  "cue_ids": [
+    "D1-Q1-C01",
+    "D1-Q1-C02",
+    "D1-Q1-C03",
+    "D1-Q1-C04",
+    "D1-Q3-C01",
+    "D1-Q3-C02",
+    "D1-Q3-C03",
+    "D1-Q3-C04",
+    "D2-Q1-C01",
+    "D2-Q2-C01",
+    "D3-Q1-C01",
+    "D3-Q2-C01",
+    "D3-Q2-C02",
+    "D3-Q3-C01",
+    "D4-Q2-C01",
+    "D4-Q2-C02",
+    "D4-Q2-C03",
+    "D4-Q3-C01",
+    "D5-Q1-C01",
+    "D5-Q1-C02",
+    "D5-Q1-C03",
+    "D5-Q2-C01",
+    "D5-Q2-C02",
+    "D5-Q2-C03",
+    "D5-Q3-C01",
+    "D5-Q3-C02",
+    "D5-Q3-C03",
+    "D6-Q1-C01",
+    "D6-Q1-C02",
+    "D6-Q1-C03",
+    "D6-Q2-C01",
+    "D6-Q2-C02",
+    "D6-Q2-C03",
+    "D6-Q3-C01",
+    "D6-Q3-C02",
+    "D7-Q2-C01",
+    "D7-Q2-C02",
+    "D7-Q2-C03",
+    "D7-Q3-C01",
+    "D7-Q3-C02",
+    "D7-Q3-C03",
+    "D8-Q1-C01",
+    "D8-Q1-C02",
+    "D8-Q1-C03",
+    "D8-Q2-C01",
+    "D8-Q2-C02",
+    "D8-Q2-C03",
+    "D8-Q3-C01",
+    "D8-Q3-C02",
+    "D8-Q3-C03",
+    "D8-Q3-C04",
+    "D8-Q3-C05"
+  ],
+  "model_name": "gpt-5.6-sol",
+  "created_at": "2026-09-01T18:48:11.028494+00:00"
+}

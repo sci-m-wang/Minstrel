@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.7198565,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.7005671,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_584c3333d817c098da62",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] he calculated on basis of the data he had , he doesn’t have the data what she does during her day time ……",
+      "platform": "youtube",
+      "author_hash": "96141731ba78b80d8f435e7d",
+      "language": "en",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_999d9ba1ce8494443e01",
+      "anonymous_id": "TARGET_A06",
+      "text": "ADHD is like that.",
+      "platform": "youtube",
+      "author_hash": "28c2300736ef7acd85610bef",
+      "language": "en",
+      "score": 0.66506255,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_df95059716f3b1f861b3",
+      "anonymous_id": "TARGET_A06",
+      "text": "In addition to what Walt already said, perfectly knowing the driving code (that [TARGET] would definitely be capable) is not enough: because many other drivers don't know very well all the rules the driving code, or don't respect them all the time, driving requires flexibility and adaptation to unexpected event. Things that would totally make [TARGET] anxious.",
+      "platform": "stackexchange",
+      "author_hash": "0ef5c3d2a7ec6239e017ee74",
+      "language": "en",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_84f7c9e90d12238096d3",
+      "anonymous_id": "TARGET_A06",
+      "text": "And, of course, he's scared shitless . Not a good precondition for safe driving. Every unexpected thing on the road tends to result in panic, something you really don't want when you're driving. While [TARGET] has demonstrated calm in the past, it certainly isn't there when he actually feels physically threatened - and even at relatively slow speeds, cars are quite dangerous.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_d2648a274d61c16576d5",
+      "anonymous_id": "TARGET_A06",
+      "text": "I just realized that [TARGET] was actually being thoughtful to Amy when he brought out the picture. First is that he already presumed she would hold him to the agreement, second is that he wouldn't try too hard to refuse the agreement, third is that he correctly predicted that he would not be emotionally capable of not pouting, and finally took the time, energy, and trouble of printing out a picture precisely for that specific scenario. That's way more complex than just putting on a smiling face.",
+      "platform": "youtube",
+      "author_hash": "556fc308bba0b42a123bda9f",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_1634ce0ac8df3cb3a32e",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - There are a bunch of times when [TARGET] ignores people sitting in his spot. I'm guessing it's either a directing goof (likely) or that [TARGET] has some rules/regulations guiding who can sit in his spot and when that we simply aren't privy to (also quite likely).",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_85d47f0aa4ffa0bbc32d",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's the same episode and he does say \"funny im greeted by the acquaintance \"",
+      "platform": "youtube",
+      "author_hash": "8bc4f8daa70e4233be8cea59",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.38269496,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_4b8e767e0bb08e272c03",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] bet, thank you, the mannerisms always seemed very different lol. i assumed he wouls grow more and more into bbt [TARGET] but it did feel very much like 2 differing smart people to me",
+      "platform": "youtube",
+      "author_hash": "2575ce640179af82de6b67b0",
+      "language": "en",
+      "score": 0.37901053,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.35720864,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_da7c8b3827ec2f9c1e1c",
+      "anonymous_id": "TARGET_A06",
+      "text": "You say involves his enthusiasm concerning these idols of him , so lemme ry to grasp this one. what you mean by that is, [TARGET] being social weirdo, he pushes the human contact with celebs that he adore too much and get into trouble because of that. am I getting that right? Anyway, I really appreciate your answer,this was sitting answer-less for long time",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.35006577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_7cd430d3cce4ad2c8f53",
+      "anonymous_id": "TARGET_A06",
+      "text": "Or… [TARGET]’s friend list is in the order he met them.",
+      "platform": "youtube",
+      "author_hash": "1aa3f08058771d854cd99449",
+      "language": "en",
+      "score": 0.35006577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.3429895,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.33947715,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_e22b4abfb42107e198d1",
+      "anonymous_id": "TARGET_A06",
+      "text": "Why doesn’t he look like [TARGET] at 5:30 ?",
+      "platform": "youtube",
+      "author_hash": "b4f710af15ce51745cbc2c67",
+      "language": "en",
+      "score": 0.33250543,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_df95059716f3b1f861b3",
+      "anonymous_id": "TARGET_A06",
+      "text": "In addition to what Walt already said, perfectly knowing the driving code (that [TARGET] would definitely be capable) is not enough: because many other drivers don't know very well all the rules the driving code, or don't respect them all the time, driving requires flexibility and adaptation to unexpected event. Things that would totally make [TARGET] anxious.",
+      "platform": "stackexchange",
+      "author_hash": "0ef5c3d2a7ec6239e017ee74",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_84f7c9e90d12238096d3",
+      "anonymous_id": "TARGET_A06",
+      "text": "And, of course, he's scared shitless . Not a good precondition for safe driving. Every unexpected thing on the road tends to result in panic, something you really don't want when you're driving. While [TARGET] has demonstrated calm in the past, it certainly isn't there when he actually feels physically threatened - and even at relatively slow speeds, cars are quite dangerous.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_fffc0bed47181dad0764",
+      "anonymous_id": "TARGET_A06",
+      "text": "Well, I can still get pretty scared/excited when playing video games - they do try to evoke \"real\" danger. The anxiety tends to start when you have to quickly react to something unexpected (and sometimes even expected :D) - it doesn't really matter whether you're in real danger or imagined danger; your brain makes it real... I'd expect that if you'd remove all the other cars in the simulator, he'd be able to drive around just fine - add the cars, and panic takes over. There's just too much to handle.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_5ca71d33056126981d2d",
+      "anonymous_id": "TARGET_A06",
+      "text": "I do something similar as the dice thing. My autism sometimes makes me really indecisive. Especially about small things. Something simple like “what coffee creamer do I want?” will trip me up for 10 minutes. I can narrow down dozens of options down to two but then get stuck. So my wife bought me a coin that has Yes on one side and No on the other. So when I’m stuck between two options I’m equally fine with, the coin decides. Makes my life a lot easier.",
+      "platform": "youtube",
+      "author_hash": "acc7091ba9eebc97ce6034ea",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_df92bed3409efaac7904",
+      "anonymous_id": "TARGET_A06",
+      "text": "I can do that, but I need to look for it, like you can say \"this cube might or might not be impossible to solve\" and I can tell which one but I need to be actively looking for it, he was seriously impressive",
+      "platform": "youtube",
+      "author_hash": "017e7944b8a0e24010eec7a7",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.68392634,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.62209207,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_6d82ed867ef02c69e32e",
+      "anonymous_id": "TARGET_A06",
+      "text": "...or why he like flags",
+      "platform": "stackexchange",
+      "author_hash": "c224cbd6e1dccb4fe1fabf0b",
+      "language": "en",
+      "score": 0.6091522,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9b490eeb3aeb679f3198",
+      "anonymous_id": "TARGET_A06",
+      "text": "So the dude is a simp.",
+      "platform": "youtube",
+      "author_hash": "dd94bc0c30f93e880e8f617f",
+      "language": "en",
+      "score": 0.6054258,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_da7c8b3827ec2f9c1e1c",
+      "anonymous_id": "TARGET_A06",
+      "text": "You say involves his enthusiasm concerning these idols of him , so lemme ry to grasp this one. what you mean by that is, [TARGET] being social weirdo, he pushes the human contact with celebs that he adore too much and get into trouble because of that. am I getting that right? Anyway, I really appreciate your answer,this was sitting answer-less for long time",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8859c5e1f5c9cce5ea5a",
+      "anonymous_id": "TARGET_A06",
+      "text": "He wasn't compromising. He was providing the correct answer.",
+      "platform": "youtube",
+      "author_hash": "6b0c8cd0286637f51c3dd1d5",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ad274fda8137b8006c10",
+      "anonymous_id": "TARGET_A06",
+      "text": "This is a pretty odd question. You may as well ask why a police officer, whose job it is to keep the public safe, would be a fan of slasher horror films where lots of people get murdered.",
+      "platform": "stackexchange",
+      "author_hash": "2e14d8781246edc06b3db043",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_e71a214591a50e8c5592",
+      "anonymous_id": "TARGET_A06",
+      "text": "Al. These guys do is eat and eat and eat",
+      "platform": "youtube",
+      "author_hash": "8c82803265ea5bc0fb4a8d7d",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_59e0f73595da7464ceec",
+      "anonymous_id": "TARGET_A06",
+      "text": "Seeing the whole “calculation of odds of death” scene after seeing how [TARGET] lost his father as a kid makes way more sense as to why he is so constantly terrified of minor things possibly resulting in death",
+      "platform": "youtube",
+      "author_hash": "fedda942650b46d628849f00",
+      "language": "en",
+      "score": 0.72455853,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_2442641bbc65fe66a1d9",
+      "anonymous_id": "TARGET_A06",
+      "text": "8:13 holy i used to be like that months ago and i decided to reduce risk about stuff i fel pt dangerous not nwo though and also my mum getting surgery freaks me out",
+      "platform": "youtube",
+      "author_hash": "58c3ceb077cca80e8388c020",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A06",
+      "text": "He was a bully. You can see Leonard and [TARGET]'s fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both Leonard and [TARGET] came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_cc436bb457c5e1fcaf89",
+      "anonymous_id": "TARGET_A06",
+      "text": "It appears that many, or most, super smart scientist types worry about the wrong shit.",
+      "platform": "youtube",
+      "author_hash": "63cd2aa6b47939c0e3bfb9f0",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9d9ed739bd099533d8d0",
+      "anonymous_id": "TARGET_A06",
+      "text": "Howard 4 Leonard 7 The guy that would rather die than compromize or meet half way: \"It's 5½\"",
+      "platform": "youtube",
+      "author_hash": "a615c17aee49be4f986b0cc8",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_17e041606129a573d196",
+      "anonymous_id": "TARGET_A06",
+      "text": "The episode in young [TARGET] where his father dies is so upsetting in a similar way with how he’s constantly thinking of how small differences could’ve prevented his death by delaying him a few seconds in an attempt to change the odds",
+      "platform": "youtube",
+      "author_hash": "0944724921324fd6d0fbaf22",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_84f7c9e90d12238096d3",
+      "anonymous_id": "TARGET_A06",
+      "text": "And, of course, he's scared shitless . Not a good precondition for safe driving. Every unexpected thing on the road tends to result in panic, something you really don't want when you're driving. While [TARGET] has demonstrated calm in the past, it certainly isn't there when he actually feels physically threatened - and even at relatively slow speeds, cars are quite dangerous.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_68debb2b2bd23059fd2c",
+      "anonymous_id": "TARGET_A06",
+      "text": "The calculation of leonards death wasnt a very good example of [TARGET]s genius, an asteroid collision would kill leonard whether he was in surgery or not, therefore should not be considered in the weighing of harms and risks that he would have to go through. Then again the real reason he was nervous was irrational anyeay, so he was trying to do anything to stop it.",
+      "platform": "youtube",
+      "author_hash": "7b674ec8976aed93277bfe10",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_9d9ed739bd099533d8d0",
+      "anonymous_id": "TARGET_A06",
+      "text": "Howard 4 Leonard 7 The guy that would rather die than compromize or meet half way: \"It's 5½\"",
+      "platform": "youtube",
+      "author_hash": "a615c17aee49be4f986b0cc8",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_af480ab748fe66b64357",
+      "anonymous_id": "TARGET_A06",
+      "text": "that’s true love",
+      "platform": "youtube",
+      "author_hash": "1dcb887cafa34a4edb234f87",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_0680a30fe96287042e8b",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] [TARGET] has stated in past episodes that, \"Frankly if I could afford to live here myself, I would,\" or something to that effect.",
+      "platform": "stackexchange",
+      "author_hash": "8936f7d24fba72b28c2fb34b",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8859c5e1f5c9cce5ea5a",
+      "anonymous_id": "TARGET_A06",
+      "text": "He wasn't compromising. He was providing the correct answer.",
+      "platform": "youtube",
+      "author_hash": "6b0c8cd0286637f51c3dd1d5",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_49b276221f8bf0e5ca05",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] trust me. MANY normal people couldn't learn that to save their lives.",
+      "platform": "youtube",
+      "author_hash": "2164bf862fb717066aa60dc7",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_d2648a274d61c16576d5",
+      "anonymous_id": "TARGET_A06",
+      "text": "I just realized that [TARGET] was actually being thoughtful to Amy when he brought out the picture. First is that he already presumed she would hold him to the agreement, second is that he wouldn't try too hard to refuse the agreement, third is that he correctly predicted that he would not be emotionally capable of not pouting, and finally took the time, energy, and trouble of printing out a picture precisely for that specific scenario. That's way more complex than just putting on a smiling face.",
+      "platform": "youtube",
+      "author_hash": "556fc308bba0b42a123bda9f",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_08a63db3fb3ca5b6553b",
+      "anonymous_id": "TARGET_A06",
+      "text": "One other concern is that I have heard that it is not common for people to work at the university where they received their doctorate (none of the main characters except Bernadette has their degree from Caltech AFAIK), so getting his PhD would also mean a career change.",
+      "platform": "stackexchange",
+      "author_hash": "31ae5bfa82f735ab57c61af6",
+      "language": "en",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_5767a5caeb1f513ddb6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] i can tell you that I, as a speedcuber can do this. If you solve bout 200 a day it becomes hard not to be able to do this",
+      "platform": "youtube",
+      "author_hash": "1d93a2bbaaa3576da10b4107",
+      "language": "en",
+      "score": 0.3863929,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_da7c8b3827ec2f9c1e1c",
+      "anonymous_id": "TARGET_A06",
+      "text": "You say involves his enthusiasm concerning these idols of him , so lemme ry to grasp this one. what you mean by that is, [TARGET] being social weirdo, he pushes the human contact with celebs that he adore too much and get into trouble because of that. am I getting that right? Anyway, I really appreciate your answer,this was sitting answer-less for long time",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_43711c4b25cf94fd298d",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET] is that one friend you simultaneously don't want to be around, but you keep because he's loyal and is quite literally the smartest one in the group.",
+      "platform": "youtube",
+      "author_hash": "e222130c671161261632fcb8",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8a8be3023f3cfac8f980",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] If you actually work in Research, you realize the problem that some people didn't do enough things to help your work, but did help you. If you give credit for the smallest piece of help that a student or researcher gives, Would you credit your entire family & friends list as well? Most experienced researchers have a required amount of work that someone needs to do to get credit, (aka a mention in the paper), but they want way more than that to get authorship credit. Obviously this is exaggerated in the show (alongside [TARGET]'s disapproval), but if a student helped a Professor while they were stuck in the middle of the road by either getting them a spare wheel or driving them to a workshop, is the student allowed to just do nothing for the rest of the semester and get a free A+? The answer is unambigiously NO.",
+      "platform": "youtube",
+      "author_hash": "fc5836bb0ad8d9611572a5a5",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8859c5e1f5c9cce5ea5a",
+      "anonymous_id": "TARGET_A06",
+      "text": "He wasn't compromising. He was providing the correct answer.",
+      "platform": "youtube",
+      "author_hash": "6b0c8cd0286637f51c3dd1d5",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9d9ed739bd099533d8d0",
+      "anonymous_id": "TARGET_A06",
+      "text": "Howard 4 Leonard 7 The guy that would rather die than compromize or meet half way: \"It's 5½\"",
+      "platform": "youtube",
+      "author_hash": "a615c17aee49be4f986b0cc8",
+      "language": "en",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_1634ce0ac8df3cb3a32e",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - There are a bunch of times when [TARGET] ignores people sitting in his spot. I'm guessing it's either a directing goof (likely) or that [TARGET] has some rules/regulations guiding who can sit in his spot and when that we simply aren't privy to (also quite likely).",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_0d897659e5507e4c50fb",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not sure the 2nd example counts as being wrong. It's a sin of omission, but he declines to provide an answer. Thus he isn't right or wrong, just a loser. :p (Call it a schroedinger answer).",
+      "platform": "stackexchange",
+      "author_hash": "1842fb185774487904669169",
+      "language": "en",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_7473d14624dd6f72ac6d",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET] also allows Leonard to sit in his spot at the end of the Bat Jar Conjecture during Penny's trivial pursuit 'pop culture' competition....that doesn't seem to go with [TARGET]'s personality at all",
+      "platform": "stackexchange",
+      "author_hash": "58dbb04988a0e3b8b8a867de",
+      "language": "en",
+      "score": 0.40507212,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_0d897659e5507e4c50fb",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not sure the 2nd example counts as being wrong. It's a sin of omission, but he declines to provide an answer. Thus he isn't right or wrong, just a loser. :p (Call it a schroedinger answer).",
+      "platform": "stackexchange",
+      "author_hash": "1842fb185774487904669169",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8859c5e1f5c9cce5ea5a",
+      "anonymous_id": "TARGET_A06",
+      "text": "He wasn't compromising. He was providing the correct answer.",
+      "platform": "youtube",
+      "author_hash": "6b0c8cd0286637f51c3dd1d5",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_af30f9f12b9b2ea8acb4",
+      "anonymous_id": "TARGET_A06",
+      "text": "No, [TARGET] is a self-centered egotist who believes his own hype.",
+      "platform": "stackexchange",
+      "author_hash": "92d608d573c144bfe299c017",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8a8be3023f3cfac8f980",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] If you actually work in Research, you realize the problem that some people didn't do enough things to help your work, but did help you. If you give credit for the smallest piece of help that a student or researcher gives, Would you credit your entire family & friends list as well? Most experienced researchers have a required amount of work that someone needs to do to get credit, (aka a mention in the paper), but they want way more than that to get authorship credit. Obviously this is exaggerated in the show (alongside [TARGET]'s disapproval), but if a student helped a Professor while they were stuck in the middle of the road by either getting them a spare wheel or driving them to a workshop, is the student allowed to just do nothing for the rest of the semester and get a free A+? The answer is unambigiously NO.",
+      "platform": "youtube",
+      "author_hash": "fc5836bb0ad8d9611572a5a5",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_24169d341a5a25f78c05",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] Its the (Speed) Force, aint gotta explain s**t. [TARGET] can self delude when he needs to.",
+      "platform": "stackexchange",
+      "author_hash": "ae499db5b5755508feee13d1",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_5a4137335d1214b8f0d9",
+      "anonymous_id": "TARGET_A06",
+      "text": "Man, I hate the self centered people but it will never be enough for me to watch [TARGET] who is the embodiment of my hatred and myself glued together.",
+      "platform": "youtube",
+      "author_hash": "fc89343fff0e3b6081976f47",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9d9ed739bd099533d8d0",
+      "anonymous_id": "TARGET_A06",
+      "text": "Howard 4 Leonard 7 The guy that would rather die than compromize or meet half way: \"It's 5½\"",
+      "platform": "youtube",
+      "author_hash": "a615c17aee49be4f986b0cc8",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_1634ce0ac8df3cb3a32e",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - There are a bunch of times when [TARGET] ignores people sitting in his spot. I'm guessing it's either a directing goof (likely) or that [TARGET] has some rules/regulations guiding who can sit in his spot and when that we simply aren't privy to (also quite likely).",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_e799bb498770a0033cdc",
+      "anonymous_id": "TARGET_A06",
+      "text": "still insufferable, hate this guy",
+      "platform": "youtube",
+      "author_hash": "3666a5fc6aea168989b7758e",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_144c6c38373ea235ec62",
+      "anonymous_id": "TARGET_A06",
+      "text": "Looking back (and now that im older), that woman doing [TARGET]'s pedicure is super toxically isolating [TARGET] from a stable support system, probably prepping him to only depend on her. that is one DANGEROUS woman.",
+      "platform": "youtube",
+      "author_hash": "7c82d8a846d0dc8616fd37e8",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8859c5e1f5c9cce5ea5a",
+      "anonymous_id": "TARGET_A06",
+      "text": "He wasn't compromising. He was providing the correct answer.",
+      "platform": "youtube",
+      "author_hash": "6b0c8cd0286637f51c3dd1d5",
+      "language": "en",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_374eef60c0429b0517fb",
+      "anonymous_id": "TARGET_A06",
+      "text": "How the hell saying facts about sb's actions is harmful or bad? If you don't want that, then STOP doing the thing. The problem is not calling an action but doing it. I will never understand how people do bad stuff, and that's socially acceptable, but calling it as it is is blameful. If you do sth then at least be aware of it and call it - you can live with that, continue. You cannot - change that. As simple as that",
+      "platform": "youtube",
+      "author_hash": "5e7145d1404d055d3846370c",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9d9ed739bd099533d8d0",
+      "anonymous_id": "TARGET_A06",
+      "text": "Howard 4 Leonard 7 The guy that would rather die than compromize or meet half way: \"It's 5½\"",
+      "platform": "youtube",
+      "author_hash": "a615c17aee49be4f986b0cc8",
+      "language": "en",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.6184117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_ed28fe07ddf5a15f89fb",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] no, he used the \"left side of the bell curve\" implying he was giving her the benefit of the doubt and intentionally underestimating the most likely count. Him saying \"left side of the bell curve\" means he actually intentionally under estimated by one standard deviation.",
+      "platform": "youtube",
+      "author_hash": "e7bd338edaacf65de1555e05",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_315b26ca87a1f6fc5255",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] his assumption was right. Pennys reaction says it all.",
+      "platform": "youtube",
+      "author_hash": "ff47b833a445bd98fcd58cb7",
+      "language": "en",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_cb9b7e6c224f1d90a137",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] yep, pretty much. He often misses the information conveyed by body language, facial expressions, tone of voice, word choice, and other things that go beyond the direct meaning of the words that are spoken to him. My guess is, it's not that he doesn't understand it (in the sense you wouldn't understand a foreign language), it's that his brain is simply trained to tune it out and he doesn't even recognize it's there.",
+      "platform": "stackexchange",
+      "author_hash": "00d18b5ce571956019b2ef95",
+      "language": "en",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_87d064ad696cc294e0ea",
+      "anonymous_id": "TARGET_A06",
+      "text": "i don't know if it's the case but i always assumed [TARGET] was on the Autism Spectrum",
+      "platform": "stackexchange",
+      "author_hash": "269374556bdf6df8df7a2b5f",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_d2648a274d61c16576d5",
+      "anonymous_id": "TARGET_A06",
+      "text": "I just realized that [TARGET] was actually being thoughtful to Amy when he brought out the picture. First is that he already presumed she would hold him to the agreement, second is that he wouldn't try too hard to refuse the agreement, third is that he correctly predicted that he would not be emotionally capable of not pouting, and finally took the time, energy, and trouble of printing out a picture precisely for that specific scenario. That's way more complex than just putting on a smiling face.",
+      "platform": "youtube",
+      "author_hash": "556fc308bba0b42a123bda9f",
+      "language": "en",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_a61b21faa21da2a64d41",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET]’s point about Schrödingers cat and pennys initial interpretation is not wrong. Only way to find out wether the relationship is good or bad is by just opening the box",
+      "platform": "youtube",
+      "author_hash": "caca12da9cd5c9a695953acb",
+      "language": "en",
+      "score": 0.35006577,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_0be9a2c5337a56db6da4",
+      "anonymous_id": "TARGET_A06",
+      "text": "That and the fact that it seemed like it just then dawns on Penny herself that he's probably right, and she's not sure what to do about it .",
+      "platform": "youtube",
+      "author_hash": "95ac62a8cf03a1dd2b654333",
+      "language": "en",
+      "score": 0.34651917,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.32218465,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_55db4dd093caef508248",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - I don't disagree. The clear aim was for him to have asperger's traits but sufficient 'wiggle room' for the writers to have him act however they want without having to deal with people saying \" but that's not what people with asperger's syndrome do/say/act like \"",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_531d49529c572dfd2c78",
+      "anonymous_id": "TARGET_A06",
+      "text": "Or that he was wrong because he was under",
+      "platform": "youtube",
+      "author_hash": "06892c03ba670092a769e6cd",
+      "language": "en",
+      "score": 0.66332006,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.6563059,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_4255e2e753fc54a7168e",
+      "anonymous_id": "TARGET_A06",
+      "text": "If you really want to get that technical about it, he was proven wrong by someone... it just happens such that \"someone\" is himself. Quite valid in the context of the original question. :)",
+      "platform": "stackexchange",
+      "author_hash": "c363f14726e04c7a1ec8098f",
+      "language": "en",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6e5fec7721f394c11ddc",
+      "anonymous_id": "TARGET_A06",
+      "text": "12:23 that anger behind the shared credit was personal, and it seems it originated from his childhood when [TARGET]'s work was stolen by his favorite professor",
+      "platform": "youtube",
+      "author_hash": "07baa196911ac7b501622a38",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_cb9b7e6c224f1d90a137",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] yep, pretty much. He often misses the information conveyed by body language, facial expressions, tone of voice, word choice, and other things that go beyond the direct meaning of the words that are spoken to him. My guess is, it's not that he doesn't understand it (in the sense you wouldn't understand a foreign language), it's that his brain is simply trained to tune it out and he doesn't even recognize it's there.",
+      "platform": "stackexchange",
+      "author_hash": "00d18b5ce571956019b2ef95",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_24169d341a5a25f78c05",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] Its the (Speed) Force, aint gotta explain s**t. [TARGET] can self delude when he needs to.",
+      "platform": "stackexchange",
+      "author_hash": "ae499db5b5755508feee13d1",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_dbdaba5928c4a0b0b638",
+      "anonymous_id": "TARGET_A06",
+      "text": "If [TARGET] is supposed to be such a genius, then why did he deploy a salt grinder like it was shaker, falsely claim oil comes from Mesozoic fauna when it's well known to be from flora, wrongly use a double negative, and improperly use divination 🤔",
+      "platform": "youtube",
+      "author_hash": "0501d21cd3c8920d2f275e8c",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_15dcda48665ea6c237ce",
+      "anonymous_id": "TARGET_A06",
+      "text": "You haven't been reading Karl Popers Objective Knowledge by any chance? ;) He has some great ideas about the intuition of how something can be more or less wrong. So depending on interpretation [TARGET] is right that wrong is an absolute state not subject to gradation :)",
+      "platform": "stackexchange",
+      "author_hash": "06304c354eb064bbe4ff328b",
+      "language": "en",
+      "score": 0.5405358,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_cb9b7e6c224f1d90a137",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] yep, pretty much. He often misses the information conveyed by body language, facial expressions, tone of voice, word choice, and other things that go beyond the direct meaning of the words that are spoken to him. My guess is, it's not that he doesn't understand it (in the sense you wouldn't understand a foreign language), it's that his brain is simply trained to tune it out and he doesn't even recognize it's there.",
+      "platform": "stackexchange",
+      "author_hash": "00d18b5ce571956019b2ef95",
+      "language": "en",
+      "score": 0.70708114,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_87d064ad696cc294e0ea",
+      "anonymous_id": "TARGET_A06",
+      "text": "i don't know if it's the case but i always assumed [TARGET] was on the Autism Spectrum",
+      "platform": "stackexchange",
+      "author_hash": "269374556bdf6df8df7a2b5f",
+      "language": "en",
+      "score": 0.66680056,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.65982175,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_0a7b8e75470f818a2691",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] Because [TARGET] is a person on the autistic spectrum that can't comprehend basic social norms and doesn't have the capacity to comprehend them to their fullest extent. He doesn't understand that the information he is spreading could lead to Penny feeling bad, he is simply saying it not because he carries a malicious intent behind his words but because he loves coming up with numbers or making mathematical observations",
+      "platform": "youtube",
+      "author_hash": "4287d7f084c2d4bab7328ae9",
+      "language": "en",
+      "score": 0.64744157,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_315b26ca87a1f6fc5255",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] his assumption was right. Pennys reaction says it all.",
+      "platform": "youtube",
+      "author_hash": "ff47b833a445bd98fcd58cb7",
+      "language": "en",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_b1fcb691a77ce8492b15",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] There’s two whole plot lines because he made mistakes with math. One where he gave a paper to Hawking that had a mistake in his calculation, and one where he discovered a new element but it was actually a math mistake. And it’s not even that his math was wrong, it’s that his assumptions are wrong.",
+      "platform": "youtube",
+      "author_hash": "a17255331d4021bc3b159c0e",
+      "language": "en",
+      "score": 0.6312306,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_333d75c522ec9e973215",
+      "anonymous_id": "TARGET_A06",
+      "text": "\"[TARGET] believed that Raj knew what the anthropic principle was and believed Leonard did not\" - That could also be because he maybe thought an astrophysicist (like Raj ) was much more likely to know about the anthropic principle (which is a common theme in cosmology) than an experimental physicist (like Leonard ) and might have been one of [TARGET] 's usual statements about experimental physics not being as relevant as theoretical physics. It need not necessarily have come from a general judgement of Raj being more intelligent than Leonard .",
+      "platform": "stackexchange",
+      "author_hash": "1ba3af6a06ebdb21d928fc1a",
+      "language": "en",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_fffc0bed47181dad0764",
+      "anonymous_id": "TARGET_A06",
+      "text": "Well, I can still get pretty scared/excited when playing video games - they do try to evoke \"real\" danger. The anxiety tends to start when you have to quickly react to something unexpected (and sometimes even expected :D) - it doesn't really matter whether you're in real danger or imagined danger; your brain makes it real... I'd expect that if you'd remove all the other cars in the simulator, he'd be able to drive around just fine - add the cars, and panic takes over. There's just too much to handle.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6e5fec7721f394c11ddc",
+      "anonymous_id": "TARGET_A06",
+      "text": "12:23 that anger behind the shared credit was personal, and it seems it originated from his childhood when [TARGET]'s work was stolen by his favorite professor",
+      "platform": "youtube",
+      "author_hash": "07baa196911ac7b501622a38",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_a51c7ce313fa32876c99",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET] is either getting excited or not!",
+      "platform": "youtube",
+      "author_hash": "cbb90e12ba10e77afeeace87",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_84f7c9e90d12238096d3",
+      "anonymous_id": "TARGET_A06",
+      "text": "And, of course, he's scared shitless . Not a good precondition for safe driving. Every unexpected thing on the road tends to result in panic, something you really don't want when you're driving. While [TARGET] has demonstrated calm in the past, it certainly isn't there when he actually feels physically threatened - and even at relatively slow speeds, cars are quite dangerous.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_3fbc3482f6a613b0b795",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET]'s big smile!😄😅😆🤣😄😅😆🤣👍👍🎉🎊🥰🥰🥰🥰 2:56",
+      "platform": "youtube",
+      "author_hash": "d34ad1eeeeaff357937afeee",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_8b7b43cf32893bb8aea1",
+      "anonymous_id": "TARGET_A06",
+      "text": "It could be related to his fear of birds. Or it might just be because whistling is annoying. ;)",
+      "platform": "stackexchange",
+      "author_hash": "c55b20ccbd0117b4b30a266c",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_79f6e70a982b2cf7c4f6",
+      "anonymous_id": "TARGET_A06",
+      "text": "3:51 [TARGET] getting excited, after he finds a method for an element on his board at the apartment is the best moment📝🧠😆",
+      "platform": "youtube",
+      "author_hash": "2e4b01ecd0fb510e07a9ffcd",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_304572d99b244391e7b4",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] check her reaction, the point of the writers addind dat is to show that [TARGET] was very close to the truth",
+      "platform": "youtube",
+      "author_hash": "22d047da78b65f89f4bc3686",
+      "language": "en",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_d2648a274d61c16576d5",
+      "anonymous_id": "TARGET_A06",
+      "text": "I just realized that [TARGET] was actually being thoughtful to Amy when he brought out the picture. First is that he already presumed she would hold him to the agreement, second is that he wouldn't try too hard to refuse the agreement, third is that he correctly predicted that he would not be emotionally capable of not pouting, and finally took the time, energy, and trouble of printing out a picture precisely for that specific scenario. That's way more complex than just putting on a smiling face.",
+      "platform": "youtube",
+      "author_hash": "556fc308bba0b42a123bda9f",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_cb9b7e6c224f1d90a137",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] yep, pretty much. He often misses the information conveyed by body language, facial expressions, tone of voice, word choice, and other things that go beyond the direct meaning of the words that are spoken to him. My guess is, it's not that he doesn't understand it (in the sense you wouldn't understand a foreign language), it's that his brain is simply trained to tune it out and he doesn't even recognize it's there.",
+      "platform": "stackexchange",
+      "author_hash": "00d18b5ce571956019b2ef95",
+      "language": "en",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_71047ad49033765f0c6f",
+      "anonymous_id": "TARGET_A06",
+      "text": "Jim parson's expressed that he does not have aspergers in the show. I think his character is just supposed to be so smart and intelligent that he uses logic rather than emotion to convey his response, almost like spock. Intelligent people also have trouble fitting in or conforming to social norms and cues due to them being so much smarter, they cannot understand or seem to enjoy themselves in regular company. [TARGET] is suppose to be a genius so he is very awkward in regular situations.",
+      "platform": "stackexchange",
+      "author_hash": "cf567d79f9424f794e917ae8",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_e22b4abfb42107e198d1",
+      "anonymous_id": "TARGET_A06",
+      "text": "Why doesn’t he look like [TARGET] at 5:30 ?",
+      "platform": "youtube",
+      "author_hash": "b4f710af15ce51745cbc2c67",
+      "language": "en",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_4b8e767e0bb08e272c03",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] bet, thank you, the mannerisms always seemed very different lol. i assumed he wouls grow more and more into bbt [TARGET] but it did feel very much like 2 differing smart people to me",
+      "platform": "youtube",
+      "author_hash": "2575ce640179af82de6b67b0",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_98648b4b9c20e0468439",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] I don't think the episode was showing him altering the odds, felt more like he was just coping with the fact that the last time he saw his father he didn't see a word, internalising that he'd wished he'd shared his feelings and fondness for his father while he still had the chance.",
+      "platform": "youtube",
+      "author_hash": "a9351ae1bebb825a6665a0fd",
+      "language": "en",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_c5397dd76e17a27336ac",
+      "anonymous_id": "TARGET_A06",
+      "text": "Chat gpt has more emotion",
+      "platform": "youtube",
+      "author_hash": "13ca702243e53d55cf432676",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_98648b4b9c20e0468439",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] I don't think the episode was showing him altering the odds, felt more like he was just coping with the fact that the last time he saw his father he didn't see a word, internalising that he'd wished he'd shared his feelings and fondness for his father while he still had the chance.",
+      "platform": "youtube",
+      "author_hash": "a9351ae1bebb825a6665a0fd",
+      "language": "en",
+      "score": 0.6615731,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_d2648a274d61c16576d5",
+      "anonymous_id": "TARGET_A06",
+      "text": "I just realized that [TARGET] was actually being thoughtful to Amy when he brought out the picture. First is that he already presumed she would hold him to the agreement, second is that he wouldn't try too hard to refuse the agreement, third is that he correctly predicted that he would not be emotionally capable of not pouting, and finally took the time, energy, and trouble of printing out a picture precisely for that specific scenario. That's way more complex than just putting on a smiling face.",
+      "platform": "youtube",
+      "author_hash": "556fc308bba0b42a123bda9f",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_2442641bbc65fe66a1d9",
+      "anonymous_id": "TARGET_A06",
+      "text": "8:13 holy i used to be like that months ago and i decided to reduce risk about stuff i fel pt dangerous not nwo though and also my mum getting surgery freaks me out",
+      "platform": "youtube",
+      "author_hash": "58c3ceb077cca80e8388c020",
+      "language": "en",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_84f7c9e90d12238096d3",
+      "anonymous_id": "TARGET_A06",
+      "text": "And, of course, he's scared shitless . Not a good precondition for safe driving. Every unexpected thing on the road tends to result in panic, something you really don't want when you're driving. While [TARGET] has demonstrated calm in the past, it certainly isn't there when he actually feels physically threatened - and even at relatively slow speeds, cars are quite dangerous.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_fffc0bed47181dad0764",
+      "anonymous_id": "TARGET_A06",
+      "text": "Well, I can still get pretty scared/excited when playing video games - they do try to evoke \"real\" danger. The anxiety tends to start when you have to quickly react to something unexpected (and sometimes even expected :D) - it doesn't really matter whether you're in real danger or imagined danger; your brain makes it real... I'd expect that if you'd remove all the other cars in the simulator, he'd be able to drive around just fine - add the cars, and panic takes over. There's just too much to handle.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_49b276221f8bf0e5ca05",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] trust me. MANY normal people couldn't learn that to save their lives.",
+      "platform": "youtube",
+      "author_hash": "2164bf862fb717066aa60dc7",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_5ca71d33056126981d2d",
+      "anonymous_id": "TARGET_A06",
+      "text": "I do something similar as the dice thing. My autism sometimes makes me really indecisive. Especially about small things. Something simple like “what coffee creamer do I want?” will trip me up for 10 minutes. I can narrow down dozens of options down to two but then get stuck. So my wife bought me a coin that has Yes on one side and No on the other. So when I’m stuck between two options I’m equally fine with, the coin decides. Makes my life a lot easier.",
+      "platform": "youtube",
+      "author_hash": "acc7091ba9eebc97ce6034ea",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_999d9ba1ce8494443e01",
+      "anonymous_id": "TARGET_A06",
+      "text": "ADHD is like that.",
+      "platform": "youtube",
+      "author_hash": "28c2300736ef7acd85610bef",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_2bc71286ba598913aa4c",
+      "anonymous_id": "TARGET_A06",
+      "text": "He can drive... Just not well. Remember the episode where Penny fell in her shower and dislocated her shoulder? [TARGET] had to drive her to the hospital (After eyeballing her nakedness and groping her boob, of course). I bet if he smoked some pot first or convinced Leonard's mom to prescribe him a mild sedative he could drive just fine without having an overwhelming anxiety.",
+      "platform": "stackexchange",
+      "author_hash": "642deb70a814940668a5d5b6",
+      "language": "en",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_4b8e767e0bb08e272c03",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] bet, thank you, the mannerisms always seemed very different lol. i assumed he wouls grow more and more into bbt [TARGET] but it did feel very much like 2 differing smart people to me",
+      "platform": "youtube",
+      "author_hash": "2575ce640179af82de6b67b0",
+      "language": "en",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_78f8f286e4925f7d8fa8",
+      "anonymous_id": "TARGET_A06",
+      "text": "POV how [TARGET] sounds to every other character in tbbt",
+      "platform": "youtube",
+      "author_hash": "07058ec1a4ed7987db00fb7c",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_affd6bf07c68739722b1",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] my family / siblings just call me [TARGET] since I act sorta like him and are smarter than my siblings.",
+      "platform": "youtube",
+      "author_hash": "e8566623a237c6951e98eac2",
+      "language": "en",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A06",
+      "text": "He was a bully. You can see Leonard and [TARGET]'s fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both Leonard and [TARGET] came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.45868814,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_fb9ba78ed53c90645d9c",
+      "anonymous_id": "TARGET_A06",
+      "text": "9:15 that was his way of showing he cared. Even if it was mildly annoying",
+      "platform": "youtube",
+      "author_hash": "e222130c671161261632fcb8",
+      "language": "en",
+      "score": 0.71827835,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_d2648a274d61c16576d5",
+      "anonymous_id": "TARGET_A06",
+      "text": "I just realized that [TARGET] was actually being thoughtful to Amy when he brought out the picture. First is that he already presumed she would hold him to the agreement, second is that he wouldn't try too hard to refuse the agreement, third is that he correctly predicted that he would not be emotionally capable of not pouting, and finally took the time, energy, and trouble of printing out a picture precisely for that specific scenario. That's way more complex than just putting on a smiling face.",
+      "platform": "youtube",
+      "author_hash": "556fc308bba0b42a123bda9f",
+      "language": "en",
+      "score": 0.6923092,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_cb9b7e6c224f1d90a137",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] yep, pretty much. He often misses the information conveyed by body language, facial expressions, tone of voice, word choice, and other things that go beyond the direct meaning of the words that are spoken to him. My guess is, it's not that he doesn't understand it (in the sense you wouldn't understand a foreign language), it's that his brain is simply trained to tune it out and he doesn't even recognize it's there.",
+      "platform": "stackexchange",
+      "author_hash": "00d18b5ce571956019b2ef95",
+      "language": "en",
+      "score": 0.6091522,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9d9ed739bd099533d8d0",
+      "anonymous_id": "TARGET_A06",
+      "text": "Howard 4 Leonard 7 The guy that would rather die than compromize or meet half way: \"It's 5½\"",
+      "platform": "youtube",
+      "author_hash": "a615c17aee49be4f986b0cc8",
+      "language": "en",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_8859c5e1f5c9cce5ea5a",
+      "anonymous_id": "TARGET_A06",
+      "text": "He wasn't compromising. He was providing the correct answer.",
+      "platform": "youtube",
+      "author_hash": "6b0c8cd0286637f51c3dd1d5",
+      "language": "en",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_87d33cc153bdf6ca48cd",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] plus germ concerns",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.7166947,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.680539,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.65277284,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_144c6c38373ea235ec62",
+      "anonymous_id": "TARGET_A06",
+      "text": "Looking back (and now that im older), that woman doing [TARGET]'s pedicure is super toxically isolating [TARGET] from a stable support system, probably prepping him to only depend on her. that is one DANGEROUS woman.",
+      "platform": "youtube",
+      "author_hash": "7c82d8a846d0dc8616fd37e8",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_485f4c28724f0e6742c1",
+      "anonymous_id": "TARGET_A06",
+      "text": "6:10 bro just gave me relationship advice",
+      "platform": "youtube",
+      "author_hash": "bd9ccc8e8b62c0b534c5b524",
+      "language": "en",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_d62a51054c0ff5e7ff6a",
+      "anonymous_id": "TARGET_A06",
+      "text": "Trust issues with unknown people.",
+      "platform": "stackexchange",
+      "author_hash": "8e106aa059d5554fd8256f9c",
+      "language": "en",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_6e5fec7721f394c11ddc",
+      "anonymous_id": "TARGET_A06",
+      "text": "12:23 that anger behind the shared credit was personal, and it seems it originated from his childhood when [TARGET]'s work was stolen by his favorite professor",
+      "platform": "youtube",
+      "author_hash": "07baa196911ac7b501622a38",
+      "language": "en",
+      "score": 0.7589396,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.69727916,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9e93ea2ddebcd650583e",
+      "anonymous_id": "TARGET_A06",
+      "text": "My family has always been angry and dissatisfied with me. I haven't lived with them for many years, but a few years ago, my sister told me I should watch this show because I act like [TARGET], and maybe then I'll understand why they've always been so angry with me. I watched the first few episodes of the first season and didn't understand why this show would change me. On the contrary, I really liked [TARGET]. So much so that I started reading about the show online and came across a clip from an interview with the actor who played [TARGET]. He said that although it wasn't stated anywhere that [TARGET] had Asperger's syndrome, he always thought he did, which is why he tried to play the character as if he did. That got me thinking. I got tested, and at the age of 30, I learned I had Asperger's syndrome.",
+      "platform": "youtube",
+      "author_hash": "63af7fa99e1cd72de1165772",
+      "language": "en",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_a587b17bca49c691f66e",
+      "anonymous_id": "TARGET_A06",
+      "text": "Later seasons of Young [TARGET] do show [TARGET] attaining his hobbies and quirks, like his knocking three times origin story. Also, he inability to notice other people's troubles gets more noticeable in season 5 to the eventual death of George Sr.",
+      "platform": "youtube",
+      "author_hash": "405e80e95cb18119669072b8",
+      "language": "en",
+      "score": 0.6257583,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_da7c8b3827ec2f9c1e1c",
+      "anonymous_id": "TARGET_A06",
+      "text": "You say involves his enthusiasm concerning these idols of him , so lemme ry to grasp this one. what you mean by that is, [TARGET] being social weirdo, he pushes the human contact with celebs that he adore too much and get into trouble because of that. am I getting that right? Anyway, I really appreciate your answer,this was sitting answer-less for long time",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.6054258,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_333d75c522ec9e973215",
+      "anonymous_id": "TARGET_A06",
+      "text": "\"[TARGET] believed that Raj knew what the anthropic principle was and believed Leonard did not\" - That could also be because he maybe thought an astrophysicist (like Raj ) was much more likely to know about the anthropic principle (which is a common theme in cosmology) than an experimental physicist (like Leonard ) and might have been one of [TARGET] 's usual statements about experimental physics not being as relevant as theoretical physics. It need not necessarily have come from a general judgement of Raj being more intelligent than Leonard .",
+      "platform": "stackexchange",
+      "author_hash": "1ba3af6a06ebdb21d928fc1a",
+      "language": "en",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_304572d99b244391e7b4",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] check her reaction, the point of the writers addind dat is to show that [TARGET] was very close to the truth",
+      "platform": "youtube",
+      "author_hash": "22d047da78b65f89f4bc3686",
+      "language": "en",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_4b8e767e0bb08e272c03",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] bet, thank you, the mannerisms always seemed very different lol. i assumed he wouls grow more and more into bbt [TARGET] but it did feel very much like 2 differing smart people to me",
+      "platform": "youtube",
+      "author_hash": "2575ce640179af82de6b67b0",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_af30f9f12b9b2ea8acb4",
+      "anonymous_id": "TARGET_A06",
+      "text": "No, [TARGET] is a self-centered egotist who believes his own hype.",
+      "platform": "stackexchange",
+      "author_hash": "92d608d573c144bfe299c017",
+      "language": "en",
+      "score": 0.7428696,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_f2a031350d748593b1ac",
+      "anonymous_id": "TARGET_A06",
+      "text": "Even though he's an egomaniac, [TARGET] knows his genius really good.",
+      "platform": "youtube",
+      "author_hash": "6bb3fc09f10cc3bd6be78e6a",
+      "language": "en",
+      "score": 0.70708114,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9cbca799a335ac5bfdf2",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's kinda nice that [TARGET] isn't really slut shaming Penny, he is just so obsessed with making observations and calculating the math, so none of what he says comes from bad intent. He is just so unaware of social cues for him to realize how much it harms Penny's self image",
+      "platform": "youtube",
+      "author_hash": "4287d7f084c2d4bab7328ae9",
+      "language": "en",
+      "score": 0.6509999,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_a0e76d433816c87945af",
+      "anonymous_id": "TARGET_A06",
+      "text": "Notice how the Shamy didn't judge her based on her approximated body count number but asked her how she views herself?",
+      "platform": "youtube",
+      "author_hash": "6991ddac2c65b9785b368c14",
+      "language": "en",
+      "score": 0.62209207,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9c2c31c7ffe5f4d2dbdf",
+      "anonymous_id": "TARGET_A06",
+      "text": "We know [TARGET] is a character. The character is brilliant and Parsons is portraying a brilliant person. You're like those people that say... you know pro wrestling is fake right? For what? To prove your smart? Parsons is nothing like [TARGET] really in any way at all.",
+      "platform": "youtube",
+      "author_hash": "fbe1ff8af26cf5b0706c64c8",
+      "language": "en",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_68c5a2adec86500b12c8",
+      "anonymous_id": "TARGET_A06",
+      "text": "says every narcissist ever. lol",
+      "platform": "youtube",
+      "author_hash": "2756fcbfb61ace5d3f40a961",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_affd6bf07c68739722b1",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] my family / siblings just call me [TARGET] since I act sorta like him and are smarter than my siblings.",
+      "platform": "youtube",
+      "author_hash": "e8566623a237c6951e98eac2",
+      "language": "en",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6c1107f3b52ae1ba9ac7",
+      "anonymous_id": "TARGET_A06",
+      "text": "I dont think you understand her character. Its been implied that she's always been like this, she only came off as standoffish and weird in the beginning due to her heavily repressed upbringing. Like, have you seen her mother? Once she finally had the opportuniy to fraternize with Penny and Bernadette, she very quickly got to express herself the way she wants to. She's meant to be the opposite side of the same Coin as [TARGET]; He's repressed because he chooses to be, she's repressed because she was forced to.",
+      "platform": "youtube",
+      "author_hash": "68ea1fb2def4f0b25dc455c3",
+      "language": "en",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_24169d341a5a25f78c05",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] Its the (Speed) Force, aint gotta explain s**t. [TARGET] can self delude when he needs to.",
+      "platform": "stackexchange",
+      "author_hash": "ae499db5b5755508feee13d1",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_68c5a2adec86500b12c8",
+      "anonymous_id": "TARGET_A06",
+      "text": "says every narcissist ever. lol",
+      "platform": "youtube",
+      "author_hash": "2756fcbfb61ace5d3f40a961",
+      "language": "en",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_53ff95c64dbc4109526c",
+      "anonymous_id": "TARGET_A06",
+      "text": "I'm just noticed that [TARGET] will say that there is only two possibilities resulting from the Schrodinger's cat thought experiment But yet again he will restructure his whole roommate agreement over some celebrity signed hulk fist gloves Who's to say that the version Schrodinger's cat doesn't exist So which is it‽",
+      "platform": "youtube",
+      "author_hash": "7e5f2e79104e1a3674119e53",
+      "language": "en",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_827d04f86ef4db4c5b80",
+      "anonymous_id": "TARGET_A06",
+      "text": "How to show what's supposed to be an intellectual character being intellectual that's not other characters kissing their ass.",
+      "platform": "youtube",
+      "author_hash": "0f5038d5b3ff1ad6cec1c1b1",
+      "language": "en",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_1634ce0ac8df3cb3a32e",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - There are a bunch of times when [TARGET] ignores people sitting in his spot. I'm guessing it's either a directing goof (likely) or that [TARGET] has some rules/regulations guiding who can sit in his spot and when that we simply aren't privy to (also quite likely).",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.36804217,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_15dcda48665ea6c237ce",
+      "anonymous_id": "TARGET_A06",
+      "text": "You haven't been reading Karl Popers Objective Knowledge by any chance? ;) He has some great ideas about the intuition of how something can be more or less wrong. So depending on interpretation [TARGET] is right that wrong is an absolute state not subject to gradation :)",
+      "platform": "stackexchange",
+      "author_hash": "06304c354eb064bbe4ff328b",
+      "language": "en",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_48c15ca641c89e37b1c1",
+      "anonymous_id": "TARGET_A06",
+      "text": "But they both worked on super asymmetry",
+      "platform": "youtube",
+      "author_hash": "ac26c31ece0a9203d7e18ebe",
+      "language": "en",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_84f7c9e90d12238096d3",
+      "anonymous_id": "TARGET_A06",
+      "text": "And, of course, he's scared shitless . Not a good precondition for safe driving. Every unexpected thing on the road tends to result in panic, something you really don't want when you're driving. While [TARGET] has demonstrated calm in the past, it certainly isn't there when he actually feels physically threatened - and even at relatively slow speeds, cars are quite dangerous.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.73685527,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_a51c7ce313fa32876c99",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET] is either getting excited or not!",
+      "platform": "youtube",
+      "author_hash": "cbb90e12ba10e77afeeace87",
+      "language": "en",
+      "score": 0.65982175,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_304572d99b244391e7b4",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] check her reaction, the point of the writers addind dat is to show that [TARGET] was very close to the truth",
+      "platform": "youtube",
+      "author_hash": "22d047da78b65f89f4bc3686",
+      "language": "en",
+      "score": 0.6438669,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_fffc0bed47181dad0764",
+      "anonymous_id": "TARGET_A06",
+      "text": "Well, I can still get pretty scared/excited when playing video games - they do try to evoke \"real\" danger. The anxiety tends to start when you have to quickly react to something unexpected (and sometimes even expected :D) - it doesn't really matter whether you're in real danger or imagined danger; your brain makes it real... I'd expect that if you'd remove all the other cars in the simulator, he'd be able to drive around just fine - add the cars, and panic takes over. There's just too much to handle.",
+      "platform": "stackexchange",
+      "author_hash": "8d46cc01ddc93dd9ebb14508",
+      "language": "en",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_f91f54d2c80faa00797e",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] Going by the violent noises in the simulator, he has poor physical coordination even when (IIRC) not visibly threatened.",
+      "platform": "stackexchange",
+      "author_hash": "b8ad9cb2b07add7e997d90af",
+      "language": "en",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_891668b0bf22a12df133",
+      "anonymous_id": "TARGET_A06",
+      "text": "He was a bully. You can see Leonard and [TARGET]'s fear of him since the first time they saw him. He has that advantage. I don't know that's how it happened, but since both Leonard and [TARGET] came out no harm other than losing their pants, I think Penny's ex doesn't needed much force to make two geniuses humiliate",
+      "platform": "stackexchange",
+      "author_hash": "9fc48abda026460680f134fb",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_7473d14624dd6f72ac6d",
+      "anonymous_id": "TARGET_A06",
+      "text": "[TARGET] also allows Leonard to sit in his spot at the end of the Bat Jar Conjecture during Penny's trivial pursuit 'pop culture' competition....that doesn't seem to go with [TARGET]'s personality at all",
+      "platform": "stackexchange",
+      "author_hash": "58dbb04988a0e3b8b8a867de",
+      "language": "en",
+      "score": 0.726115,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_1634ce0ac8df3cb3a32e",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - There are a bunch of times when [TARGET] ignores people sitting in his spot. I'm guessing it's either a directing goof (likely) or that [TARGET] has some rules/regulations guiding who can sit in his spot and when that we simply aren't privy to (also quite likely).",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.6923092,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_55db4dd093caef508248",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] - I don't disagree. The clear aim was for him to have asperger's traits but sufficient 'wiggle room' for the writers to have him act however they want without having to deal with people saying \" but that's not what people with asperger's syndrome do/say/act like \"",
+      "platform": "stackexchange",
+      "author_hash": "a045169cef5593874ad0fea4",
+      "language": "en",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_df95059716f3b1f861b3",
+      "anonymous_id": "TARGET_A06",
+      "text": "In addition to what Walt already said, perfectly knowing the driving code (that [TARGET] would definitely be capable) is not enough: because many other drivers don't know very well all the rules the driving code, or don't respect them all the time, driving requires flexibility and adaptation to unexpected event. Things that would totally make [TARGET] anxious.",
+      "platform": "stackexchange",
+      "author_hash": "0ef5c3d2a7ec6239e017ee74",
+      "language": "en",
+      "score": 0.6492228,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_0a7b8e75470f818a2691",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] Because [TARGET] is a person on the autistic spectrum that can't comprehend basic social norms and doesn't have the capacity to comprehend them to their fullest extent. He doesn't understand that the information he is spreading could lead to Penny feeling bad, he is simply saying it not because he carries a malicious intent behind his words but because he loves coming up with numbers or making mathematical observations",
+      "platform": "youtube",
+      "author_hash": "4287d7f084c2d4bab7328ae9",
+      "language": "en",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b60faebb6939394c42ef",
+      "anonymous_id": "TARGET_A06",
+      "text": "Also, obsessive compulsivity would explain why he often continues to do it even though it may be unnecessary in a certain situation.",
+      "platform": "stackexchange",
+      "author_hash": "3001fdeacd4f55dcdde08d91",
+      "language": "en",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.57901955,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_840eb4496814a33a7188",
+      "anonymous_id": "TARGET_A06",
+      "text": "I have high functioning autism ocd and adhd i have to say based in my condition [TARGET] is very similar to my behavior patterns",
+      "platform": "youtube",
+      "author_hash": "a34c3a49f24f8be01b617890",
+      "language": "en",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_ce7982f4377b5ccf4929",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not to mention a lot of \"rules\" are really \"behave in the way you've been conditioned to behave\" -- e.g. there are lots of a four-way intersection without stop signs where people are supposed to just know which road has the right of way (this really bothered me when I was learning). This sort of thing is really frustrating to someone who is led to believe there are rules. (and, of course, actually understands \"following the rules\" rather than \"following some intuitive idea I formed when listening to the rules that may or may not actually align with the rules\" that most people tend to do)",
+      "platform": "stackexchange",
+      "author_hash": "13b4895b6b706edf90b7cc95",
+      "language": "en",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "tbbt_sheldon:youtube_5c39b44b0df430756a8f",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER] Here comes the screaming. [TARGET]'s more often than not a total piece of garbage. No respect for others at all. And English isn't my native language so I'm sorry if I was to blunt for your taste.",
+      "platform": "youtube",
+      "author_hash": "be7cda480d48e3deaebb1931",
+      "language": "en",
+      "score": 0.7413745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_9920daa622c4d55955d4",
+      "anonymous_id": "TARGET_A06",
+      "text": "Talking abt commitment to his own imagination/prediction, he would go miles to get it his way rather than pleasing ppl, so typical [TARGET]",
+      "platform": "youtube",
+      "author_hash": "8d993e22a5e75430399f3f45",
+      "language": "en",
+      "score": 0.7054605,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_f36c3fbb74582ffca432",
+      "anonymous_id": "TARGET_A06",
+      "text": "He might have “George” like character traits but in terms of relationship dynamics, Leonard is the Seinfeld of the group, [TARGET] is Kramer, Howard/Raj is George (sometimes Newman) and Penny is Elaine, it’s the same character format. Oddball, Nitwit, female perspective and the standard lamp shading straight man.",
+      "platform": "stackexchange",
+      "author_hash": "52bb56118ba8c1c388de3c34",
+      "language": "en",
+      "score": 0.680539,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_51df2bfb97f1ca2a9944",
+      "anonymous_id": "TARGET_A06",
+      "text": "It is definitely deadpan, but I always assumed like you that it was a joke at the time and not implying she didn't know what it meant. Given [TARGET]'s (and Amy's and Beverly's) repeated comments about it, it strains credulity that she could not in a general sense know what it means. (It's also at odds with her Nebraska Corn Fed personality. She almost certainly would have had some knowledge of car repair.)",
+      "platform": "stackexchange",
+      "author_hash": "fd5f4496ebb07bc2a24f4482",
+      "language": "en",
+      "score": 0.67370707,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_4b8e767e0bb08e272c03",
+      "anonymous_id": "TARGET_A06",
+      "text": "​ [USER] bet, thank you, the mannerisms always seemed very different lol. i assumed he wouls grow more and more into bbt [TARGET] but it did feel very much like 2 differing smart people to me",
+      "platform": "youtube",
+      "author_hash": "2575ce640179af82de6b67b0",
+      "language": "en",
+      "score": 0.67370707,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_b9be845534d9a1de5e38",
+      "anonymous_id": "TARGET_A06",
+      "text": "It's one of his quirks and I agree that he has tendency to be a boss or team leader. gud explanation",
+      "platform": "stackexchange",
+      "author_hash": "9893ee4d48e83c455f71e778",
+      "language": "en",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_02ad657425a0077b0914",
+      "anonymous_id": "TARGET_A06",
+      "text": "Not formally, but his behavior and conversation, while written for the show-is as close to how I act on a daily basis(tho I don't care if you sit in my chair). If the creators came out and formally said otherwise, whatever...but his actions denote someone whose brain doesn't work right socially.",
+      "platform": "stackexchange",
+      "author_hash": "ca383c3302ea74da272d1196",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:stackexchange_218fe6bac53e3e2a6c09",
+      "anonymous_id": "TARGET_A06",
+      "text": "[USER]'sMug This behavior is a caricature of that of someone with an Autism Spectrum Disorder (e.g. Asperger's syndrome), not OCD; Despite having some superficial similarities, there are very fundamental differences between the two .",
+      "platform": "stackexchange",
+      "author_hash": "e10e4bbc536ff05df328e457",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_6aa94f0a5619904b805f",
+      "anonymous_id": "TARGET_A06",
+      "text": "You know for all he's sometimes a jerk, he's also absolutely brilliant.",
+      "platform": "youtube",
+      "author_hash": "28989a85bf6aebf723109870",
+      "language": "en",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "tbbt_sheldon:youtube_f41f22cdfab519320805",
+      "anonymous_id": "TARGET_A06",
+      "text": "Top quality comedy. The way he's so obnoxious, socially inept and narcissistic, but at the same time, a complete genius, is totally original. Never before has there been a character like this in comedy or drama. Except Sherlock Holmes, Spock, Gregory House, Abed Nadir, The Doctor (from Doctor Who), Alan Turing, Niles Crane, Lisa Simpson, Will Hunting or Daria Morgendorffer, and those are just off the top of my head.",
+      "platform": "youtube",
+      "author_hash": "a72a3a31fa8b595086d47fd9",
+      "language": "en",
+      "score": 0.64744157,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

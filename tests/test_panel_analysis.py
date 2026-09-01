@@ -44,11 +44,11 @@ def test_paired_analysis_reports_micro_and_character_macro() -> None:
 
     contrasts, failures = MODULE.paired_contrasts(rows)
     assert failures == []
-    raw = [
+    summary = [
         row
         for row in contrasts
-        if row["actor_model"] == "actor" and row["contrast"] == "ours-raw"
+        if row["actor_model"] == "actor" and row["contrast"] == "ours-summary"
     ]
-    by_aggregation = {row["aggregation"]: row for row in raw}
+    by_aggregation = {row["aggregation"]: row for row in summary}
     assert by_aggregation["exact_unit_micro"]["mean_difference"] == 1 / 3
     assert by_aggregation["character_macro"]["mean_difference"] == 0.5

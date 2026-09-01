@@ -112,7 +112,7 @@ def build_bundle_manifest(
         "min_platforms": int(coverage["min_platforms"]),
         "min_authors": int(coverage["min_authors"]),
     }
-    with CommentCorpus(db_path) as corpus:
+    with CommentCorpus(db_path, read_only=True) as corpus:
         audit = corpus.validate_targets(
             **required_coverage,
             include_synthetic=False,
@@ -125,7 +125,6 @@ def build_bundle_manifest(
                 if not row["ready"]
             ]
             raise ValueError("corpus is not ready to freeze: " + "; ".join(failures))
-        corpus.connection.execute("PRAGMA wal_checkpoint(TRUNCATE)")
         source_rows = corpus.connection.execute(
             """
             SELECT character_id, platform, license_note,

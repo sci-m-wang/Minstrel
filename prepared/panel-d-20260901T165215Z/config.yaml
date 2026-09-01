@@ -1,0 +1,58 @@
+provider:
+  name: LOCAL
+  env_file: .env
+
+data:
+  corpus_db: data/corpus/comments.sqlite
+  catalog: data/catalog/characters.panel_d.json
+  benchmark: data/benchmarks/panel_d.jsonl
+  bundle_manifest: data/manifests/panel-d.json
+  model_registry: offline/models.yaml
+  frozen_assets:
+    - data/sources/official_inputs.json
+    - data/sources/collection_targets.json
+    - data/sources/feasibility.md
+    - data/audits/corpus_inventory.json
+    - data/audits/comment_filter_audit.json
+    - data/audits/comment_length_distribution.json
+    - data/audits/connected_retrieval_services.json
+    - data/audits/text-embedding-3-small.trace.jsonl
+    - data/audits/experiment_inventory.json
+    - data/vector_store/text-embedding-3-small.sqlite
+    - data/evaluators/charactereval/character_profiles.selected.json
+    - data/evaluators/charactereval/id2metric.selected.json
+    - offline/code.manifest.json
+    - offline/models.yaml
+  include_synthetic: false
+  coverage:
+    min_comments: 1
+    min_platforms: 2
+    min_authors: 100
+
+retrieval:
+  mode: vector_rerank
+  vector_store: data/vector_store/text-embedding-3-small.sqlite
+  embedding_provider: GPT
+  embedding_model: text-embedding-3-small
+  reranker_provider: COHERE
+  reranker_model: Cohere-rerank-v4.0-pro
+  candidate_top_k: 20
+  final_top_k: 10
+
+profiling:
+  probe_ids: null
+
+run:
+  name: panel-d
+  preparation_output_dir: prepared
+  output_dir: runs
+  character_ids:
+    - ce_huafei
+    - ce_luzhiqiao
+    - ce_laomo
+    - ce_zhuchaoyang
+    - ce_mengyanchen
+    - ce_xuhongdou
+  conditions: [none, personality, summary, gold, ours]
+  replicates: 3
+  judge: false

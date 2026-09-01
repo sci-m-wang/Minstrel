@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "created_at": "2026-08-31T06:43:26.099192+00:00",
+  "created_at": "2026-09-01T14:48:38.737374+00:00",
   "run_name": "panel-d",
   "research_ready": true,
   "read_only_execution": true,
@@ -15,13 +15,12 @@
   "conditions": [
     "none",
     "personality",
-    "raw",
     "summary",
     "gold",
     "ours"
   ],
   "coverage_requirement": {
-    "min_comments": 500,
+    "min_comments": 1,
     "min_platforms": 2,
     "min_authors": 100
   },
@@ -30,7 +29,7 @@
     "characters": [
       {
         "character_id": "ce_huafei",
-        "comments": 504,
+        "comments": 503,
         "platforms": 3,
         "authors": 426,
         "ready": true,
@@ -46,9 +45,9 @@
       },
       {
         "character_id": "ce_luzhiqiao",
-        "comments": 660,
+        "comments": 657,
         "platforms": 2,
-        "authors": 596,
+        "authors": 594,
         "ready": true,
         "failures": []
       },
@@ -112,7 +111,7 @@
       "character_id": "ce_huafei",
       "platform": "youtube",
       "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
-      "comments": 92,
+      "comments": 91,
       "authors": 87
     },
     {
@@ -147,8 +146,8 @@
       "character_id": "ce_luzhiqiao",
       "platform": "youtube",
       "license_note": "Publicly visible YouTube comment retained privately for research audit; canonical permalink preserved; redistribution is not authorized.",
-      "comments": 88,
-      "authors": 82
+      "comments": 85,
+      "authors": 80
     },
     {
       "character_id": "ce_mengyanchen",
@@ -197,14 +196,14 @@
     {
       "kind": "config",
       "path": "configs/offline/panel-d.yaml",
-      "bytes": 1405,
-      "sha256": "842749c58e8a9c3d2ebb544a3387600cde077e36c670effeda5cf9b3f9ddf611"
+      "bytes": 1621,
+      "sha256": "e68db0d39aa06d03a2e76b6ffcf05e5913f96d1e0a3f4a30b41d283caabb46d3"
     },
     {
       "kind": "corpus_db",
       "path": "data/corpus/comments.sqlite",
-      "bytes": 15032320,
-      "sha256": "56332dd625464189018e295b03eb7f2321d03d568481ed2beaac3a85920e938f"
+      "bytes": 9162752,
+      "sha256": "b297b98d4334ff6552c7520427b274edb025c487e7ae41e8d63d409c7dba3579"
     },
     {
       "kind": "catalog",
@@ -221,8 +220,8 @@
     {
       "kind": "executable_scope",
       "path": "configs/scope.yaml",
-      "bytes": 1388,
-      "sha256": "14a3b0af823a5c712eaba1303943784d7186b5ae699f63347f07f45c77a0dc53"
+      "bytes": 1345,
+      "sha256": "a957d47235a9db566842c328845d3b9b676280bab0be839fd9567c2b7d5093b8"
     },
     {
       "kind": "frozen_asset",
@@ -245,20 +244,44 @@
     {
       "kind": "frozen_asset",
       "path": "data/audits/corpus_inventory.json",
-      "bytes": 294281,
-      "sha256": "f08fce6be51085842f9f8c10e3623f00c81f917969e790ab5d06a8bf419b409d"
+      "bytes": 211127,
+      "sha256": "312ba8aceea1b95f91442d6728dd4634a93aebfbc53360bf46f4871fc231d6aa"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/comment_filter_audit.json",
+      "bytes": 106266,
+      "sha256": "483bbbdbd416c0397e84b5f9ee8ef5c12ef1a0722960a72e8acf9cea308bc43f"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/comment_length_distribution.json",
+      "bytes": 8611,
+      "sha256": "ed89f961d661271f807c08abfe33bbe8d0597bb534921b4236cf85a73542053b"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/connected_retrieval_services.json",
+      "bytes": 692,
+      "sha256": "0c149531dc6034077bfabf02026231d829f517e6d7240bd8901508f04705d7c6"
+    },
+    {
+      "kind": "frozen_asset",
+      "path": "data/audits/text-embedding-3-small.trace.jsonl",
+      "bytes": 601623,
+      "sha256": "493bf16f23dc2e002400c75ad10e8de72983db0ad033e42bd22e43c251af6230"
     },
     {
       "kind": "frozen_asset",
       "path": "data/audits/experiment_inventory.json",
-      "bytes": 9790,
-      "sha256": "d941b40548d831447466647c6d0a52dd870cde65c6619b022a791a42483fd989"
+      "bytes": 10001,
+      "sha256": "8480e065ebb304df357dee3134cffdbdc3946a62290b264d9c84914ed40b9e45"
     },
     {
       "kind": "frozen_asset",
-      "path": "data/vector_store/qwen3-embedding-0.6b.sqlite",
-      "bytes": 50024448,
-      "sha256": "387093b02b263b2e0490bde40a4997875ca5b1c8b12b42b8162a1cb70609a291"
+      "path": "data/vector_store/text-embedding-3-small.sqlite",
+      "bytes": 72531968,
+      "sha256": "6a1d98e9adeb933747a6271e63c42d6ff6cbbd5f4b47bdf7cce0d5801f037ccc"
     },
     {
       "kind": "frozen_asset",
@@ -275,14 +298,14 @@
     {
       "kind": "frozen_asset",
       "path": "offline/code.manifest.json",
-      "bytes": 12476,
-      "sha256": "dee7236640b5249a2accb76486d3cea4191100d4bf34654b60b2d6f9b3fbdee6"
+      "bytes": 15006,
+      "sha256": "a8478486f068a4ae66bb2dd4baee20cd5dcfd478b7ff93d3219d8fb15a5de4d7"
     },
     {
       "kind": "frozen_asset",
       "path": "offline/models.yaml",
-      "bytes": 2094,
-      "sha256": "236ae8d0e5edd0fc3a71d06dcdfada62386c0a2410279751576b54ec4a309254"
+      "bytes": 1881,
+      "sha256": "4c362e38e1bffc65c1ea22cf7ba0e9310d78882381dc5039cdc1ff119761493c"
     }
   ]
 }

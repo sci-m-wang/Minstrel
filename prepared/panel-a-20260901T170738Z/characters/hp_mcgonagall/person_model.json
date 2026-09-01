@@ -1,0 +1,120 @@
+{
+  "anonymous_id": "TARGET_A05",
+  "sections": {
+    "stable_tendencies": [
+      "TARGET_A05 tends to occupy structured authority roles through instruction, firm standards, and close adherence to established expectations. [D6-Q3-C01]",
+      "TARGET_A05 favors knowledge, observation, accumulated experience, and prior study over reliance on raw force alone. [D1-Q3-C02]",
+      "TARGET_A05 generally contains strong emotion so that it does not fully determine immediate action. [D5-Q1-C04]"
+    ],
+    "motives_and_goals": [
+      "In immediate danger, TARGET_A05 prioritizes protecting students and other vulnerable people. [D2-Q1-C01]",
+      "When confronting a longtime colleague or former student, TARGET_A05 appears to prefer ending the threat without lethal harm when a less harmful outcome is available. [D3-Q3-C01]"
+    ],
+    "value_priorities": [
+      "TARGET_A05 places protection of vulnerable people above ordinary procedural constraints when the two conflict. [D2-Q1-C01; D3-Q1-C02]",
+      "TARGET_A05 values controlled judgment and established rules, but may relax normal constraints when protection or a perceived greater good requires it. [D3-Q1-C02]",
+      "TARGET_A05 gives substantial weight to preserving a longstanding bond by avoiding unnecessary serious harm during conflict. [D3-Q3-C01]"
+    ],
+    "cognitive_appraisal_model": [
+      "TARGET_A05 appraises uncertain or competitive situations through observation, prior knowledge, experience, and study of the other party. [D1-Q3-C02]",
+      "TARGET_A05 normally uses rules as decision constraints but may re-rank them below urgent protective goals. [D3-Q1-C02]",
+      "Limited visible action may underrepresent TARGET_A05's awareness or capability, so apparent inaction is not reliable evidence of ignorance. [D7-Q3-C02]"
+    ],
+    "affective_dynamics": [
+      "TARGET_A05 manages anger or conflicted attachment through containment and measured action rather than immediate emotional escalation. [D5-Q1-C04; D5-Q3-C03]",
+      "TARGET_A05 maintains a controlled professional exterior while keeping tenderness toward students comparatively concealed. [D5-Q2-C01]",
+      "Distress involving a longstanding colleague is associated with pauses, limited pursuit, and restraint rather than maximal force. [D5-Q3-C03]"
+    ],
+    "interpersonal_patterns": [
+      "With people under TARGET_A05's authority, care is expressed indirectly through responsibility and protection while the overt manner remains strict. [D6-Q2-C01; D6-Q3-C01]",
+      "TARGET_A05 directs hierarchical relationships through clear standards and established expectations rather than dependence on others. [D6-Q3-C01]",
+      "In conflict with a longstanding colleague, TARGET_A05 may permit a response, limit escalation, and decline pursuit after withdrawal. [D6-Q2-C02]"
+    ],
+    "self_narrative_themes": [],
+    "situation_behavior_signatures": [
+      "When vulnerable people face immediate danger, TARGET_A05 moves toward protection and removal from danger before pursuing broader objectives. [D2-Q1-C01]",
+      "When a longstanding associate becomes an opponent, TARGET_A05 combines defensive action with restraint against unnecessary serious harm. [D3-Q3-C01; D6-Q2-C02]",
+      "When TARGET_A05 suspects that visible opposition may conceal shared allegiance, outward confrontation may be paired with withheld effort. [D7-Q3-C01]"
+    ],
+    "expressive_signature": [],
+    "contradictions_boundary_conditions": [
+      "TARGET_A05's rule orientation is not absolute: protective necessity or a perceived greater good can justify setting ordinary constraints aside. [D3-Q1-C02]",
+      "A strict public manner coexists with less visible care for students; severity of presentation does not by itself indicate lack of concern. [D5-Q2-C01; D6-Q2-C01]",
+      "Protective willingness to confront a threat can coexist with restraint when the threat is a longtime colleague and nonlethal resolution remains possible. [D3-Q3-C01; D6-Q2-C02]"
+    ],
+    "unknown_contested": [
+      "Whether TARGET_A05 consistently prefers straightforward action over elaborate strategy is weakly supported and based on comparison rather than a concrete incident. [D1-Q1-C03]",
+      "The degree and rigidity of TARGET_A05's strictness are disputed, particularly where pragmatic training risk may conflict with ordinary rules. [D1-Q3-C01; D1-Q3-C04]",
+      "It is unresolved whether TARGET_A05 would remain fully committed in every high-risk defense or hold back because of emotional ties. [D2-Q3-C01]",
+      "Claims that loyalty to a senior leader overrides TARGET_A05's independent calculation remain disputed or weakly supported. [D3-Q1-C01; D6-Q1-C04]",
+      "It is unclear whether TARGET_A05 sees hardship and controlled danger as necessary ways to harden students for an unforgiving world. [D4-Q2-C01; D4-Q3-C01]",
+      "Whether acute personal shock briefly disrupts TARGET_A05's otherwise deliberate composure is contested. [D5-Q3-C01; D5-Q3-C02; D8-Q1-C01; D8-Q1-C04]",
+      "The extent to which restraint in confrontation reflects lingering attachment, concern for nearby students, or knowledge of concealed allegiance cannot be separated confidently. [D5-Q2-C02; D7-Q3-C01; D8-Q1-C03]",
+      "TARGET_A05's private behavior, casual warmth, humor, intimate attachments, and broader familiar-versus-stranger differences are not established by the predominantly professional evidence. [D1-Q2-C01; D6-Q1-C01; D6-Q1-C02; D6-Q3-C03]",
+      "No direct evidence establishes TARGET_A05's own articulated self-narrative; claims about formative recognition and later identity are observer inferences. [D7-Q1-C01]",
+      "A precise, verbatim communication style is suggested by one formal message-delivery example but is insufficient to establish a general expressive pattern. [D8-Q3-C01]",
+      "Whether TARGET_A05's procedural rule enforcement can outweigh situational safety is weakly supported by an isolated comparison. [D8-Q2-C02]",
+      "Reports that TARGET_A05 overlooked bullying or was insufficiently present complicate claims that concealed care reliably produces attentive intervention. [D7-Q2-C01]"
+    ]
+  },
+  "cue_ids": [
+    "D1-Q1-C01",
+    "D1-Q1-C02",
+    "D1-Q1-C03",
+    "D1-Q2-C01",
+    "D1-Q3-C01",
+    "D1-Q3-C02",
+    "D1-Q3-C03",
+    "D1-Q3-C04",
+    "D2-Q1-C01",
+    "D2-Q1-C02",
+    "D2-Q2-C01",
+    "D2-Q3-C01",
+    "D3-Q1-C01",
+    "D3-Q1-C02",
+    "D3-Q3-C01",
+    "D3-Q3-C02",
+    "D4-Q1-C01",
+    "D4-Q1-C02",
+    "D4-Q2-C01",
+    "D4-Q2-C02",
+    "D4-Q2-C03",
+    "D4-Q3-C01",
+    "D4-Q3-C02",
+    "D4-Q3-C03",
+    "D5-Q1-C01",
+    "D5-Q1-C02",
+    "D5-Q1-C03",
+    "D5-Q1-C04",
+    "D5-Q2-C01",
+    "D5-Q2-C02",
+    "D5-Q3-C01",
+    "D5-Q3-C02",
+    "D5-Q3-C03",
+    "D6-Q1-C01",
+    "D6-Q1-C02",
+    "D6-Q1-C03",
+    "D6-Q1-C04",
+    "D6-Q2-C01",
+    "D6-Q2-C02",
+    "D6-Q3-C01",
+    "D6-Q3-C02",
+    "D6-Q3-C03",
+    "D7-Q1-C01",
+    "D7-Q1-C02",
+    "D7-Q2-C01",
+    "D7-Q3-C01",
+    "D7-Q3-C02",
+    "D8-Q1-C01",
+    "D8-Q1-C02",
+    "D8-Q1-C03",
+    "D8-Q1-C04",
+    "D8-Q2-C01",
+    "D8-Q2-C02",
+    "D8-Q2-C03",
+    "D8-Q3-C01",
+    "D8-Q3-C02"
+  ],
+  "model_name": "gpt-5.6-sol",
+  "created_at": "2026-09-01T18:10:42.900472+00:00"
+}

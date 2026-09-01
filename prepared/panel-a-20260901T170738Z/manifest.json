@@ -1,0 +1,477 @@
+{
+  "schema_version": 1,
+  "stage": "conditioning_preparation",
+  "created_at": "2026-09-01T19:14:46.554523+00:00",
+  "provider": "GPT",
+  "profiler_provider": "GPT",
+  "profiler_model": "gpt-5.6-sol",
+  "decoding": "provider_default",
+  "characters": [
+    "hp_harry",
+    "hp_hermione",
+    "hp_ron",
+    "hp_draco",
+    "hp_mcgonagall",
+    "tbbt_sheldon",
+    "tbbt_leonard",
+    "tbbt_penny",
+    "tbbt_raj",
+    "tbbt_howard"
+  ],
+  "conditions": [
+    "none",
+    "personality",
+    "summary",
+    "gold",
+    "ours"
+  ],
+  "probe_ids": [
+    "D1-Q1",
+    "D1-Q2",
+    "D1-Q3",
+    "D2-Q1",
+    "D2-Q2",
+    "D2-Q3",
+    "D3-Q1",
+    "D3-Q2",
+    "D3-Q3",
+    "D4-Q1",
+    "D4-Q2",
+    "D4-Q3",
+    "D5-Q1",
+    "D5-Q2",
+    "D5-Q3",
+    "D6-Q1",
+    "D6-Q2",
+    "D6-Q3",
+    "D7-Q1",
+    "D7-Q2",
+    "D7-Q3",
+    "D8-Q1",
+    "D8-Q2",
+    "D8-Q3"
+  ],
+  "comment_processing": "isolated_per_probe_top10",
+  "condition_aggregation": {
+    "personality": "per_probe_observations_then_aggregate",
+    "summary": "per_probe_summaries_then_aggregate",
+    "ours": "per_probe_cues_then_person_model"
+  },
+  "retrieval_mode": "openai_exact_vector_recall+cohere_rerank",
+  "embedding_provider": "GPT",
+  "embedding_model": "text-embedding-3-small",
+  "reranker_provider": "COHERE",
+  "reranker_model": "Cohere-rerank-v4.0-pro",
+  "candidate_top_k": 20,
+  "final_top_k": 10,
+  "reranker_usage": {
+    "calls": 240,
+    "search_units": 240
+  },
+  "corpus_stats": {
+    "schema_version": "1",
+    "total_comments": 8673,
+    "synthetic_comments_excluded": 0,
+    "characters": [
+      {
+        "character_id": "ce_huafei",
+        "comments": 503,
+        "platforms": 3,
+        "authors": 426
+      },
+      {
+        "character_id": "ce_laomo",
+        "comments": 544,
+        "platforms": 3,
+        "authors": 462
+      },
+      {
+        "character_id": "ce_luzhiqiao",
+        "comments": 657,
+        "platforms": 2,
+        "authors": 594
+      },
+      {
+        "character_id": "ce_mengyanchen",
+        "comments": 632,
+        "platforms": 2,
+        "authors": 431
+      },
+      {
+        "character_id": "ce_xuhongdou",
+        "comments": 501,
+        "platforms": 2,
+        "authors": 428
+      },
+      {
+        "character_id": "ce_zhuchaoyang",
+        "comments": 744,
+        "platforms": 2,
+        "authors": 650
+      },
+      {
+        "character_id": "hp_draco",
+        "comments": 484,
+        "platforms": 2,
+        "authors": 258
+      },
+      {
+        "character_id": "hp_harry",
+        "comments": 538,
+        "platforms": 3,
+        "authors": 280
+      },
+      {
+        "character_id": "hp_hermione",
+        "comments": 325,
+        "platforms": 2,
+        "authors": 227
+      },
+      {
+        "character_id": "hp_mcgonagall",
+        "comments": 401,
+        "platforms": 2,
+        "authors": 369
+      },
+      {
+        "character_id": "hp_ron",
+        "comments": 318,
+        "platforms": 2,
+        "authors": 191
+      },
+      {
+        "character_id": "tbbt_howard",
+        "comments": 684,
+        "platforms": 2,
+        "authors": 644
+      },
+      {
+        "character_id": "tbbt_leonard",
+        "comments": 460,
+        "platforms": 2,
+        "authors": 371
+      },
+      {
+        "character_id": "tbbt_penny",
+        "comments": 814,
+        "platforms": 2,
+        "authors": 703
+      },
+      {
+        "character_id": "tbbt_raj",
+        "comments": 458,
+        "platforms": 2,
+        "authors": 390
+      },
+      {
+        "character_id": "tbbt_sheldon",
+        "comments": 610,
+        "platforms": 2,
+        "authors": 527
+      }
+    ]
+  },
+  "coverage_audit": {
+    "ready": true,
+    "characters": [
+      {
+        "character_id": "hp_draco",
+        "comments": 484,
+        "platforms": 2,
+        "authors": 258,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_harry",
+        "comments": 538,
+        "platforms": 3,
+        "authors": 280,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_hermione",
+        "comments": 325,
+        "platforms": 2,
+        "authors": 227,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_mcgonagall",
+        "comments": 401,
+        "platforms": 2,
+        "authors": 369,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "hp_ron",
+        "comments": 318,
+        "platforms": 2,
+        "authors": 191,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_howard",
+        "comments": 684,
+        "platforms": 2,
+        "authors": 644,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_leonard",
+        "comments": 460,
+        "platforms": 2,
+        "authors": 371,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_penny",
+        "comments": 814,
+        "platforms": 2,
+        "authors": 703,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_raj",
+        "comments": 458,
+        "platforms": 2,
+        "authors": 390,
+        "ready": true,
+        "failures": []
+      },
+      {
+        "character_id": "tbbt_sheldon",
+        "comments": 610,
+        "platforms": 2,
+        "authors": 527,
+        "ready": true,
+        "failures": []
+      }
+    ]
+  },
+  "input_bundle": "data/manifests/panel-a.json",
+  "input_bundle_sha256": "be0d2ac85e54ecc1c43c6e4bfcd20a9cd30f669267b7a4b22b56fefe562fc594",
+  "llm_usage": {
+    "calls": 750,
+    "prompt_tokens": 1040096,
+    "completion_tokens": 356973
+  },
+  "research_valid": true,
+  "artifacts": [
+    {
+      "path": "characters/hp_harry/person_model.json",
+      "sha256": "da2b7341235e24b6578f9baf1e9b4c0154fe5c660731d40949953af7de1e4fcb"
+    },
+    {
+      "path": "characters/hp_harry/cues.jsonl",
+      "sha256": "47489d65b7bf2a43df22ebf17e1f98def3f909dc293d730e8729de6b2216d4f5"
+    },
+    {
+      "path": "characters/hp_harry/retrieval.json",
+      "sha256": "3388ec63886c65a357059cb5fcf878fbb1ed2e95584d0c7edec2f9ed423f071b"
+    },
+    {
+      "path": "characters/hp_harry/coverage.json",
+      "sha256": "3a24dc6c70bdf1c92e45841182bd103c295ebf4187a95199dae0ed571a5e7778"
+    },
+    {
+      "path": "characters/hp_harry/conditionings.json",
+      "sha256": "444b1cab9f4fb912c44d013afb5c17e645f105c67ca0a6b5765dafee2d034be1"
+    },
+    {
+      "path": "characters/hp_hermione/person_model.json",
+      "sha256": "d9c734a5682af126780779ad5c4bcd2fa39ce69a13bc2e6c44d0216a5c8f680c"
+    },
+    {
+      "path": "characters/hp_hermione/cues.jsonl",
+      "sha256": "3459bc602fb3a47b098b38da5999543e4caa5e355bcc552d1cf0308f2e6d62da"
+    },
+    {
+      "path": "characters/hp_hermione/retrieval.json",
+      "sha256": "f81bb606c7e44981ec93c463846e4d7fb80f26507b7a05d3e51d5cd9e96c896c"
+    },
+    {
+      "path": "characters/hp_hermione/coverage.json",
+      "sha256": "76ba502ddcafc26cdffedd758218c606716a2dd00e31b6c5654f832adf4f61fd"
+    },
+    {
+      "path": "characters/hp_hermione/conditionings.json",
+      "sha256": "d321cdfd9dd8077b2dca51acae91617007e72d32dae85424cc01b17f3254f830"
+    },
+    {
+      "path": "characters/hp_ron/person_model.json",
+      "sha256": "b512e1caffd8ccaf5f35cb91afed277c778894954681ee0b9f23c5cbbc8ed0ed"
+    },
+    {
+      "path": "characters/hp_ron/cues.jsonl",
+      "sha256": "38b2b2548b8d7de3ef6d31bb144f100e407a797c9a586246c81eeeed9e88791e"
+    },
+    {
+      "path": "characters/hp_ron/retrieval.json",
+      "sha256": "35ec58ba5f0814a35a29177abc6a1fac9fe3248cb11a20166dd35b94da9ddc45"
+    },
+    {
+      "path": "characters/hp_ron/coverage.json",
+      "sha256": "a78420f0d36b458f2c0d9c36475f390ea62d0c99139c662a0d7bf0fa55f59c8c"
+    },
+    {
+      "path": "characters/hp_ron/conditionings.json",
+      "sha256": "0d18e858235bc8c01a44797e3b84473f54248ad812b43ae9f18c540d5732f846"
+    },
+    {
+      "path": "characters/hp_draco/person_model.json",
+      "sha256": "fb43f13b592a1413044450af1804d0233902c54db7fce0a19fe3181cae4bad03"
+    },
+    {
+      "path": "characters/hp_draco/cues.jsonl",
+      "sha256": "851aefc1d7366bff1ad893796afc2c03b4c64661ef8603e77451271392265c5e"
+    },
+    {
+      "path": "characters/hp_draco/retrieval.json",
+      "sha256": "651b2e54660e675f5a26648553d88267a7f3101dbdb1be16a0b61c60441923c0"
+    },
+    {
+      "path": "characters/hp_draco/coverage.json",
+      "sha256": "7fab0528d23c1eba3af669368e4c5054a9e6beb4bf9952d55cdc4cbc46de1520"
+    },
+    {
+      "path": "characters/hp_draco/conditionings.json",
+      "sha256": "d84fc57824a43eb399418f0efdd16000a96ee4ce2501cc36eb23a3b7a6eda89d"
+    },
+    {
+      "path": "characters/hp_mcgonagall/person_model.json",
+      "sha256": "7835c8f25b8bc278d96e64c6830c04b86f49367f913d76c0229304f9d978ae41"
+    },
+    {
+      "path": "characters/hp_mcgonagall/cues.jsonl",
+      "sha256": "c2908d326525f614adc9f7b4995ae333016f513466303d4a1e1ee46bf7ee5f1b"
+    },
+    {
+      "path": "characters/hp_mcgonagall/retrieval.json",
+      "sha256": "42519ca44fa34e435ddcb5f2d159a30ec69b5599e45843377c4442bbae15bcc6"
+    },
+    {
+      "path": "characters/hp_mcgonagall/coverage.json",
+      "sha256": "a56c3bb3ffd411e8642209c25fc39b5f033ce99a6edc3916da19ecf8e3e94394"
+    },
+    {
+      "path": "characters/hp_mcgonagall/conditionings.json",
+      "sha256": "2a61bbcb9de8f470f6ccff863f3389c1e6af6f2e3ba0ff6a9ee49dae33591400"
+    },
+    {
+      "path": "characters/tbbt_sheldon/person_model.json",
+      "sha256": "a8708593ba0ed61687b02231fd094bcf2d91a061c34f2fbf97adce22adec49a1"
+    },
+    {
+      "path": "characters/tbbt_sheldon/cues.jsonl",
+      "sha256": "63f7defdfeb72612db55f6dcc027eae0fa08a9463525b3cd4acc89b96e798390"
+    },
+    {
+      "path": "characters/tbbt_sheldon/retrieval.json",
+      "sha256": "ae4158f04ab9c4a8143785d6b1ae4bc4925d667b313a3df38f45029a4d30a53d"
+    },
+    {
+      "path": "characters/tbbt_sheldon/coverage.json",
+      "sha256": "2b259a9f638e5b3d0c7dfdaa7bd5a0f0044100a87de5477905b5b652c52e894f"
+    },
+    {
+      "path": "characters/tbbt_sheldon/conditionings.json",
+      "sha256": "fee21db11c6c93b97723b0c32253512dbc8475e8de50b5615ee48776ada19f4d"
+    },
+    {
+      "path": "characters/tbbt_leonard/person_model.json",
+      "sha256": "750168a60e7335b5c8be750fa5c20ba1c84db2d7e8ccdaa4ae8dfe80028718a6"
+    },
+    {
+      "path": "characters/tbbt_leonard/cues.jsonl",
+      "sha256": "39e8bb9501b0d7ec4ae213d207dc2373da2813ed91439d867272c41eb4a4692c"
+    },
+    {
+      "path": "characters/tbbt_leonard/retrieval.json",
+      "sha256": "fe4caea8d746ad7147df0f4cd3a5cc8e8d855a4db4d30c41163a846d92a060c3"
+    },
+    {
+      "path": "characters/tbbt_leonard/coverage.json",
+      "sha256": "76059fb2465a12c2ec25992cdf2ee76bdcc74d107dd3975966c425eba91ada22"
+    },
+    {
+      "path": "characters/tbbt_leonard/conditionings.json",
+      "sha256": "929f0b2bd0a376948be492018e6cf8c54d9cc2ba3457476fca7ac1e55de772b7"
+    },
+    {
+      "path": "characters/tbbt_penny/person_model.json",
+      "sha256": "2bf135c794f6e151e3f7677d2a7f369c3e48049ba80b7a46cd1d50a0bf07461c"
+    },
+    {
+      "path": "characters/tbbt_penny/cues.jsonl",
+      "sha256": "cf5a8a92a74572ca17568ca4c562930c687f85bbdc11670b7089f929c1872963"
+    },
+    {
+      "path": "characters/tbbt_penny/retrieval.json",
+      "sha256": "bcd617fbe4c54edadd8599c7717b60b46f97b0d36a82479c9293c3a170708965"
+    },
+    {
+      "path": "characters/tbbt_penny/coverage.json",
+      "sha256": "cd5246c53382a145de279b3ea8bfb1108b5529578e3ae66d9b1c0d6f4729fcce"
+    },
+    {
+      "path": "characters/tbbt_penny/conditionings.json",
+      "sha256": "4c898e10357eae428d365f6e273a3c9fcafbc9b15b0a145707cc6b341092a9ff"
+    },
+    {
+      "path": "characters/tbbt_raj/person_model.json",
+      "sha256": "8b5659d6eb38c8e6f4a5cdc52ab40691050dfe6745ff56f44d2c5c03170211a7"
+    },
+    {
+      "path": "characters/tbbt_raj/cues.jsonl",
+      "sha256": "32ca76b8566f3b878b8ec1f10bff956c9576ac4657bd4124c4486f195b85ff62"
+    },
+    {
+      "path": "characters/tbbt_raj/retrieval.json",
+      "sha256": "6c284c411215e036fc2a309251897aff72f1e092adff11906befe417c30dd2db"
+    },
+    {
+      "path": "characters/tbbt_raj/coverage.json",
+      "sha256": "8f9a50c02d8a10bbfc99bf75d11ef3e0735c13ebe28b40092be57dd109f9abcf"
+    },
+    {
+      "path": "characters/tbbt_raj/conditionings.json",
+      "sha256": "bb96af3928fa5ee15560967c1dd10916ba406ea3e5efedf1e65891b99e865bf1"
+    },
+    {
+      "path": "characters/tbbt_howard/person_model.json",
+      "sha256": "8a11fc5af906983ce86ec3093830c2c12d9f65a8cac912d845bb6062f87744d5"
+    },
+    {
+      "path": "characters/tbbt_howard/cues.jsonl",
+      "sha256": "6873325a374ec09cc4ebc21c3ce6d9d60bc26301953bceea900d885bb0c6d2d4"
+    },
+    {
+      "path": "characters/tbbt_howard/retrieval.json",
+      "sha256": "3e49f3644ad525e5ef3ae3f9c11b75a9bdf53cd80017b378c0f4331f045edf35"
+    },
+    {
+      "path": "characters/tbbt_howard/coverage.json",
+      "sha256": "85aa1962078d13b8eca4a5d947a31445db14341aa92777b18927004e0993cc47"
+    },
+    {
+      "path": "characters/tbbt_howard/conditionings.json",
+      "sha256": "fbc9853c269a478ad7b20ffe1fceaecf0612b74655ca9c5f3ea9a7bc68f7d17f"
+    },
+    {
+      "path": "trace.jsonl",
+      "sha256": "44fa9888c2e3da421d12738f69ba1a6f7b7ff379306044a86fe796d2d06f6bd7"
+    },
+    {
+      "path": "rerank.trace.jsonl",
+      "sha256": "483a8b46192eaf88d402947de70693817502a9463fa8f85a093e4c663e63f280"
+    }
+  ]
+}

@@ -9,21 +9,26 @@ data:
   bundle_manifest: data/manifests/panel-a.json
   frozen_assets:
     - data/sources/official_inputs.json
-    - data/vector_store/qwen3-embedding-0.6b.sqlite
+    - data/audits/comment_filter_audit.json
+    - data/audits/comment_length_distribution.json
+    - data/audits/connected_retrieval_services.json
+    - data/audits/text-embedding-3-small.trace.jsonl
+    - data/vector_store/text-embedding-3-small.sqlite
     - offline/models.yaml
   include_synthetic: false
   coverage:
-    min_comments: 500
+    min_comments: 1
     min_platforms: 2
     min_authors: 100
 
 retrieval:
-  mode: hybrid
-  vector_store: data/vector_store/qwen3-embedding-0.6b.sqlite
-  embedding_model_key: qwen3-embedding-0.6b
-  reranker_model: BAAI/bge-reranker-v2-m3
-  bm25_top_k: 20
-  dense_top_k: 20
+  mode: vector_rerank
+  vector_store: data/vector_store/text-embedding-3-small.sqlite
+  embedding_provider: GPT
+  embedding_model: text-embedding-3-small
+  reranker_provider: COHERE
+  reranker_model: Cohere-rerank-v4.0-pro
+  candidate_top_k: 20
   final_top_k: 10
 
 profiling:
@@ -43,6 +48,6 @@ run:
     - tbbt_penny
     - tbbt_raj
     - tbbt_howard
-  conditions: [none, personality, raw, summary, gold, ours]
+  conditions: [none, personality, summary, gold, ours]
   replicates: 3
   judge: false

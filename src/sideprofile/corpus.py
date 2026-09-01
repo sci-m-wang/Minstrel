@@ -26,13 +26,26 @@ def _text_hash(text: str) -> str:
 
 
 class CommentCorpus:
-    def __init__(self, path: str | Path) -> None:
+    def __init__(self, path: str | Path, *, read_only: bool = False) -> None:
         self.path = Path(path)
-        self.path.parent.mkdir(parents=True, exist_ok=True)
-        self.connection = sqlite3.connect(self.path)
+        self.read_only = read_only
+        if read_only:
+            if not self.path.is_file():
+                raise FileNotFoundError(f"missing frozen corpus: {self.path}")
+            self.connection = sqlite3.connect(
+                f"{self.path.resolve().as_uri()}?mode=ro&immutable=1", uri=True
+            )
+        else:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            self.connection = sqlite3.connect(self.path)
         self.connection.row_factory = sqlite3.Row
         self.connection.execute("PRAGMA foreign_keys = ON")
-        self.connection.execute("PRAGMA journal_mode = WAL")
+        if not read_only:
+            self.connection.execute("PRAGMA journal_mode = WAL")
+
+    def _ensure_writable(self) -> None:
+        if self.read_only:
+            raise RuntimeError("frozen corpus connection is read-only")
 
     def close(self) -> None:
         self.connection.close()
@@ -44,6 +57,19 @@ class CommentCorpus:
         self.close()
 
     def initialize(self) -> None:
+        if self.read_only:
+            tables = {
+                str(row[0])
+                for row in self.connection.execute(
+                    "SELECT name FROM sqlite_master WHERE type='table'"
+                ).fetchall()
+            }
+            missing = {"metadata", "characters", "comments"} - tables
+            if missing:
+                raise RuntimeError(
+                    "frozen corpus schema is incomplete: " + ", ".join(sorted(missing))
+                )
+            return
         self.connection.executescript(
             """
             CREATE TABLE IF NOT EXISTS metadata (
@@ -89,6 +115,7 @@ class CommentCorpus:
         self.connection.commit()
 
     def add_character(self, spec: CharacterSpec) -> None:
+        self._ensure_writable()
         self.initialize()
         self.connection.execute(
             "INSERT OR REPLACE INTO characters(character_id, payload) VALUES(?, ?)",
@@ -97,6 +124,7 @@ class CommentCorpus:
         self.connection.commit()
 
     def add_characters(self, specs: Iterable[CharacterSpec]) -> None:
+        self._ensure_writable()
         self.initialize()
         with self.connection:
             for spec in specs:
@@ -120,6 +148,7 @@ class CommentCorpus:
         return [CharacterSpec.model_validate_json(row["payload"]) for row in rows]
 
     def add_comment(self, comment: Comment) -> bool:
+        self._ensure_writable()
         self.initialize()
         try:
             self.get_character(comment.character_id)
@@ -143,6 +172,7 @@ class CommentCorpus:
             return False
 
     def add_comments(self, comments: Iterable[Comment]) -> tuple[int, int]:
+        self._ensure_writable()
         inserted = duplicate = 0
         for comment in comments:
             if self.add_comment(comment):

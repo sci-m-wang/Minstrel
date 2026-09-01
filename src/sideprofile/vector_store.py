@@ -3,17 +3,20 @@ from __future__ import annotations
 import hashlib
 import json
 import sqlite3
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+from .connected_retrieval import OpenAIEmbeddingClient
 from .probes import PROBES
 from .schema import Comment, Probe
 
 
-VECTOR_STORE_SCHEMA_VERSION = "1"
-QUERY_PROMPT_NAME = "query"
+VECTOR_STORE_SCHEMA_VERSION = "2"
 SIMILARITY_METRIC = "cosine"
 EMBEDDING_DTYPE = "float32_le"
+EMBEDDING_TRANSPORT_BATCH_SIZE = 256
+MODEL_DIMENSIONS = {"text-embedding-3-small": 1536}
 
 
 def text_sha256(text: str) -> str:
@@ -28,25 +31,13 @@ def file_sha256(path: str | Path) -> str:
     return digest.hexdigest()
 
 
-def isolate_text_transformers_runtime() -> None:
-    """Keep optional vision extensions out of this text-only experiment process.
-
-    Some otherwise valid CUDA environments expose torchvision metadata while its optional image
-    extension cannot be loaded on a compute node. Transformers then imports that unused extension
-    while lazily resolving text-model classes. Marking the optional backend unavailable preserves
-    the text model and weights unchanged and avoids loading unrelated native vision code.
-    """
-
-    import transformers.utils.import_utils as transformer_imports
-
-    transformer_imports._torchvision_available = False
-
-
 def _corpus_rows(corpus_db: str | Path) -> list[tuple[str, str, str]]:
     path = Path(corpus_db).resolve()
     if not path.is_file():
         raise FileNotFoundError(f"missing corpus database: {path}")
-    connection = sqlite3.connect(path)
+    connection = sqlite3.connect(
+        f"{path.as_uri()}?mode=ro&immutable=1", uri=True
+    )
     try:
         rows = connection.execute(
             """
@@ -87,69 +78,29 @@ def build_vector_store(
     *,
     corpus_db: str | Path,
     output_path: str | Path,
-    model_path: str | Path,
+    client: OpenAIEmbeddingClient,
     model_key: str,
-    model_revision: str,
 ) -> dict[str, Any]:
-    """Build one immutable exact-cosine store from every non-synthetic comment.
-
-    This preparation-side operation uses the embedding model's own Sentence Transformers
-    defaults. The only model-specific behavior is Qwen3's official ``query`` prompt for query
-    embeddings. Documents are encoded without a prompt.
-    """
+    """Build an immutable exact-cosine store through the connected embedding service."""
 
     try:
         import numpy as np
-        isolate_text_transformers_runtime()
-        from sentence_transformers import SentenceTransformer
     except ImportError as exc:
-        raise RuntimeError(
-            "vector-store construction needs the optional 'dense' dependencies: "
-            "pip install -e '.[dense]'"
-        ) from exc
+        raise RuntimeError("vector-store construction requires numpy") from exc
 
     source = Path(corpus_db).resolve()
     output = Path(output_path).resolve()
-    model = Path(model_path).resolve()
     if output.exists():
         raise FileExistsError(
             f"refusing to overwrite vector store: {output}; build to a new path and verify it"
         )
-    if not model.is_dir():
-        raise FileNotFoundError(f"missing embedding model directory: {model}")
     rows = _corpus_rows(source)
     if not rows:
         raise RuntimeError("cannot build a vector store from an empty research corpus")
-
-    encoder = SentenceTransformer(str(model))
-    if QUERY_PROMPT_NAME not in encoder.prompts:
-        raise RuntimeError(
-            f"embedding model does not expose the required {QUERY_PROMPT_NAME!r} prompt"
-        )
-    document_embeddings = np.asarray(
-        encoder.encode(
-            [raw_text for _, _, raw_text in rows],
-            normalize_embeddings=True,
-        ),
-        dtype="<f4",
-    )
     query_specs: list[tuple[Probe, str, str]] = []
     for probe in PROBES:
         for language in ("en", "zh"):
             query_specs.append((probe, language, probe.query(language)))
-    query_embeddings = np.asarray(
-        encoder.encode(
-            [query for _, _, query in query_specs],
-            prompt_name=QUERY_PROMPT_NAME,
-            normalize_embeddings=True,
-        ),
-        dtype="<f4",
-    )
-    if document_embeddings.ndim != 2 or query_embeddings.ndim != 2:
-        raise RuntimeError("embedding model returned an invalid tensor rank")
-    if document_embeddings.shape[1] != query_embeddings.shape[1]:
-        raise RuntimeError("document and query embedding dimensions differ")
-    dimension = int(document_embeddings.shape[1])
 
     output.parent.mkdir(parents=True, exist_ok=True)
     building = output.with_name(output.name + ".building")
@@ -182,11 +133,87 @@ def build_vector_store(
             );
             """
         )
+        dimension: int | None = None
+        for start in range(0, len(rows), EMBEDDING_TRANSPORT_BATCH_SIZE):
+            batch = rows[start : start + EMBEDDING_TRANSPORT_BATCH_SIZE]
+            vectors = client.embed([raw_text for _, _, raw_text in batch])
+            encoded_rows = []
+            for (comment_id, character_id, raw_text), vector in zip(
+                batch, vectors, strict=True
+            ):
+                array = np.asarray(vector, dtype="<f4")
+                norm = float(np.linalg.norm(array))
+                if array.ndim != 1 or not norm:
+                    raise RuntimeError("embedding model returned an invalid document vector")
+                if dimension is None:
+                    dimension = int(array.shape[0])
+                elif array.shape[0] != dimension:
+                    raise RuntimeError("document embedding dimensions differ")
+                array = np.asarray(array / norm, dtype="<f4")
+                encoded_rows.append(
+                    (
+                        comment_id,
+                        character_id,
+                        text_sha256(raw_text),
+                        array.tobytes(),
+                    )
+                )
+            with connection:
+                connection.executemany(
+                    """
+                    INSERT INTO document_embeddings(
+                        comment_id, character_id, text_sha256, vector
+                    ) VALUES(?, ?, ?, ?)
+                    """,
+                    encoded_rows,
+                )
+
+        query_vectors = client.embed([query for _, _, query in query_specs])
+        encoded_queries = []
+        for (probe, language, query), vector in zip(
+            query_specs, query_vectors, strict=True
+        ):
+            array = np.asarray(vector, dtype="<f4")
+            norm = float(np.linalg.norm(array))
+            if array.ndim != 1 or not norm or array.shape[0] != dimension:
+                raise RuntimeError("query embedding dimension differs from documents")
+            array = np.asarray(array / norm, dtype="<f4")
+            encoded_queries.append(
+                (
+                    probe.probe_id,
+                    language,
+                    text_sha256(query),
+                    array.tobytes(),
+                )
+            )
+        with connection:
+            connection.executemany(
+                """
+                INSERT INTO query_embeddings(
+                    probe_id, language, query_sha256, vector
+                ) VALUES(?, ?, ?, ?)
+                """,
+                encoded_queries,
+            )
+
+        if dimension is None:
+            raise RuntimeError("embedding service returned no document vectors")
+        expected_dimension = MODEL_DIMENSIONS.get(model_key)
+        if expected_dimension is not None and dimension != expected_dimension:
+            raise RuntimeError(
+                f"embedding dimension {dimension} differs from {model_key} "
+                f"default {expected_dimension}"
+            )
+        if client.returned_models != {model_key}:
+            raise RuntimeError(
+                "embedding endpoint returned a different model: "
+                f"{sorted(client.returned_models)!r} != {[model_key]!r}"
+            )
         metadata = {
             "schema_version": VECTOR_STORE_SCHEMA_VERSION,
+            "embedding_provider": client.settings.provider,
             "model_key": model_key,
-            "model_revision": model_revision,
-            "query_prompt_name": QUERY_PROMPT_NAME,
+            "model_revision": "provider_managed",
             "similarity_metric": SIMILARITY_METRIC,
             "embedding_dtype": EMBEDDING_DTYPE,
             "embedding_dimension": str(dimension),
@@ -194,43 +221,13 @@ def build_vector_store(
             "document_count": str(len(rows)),
             "query_count": str(len(query_specs)),
             "synthetic_included": "false",
+            "created_at": datetime.now(timezone.utc).isoformat(),
+            "api_usage": json.dumps(client.usage, sort_keys=True),
         }
         with connection:
             connection.executemany(
                 "INSERT INTO metadata(key, value) VALUES(?, ?)",
                 sorted(metadata.items()),
-            )
-            connection.executemany(
-                """
-                INSERT INTO document_embeddings(
-                    comment_id, character_id, text_sha256, vector
-                ) VALUES(?, ?, ?, ?)
-                """,
-                (
-                    (
-                        comment_id,
-                        character_id,
-                        text_sha256(raw_text),
-                        document_embeddings[index].tobytes(),
-                    )
-                    for index, (comment_id, character_id, raw_text) in enumerate(rows)
-                ),
-            )
-            connection.executemany(
-                """
-                INSERT INTO query_embeddings(
-                    probe_id, language, query_sha256, vector
-                ) VALUES(?, ?, ?, ?)
-                """,
-                (
-                    (
-                        probe.probe_id,
-                        language,
-                        text_sha256(query),
-                        query_embeddings[index].tobytes(),
-                    )
-                    for index, (probe, language, query) in enumerate(query_specs)
-                ),
             )
         connection.execute("VACUUM")
     except BaseException:
@@ -243,11 +240,13 @@ def build_vector_store(
     return {
         "status": "ok",
         "path": str(output),
+        "embedding_provider": client.settings.provider,
         "model_key": model_key,
-        "model_revision": model_revision,
+        "model_revision": "provider_managed",
         "documents": len(rows),
         "queries": len(query_specs),
         "dimension": dimension,
+        "api_usage": client.usage,
         "sha256": file_sha256(output),
     }
 
@@ -264,12 +263,13 @@ def verify_vector_store(
     if not store_path.is_file():
         return {"ok": False, "path": str(store_path), "failures": ["missing vector store"]}
     rows = _corpus_rows(corpus_db)
-    connection = sqlite3.connect(store_path)
+    connection = sqlite3.connect(
+        f"{store_path.as_uri()}?mode=ro&immutable=1", uri=True
+    )
     try:
         metadata = _metadata(connection)
         expected_metadata = {
             "schema_version": VECTOR_STORE_SCHEMA_VERSION,
-            "query_prompt_name": QUERY_PROMPT_NAME,
             "similarity_metric": SIMILARITY_METRIC,
             "embedding_dtype": EMBEDDING_DTYPE,
             "corpus_fingerprint": corpus_fingerprint(rows),
@@ -290,6 +290,11 @@ def verify_vector_store(
             dimension = 0
         if dimension <= 0:
             failures.append("invalid embedding_dimension")
+        expected_dimension = MODEL_DIMENSIONS.get(str(expected_model_key or metadata.get("model_key", "")))
+        if expected_dimension is not None and dimension != expected_dimension:
+            failures.append(
+                f"embedding_dimension={dimension}, expected {expected_dimension}"
+            )
         observed_documents = connection.execute(
             """
             SELECT comment_id, character_id, text_sha256, length(vector)
@@ -346,7 +351,7 @@ def verify_vector_store(
 
 
 class ExactVectorStore:
-    """Read-only exact cosine search over frozen Qwen3 embeddings."""
+    """Read-only exact cosine search over the frozen connected-service embeddings."""
 
     def __init__(self, path: str | Path, *, expected_model_key: str) -> None:
         try:
@@ -357,8 +362,9 @@ class ExactVectorStore:
         self.path = Path(path).resolve()
         if not self.path.is_file():
             raise RuntimeError(f"missing frozen vector store: {self.path}")
-        self.connection = sqlite3.connect(self.path)
-        self.connection.execute("PRAGMA query_only = ON")
+        self.connection = sqlite3.connect(
+            f"{self.path.as_uri()}?mode=ro&immutable=1", uri=True
+        )
         self.metadata = _metadata(self.connection)
         if self.metadata.get("schema_version") != VECTOR_STORE_SCHEMA_VERSION:
             raise RuntimeError("unsupported vector-store schema")

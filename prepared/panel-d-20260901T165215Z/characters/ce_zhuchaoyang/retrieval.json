@@ -1,0 +1,3170 @@
+{
+  "D1-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0b1c6f1350fffad598c7",
+      "anonymous_id": "TARGET_D04",
+      "text": "不要再说不开门就怎样怎样了，[TARGET]内心是黑暗的，即使没有遇到严良，也会遇到李良，王良，赵良……一个人的思维模式和行为方式已经决定了一切",
+      "platform": "bilibili",
+      "author_hash": "9e5ed1d250e0a60479764128",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_989e79c1ec8570f151c3",
+      "anonymous_id": "TARGET_D04",
+      "text": "但整个过程是朱在策划和指挥——这意味着朱不仅同意勒索，而且积极实施勒索。谁第一个提出勒索的在这里并不重要：就像如果第一个提出主意的人马上改口说“我就这么一说，别当真”，但旁边听着的人却表现出更大的积极性“就按你说的办，咱这么干的话肯定能行”。",
+      "platform": "youtube",
+      "author_hash": "2d64b684dbf910b0159d468e",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_86687214cb4815ecbf93",
+      "anonymous_id": "TARGET_D04",
+      "text": "这部剧所有人的个性都很稀有，就是说他们这种性格的人会存在，但都凑在一起太难得了，人的自我糊弄和调节能力是很强的，相对于极端更容易躺平。",
+      "platform": "bilibili",
+      "author_hash": "c466c428af7361fdedb5c1a3",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_26fc841c7566b8c1a6ed",
+      "anonymous_id": "TARGET_D04",
+      "text": "剧版[TARGET]感觉到后面他自己都不能控制自己的行为了，命运只给了他单项选择，有点一步错步步错的感jio",
+      "platform": "bilibili",
+      "author_hash": "77bd2104fb5b3b77cafe5179",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_4573a9f6e0ac5d60e4b3",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @嘉木南方 :普普除了没[TARGET]布局聪明外，动手能力一点也不弱毒杀[TARGET]爸后妈跟玩一样",
+      "platform": "bilibili",
+      "author_hash": "cbc08565c7d7755b6a2c4e5e",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_8dc170397ae7168baa50",
+      "anonymous_id": "TARGET_D04",
+      "text": "都是空复制卡，何必要多此一举问阎良如何处理。[TARGET]这人肯定是有别的想法，结局也很明显，外在条件基本没啥变化，他就能重开做一个好人了？",
+      "platform": "bilibili",
+      "author_hash": "0f944752404101aa8c4483ab",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1629ca26981462cf0e09",
+      "anonymous_id": "TARGET_D04",
+      "text": "有严良看管，再作恶的话，严良会直接拿出证据击穿他的心理防线。如果他把智商用在正道上，严良就会这么算了",
+      "platform": "bilibili",
+      "author_hash": "d55750270ea99086a509959c",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_3b2a943260e74cde2402",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键是他一个12岁的孩子就算想救能怎么救，能拉的上来？第二个案子他不该有任何责任",
+      "platform": "youtube",
+      "author_hash": "c794375fffa20c346fdac970",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_45fb984adecf9e52309f",
+      "anonymous_id": "TARGET_D04",
+      "text": "我觉得所谓的不可怕其实就是来源于，他的环境造就了这样的他，会有这样的变化很自然而然。大概",
+      "platform": "bilibili",
+      "author_hash": "1457d2631e31c8f5db8ef58e",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_4ee6350467ae876a9f7d",
+      "anonymous_id": "TARGET_D04",
+      "text": "主要是怎么分辨身边有像[TARGET]这种有ab面的人……唉",
+      "platform": "bilibili",
+      "author_hash": "f16b83485e5c18588cda329d",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6aba933e46ce613e08c",
+      "anonymous_id": "TARGET_D04",
+      "text": "他的性格跟我一个朋友一毛一样，跟这种人相处会很累，理性过头等于冷血",
+      "platform": "bilibili",
+      "author_hash": "2c1c3f00187d2e7eda16069d",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f6e2a8899ec20b543be7",
+      "anonymous_id": "TARGET_D04",
+      "text": "第一个为什么确定没有达到使张东升恐惧的地步呢？如果张东升没有恐惧的话为什么要给对方钱呢？张东升在面对三个孩子的时候表现的是很镇定，但看到视频的时候明显有情绪的变化。",
+      "platform": "youtube",
+      "author_hash": "fc6a45da20ce09c1f5dee250",
+      "language": "zh",
+      "score": 0.39010403,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_44acdb3c4652f3847db4",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]一点也不可怕 可怕的是大人吧 家庭和环境才可怕",
+      "platform": "bilibili",
+      "author_hash": "d06466474d60a8e6dfa1614b",
+      "language": "zh",
+      "score": 0.33598232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_aeb721ec736389651d77",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @青衫尘土 :我二表哥就是这样，相似的家庭，相似的童年，性格也一样，所以每次看见东[TARGET]就想起我哥",
+      "platform": "bilibili",
+      "author_hash": "aef75491203873b851ff5758",
+      "language": "zh",
+      "score": 0.3256063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3a0f2f18b07fc18fb70d",
+      "anonymous_id": "TARGET_D04",
+      "text": "他真的很恐怖啊 摆出一副无辜的样子算计了那么多事情 还是那么小的年纪 越想越细思极恐",
+      "platform": "bilibili",
+      "author_hash": "893766211f39b9e348a12220",
+      "language": "zh",
+      "score": 0.31203446,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1b4e2a24c3b767176a36",
+      "anonymous_id": "TARGET_D04",
+      "text": "这三个真的是坏小孩，普普有种天真的不顾别人死活的纯粹的恶（自己没有能力救弟弟，为什么要拖累陌生人？",
+      "platform": "bilibili",
+      "author_hash": "d72aa95c395f75fed0d916a6",
+      "language": "zh",
+      "score": 0.30206156,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_9314c567233b12976c03",
+      "anonymous_id": "TARGET_D04",
+      "text": "我并没有觉得[TARGET]可怕，如果家庭环境好一点的话，可能就不会这样了吧",
+      "platform": "bilibili",
+      "author_hash": "a258d5c2126b938025ed8316",
+      "language": "zh",
+      "score": 0.2890505,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D1-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_45fb984adecf9e52309f",
+      "anonymous_id": "TARGET_D04",
+      "text": "我觉得所谓的不可怕其实就是来源于，他的环境造就了这样的他，会有这样的变化很自然而然。大概",
+      "platform": "bilibili",
+      "author_hash": "1457d2631e31c8f5db8ef58e",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0061c2657e356d257e29",
+      "anonymous_id": "TARGET_D04",
+      "text": "生物都会改变自己适应环境吧",
+      "platform": "bilibili",
+      "author_hash": "f0eeeb6ade387bbfe9edefa8",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_5d65c7815dd547bcc77f",
+      "anonymous_id": "TARGET_D04",
+      "text": "那照你这么说防不胜防 [TARGET]那明显现实中看不出破绽的怎么防 正常事也怀疑吗 这",
+      "platform": "bilibili",
+      "author_hash": "10403bdf9456f02d688ec7ac",
+      "language": "zh",
+      "score": 0.42403027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_26fc841c7566b8c1a6ed",
+      "anonymous_id": "TARGET_D04",
+      "text": "剧版[TARGET]感觉到后面他自己都不能控制自己的行为了，命运只给了他单项选择，有点一步错步步错的感jio",
+      "platform": "bilibili",
+      "author_hash": "77bd2104fb5b3b77cafe5179",
+      "language": "zh",
+      "score": 0.41641688,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_bec6d1061eb1c450b02e",
+      "anonymous_id": "TARGET_D04",
+      "text": "对，他只是限制了自由，并没有进行其他的危害行为。而且，她爬上桌子怎么都感觉是被害人自陷风险呢。",
+      "platform": "youtube",
+      "author_hash": "847de1474c73f72a4f0f968e",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3a0f2f18b07fc18fb70d",
+      "anonymous_id": "TARGET_D04",
+      "text": "他真的很恐怖啊 摆出一副无辜的样子算计了那么多事情 还是那么小的年纪 越想越细思极恐",
+      "platform": "bilibili",
+      "author_hash": "893766211f39b9e348a12220",
+      "language": "zh",
+      "score": 0.39756408,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_7f25691e884b0363865f",
+      "anonymous_id": "TARGET_D04",
+      "text": "谁还不是道貌岸然 虚与委蛇 心知肚明 装傻充愣",
+      "platform": "bilibili",
+      "author_hash": "620aaf25251ecc0be6278ec6",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_682a6e8bc46e14c36eac",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]如果不是为了普普和严良着想为什么要放他们进门为什么要多次帮他们？",
+      "platform": "bilibili",
+      "author_hash": "be8d4a852ebeda269640b7d1",
+      "language": "zh",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d7887a1f2bfe2b1eb8be",
+      "anonymous_id": "TARGET_D04",
+      "text": "我觉得，为了过审，分析的太谨小慎微了。[TARGET]一直在演，在什么人面前就演什么样子，[TARGET]百分百想严良死的，无论是相机还是空卡，他都交给严良，给他下套，把他逼到深渊。这有2个肯定的原因：①在影片里，是看着严良掉下船的，说明他心底里是一定想严良死的，包括东升，即使是在大家看来要伤害自己杀人犯，他也要避免直接杀人，他不愿别人看到是他亲自动过手，至少要让大家去相信自己真的不杀人；②[TARGET]从始至终要让所有人相信的就1个，万事自己都没有直接动手，自己需要脱罪。整部影片他都没有动手杀死人。综上，这部影片应该是[TARGET]的笔录，是他最后从东升手里被“救”后写的笔录。从厉害得失上讲，所有受益人只有[TARGET]一个人，只有他收获了【恢复正常】。其他人刚开始追寻的东西，突然半途全都舍弃了，为了钱的突然不要钱了，为了隐藏的突然不藏了，只有[TARGET]的目标从未改变过。大概所有人都直接间接是[TARGET]杀的，整件事都是[TARGET]为自己脱罪编的故事。晶晶就是他主动推下去的，否则无法形成逻辑闭环，否则除了[TARGET]，为什么知道晶晶死亡真相的人必须要死光。大概[TARGET]只是想平息事情，这也是影片的主旨，为了平息一件事情会不断产生新的问题，但[TARGET]都平息了。【他是唯一幸存者】【只有活着的人才能说话】。所谓完美杀人，就是全死光了，就自己没死。所有证据均利于自己，逃脱所有罪责。",
+      "platform": "bilibili",
+      "author_hash": "44a00016c599373d5001fd98",
+      "language": "zh",
+      "score": 0.5979366,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_c04bfa1ac064eff89279",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @审判之主 :被逼自保。",
+      "platform": "bilibili",
+      "author_hash": "6778d2a76d25f5cbfbeb65b8",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_fa6520fbd0b6fa688647",
+      "anonymous_id": "TARGET_D04",
+      "text": "Y. Crusader 我觉得大家想得有点黑暗吧，一定是教唆吗 [TARGET]单纯的希望颜良守信用 而让他删除复制卡的内容不可以吗？后来被张东升听到是谁也想不到的",
+      "platform": "youtube",
+      "author_hash": "d83a577f13735af1be52567e",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_513a26a9166ebcf1d3c8",
+      "anonymous_id": "TARGET_D04",
+      "text": "[USER] 万一拉了一下，下面的人有一刻又真想上来。拉住了。不就。。。。。。。",
+      "platform": "youtube",
+      "author_hash": "b633703d8a23660898e4504a",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0091ad7286aa770cf667",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也觉得，最后严良抓住船边[TARGET]没救应该就是影射，因为严良那时候已经亖了",
+      "platform": "bilibili",
+      "author_hash": "9fb4eb3bcdb5b62de334d104",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_5d65c7815dd547bcc77f",
+      "anonymous_id": "TARGET_D04",
+      "text": "那照你这么说防不胜防 [TARGET]那明显现实中看不出破绽的怎么防 正常事也怀疑吗 这",
+      "platform": "bilibili",
+      "author_hash": "10403bdf9456f02d688ec7ac",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_92a92af3598408387576",
+      "anonymous_id": "TARGET_D04",
+      "text": "自保和主动没啥冲突啊，他主动借张东升之手杀了严良普普不也是为了自保吗？",
+      "platform": "bilibili",
+      "author_hash": "eb5b153b331dd84f21f2ede8",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_db2a9876c110f1c81ba6",
+      "anonymous_id": "TARGET_D04",
+      "text": "没学过法律 我是真的觉得第二个案子有什么过错？让晶晶上楼是普普，[TARGET]上去之后 晶晶看到他之后自己去窗口 而全程[TARGET]上去都是劝人家下来 说他能预知后果？？？难不成冲上去把人抱下来 这种行为不会刺激到对方么 这怎么定成犯罪",
+      "platform": "youtube",
+      "author_hash": "e789f9380ad0360168afac39",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d02bbf2058c77e34d7b4",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @龙来九荒 :对啊 回到我开始的想法了 看妹妹跳楼没有施救 不犯法啊 他也没有救的能力啊 在树枝上[TARGET]真去救自己可能也要没 他如果去救人被看到了不是更能洗脱自己的嫌疑吗",
+      "platform": "bilibili",
+      "author_hash": "ea830ac0142e4f291555c043",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d00638ab40b085a8174c",
+      "anonymous_id": "TARGET_D04",
+      "text": "对，尤其是杀了父亲害怕领不到遗产还把脚挖出来[热][热]",
+      "platform": "bilibili",
+      "author_hash": "91f38db3db33f9e23d039f6c",
+      "language": "zh",
+      "score": 0.68729424,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d4a6a93a24bb483eeb40",
+      "anonymous_id": "TARGET_D04",
+      "text": "不讨厌，就是怕。[捂眼]",
+      "platform": "bilibili",
+      "author_hash": "755aee00a41ae5cd7b4cbeea",
+      "language": "zh",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1b1b0c04915a7f073781",
+      "anonymous_id": "TARGET_D04",
+      "text": "原作里的[TARGET]可不是啥好东西，怕事，s人。剧里要好一些，饱满一些，很多事都是自己迫不得已",
+      "platform": "bilibili",
+      "author_hash": "b94e875dbeb36ebb57c688b8",
+      "language": "zh",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_5bc7efd6d2e4a918596b",
+      "anonymous_id": "TARGET_D04",
+      "text": "可是我怕，我，。。。。。。。又想二刷又不敢看，就害怕的是[TARGET]，最同情的就张东升",
+      "platform": "bilibili",
+      "author_hash": "8e77a6f879c27534726778d0",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_30562601e9b4917fd244",
+      "anonymous_id": "TARGET_D04",
+      "text": "1:58:25背叛，冷漠",
+      "platform": "bilibili",
+      "author_hash": "e50ab649562b34b59108761d",
+      "language": "zh",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3a0f2f18b07fc18fb70d",
+      "anonymous_id": "TARGET_D04",
+      "text": "他真的很恐怖啊 摆出一副无辜的样子算计了那么多事情 还是那么小的年纪 越想越细思极恐",
+      "platform": "bilibili",
+      "author_hash": "893766211f39b9e348a12220",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_44acdb3c4652f3847db4",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]一点也不可怕 可怕的是大人吧 家庭和环境才可怕",
+      "platform": "bilibili",
+      "author_hash": "d06466474d60a8e6dfa1614b",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_01c1a6e6e81ccc1c9c21",
+      "anonymous_id": "TARGET_D04",
+      "text": "可能怕孩子们大喊。他到时候就算砸了，卡还在，难搞。",
+      "platform": "bilibili",
+      "author_hash": "29c7e7f9b6d6c66afc978e30",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_eb840e53a5df216bc21b",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键严良最后赖主角身上还报警，真是猪队友啊，也不想想主角是因为给谁帮忙失去老爸的",
+      "platform": "bilibili",
+      "author_hash": "d71145e06cb79a15f5d3cab9",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f53972dcd256aa9e3171",
+      "anonymous_id": "TARGET_D04",
+      "text": "什麼？ 站著不救人有罪？ 連叫人別鬧也有罪？ 以後每當我看到有人鬧或危及自己時，我立刻離開現場就好了。",
+      "platform": "youtube",
+      "author_hash": "49b225903372886cf1dd133b",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D2-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_fb99b298d3561203f8b1",
+      "anonymous_id": "TARGET_D04",
+      "text": "恰恰相反，现实里一定要远离严良这种人。他这种人认为自己烂命一条，只在乎自己在乎的东西，也会认为自己周围的伙伴也是烂命一条。多少出狱后准备重新开始生活的昔日大哥都是被彦良这种满嘴义气的人从新拉下水的。在彦良心里普普需要30万最重要，之后是正义，在之后他自己或者[TARGET]的前途其实都不重要。为了筹钱可放弃为两个老人伸张正义，等钱到位了才轮到正义。至于[TARGET]的前途他完全没想过。[TARGET]是谁?超级学霸，将来前途光明一片，他岂能让人知道他参与了这种事！严良但凡想过[TARGET]前途远大就不会一句到时候所有事情我来扛，都是我做的。替[TARGET]做决定。他没想过，他就下意识觉得自己是社会大佬，出了事大佬认了，底下马仔不会有大事。但是[TARGET]能和混社会的马仔一样吗？他禁不起一点污点。所以就算是童话结局，[TARGET]都要说我最后悔的就是那天给你开门！记住不把自己命当命的人躲他远点，因为你们就算是利益同盟，他也会因为莫名其妙的原因坏事！",
+      "platform": "bilibili",
+      "author_hash": "2e92c74928ea360bb4595c34",
+      "language": "zh",
+      "score": 0.62758607,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_b6665880801fd370980e",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实张东升选择了童话，而[TARGET]选择了背叛。张东升不愿面对现实，他杀死了妻子全家，以此来保留他心里的圆满。[TARGET]是选择了面对现实，不管用任何手段也要达到他的目的。",
+      "platform": "youtube",
+      "author_hash": "592e69523a7fc4012eca3988",
+      "language": "zh",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0c246e57d19c58296c46",
+      "anonymous_id": "TARGET_D04",
+      "text": "我要是[TARGET]。身临其境，我也会毫不犹豫弄死他爸。毕竟可以继承几千万遗产啊",
+      "platform": "bilibili",
+      "author_hash": "d4796ee651397aac9a262184",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_b3e92ef8d069730ed8d5",
+      "anonymous_id": "TARGET_D04",
+      "text": "他是很理性的人，懂得取舍，所以他杀她和他们是时间问题",
+      "platform": "bilibili",
+      "author_hash": "25e1f81607aad308b795263f",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_6d27429ba6fa44a40d96",
+      "anonymous_id": "TARGET_D04",
+      "text": "不是张东升说愿意买下来的吗，开个高价算敲诈勒索吗",
+      "platform": "youtube",
+      "author_hash": "dae4699d5c75c5ebfc63d45b",
+      "language": "zh",
+      "score": 0.49765623,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_ca28d086dd6451a350ca",
+      "anonymous_id": "TARGET_D04",
+      "text": "说[TARGET]可以原谅的人，我不知道都是怎么想的，一个出卖，利用自己最亲的兄弟朋友人永远不值得被人同情。这种行为比跟在战场上为了自己逃生，放弃和抛弃自己的战友还要可耻一百倍",
+      "platform": "bilibili",
+      "author_hash": "a0cb7b4e431f5c89a0a9d890",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_df740dd2ecb62c0168b3",
+      "anonymous_id": "TARGET_D04",
+      "text": "比如没有能力去救助，毕竟孩子的臂力也是有限的吧？万一救了把自己的命也搭进去了呢？",
+      "platform": "youtube",
+      "author_hash": "b474d2b13cd4892053df5871",
+      "language": "zh",
+      "score": 0.4703473,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_8eade631be60450bd184",
+      "anonymous_id": "TARGET_D04",
+      "text": "居然要求他氪金，实在太可恶了",
+      "platform": "bilibili",
+      "author_hash": "f5694863d2214113ee4f1bb1",
+      "language": "zh",
+      "score": 0.4664567,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_682a6e8bc46e14c36eac",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]如果不是为了普普和严良着想为什么要放他们进门为什么要多次帮他们？",
+      "platform": "bilibili",
+      "author_hash": "be8d4a852ebeda269640b7d1",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_6217f0f641d10c889ee7",
+      "anonymous_id": "TARGET_D04",
+      "text": "不算又当又立，因为严良确实有个由坏变好的成长线。一开始严良是为了普普，可以说是义气，后来是为了正义。有点像前期是他爸，有义气但是无视法律，后期变成了那个退休警察，有正义了。。 严良的作为不是出于私心，只能说他的思想转变，是变好的，但是又相当于间接背叛了[TARGET]，虽然不是他本心。",
+      "platform": "bilibili",
+      "author_hash": "042adc9eea2f68b585a32d3f",
+      "language": "zh",
+      "score": 0.6492228,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_fb99b298d3561203f8b1",
+      "anonymous_id": "TARGET_D04",
+      "text": "恰恰相反，现实里一定要远离严良这种人。他这种人认为自己烂命一条，只在乎自己在乎的东西，也会认为自己周围的伙伴也是烂命一条。多少出狱后准备重新开始生活的昔日大哥都是被彦良这种满嘴义气的人从新拉下水的。在彦良心里普普需要30万最重要，之后是正义，在之后他自己或者[TARGET]的前途其实都不重要。为了筹钱可放弃为两个老人伸张正义，等钱到位了才轮到正义。至于[TARGET]的前途他完全没想过。[TARGET]是谁?超级学霸，将来前途光明一片，他岂能让人知道他参与了这种事！严良但凡想过[TARGET]前途远大就不会一句到时候所有事情我来扛，都是我做的。替[TARGET]做决定。他没想过，他就下意识觉得自己是社会大佬，出了事大佬认了，底下马仔不会有大事。但是[TARGET]能和混社会的马仔一样吗？他禁不起一点污点。所以就算是童话结局，[TARGET]都要说我最后悔的就是那天给你开门！记住不把自己命当命的人躲他远点，因为你们就算是利益同盟，他也会因为莫名其妙的原因坏事！",
+      "platform": "bilibili",
+      "author_hash": "2e92c74928ea360bb4595c34",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1629ca26981462cf0e09",
+      "anonymous_id": "TARGET_D04",
+      "text": "有严良看管，再作恶的话，严良会直接拿出证据击穿他的心理防线。如果他把智商用在正道上，严良就会这么算了",
+      "platform": "bilibili",
+      "author_hash": "d55750270ea99086a509959c",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0052fc73485c6e0553fd",
+      "anonymous_id": "TARGET_D04",
+      "text": "\"[TARGET]\"电视剧素材分析； 站在观众的角度（第3视角），我们知道他为什么要做以及这背后的原因，倘若我们站在当事人的角度，有谁能知道\"[TARGET]\"内心所想？ 人有善恶两面，而父母是孩子的第一任老师，那么父母的教育方法直接影响了孩子善、恶两面的平衡…… 所以……旁观者把作恶的一切都归咎于\"[TARGET]\"显然是不合理的，也就是现在现实中很明显的问题： 人们从来不去问孩子为什么这么做的原因，却直接告诉他不准或禁止这么做！ 很显然，等量代换事件为，父母从不问孩子叛逆的原因，却直接告诉他不准叛逆！ 孩子凭什么听父母的话不准叛逆？难道孩子就不能有属于自己的感受？然而父母会用“你是我们的儿子，就不该叛逆”这样的“孝心”约束孩子，结果显而易见…… 因为人从来不会顾及别人的感受，因为这不是自己的义务，渐渐的，父母不考虑孩子的感受、孩子不考虑父母的感受…… 这和“物竞天择”的道理类似，在危机到来之前，大部分人会认为自己还没个着落，哪有机会管别人呢？所以，同理心、善良……在权威、私欲和金钱面前…… 一个人说自己不与世俗同流合污算个什么？说这些你能做到吗？能像莲花一样出淤泥而不染、毛泽东一样身居闹市仍能静心学习的人才难得可贵！ 正如：经历过邪恶与黑暗后，依然能坚守善良与光明，这才是“性本善”的意义！ ──这是我对电视剧的理解（来自\"权威和利益\"的实验）。",
+      "platform": "bilibili",
+      "author_hash": "513684baf8694aaf015beef1",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1f9439ec8a051262bc58",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @傻兔兔吃小鱼 :普普对伙伴是极其忠诚且体谅的 严良是背对太阳表示他其实是不理解普和朱为什么不报警的 [TARGET]对其他两个同伴现在是极其不坦诚不信任的",
+      "platform": "bilibili",
+      "author_hash": "d999c440d0e7cba30b09eb20",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d4b4fb1fba5e6e0c135d",
+      "anonymous_id": "TARGET_D04",
+      "text": "在交易里，你可以没有诚信，但绝对不能没有信用，这会招致猛烈的报复，这是政治运行的基本逻辑，[TARGET]是个小孩，加上太孤僻，对社会与人的认识不够，犯了个大错误",
+      "platform": "bilibili",
+      "author_hash": "1f6546229c24d0406eda5a92",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_ca28d086dd6451a350ca",
+      "anonymous_id": "TARGET_D04",
+      "text": "说[TARGET]可以原谅的人，我不知道都是怎么想的，一个出卖，利用自己最亲的兄弟朋友人永远不值得被人同情。这种行为比跟在战场上为了自己逃生，放弃和抛弃自己的战友还要可耻一百倍",
+      "platform": "bilibili",
+      "author_hash": "a0cb7b4e431f5c89a0a9d890",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.680539,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_786b834bf0da6e4218b3",
+      "anonymous_id": "TARGET_D04",
+      "text": "没什么毁三观的，逼得自己都活不下去时，你自己还能当善人？",
+      "platform": "bilibili",
+      "author_hash": "842767b946d76354200d4c9d",
+      "language": "zh",
+      "score": 0.67026305,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_df740dd2ecb62c0168b3",
+      "anonymous_id": "TARGET_D04",
+      "text": "比如没有能力去救助，毕竟孩子的臂力也是有限的吧？万一救了把自己的命也搭进去了呢？",
+      "platform": "youtube",
+      "author_hash": "b474d2b13cd4892053df5871",
+      "language": "zh",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d02bbf2058c77e34d7b4",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @龙来九荒 :对啊 回到我开始的想法了 看妹妹跳楼没有施救 不犯法啊 他也没有救的能力啊 在树枝上[TARGET]真去救自己可能也要没 他如果去救人被看到了不是更能洗脱自己的嫌疑吗",
+      "platform": "bilibili",
+      "author_hash": "ea830ac0142e4f291555c043",
+      "language": "zh",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_f312c5cff627cbc592a4",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也是很喜欢他!!感觉非常理性 不过也是利己主义者吧 理性跟这个也有关系",
+      "platform": "bilibili",
+      "author_hash": "1570011c3635bd73e16ab992",
+      "language": "zh",
+      "score": 0.596057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f53972dcd256aa9e3171",
+      "anonymous_id": "TARGET_D04",
+      "text": "什麼？ 站著不救人有罪？ 連叫人別鬧也有罪？ 以後每當我看到有人鬧或危及自己時，我立刻離開現場就好了。",
+      "platform": "youtube",
+      "author_hash": "49b225903372886cf1dd133b",
+      "language": "zh",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_92a92af3598408387576",
+      "anonymous_id": "TARGET_D04",
+      "text": "自保和主动没啥冲突啊，他主动借张东升之手杀了严良普普不也是为了自保吗？",
+      "platform": "bilibili",
+      "author_hash": "eb5b153b331dd84f21f2ede8",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_185ecc02683406121149",
+      "anonymous_id": "TARGET_D04",
+      "text": "有啊，[TARGET]一开始帮忙普普他们勒索，可不是为了他自己哦。反而让自己卷进去了",
+      "platform": "bilibili",
+      "author_hash": "042adc9eea2f68b585a32d3f",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1b4e2a24c3b767176a36",
+      "anonymous_id": "TARGET_D04",
+      "text": "这三个真的是坏小孩，普普有种天真的不顾别人死活的纯粹的恶（自己没有能力救弟弟，为什么要拖累陌生人？",
+      "platform": "bilibili",
+      "author_hash": "d72aa95c395f75fed0d916a6",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D3-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_30562601e9b4917fd244",
+      "anonymous_id": "TARGET_D04",
+      "text": "1:58:25背叛，冷漠",
+      "platform": "bilibili",
+      "author_hash": "e50ab649562b34b59108761d",
+      "language": "zh",
+      "score": 0.7103069,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.6856128,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_6257bef8998683cd8a17",
+      "anonymous_id": "TARGET_D04",
+      "text": "最让人窒息的是，周春红不想让自己在[TARGET]眼中有一点黑点，[TARGET]不想让自己在朱永平眼里有一点黑点，有黑点关系就要破裂，这很让人窒息",
+      "platform": "bilibili",
+      "author_hash": "19d17e8c0d157261a4a09f75",
+      "language": "zh",
+      "score": 0.67026305,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_272133b3f51bc10ae2c4",
+      "anonymous_id": "TARGET_D04",
+      "text": "[USER] 谢谢回复。我看了知乎上不少有关这部剧的答案，很多人喜欢脑补瞎扯和过度解读。我和你的看法挺一致的。 1. 说[TARGET]在麦当劳故意引张东升来偷听，那肯定是过度解读。因为进入洗手间时，张东升还不在门口的洗手池。刚进入之后朱就开口了。张东升即使之后立刻赶来，对话也听得不完整。那么，又怎么能知道复制卡的事。 2. 朱晶晶那是意外坠楼，警察没有确凿证据不可能提出指控的（这里不考虑诱供、逼供等审讯手段）。有点麻烦的是普普。不过么，要证明是普普导致朱晶晶的坠楼，光靠嘴里的DNA证据，是不够的，只能坐实普普的嫌疑而已。决定性的证据来指控普普或[TARGET]，警方手里并没有，或许根本就不存在。 3. 如果[TARGET]直接导致严良坠海身亡，的确是故意杀人。但这只是从这个行为导致的结果来判断。具体的场景要具体判断。这也就是我说的可以有操作的空间。 4. 我认为我国采用的大陆法系和普通法系相比在一些方面有很大的局限，或许反过来也是这样？法律条文是死的，人可是活的。怎么去解读法律，关键还是基于我们所持的立场。 5. 播主算是很耐心地替大众普法了，是很热心的法律人。但我国大部分的法律专家把老百姓当傻子，懒得说。舆论媒体当然也基本没干什么好事。所以，我们自己要明白搞清楚，尤其是边界的问题。",
+      "platform": "youtube",
+      "author_hash": "fa61a4aa03ff06362e88aae1",
+      "language": "zh",
+      "score": 0.60729057,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0052fc73485c6e0553fd",
+      "anonymous_id": "TARGET_D04",
+      "text": "\"[TARGET]\"电视剧素材分析； 站在观众的角度（第3视角），我们知道他为什么要做以及这背后的原因，倘若我们站在当事人的角度，有谁能知道\"[TARGET]\"内心所想？ 人有善恶两面，而父母是孩子的第一任老师，那么父母的教育方法直接影响了孩子善、恶两面的平衡…… 所以……旁观者把作恶的一切都归咎于\"[TARGET]\"显然是不合理的，也就是现在现实中很明显的问题： 人们从来不去问孩子为什么这么做的原因，却直接告诉他不准或禁止这么做！ 很显然，等量代换事件为，父母从不问孩子叛逆的原因，却直接告诉他不准叛逆！ 孩子凭什么听父母的话不准叛逆？难道孩子就不能有属于自己的感受？然而父母会用“你是我们的儿子，就不该叛逆”这样的“孝心”约束孩子，结果显而易见…… 因为人从来不会顾及别人的感受，因为这不是自己的义务，渐渐的，父母不考虑孩子的感受、孩子不考虑父母的感受…… 这和“物竞天择”的道理类似，在危机到来之前，大部分人会认为自己还没个着落，哪有机会管别人呢？所以，同理心、善良……在权威、私欲和金钱面前…… 一个人说自己不与世俗同流合污算个什么？说这些你能做到吗？能像莲花一样出淤泥而不染、毛泽东一样身居闹市仍能静心学习的人才难得可贵！ 正如：经历过邪恶与黑暗后，依然能坚守善良与光明，这才是“性本善”的意义！ ──这是我对电视剧的理解（来自\"权威和利益\"的实验）。",
+      "platform": "bilibili",
+      "author_hash": "513684baf8694aaf015beef1",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0b1c6f1350fffad598c7",
+      "anonymous_id": "TARGET_D04",
+      "text": "不要再说不开门就怎样怎样了，[TARGET]内心是黑暗的，即使没有遇到严良，也会遇到李良，王良，赵良……一个人的思维模式和行为方式已经决定了一切",
+      "platform": "bilibili",
+      "author_hash": "9e5ed1d250e0a60479764128",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_4ee6350467ae876a9f7d",
+      "anonymous_id": "TARGET_D04",
+      "text": "主要是怎么分辨身边有像[TARGET]这种有ab面的人……唉",
+      "platform": "bilibili",
+      "author_hash": "f16b83485e5c18588cda329d",
+      "language": "zh",
+      "score": 0.5249792,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f53972dcd256aa9e3171",
+      "anonymous_id": "TARGET_D04",
+      "text": "什麼？ 站著不救人有罪？ 連叫人別鬧也有罪？ 以後每當我看到有人鬧或危及自己時，我立刻離開現場就好了。",
+      "platform": "youtube",
+      "author_hash": "49b225903372886cf1dd133b",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_daf0ac9ad868d7e292bf",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实按照犯罪心理学来讲，原著的[TARGET]也是很典型的犯罪心结类，离纯粹的恶、也就是所谓的反社会人格和犯罪人格还差得远呢[脱单doge]",
+      "platform": "bilibili",
+      "author_hash": "3351e77f66e628f8b629eca9",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_af50b62ca0d66dd7f694",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]自己复制的空卡不可能不知道，他把严良叫出去再说出这件事估计就是想借刀杀人吧。或者不想让严良知道自己不相信他没有复制过去，想让严良主动放弃报警，不过按[TARGET]的心思来想我觉得是前者。",
+      "platform": "bilibili",
+      "author_hash": "53a429b78fb91cde56aa1fdc",
+      "language": "zh",
+      "score": 0.52887404,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1f9439ec8a051262bc58",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @傻兔兔吃小鱼 :普普对伙伴是极其忠诚且体谅的 严良是背对太阳表示他其实是不理解普和朱为什么不报警的 [TARGET]对其他两个同伴现在是极其不坦诚不信任的",
+      "platform": "bilibili",
+      "author_hash": "d999c440d0e7cba30b09eb20",
+      "language": "zh",
+      "score": 0.48984516,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_351dafd395292fc7b252",
+      "anonymous_id": "TARGET_D04",
+      "text": "差评，博主最后的推论更本就是狗屁，前面第三集的画面已经明确表明朱晶晶是自己失足坠楼，那个时候[TARGET]离她还很远，后面又说是[TARGET]推下或者见死不救。这么割裂和矛盾以后看剧还能有一点信任么？",
+      "platform": "bilibili",
+      "author_hash": "0be17d7680b17537d5ec97d5",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d4b4fb1fba5e6e0c135d",
+      "anonymous_id": "TARGET_D04",
+      "text": "在交易里，你可以没有诚信，但绝对不能没有信用，这会招致猛烈的报复，这是政治运行的基本逻辑，[TARGET]是个小孩，加上太孤僻，对社会与人的认识不够，犯了个大错误",
+      "platform": "bilibili",
+      "author_hash": "1f6546229c24d0406eda5a92",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2e1187eacb2aebb44b11",
+      "anonymous_id": "TARGET_D04",
+      "text": "当时看这部剧的时候，傻傻的相信了[TARGET]，到后面发现是他的日记，那种欺骗的感觉让我很憋屈。",
+      "platform": "bilibili",
+      "author_hash": "cffe39f393b256d0fb2b8af2",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_754597b7118179c80f67",
+      "anonymous_id": "TARGET_D04",
+      "text": "并非出于洗白目的（求生欲），只是单纯地觉得这个角色是比较立体的，弹幕里某些人非把他的所有行为都描成黑的，有人出来说两句别的就非说人家被[TARGET]欺骗了，不对，不能相信[TARGET]也是有相对来说好的一方面的，这就让我很难受，看张东升都知道他还拥有人性的一部分呢？就非得把[TARGET]往那十恶不赦，完全冷漠无情的方向靠？？？",
+      "platform": "bilibili",
+      "author_hash": "3292cc5debde0efff658e39f",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a30633e0784b53fa888b",
+      "anonymous_id": "TARGET_D04",
+      "text": "他就是什么都装作一脸无辜的样子 委屈的样子 还会茶言茶语 一点都不蠢 早就算计好一切把自己撇清了",
+      "platform": "bilibili",
+      "author_hash": "893766211f39b9e348a12220",
+      "language": "zh",
+      "score": 0.3938279,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_ffc3b8af969f44b92f6b",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @花音盒 :而且那时张东升并不相信小孩拍到了他",
+      "platform": "bilibili",
+      "author_hash": "e94b094be1d0843545a89af4",
+      "language": "zh",
+      "score": 0.37534004,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_6e21be665c83016dea85",
+      "anonymous_id": "TARGET_D04",
+      "text": "个人理解这话更多是不相信原著小说里那种没来由又无比精准的恶，意图明显，原著的[TARGET]太为恶而恶了，躲过下毒果汁＋反杀张东升＋伪造日记，比起剧里被推着走的处理略显单薄",
+      "platform": "bilibili",
+      "author_hash": "1b0ed484f256b0e3e809c91d",
+      "language": "zh",
+      "score": 0.37168378,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0052fc73485c6e0553fd",
+      "anonymous_id": "TARGET_D04",
+      "text": "\"[TARGET]\"电视剧素材分析； 站在观众的角度（第3视角），我们知道他为什么要做以及这背后的原因，倘若我们站在当事人的角度，有谁能知道\"[TARGET]\"内心所想？ 人有善恶两面，而父母是孩子的第一任老师，那么父母的教育方法直接影响了孩子善、恶两面的平衡…… 所以……旁观者把作恶的一切都归咎于\"[TARGET]\"显然是不合理的，也就是现在现实中很明显的问题： 人们从来不去问孩子为什么这么做的原因，却直接告诉他不准或禁止这么做！ 很显然，等量代换事件为，父母从不问孩子叛逆的原因，却直接告诉他不准叛逆！ 孩子凭什么听父母的话不准叛逆？难道孩子就不能有属于自己的感受？然而父母会用“你是我们的儿子，就不该叛逆”这样的“孝心”约束孩子，结果显而易见…… 因为人从来不会顾及别人的感受，因为这不是自己的义务，渐渐的，父母不考虑孩子的感受、孩子不考虑父母的感受…… 这和“物竞天择”的道理类似，在危机到来之前，大部分人会认为自己还没个着落，哪有机会管别人呢？所以，同理心、善良……在权威、私欲和金钱面前…… 一个人说自己不与世俗同流合污算个什么？说这些你能做到吗？能像莲花一样出淤泥而不染、毛泽东一样身居闹市仍能静心学习的人才难得可贵！ 正如：经历过邪恶与黑暗后，依然能坚守善良与光明，这才是“性本善”的意义！ ──这是我对电视剧的理解（来自\"权威和利益\"的实验）。",
+      "platform": "bilibili",
+      "author_hash": "513684baf8694aaf015beef1",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0e3de7e3c097d40f9abc",
+      "anonymous_id": "TARGET_D04",
+      "text": "书中原话：（严良不认同地揺头：“也不能怪他们，家庭、社会，都有责任。”）",
+      "platform": "bilibili",
+      "author_hash": "ce3729de777d3e5d91331d2f",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2deab69cb727b0689bd4",
+      "anonymous_id": "TARGET_D04",
+      "text": "[无语]服了很多人看到结果开始推原因，因为结果展现的黑，就把所有前面的[TARGET]去往黑解读。看不到这是个渐变过程。真就还是二极管思维呗[捂脸]",
+      "platform": "bilibili",
+      "author_hash": "1b9a2eee9751257afdd6b338",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_66d48e8f212ce1ae5d71",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @夜啤酒sk :回复 @夜啤酒sk :确实，原书本来只是在分析时用作参考的工具，这群人非得把原书当圣经，看过原书的自己当传教士。把导演的努力视作无物，将角色由一个立体的形象转变为平面的“卑鄙小人”，别人有一点不同意见，就拿着影视区up的推测和分析在弹幕评论里秀优越，我觉得是真的没必要……😅",
+      "platform": "bilibili",
+      "author_hash": "3292cc5debde0efff658e39f",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_14f8b5a8717082009343",
+      "anonymous_id": "TARGET_D04",
+      "text": "确实挺烦过度解读的，因为大部分人不是抱着平等探讨的心态去跟你巴拉巴拉。我看剧的片花也是表达出这么一个成长的主题，出发点是好结果却不尽人意，而不是黑到底的恶。从一开始敲门对人物的描写就可以看出小说和电视剧真是平行世界。主观就带错了，没啥好争吵的。原著怎么怎么样真没必要说。认同楼上对成功点的分析，就是应该看全，看到主要想表达的东西。",
+      "platform": "bilibili",
+      "author_hash": "0a484cd406a31d53e5d33a84",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_e6640cf5b65c55778a1b",
+      "anonymous_id": "TARGET_D04",
+      "text": "那些人对他做很过分的事才是最应该被谴责的[无语]",
+      "platform": "bilibili",
+      "author_hash": "de96240fcd2ee0ac6717716f",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_c04bfa1ac064eff89279",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @审判之主 :被逼自保。",
+      "platform": "bilibili",
+      "author_hash": "6778d2a76d25f5cbfbeb65b8",
+      "language": "zh",
+      "score": 0.44707397,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1629ca26981462cf0e09",
+      "anonymous_id": "TARGET_D04",
+      "text": "有严良看管，再作恶的话，严良会直接拿出证据击穿他的心理防线。如果他把智商用在正道上，严良就会这么算了",
+      "platform": "bilibili",
+      "author_hash": "d55750270ea99086a509959c",
+      "language": "zh",
+      "score": 0.43936244,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_74dc738ef30f4e7bb7e9",
+      "anonymous_id": "TARGET_D04",
+      "text": "推理之王三部曲的三个男主都是突出一个“逼上梁山”，无论是想做个好人结果被逼成一个坏人的[TARGET]，还是想做一个坏人却被逼成了一个好人的江阳，原作里[TARGET]黑化起杀心的时候就是他妈被泼粪他爸还用录音笔试探他，但他真的不想灭普普和耗子的口，因为他根本不怕自己杀人或者借刀杀人暴露，他知道自己没满14岁，哪怕进少管所，他照样能考上大学，而且已经杀了他爸全家，他已经继承了1kw，他自己内心独白就是计划着和普普耗子一起活下去的，可他已经没张东升的证据了，报不了警，而张要灭他们口，所以他做了双重保险，如果张要灭口，那就让普普和耗子的死换张的死和自己的安全，如果张相信他们真的已经没证据了，打算放过他们，那就相安无事，所以他在去张家前自言自语：“就看明天了，无论发生什么，月普、耗子你们都是我最好的朋友”说明他也不知道结果，所以他日记老早就在准备了，但一直到普普死后才赶时间把前半部分补完，他对普普和耗子是有真感情的。 我不知道为什么有人觉得原作里他更黑，是因为b站有几个做原作解读的，养出一帮云读者？还是根本没看懂，完全不知道[TARGET]那句是真话那句是假话？其实很好理解的，[TARGET]是个很有心机的，也是很功利的人，他会演戏，但不会演给死人看，他会撒谎，但绝对不会骗自己，内心独白绝对是真话，一个人的自言自语和行为也绝对是发自内心的，所以我也觉得小说里的[TARGET]比剧版里更立体，既是有善心的，也是被仇恨冲昏头脑的，向往光明可堕入黑暗，三个孩子接受了这么多恶意，内心的“坏”居然只到这个地步，所以我觉得紫金陈起《坏小孩》这个名字是一语双关的，是有反讽的意味在里面的，到底是社会的问题还是这些小孩本身的问题？这些坏小孩真的的坏吗？尤其是最后不明真相的叶警官对普普和耗子行为的点评，你们看的时候内心难道没一团怒火吗？你们觉得这本书最后是想表达叶警官的观点还是严良的观点？",
+      "platform": "bilibili",
+      "author_hash": "da6825591ba9aa16a2792226",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D4-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_9604b1d32fb862734dcf",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @千万孤酌 :世上根本没有好人，或者说人人都是好人",
+      "platform": "bilibili",
+      "author_hash": "4491c108e115b447d7302359",
+      "language": "zh",
+      "score": 0.73987377,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_ffc2e6194703b227c117",
+      "anonymous_id": "TARGET_D04",
+      "text": "他除了三观有问题，其他挑不出什么毛病",
+      "platform": "bilibili",
+      "author_hash": "5f0c5cc65571cada6d215e62",
+      "language": "zh",
+      "score": 0.69562757,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_f312c5cff627cbc592a4",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也是很喜欢他!!感觉非常理性 不过也是利己主义者吧 理性跟这个也有关系",
+      "platform": "bilibili",
+      "author_hash": "1570011c3635bd73e16ab992",
+      "language": "zh",
+      "score": 0.65277284,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.63304734,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_86687214cb4815ecbf93",
+      "anonymous_id": "TARGET_D04",
+      "text": "这部剧所有人的个性都很稀有，就是说他们这种性格的人会存在，但都凑在一起太难得了，人的自我糊弄和调节能力是很强的，相对于极端更容易躺平。",
+      "platform": "bilibili",
+      "author_hash": "c466c428af7361fdedb5c1a3",
+      "language": "zh",
+      "score": 0.63304734,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_19e522c8d9dd7f949dd7",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :我觉得可能是说自己童年的经历，有着相似的父母，被欺凌，孤僻，想长高这种的人设，而不是他杀了人。[笑哭][笑哭]",
+      "platform": "bilibili",
+      "author_hash": "d69faf62d240084cff3641b8",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_b60025b4e842013ccaa5",
+      "anonymous_id": "TARGET_D04",
+      "text": "三观黑暗的原因是因为他没有得到该有的三观教育，在学校被霸凌却被老师敷衍了事，在家没父亲的教育，母亲也时长在外工作，可以说父母对他就是放养状态，一切的三观都得自己去建立去寻找，可不就是会变成这么冷血的人吗？其中还有一个反例就是过分溺爱导致的孩子傲慢于目中无人，这个例子就是朱晶晶，可以说也是溺爱害死了她，作者想要表达的应该就是孩子不能没有教育也不能溺爱",
+      "platform": "bilibili",
+      "author_hash": "5ec71cd66d5d93e6160874fd",
+      "language": "zh",
+      "score": 0.62209207,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_45fb984adecf9e52309f",
+      "anonymous_id": "TARGET_D04",
+      "text": "我觉得所谓的不可怕其实就是来源于，他的环境造就了这样的他，会有这样的变化很自然而然。大概",
+      "platform": "bilibili",
+      "author_hash": "1457d2631e31c8f5db8ef58e",
+      "language": "zh",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d6b833456394fe79c911",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键是，朱这种人为什么会有这种性格？分析的太肤浅",
+      "platform": "bilibili",
+      "author_hash": "f4fe9f51dbea5591f0903859",
+      "language": "zh",
+      "score": 0.5866176,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_78721c074e96345bcb8b",
+      "anonymous_id": "TARGET_D04",
+      "text": "童话和现实都有漏洞，最后一集不少镜头很魔幻，大概率也是在塑造这种割裂感，你不可能找到一个完整的真相，毕竟经历一切的是[TARGET]",
+      "platform": "bilibili",
+      "author_hash": "1b0ed484f256b0e3e809c91d",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_5fc2aa33b10e0262ca66",
+      "anonymous_id": "TARGET_D04",
+      "text": "一想到他们在去六峰山玩之前那段时间可能是他们最开心、幸福的时间，心里就一阵酸",
+      "platform": "bilibili",
+      "author_hash": "5cd615a9ddd6bada9bc82f27",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1b1b0c04915a7f073781",
+      "anonymous_id": "TARGET_D04",
+      "text": "原作里的[TARGET]可不是啥好东西，怕事，s人。剧里要好一些，饱满一些，很多事都是自己迫不得已",
+      "platform": "bilibili",
+      "author_hash": "b94e875dbeb36ebb57c688b8",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d6b833456394fe79c911",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键是，朱这种人为什么会有这种性格？分析的太肤浅",
+      "platform": "bilibili",
+      "author_hash": "f4fe9f51dbea5591f0903859",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_7d21d93be42e973323f7",
+      "anonymous_id": "TARGET_D04",
+      "text": "同感 有时候看他真的觉得很无奈",
+      "platform": "bilibili",
+      "author_hash": "94f9ae458b5cfcd3190e3bdf",
+      "language": "zh",
+      "score": 0.46257016,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_19e522c8d9dd7f949dd7",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :我觉得可能是说自己童年的经历，有着相似的父母，被欺凌，孤僻，想长高这种的人设，而不是他杀了人。[笑哭][笑哭]",
+      "platform": "bilibili",
+      "author_hash": "d69faf62d240084cff3641b8",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2357e28a5695165e0149",
+      "anonymous_id": "TARGET_D04",
+      "text": "很讽刺，[TARGET]痛斥他的父母当年离婚是因为他们只在乎自己，他自己又何尝不是，但凡有一次真话、或者为他人着想，事情都不会发展到这一步",
+      "platform": "bilibili",
+      "author_hash": "245f91d133f5040b50a3cddf",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_25e127c49c741073e7c9",
+      "anonymous_id": "TARGET_D04",
+      "text": "出戏出的快，但我想说不出戏的话可太吓人了[喜极而泣]",
+      "platform": "bilibili",
+      "author_hash": "4a81fc26777eb1d7369ad8ee",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_03b6091f0047b7204377",
+      "anonymous_id": "TARGET_D04",
+      "text": "老鼻子=东北话:贼多。 看过一遍后，剧里最让我不理解有恨又怜悯的就是这个[TARGET]，怎么都琢磨不透他的心里，又觉得他好幼稚。总之不知道他怎么活的这么不通透。东北话不敞亮......看完后觉得自己终于可以走出他们仨的暑假，真的我又重见光明了....终于可以不再想他们的黑暗了。感谢光明.......🤗 你知道为什么豆瓣高评分吗?就是因为大家刚刚经历covid19,现在可以吸口大自然的空气了，就和我重见光明是同样的心情🤗",
+      "platform": "youtube",
+      "author_hash": "fc0c680ff7bcf4dfcbbd41ec",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_4b9a448bb95146aadc16",
+      "anonymous_id": "TARGET_D04",
+      "text": "可能会稍微幸福一点吧，或者没有",
+      "platform": "bilibili",
+      "author_hash": "ac7ce277f63bea9f4804183d",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_86687214cb4815ecbf93",
+      "anonymous_id": "TARGET_D04",
+      "text": "这部剧所有人的个性都很稀有，就是说他们这种性格的人会存在，但都凑在一起太难得了，人的自我糊弄和调节能力是很强的，相对于极端更容易躺平。",
+      "platform": "bilibili",
+      "author_hash": "c466c428af7361fdedb5c1a3",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_6532043a7bccfeb413bf",
+      "anonymous_id": "TARGET_D04",
+      "text": "对我来说就是真实存在于内心[TARGET]",
+      "platform": "bilibili",
+      "author_hash": "0c29d20a5570dd8b857df1f2",
+      "language": "zh",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_7d21d93be42e973323f7",
+      "anonymous_id": "TARGET_D04",
+      "text": "同感 有时候看他真的觉得很无奈",
+      "platform": "bilibili",
+      "author_hash": "94f9ae458b5cfcd3190e3bdf",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_63109352601a4694ebeb",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]才是最真实的人，现实里的人",
+      "platform": "bilibili",
+      "author_hash": "df9f7b1d5eb88dffab42db44",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_bbb8904954b445913197",
+      "anonymous_id": "TARGET_D04",
+      "text": "原著里[TARGET]的心理历程真的挺清晰的，为爱与不爱和前途所逼，为爸爸虚无缥缈的爱而杀人真的表明他真的太缺爱了",
+      "platform": "bilibili",
+      "author_hash": "ce7c7b59c82f3f810926f8e8",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1b1b0c04915a7f073781",
+      "anonymous_id": "TARGET_D04",
+      "text": "原作里的[TARGET]可不是啥好东西，怕事，s人。剧里要好一些，饱满一些，很多事都是自己迫不得已",
+      "platform": "bilibili",
+      "author_hash": "b94e875dbeb36ebb57c688b8",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_312fbfc65f55a8077be8",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]的父母和我的父母有着70%的相似度，甚至我的父母更加…所以当我看[TARGET]，我很理解他，他的某些举动和心态是真真正正的，当时的我所有的。虽然他犯罪是不对的， 但是和网上那些骂他的人不同，我更多的是心疼他。因为原生家庭真的是人一辈子无法磨灭的创伤。",
+      "platform": "bilibili",
+      "author_hash": "345c963fcdc9084a7db1a5a3",
+      "language": "zh",
+      "score": 0.48203897,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_754597b7118179c80f67",
+      "anonymous_id": "TARGET_D04",
+      "text": "并非出于洗白目的（求生欲），只是单纯地觉得这个角色是比较立体的，弹幕里某些人非把他的所有行为都描成黑的，有人出来说两句别的就非说人家被[TARGET]欺骗了，不对，不能相信[TARGET]也是有相对来说好的一方面的，这就让我很难受，看张东升都知道他还拥有人性的一部分呢？就非得把[TARGET]往那十恶不赦，完全冷漠无情的方向靠？？？",
+      "platform": "bilibili",
+      "author_hash": "3292cc5debde0efff658e39f",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0b1c6f1350fffad598c7",
+      "anonymous_id": "TARGET_D04",
+      "text": "不要再说不开门就怎样怎样了，[TARGET]内心是黑暗的，即使没有遇到严良，也会遇到李良，王良，赵良……一个人的思维模式和行为方式已经决定了一切",
+      "platform": "bilibili",
+      "author_hash": "9e5ed1d250e0a60479764128",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_daf0ac9ad868d7e292bf",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实按照犯罪心理学来讲，原著的[TARGET]也是很典型的犯罪心结类，离纯粹的恶、也就是所谓的反社会人格和犯罪人格还差得远呢[脱单doge]",
+      "platform": "bilibili",
+      "author_hash": "3351e77f66e628f8b629eca9",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D5-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_86687214cb4815ecbf93",
+      "anonymous_id": "TARGET_D04",
+      "text": "这部剧所有人的个性都很稀有，就是说他们这种性格的人会存在，但都凑在一起太难得了，人的自我糊弄和调节能力是很强的，相对于极端更容易躺平。",
+      "platform": "bilibili",
+      "author_hash": "c466c428af7361fdedb5c1a3",
+      "language": "zh",
+      "score": 0.7103069,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3af7c554df0f0d8971b6",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]情绪好稳定[打call]",
+      "platform": "bilibili",
+      "author_hash": "572bd9c36263136d5e61d263",
+      "language": "zh",
+      "score": 0.6989257,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6aba933e46ce613e08c",
+      "anonymous_id": "TARGET_D04",
+      "text": "他的性格跟我一个朋友一毛一样，跟这种人相处会很累，理性过头等于冷血",
+      "platform": "bilibili",
+      "author_hash": "2c1c3f00187d2e7eda16069d",
+      "language": "zh",
+      "score": 0.5941745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0061c2657e356d257e29",
+      "anonymous_id": "TARGET_D04",
+      "text": "生物都会改变自己适应环境吧",
+      "platform": "bilibili",
+      "author_hash": "f0eeeb6ade387bbfe9edefa8",
+      "language": "zh",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_62c9b4684dbc35c4eba0",
+      "anonymous_id": "TARGET_D04",
+      "text": "高智商难敌人生各种压力，最终还是走向暗黑之路~",
+      "platform": "bilibili",
+      "author_hash": "22caf6ed66f803aa8da8731b",
+      "language": "zh",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_63ffc3d340612cd2ac4b",
+      "anonymous_id": "TARGET_D04",
+      "text": "作者只是[TARGET]家庭背景的原型，他没有遇到普普和严良，更不可能发生剧情中的犯罪，但都是原生家庭给自己带来过伤害，而[TARGET]走上了黑暗的道路，但紫金陈靠自己的努力好好学习（他是浙大的）改变了人生轨迹，尽管那些刻到骨子里的伤疤再也抹不掉，但现在的他不会害怕自己的爸爸，也能够说出曾经不愿面对的事。 他说：“这些不是我编的，是真实发生在我身上的” \"如果我还是那个穷苦软弱的少年，这些都将是永远的秘密。\" 我很多时候也想摆脱家庭，但是现在什么都不是，所以只有实现经济独立，精神独立才会强大起来……虽然那些伤害很苦，但是你自怨自艾，不做任何努力，只是控诉自己家庭怎么不好，根本改变不了什么，👌🏻打起精神[打call]我真的好喜欢《[TARGET]》感觉又得到不少动力了。",
+      "platform": "bilibili",
+      "author_hash": "9b82d0a47e4f940d698ad364",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_8b815e3bbe90bb750db2",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]能反抗，能哭能闹就不会发展到后来杀人的结局。生活中处于弱势的人学着反抗，强势方多点收敛，人间悲剧会少点",
+      "platform": "bilibili",
+      "author_hash": "d189020b068ed70eadc4bac5",
+      "language": "zh",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3ac6886bc9b4833539fe",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也觉得不可怕，很多选择都是环境和外界因素造成的。如果是我，不见得比[TARGET]处理的更得当。",
+      "platform": "bilibili",
+      "author_hash": "75124e67b0d64bf841199397",
+      "language": "zh",
+      "score": 0.54441386,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f53972dcd256aa9e3171",
+      "anonymous_id": "TARGET_D04",
+      "text": "什麼？ 站著不救人有罪？ 連叫人別鬧也有罪？ 以後每當我看到有人鬧或危及自己時，我立刻離開現場就好了。",
+      "platform": "youtube",
+      "author_hash": "49b225903372886cf1dd133b",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2c9c5cc0c9d4c3e3c4d9",
+      "anonymous_id": "TARGET_D04",
+      "text": "三连了 讲的真好 人都是有a b面的 看看哪面在哪些人的影响下能发挥出来吧",
+      "platform": "bilibili",
+      "author_hash": "9bfb8062e60ee2bb9f13e8b7",
+      "language": "zh",
+      "score": 0.64207345,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6aba933e46ce613e08c",
+      "anonymous_id": "TARGET_D04",
+      "text": "他的性格跟我一个朋友一毛一样，跟这种人相处会很累，理性过头等于冷血",
+      "platform": "bilibili",
+      "author_hash": "2c1c3f00187d2e7eda16069d",
+      "language": "zh",
+      "score": 0.36080426,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0052fc73485c6e0553fd",
+      "anonymous_id": "TARGET_D04",
+      "text": "\"[TARGET]\"电视剧素材分析； 站在观众的角度（第3视角），我们知道他为什么要做以及这背后的原因，倘若我们站在当事人的角度，有谁能知道\"[TARGET]\"内心所想？ 人有善恶两面，而父母是孩子的第一任老师，那么父母的教育方法直接影响了孩子善、恶两面的平衡…… 所以……旁观者把作恶的一切都归咎于\"[TARGET]\"显然是不合理的，也就是现在现实中很明显的问题： 人们从来不去问孩子为什么这么做的原因，却直接告诉他不准或禁止这么做！ 很显然，等量代换事件为，父母从不问孩子叛逆的原因，却直接告诉他不准叛逆！ 孩子凭什么听父母的话不准叛逆？难道孩子就不能有属于自己的感受？然而父母会用“你是我们的儿子，就不该叛逆”这样的“孝心”约束孩子，结果显而易见…… 因为人从来不会顾及别人的感受，因为这不是自己的义务，渐渐的，父母不考虑孩子的感受、孩子不考虑父母的感受…… 这和“物竞天择”的道理类似，在危机到来之前，大部分人会认为自己还没个着落，哪有机会管别人呢？所以，同理心、善良……在权威、私欲和金钱面前…… 一个人说自己不与世俗同流合污算个什么？说这些你能做到吗？能像莲花一样出淤泥而不染、毛泽东一样身居闹市仍能静心学习的人才难得可贵！ 正如：经历过邪恶与黑暗后，依然能坚守善良与光明，这才是“性本善”的意义！ ──这是我对电视剧的理解（来自\"权威和利益\"的实验）。",
+      "platform": "bilibili",
+      "author_hash": "513684baf8694aaf015beef1",
+      "language": "zh",
+      "score": 0.35362905,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_4ee6350467ae876a9f7d",
+      "anonymous_id": "TARGET_D04",
+      "text": "主要是怎么分辨身边有像[TARGET]这种有ab面的人……唉",
+      "platform": "bilibili",
+      "author_hash": "f16b83485e5c18588cda329d",
+      "language": "zh",
+      "score": 0.33250543,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d6b833456394fe79c911",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键是，朱这种人为什么会有这种性格？分析的太肤浅",
+      "platform": "bilibili",
+      "author_hash": "f4fe9f51dbea5591f0903859",
+      "language": "zh",
+      "score": 0.33250543,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0b1c6f1350fffad598c7",
+      "anonymous_id": "TARGET_D04",
+      "text": "不要再说不开门就怎样怎样了，[TARGET]内心是黑暗的，即使没有遇到严良，也会遇到李良，王良，赵良……一个人的思维模式和行为方式已经决定了一切",
+      "platform": "bilibili",
+      "author_hash": "9e5ed1d250e0a60479764128",
+      "language": "zh",
+      "score": 0.32904664,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_30562601e9b4917fd244",
+      "anonymous_id": "TARGET_D04",
+      "text": "1:58:25背叛，冷漠",
+      "platform": "bilibili",
+      "author_hash": "e50ab649562b34b59108761d",
+      "language": "zh",
+      "score": 0.29551446,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1629ca26981462cf0e09",
+      "anonymous_id": "TARGET_D04",
+      "text": "有严良看管，再作恶的话，严良会直接拿出证据击穿他的心理防线。如果他把智商用在正道上，严良就会这么算了",
+      "platform": "bilibili",
+      "author_hash": "d55750270ea99086a509959c",
+      "language": "zh",
+      "score": 0.270172,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_fb99b298d3561203f8b1",
+      "anonymous_id": "TARGET_D04",
+      "text": "恰恰相反，现实里一定要远离严良这种人。他这种人认为自己烂命一条，只在乎自己在乎的东西，也会认为自己周围的伙伴也是烂命一条。多少出狱后准备重新开始生活的昔日大哥都是被彦良这种满嘴义气的人从新拉下水的。在彦良心里普普需要30万最重要，之后是正义，在之后他自己或者[TARGET]的前途其实都不重要。为了筹钱可放弃为两个老人伸张正义，等钱到位了才轮到正义。至于[TARGET]的前途他完全没想过。[TARGET]是谁?超级学霸，将来前途光明一片，他岂能让人知道他参与了这种事！严良但凡想过[TARGET]前途远大就不会一句到时候所有事情我来扛，都是我做的。替[TARGET]做决定。他没想过，他就下意识觉得自己是社会大佬，出了事大佬认了，底下马仔不会有大事。但是[TARGET]能和混社会的马仔一样吗？他禁不起一点污点。所以就算是童话结局，[TARGET]都要说我最后悔的就是那天给你开门！记住不把自己命当命的人躲他远点，因为你们就算是利益同盟，他也会因为莫名其妙的原因坏事！",
+      "platform": "bilibili",
+      "author_hash": "2e92c74928ea360bb4595c34",
+      "language": "zh",
+      "score": 0.26710218,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.2610294,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6aba933e46ce613e08c",
+      "anonymous_id": "TARGET_D04",
+      "text": "他的性格跟我一个朋友一毛一样，跟这种人相处会很累，理性过头等于冷血",
+      "platform": "bilibili",
+      "author_hash": "2c1c3f00187d2e7eda16069d",
+      "language": "zh",
+      "score": 0.56755316,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_38101713263b30c5455d",
+      "anonymous_id": "TARGET_D04",
+      "text": "朱晶晶爬到上面去是想要让下面的人都知道有人在欺负她，[TARGET]对朱晶晶说别闹不一定是担心朱晶晶有危险，也可能只是不想让朱晶晶喊话，所以并不算预见了危险",
+      "platform": "youtube",
+      "author_hash": "bc8e23ad07b716edd9c74b81",
+      "language": "zh",
+      "score": 0.49375027,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_28467c563b38024382e9",
+      "anonymous_id": "TARGET_D04",
+      "text": "每个人都脱不开关系吧……",
+      "platform": "bilibili",
+      "author_hash": "1ae3438b86d37fd501c628f0",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1224d47c213a90a7c37c",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @吱吱吱啊哈哈哈 :[吃瓜]我跟你说有的人就是能把握双方家庭平衡谢谢，只不过看父母愿不愿意提供情绪价值。像[TARGET]他爸是在工地搬砖吗？看他开的车就知道了……而且没钱真的别生孩子真的遭罪",
+      "platform": "bilibili",
+      "author_hash": "e4824045d7424eaa3264369b",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_30562601e9b4917fd244",
+      "anonymous_id": "TARGET_D04",
+      "text": "1:58:25背叛，冷漠",
+      "platform": "bilibili",
+      "author_hash": "e50ab649562b34b59108761d",
+      "language": "zh",
+      "score": 0.4355173,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d4a6a93a24bb483eeb40",
+      "anonymous_id": "TARGET_D04",
+      "text": "不讨厌，就是怕。[捂眼]",
+      "platform": "bilibili",
+      "author_hash": "755aee00a41ae5cd7b4cbeea",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2357e28a5695165e0149",
+      "anonymous_id": "TARGET_D04",
+      "text": "很讽刺，[TARGET]痛斥他的父母当年离婚是因为他们只在乎自己，他自己又何尝不是，但凡有一次真话、或者为他人着想，事情都不会发展到这一步",
+      "platform": "bilibili",
+      "author_hash": "245f91d133f5040b50a3cddf",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1afbc5d87dc38253d960",
+      "anonymous_id": "TARGET_D04",
+      "text": "太压抑了....特别是[TARGET]和母亲的关系，虽然说目前没有离异，但是那种掌控欲和始终居高临下的傲慢让我十分恶心，和我妈是一模一样的，我爱我妈，但是我很讨厌这种不对等的关系，虽然已经上了大学，但是回想起之前家庭关系还是十分恶心，但是已经长大了，以前的事情也不提了，她和以前也不一样了，妈妈很爱我，我也爱我妈，这就够了。",
+      "platform": "bilibili",
+      "author_hash": "0b0b5ed0b94e4b3801543142",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3cff78a19cc54156160f",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @瑞酱家的花小柒 :每个人都面临着选择，环境的确会是很大的影响因素，选择恶有时也会过得更轻松，但我逃不过自己良心的审批。 做错了事就必须承担后果。 选择了恶也就没有了同情的必要。",
+      "platform": "bilibili",
+      "author_hash": "67c761f8ca34f8c9eb804a9f",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_b03870586743f0c1d95b",
+      "anonymous_id": "TARGET_D04",
+      "text": "我记得我第一次看这部剧的时候代入的是[TARGET]，但我现在看这个视频代入的是妈妈 ，我也感受到了丈夫的残忍，自己儿子的背叛，我的伤口在丈夫出轨的那一刻产生，从来没有被缝上过，丈夫和儿子的每一次亲昵都会产生伤口的再次撕裂，每次看见儿子就会想起丈夫的背叛，我努力对儿子好，就好像是在努力让他认为我跟他才是一帮的，我被曾经的盟友背叛，所以迫切地想抓住剩下的另一个盟友，我对儿子的控制就好像是我在对丈夫的控制，我害怕儿子背叛，就好像害怕再次被丈夫背叛，我的每一次狂躁都是一种恐惧，恐惧伤害再次发生。只有当我确认伤害不会再次发生的时候，我才能脱离这种惊弓之鸟的状态。",
+      "platform": "bilibili",
+      "author_hash": "782db7d6cf35b846f6b6c696",
+      "language": "zh",
+      "score": 0.4126248,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D6-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6aba933e46ce613e08c",
+      "anonymous_id": "TARGET_D04",
+      "text": "他的性格跟我一个朋友一毛一样，跟这种人相处会很累，理性过头等于冷血",
+      "platform": "bilibili",
+      "author_hash": "2c1c3f00187d2e7eda16069d",
+      "language": "zh",
+      "score": 0.60168713,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2c9c5cc0c9d4c3e3c4d9",
+      "anonymous_id": "TARGET_D04",
+      "text": "三连了 讲的真好 人都是有a b面的 看看哪面在哪些人的影响下能发挥出来吧",
+      "platform": "bilibili",
+      "author_hash": "9bfb8062e60ee2bb9f13e8b7",
+      "language": "zh",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_77fe10992f0f40df08a6",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也很相似，父母离异，父亲再婚，母亲有男友。我随母亲，对我很严格，不讲理但很爱我，有点扭曲，封建。我性格内向，但不同的是我不是全校第一[无语]抱抱",
+      "platform": "bilibili",
+      "author_hash": "342d2a1bf08b9f4cb76a1486",
+      "language": "zh",
+      "score": 0.53276545,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_c82508d5a44af59b6743",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也很相似，父母离异，父亲再婚，母亲有男友。我随母亲，对我很严格，不讲理但很爱我，有点扭曲，封建。我性格内向，但不同的是我不是全校第一[无语]",
+      "platform": "bilibili",
+      "author_hash": "342d2a1bf08b9f4cb76a1486",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_f312c5cff627cbc592a4",
+      "anonymous_id": "TARGET_D04",
+      "text": "我也是很喜欢他!!感觉非常理性 不过也是利己主义者吧 理性跟这个也有关系",
+      "platform": "bilibili",
+      "author_hash": "1570011c3635bd73e16ab992",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d6b833456394fe79c911",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键是，朱这种人为什么会有这种性格？分析的太肤浅",
+      "platform": "bilibili",
+      "author_hash": "f4fe9f51dbea5591f0903859",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_7d21d93be42e973323f7",
+      "anonymous_id": "TARGET_D04",
+      "text": "同感 有时候看他真的觉得很无奈",
+      "platform": "bilibili",
+      "author_hash": "94f9ae458b5cfcd3190e3bdf",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_28467c563b38024382e9",
+      "anonymous_id": "TARGET_D04",
+      "text": "每个人都脱不开关系吧……",
+      "platform": "bilibili",
+      "author_hash": "1ae3438b86d37fd501c628f0",
+      "language": "zh",
+      "score": 0.45481113,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_86687214cb4815ecbf93",
+      "anonymous_id": "TARGET_D04",
+      "text": "这部剧所有人的个性都很稀有，就是说他们这种性格的人会存在，但都凑在一起太难得了，人的自我糊弄和调节能力是很强的，相对于极端更容易躺平。",
+      "platform": "bilibili",
+      "author_hash": "c466c428af7361fdedb5c1a3",
+      "language": "zh",
+      "score": 0.43168002,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_26fc841c7566b8c1a6ed",
+      "anonymous_id": "TARGET_D04",
+      "text": "剧版[TARGET]感觉到后面他自己都不能控制自己的行为了，命运只给了他单项选择，有点一步错步步错的感jio",
+      "platform": "bilibili",
+      "author_hash": "77bd2104fb5b3b77cafe5179",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_bbb8904954b445913197",
+      "anonymous_id": "TARGET_D04",
+      "text": "原著里[TARGET]的心理历程真的挺清晰的，为爱与不爱和前途所逼，为爸爸虚无缥缈的爱而杀人真的表明他真的太缺爱了",
+      "platform": "bilibili",
+      "author_hash": "ce7c7b59c82f3f810926f8e8",
+      "language": "zh",
+      "score": 0.80168754,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3fc9e4551eefac4593fa",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :除了犯罪情节，家庭背景，性格等都是紫金陈的经历",
+      "platform": "bilibili",
+      "author_hash": "0bb007c5b61fe07000d03cfd",
+      "language": "zh",
+      "score": 0.7660137,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_63ffc3d340612cd2ac4b",
+      "anonymous_id": "TARGET_D04",
+      "text": "作者只是[TARGET]家庭背景的原型，他没有遇到普普和严良，更不可能发生剧情中的犯罪，但都是原生家庭给自己带来过伤害，而[TARGET]走上了黑暗的道路，但紫金陈靠自己的努力好好学习（他是浙大的）改变了人生轨迹，尽管那些刻到骨子里的伤疤再也抹不掉，但现在的他不会害怕自己的爸爸，也能够说出曾经不愿面对的事。 他说：“这些不是我编的，是真实发生在我身上的” \"如果我还是那个穷苦软弱的少年，这些都将是永远的秘密。\" 我很多时候也想摆脱家庭，但是现在什么都不是，所以只有实现经济独立，精神独立才会强大起来……虽然那些伤害很苦，但是你自怨自艾，不做任何努力，只是控诉自己家庭怎么不好，根本改变不了什么，👌🏻打起精神[打call]我真的好喜欢《[TARGET]》感觉又得到不少动力了。",
+      "platform": "bilibili",
+      "author_hash": "9b82d0a47e4f940d698ad364",
+      "language": "zh",
+      "score": 0.7660137,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_19e522c8d9dd7f949dd7",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :我觉得可能是说自己童年的经历，有着相似的父母，被欺凌，孤僻，想长高这种的人设，而不是他杀了人。[笑哭][笑哭]",
+      "platform": "bilibili",
+      "author_hash": "d69faf62d240084cff3641b8",
+      "language": "zh",
+      "score": 0.75750744,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_45fb984adecf9e52309f",
+      "anonymous_id": "TARGET_D04",
+      "text": "我觉得所谓的不可怕其实就是来源于，他的环境造就了这样的他，会有这样的变化很自然而然。大概",
+      "platform": "bilibili",
+      "author_hash": "1457d2631e31c8f5db8ef58e",
+      "language": "zh",
+      "score": 0.7531763,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_b60025b4e842013ccaa5",
+      "anonymous_id": "TARGET_D04",
+      "text": "三观黑暗的原因是因为他没有得到该有的三观教育，在学校被霸凌却被老师敷衍了事，在家没父亲的教育，母亲也时长在外工作，可以说父母对他就是放养状态，一切的三观都得自己去建立去寻找，可不就是会变成这么冷血的人吗？其中还有一个反例就是过分溺爱导致的孩子傲慢于目中无人，这个例子就是朱晶晶，可以说也是溺爱害死了她，作者想要表达的应该就是孩子不能没有教育也不能溺爱",
+      "platform": "bilibili",
+      "author_hash": "5ec71cd66d5d93e6160874fd",
+      "language": "zh",
+      "score": 0.74435914,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0052fc73485c6e0553fd",
+      "anonymous_id": "TARGET_D04",
+      "text": "\"[TARGET]\"电视剧素材分析； 站在观众的角度（第3视角），我们知道他为什么要做以及这背后的原因，倘若我们站在当事人的角度，有谁能知道\"[TARGET]\"内心所想？ 人有善恶两面，而父母是孩子的第一任老师，那么父母的教育方法直接影响了孩子善、恶两面的平衡…… 所以……旁观者把作恶的一切都归咎于\"[TARGET]\"显然是不合理的，也就是现在现实中很明显的问题： 人们从来不去问孩子为什么这么做的原因，却直接告诉他不准或禁止这么做！ 很显然，等量代换事件为，父母从不问孩子叛逆的原因，却直接告诉他不准叛逆！ 孩子凭什么听父母的话不准叛逆？难道孩子就不能有属于自己的感受？然而父母会用“你是我们的儿子，就不该叛逆”这样的“孝心”约束孩子，结果显而易见…… 因为人从来不会顾及别人的感受，因为这不是自己的义务，渐渐的，父母不考虑孩子的感受、孩子不考虑父母的感受…… 这和“物竞天择”的道理类似，在危机到来之前，大部分人会认为自己还没个着落，哪有机会管别人呢？所以，同理心、善良……在权威、私欲和金钱面前…… 一个人说自己不与世俗同流合污算个什么？说这些你能做到吗？能像莲花一样出淤泥而不染、毛泽东一样身居闹市仍能静心学习的人才难得可贵！ 正如：经历过邪恶与黑暗后，依然能坚守善良与光明，这才是“性本善”的意义！ ──这是我对电视剧的理解（来自\"权威和利益\"的实验）。",
+      "platform": "bilibili",
+      "author_hash": "513684baf8694aaf015beef1",
+      "language": "zh",
+      "score": 0.72455853,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2c9c5cc0c9d4c3e3c4d9",
+      "anonymous_id": "TARGET_D04",
+      "text": "三连了 讲的真好 人都是有a b面的 看看哪面在哪些人的影响下能发挥出来吧",
+      "platform": "bilibili",
+      "author_hash": "9bfb8062e60ee2bb9f13e8b7",
+      "language": "zh",
+      "score": 0.7151058,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_13029bfa622c96685917",
+      "anonymous_id": "TARGET_D04",
+      "text": "这种人真的有。。。。我自己初中的样子就很像他",
+      "platform": "bilibili",
+      "author_hash": "8a684c7031f86ed195389bd7",
+      "language": "zh",
+      "score": 0.6685341,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_05d9a0c763f3ba3cd027",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :原型，有可能指性格或某些经历，不一定就是爬山啊[doge]",
+      "platform": "bilibili",
+      "author_hash": "d8e5a322d21fd982a16222b6",
+      "language": "zh",
+      "score": 0.6348603,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a30633e0784b53fa888b",
+      "anonymous_id": "TARGET_D04",
+      "text": "他就是什么都装作一脸无辜的样子 委屈的样子 还会茶言茶语 一点都不蠢 早就算计好一切把自己撇清了",
+      "platform": "bilibili",
+      "author_hash": "893766211f39b9e348a12220",
+      "language": "zh",
+      "score": 0.7546258,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_19e522c8d9dd7f949dd7",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :我觉得可能是说自己童年的经历，有着相似的父母，被欺凌，孤僻，想长高这种的人设，而不是他杀了人。[笑哭][笑哭]",
+      "platform": "bilibili",
+      "author_hash": "d69faf62d240084cff3641b8",
+      "language": "zh",
+      "score": 0.7383673,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2c9c5cc0c9d4c3e3c4d9",
+      "anonymous_id": "TARGET_D04",
+      "text": "三连了 讲的真好 人都是有a b面的 看看哪面在哪些人的影响下能发挥出来吧",
+      "platform": "bilibili",
+      "author_hash": "9bfb8062e60ee2bb9f13e8b7",
+      "language": "zh",
+      "score": 0.62392694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.5560139,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_13029bfa622c96685917",
+      "anonymous_id": "TARGET_D04",
+      "text": "这种人真的有。。。。我自己初中的样子就很像他",
+      "platform": "bilibili",
+      "author_hash": "8a684c7031f86ed195389bd7",
+      "language": "zh",
+      "score": 0.5482865,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_73d516cef3b25605cd0e",
+      "anonymous_id": "TARGET_D04",
+      "text": "人啊 在就算是只给自己看的日记中也会说谎",
+      "platform": "bilibili",
+      "author_hash": "cdd962ba37b500cc8ea3b994",
+      "language": "zh",
+      "score": 0.53665286,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_86687214cb4815ecbf93",
+      "anonymous_id": "TARGET_D04",
+      "text": "这部剧所有人的个性都很稀有，就是说他们这种性格的人会存在，但都凑在一起太难得了，人的自我糊弄和调节能力是很强的，相对于极端更容易躺平。",
+      "platform": "bilibili",
+      "author_hash": "c466c428af7361fdedb5c1a3",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d4b4fb1fba5e6e0c135d",
+      "anonymous_id": "TARGET_D04",
+      "text": "在交易里，你可以没有诚信，但绝对不能没有信用，这会招致猛烈的报复，这是政治运行的基本逻辑，[TARGET]是个小孩，加上太孤僻，对社会与人的认识不够，犯了个大错误",
+      "platform": "bilibili",
+      "author_hash": "1f6546229c24d0406eda5a92",
+      "language": "zh",
+      "score": 0.5171807,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_288e560b6f190040e754",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @喜欢阿哞 :这剧火了以后开始人均幻想自己是[TARGET]了。其实你那点破事和水平顶多就是早早领了便当的丁浩。 你以为自己有[TARGET]的经历就等于有[TARGET]的能力，其实你就是被[TARGET]玩弄的丁浩而已。",
+      "platform": "bilibili",
+      "author_hash": "6fc6438d196d0e17ece547af",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_4ee6350467ae876a9f7d",
+      "anonymous_id": "TARGET_D04",
+      "text": "主要是怎么分辨身边有像[TARGET]这种有ab面的人……唉",
+      "platform": "bilibili",
+      "author_hash": "f16b83485e5c18588cda329d",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D7-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a3c281310a2322fe6add",
+      "anonymous_id": "TARGET_D04",
+      "text": "一句老话，别看他在人前做什么，看他一个人私下做了什么",
+      "platform": "bilibili",
+      "author_hash": "7ab6271383ac13aeac6bbb9b",
+      "language": "zh",
+      "score": 0.6165665,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2c9c5cc0c9d4c3e3c4d9",
+      "anonymous_id": "TARGET_D04",
+      "text": "三连了 讲的真好 人都是有a b面的 看看哪面在哪些人的影响下能发挥出来吧",
+      "platform": "bilibili",
+      "author_hash": "9bfb8062e60ee2bb9f13e8b7",
+      "language": "zh",
+      "score": 0.6110107,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_7f25691e884b0363865f",
+      "anonymous_id": "TARGET_D04",
+      "text": "谁还不是道貌岸然 虚与委蛇 心知肚明 装傻充愣",
+      "platform": "bilibili",
+      "author_hash": "620aaf25251ecc0be6278ec6",
+      "language": "zh",
+      "score": 0.5637142,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_33867e0c0a50c09ac24b",
+      "anonymous_id": "TARGET_D04",
+      "text": "其实不是不知道B面，只是选择愿意看到的A面，不愿接受太黑暗的B面，不过生活中还是需要在善事上聪明一点，恶事上愚拙一点，自己不去行不义，在面对别人对自己的行不义时多保护自己一点。我们能力小能做的也只有这样了",
+      "platform": "bilibili",
+      "author_hash": "487d57e4dfcc7bb201abc1f0",
+      "language": "zh",
+      "score": 0.5210812,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_ffc2e6194703b227c117",
+      "anonymous_id": "TARGET_D04",
+      "text": "他除了三观有问题，其他挑不出什么毛病",
+      "platform": "bilibili",
+      "author_hash": "5f0c5cc65571cada6d215e62",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.50546855,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_73d516cef3b25605cd0e",
+      "anonymous_id": "TARGET_D04",
+      "text": "人啊 在就算是只给自己看的日记中也会说谎",
+      "platform": "bilibili",
+      "author_hash": "cdd962ba37b500cc8ea3b994",
+      "language": "zh",
+      "score": 0.5015625,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_351dafd395292fc7b252",
+      "anonymous_id": "TARGET_D04",
+      "text": "差评，博主最后的推论更本就是狗屁，前面第三集的画面已经明确表明朱晶晶是自己失足坠楼，那个时候[TARGET]离她还很远，后面又说是[TARGET]推下或者见死不救。这么割裂和矛盾以后看剧还能有一点信任么？",
+      "platform": "bilibili",
+      "author_hash": "0be17d7680b17537d5ec97d5",
+      "language": "zh",
+      "score": 0.48594117,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_c0ccc7de0d1614adde6b",
+      "anonymous_id": "TARGET_D04",
+      "text": "你用上帝视角看待肯定看出问题，切身一下你是他，感觉好像又没犯过什么罪，最多是一条隐瞒事实罪。",
+      "platform": "youtube",
+      "author_hash": "5b0c464b621f7ad5278a3a78",
+      "language": "zh",
+      "score": 0.47424152,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_5d65c7815dd547bcc77f",
+      "anonymous_id": "TARGET_D04",
+      "text": "那照你这么说防不胜防 [TARGET]那明显现实中看不出破绽的怎么防 正常事也怀疑吗 这",
+      "platform": "bilibili",
+      "author_hash": "10403bdf9456f02d688ec7ac",
+      "language": "zh",
+      "score": 0.42021883,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q1": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_8b815e3bbe90bb750db2",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]能反抗，能哭能闹就不会发展到后来杀人的结局。生活中处于弱势的人学着反抗，强势方多点收敛，人间悲剧会少点",
+      "platform": "bilibili",
+      "author_hash": "d189020b068ed70eadc4bac5",
+      "language": "zh",
+      "score": 0.6456563,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f53972dcd256aa9e3171",
+      "anonymous_id": "TARGET_D04",
+      "text": "什麼？ 站著不救人有罪？ 連叫人別鬧也有罪？ 以後每當我看到有人鬧或危及自己時，我立刻離開現場就好了。",
+      "platform": "youtube",
+      "author_hash": "49b225903372886cf1dd133b",
+      "language": "zh",
+      "score": 0.6366694,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_36bc862e1322dd94cb32",
+      "anonymous_id": "TARGET_D04",
+      "text": "[USER] 问题还是在关系或者你认为的因果关系。怎么证明这里面有因果关系呢？在当时的情境下，一般人的反应是站到高处么？站在地上不能争辩？站在地上不能向外呼喊？[TARGET]哪个行为可以作为因导致了朱晶晶坠楼的果？[TARGET]威胁她了么？逼她到角落了么？她有什么站到高处的必然性？[TARGET]甚至警示她站到高处的风险。[TARGET]都要拉着普普走人了。[TARGET]在争吵中都是处于下风，因在哪里？",
+      "platform": "youtube",
+      "author_hash": "28922d8a85c2a546c89c0dbe",
+      "language": "zh",
+      "score": 0.61471784,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_1629ca26981462cf0e09",
+      "anonymous_id": "TARGET_D04",
+      "text": "有严良看管，再作恶的话，严良会直接拿出证据击穿他的心理防线。如果他把智商用在正道上，严良就会这么算了",
+      "platform": "bilibili",
+      "author_hash": "d55750270ea99086a509959c",
+      "language": "zh",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_f6e2a8899ec20b543be7",
+      "anonymous_id": "TARGET_D04",
+      "text": "第一个为什么确定没有达到使张东升恐惧的地步呢？如果张东升没有恐惧的话为什么要给对方钱呢？张东升在面对三个孩子的时候表现的是很镇定，但看到视频的时候明显有情绪的变化。",
+      "platform": "youtube",
+      "author_hash": "fc6a45da20ce09c1f5dee250",
+      "language": "zh",
+      "score": 0.58282346,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_c04bfa1ac064eff89279",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 @审判之主 :被逼自保。",
+      "platform": "bilibili",
+      "author_hash": "6778d2a76d25f5cbfbeb65b8",
+      "language": "zh",
+      "score": 0.5752063,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_62c9b4684dbc35c4eba0",
+      "anonymous_id": "TARGET_D04",
+      "text": "高智商难敌人生各种压力，最终还是走向暗黑之路~",
+      "platform": "bilibili",
+      "author_hash": "22caf6ed66f803aa8da8731b",
+      "language": "zh",
+      "score": 0.57138395,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d4a6a93a24bb483eeb40",
+      "anonymous_id": "TARGET_D04",
+      "text": "不讨厌，就是怕。[捂眼]",
+      "platform": "bilibili",
+      "author_hash": "755aee00a41ae5cd7b4cbeea",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_38101713263b30c5455d",
+      "anonymous_id": "TARGET_D04",
+      "text": "朱晶晶爬到上面去是想要让下面的人都知道有人在欺负她，[TARGET]对朱晶晶说别闹不一定是担心朱晶晶有危险，也可能只是不想让朱晶晶喊话，所以并不算预见了危险",
+      "platform": "youtube",
+      "author_hash": "bc8e23ad07b716edd9c74b81",
+      "language": "zh",
+      "score": 0.5598677,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_01c1a6e6e81ccc1c9c21",
+      "anonymous_id": "TARGET_D04",
+      "text": "可能怕孩子们大喊。他到时候就算砸了，卡还在，难搞。",
+      "platform": "bilibili",
+      "author_hash": "29c7e7f9b6d6c66afc978e30",
+      "language": "zh",
+      "score": 0.5132781,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q2": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_572a9642e8d37aadbf32",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER]我男友 :是非观他是知道的，理性的人都清楚是非观，但人不可能完全理性，总会有些不理性的行为",
+      "platform": "bilibili",
+      "author_hash": "5dd7bae14753d35c23335630",
+      "language": "zh",
+      "score": 0.6091522,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_05486babd04f1f9fc441",
+      "anonymous_id": "TARGET_D04",
+      "text": "[USER] 从逻辑上讲，当然有，但是不构成刑事责任判定上可以作为依据的因果关系。在日常生活中，发生口角时，人们经常会说“你别走，你把事情说清楚”之类的话，并且阻拦别人离开现场。这种属于常见的行为，虽然在一定程度上达到了限制人身自由的结构，但是这是法律上可以容忍的，因为这种限制的危险性很低。[TARGET]的行为基本就是这类。这类情况一般被认为是虽然被限制人身自由，但是情况远远没有紧急到需要采取危及生命的逃生措施，所以因此而产生的逃脱意外不会要求对方承担刑事责任，但是民事上可以要求赔偿",
+      "platform": "youtube",
+      "author_hash": "0ca27f7d1a2450c634860744",
+      "language": "zh",
+      "score": 0.5521533,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_b782b5d4ee41b4732e68",
+      "anonymous_id": "TARGET_D04",
+      "text": "难说，有些人即使在极端的环境下也不会做到那么理智冷静冷血，我觉得是因为他天生心里有三分遗传的恶加上超高的智商，但是如果能得到好好呵护他也是个好孩子，恶行这种东西是需要天生和后天双重的影响，有些人再怎么被环境影响也不会主动杀人，有些人即使心底有恶的种子但是好好培养也会走上正途，只有天生就有点冷血利己但是环境又极端压抑的人，才会变成这样，所以说[TARGET]确实是学校环境导致和缺乏爱的教育导致的，但也不能否认他异于常人小孩的利己（比如借刀杀了的确爱自己，对他来说完全是善的普普）",
+      "platform": "bilibili",
+      "author_hash": "1602fb61dc9e76db1c0c47af",
+      "language": "zh",
+      "score": 0.5093739,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6ed8734e68e4265c38f",
+      "anonymous_id": "TARGET_D04",
+      "text": "[TARGET]，如果没有这俩小孩出现。这个在这种强掌控欲家教环境下成长起来的 心理扭曲的自闭高知份子，在当年那个时代也大概率走不上正道的",
+      "platform": "bilibili",
+      "author_hash": "16a6a8261ab1c07a11d2078f",
+      "language": "zh",
+      "score": 0.47813892,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_3fc9e4551eefac4593fa",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :除了犯罪情节，家庭背景，性格等都是紫金陈的经历",
+      "platform": "bilibili",
+      "author_hash": "0bb007c5b61fe07000d03cfd",
+      "language": "zh",
+      "score": 0.45093957,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_0b1c6f1350fffad598c7",
+      "anonymous_id": "TARGET_D04",
+      "text": "不要再说不开门就怎样怎样了，[TARGET]内心是黑暗的，即使没有遇到严良，也会遇到李良，王良，赵良……一个人的思维模式和行为方式已经决定了一切",
+      "platform": "bilibili",
+      "author_hash": "9e5ed1d250e0a60479764128",
+      "language": "zh",
+      "score": 0.44321477,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_20fa3a2135cd50051bb0",
+      "anonymous_id": "TARGET_D04",
+      "text": "回复 [USER] :他也是父母离异，母亲条件不是很好，父亲是个富豪，从小学学霸，性格孤僻，浙大毕业，他也说了，他小时候没有遇见普普和严良，也没有成为杀人犯",
+      "platform": "bilibili",
+      "author_hash": "a2defa26a6dc088e83984716",
+      "language": "zh",
+      "score": 0.42785084,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2a99e6b65664efa0ddcf",
+      "anonymous_id": "TARGET_D04",
+      "text": "在那种环境下成长的小孩怎么可能有",
+      "platform": "bilibili",
+      "author_hash": "7aadbef5d6d5a320f75cb80e",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:youtube_925aae82eef80098f84a",
+      "anonymous_id": "TARGET_D04",
+      "text": "限制人身自由，导致受害人逃脱过程中出现意外。这不是因果关系吗？",
+      "platform": "youtube",
+      "author_hash": "78b20b2d0c147bfb1c5d4f51",
+      "language": "zh",
+      "score": 0.40884307,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_d6b833456394fe79c911",
+      "anonymous_id": "TARGET_D04",
+      "text": "关键是，朱这种人为什么会有这种性格？分析的太肤浅",
+      "platform": "bilibili",
+      "author_hash": "f4fe9f51dbea5591f0903859",
+      "language": "zh",
+      "score": 0.40131232,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ],
+  "D8-Q3": [
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a30633e0784b53fa888b",
+      "anonymous_id": "TARGET_D04",
+      "text": "他就是什么都装作一脸无辜的样子 委屈的样子 还会茶言茶语 一点都不蠢 早就算计好一切把自己撇清了",
+      "platform": "bilibili",
+      "author_hash": "893766211f39b9e348a12220",
+      "language": "zh",
+      "score": 0.7413745,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_958f66bbe3b91206f8d3",
+      "anonymous_id": "TARGET_D04",
+      "text": "一开始看剧觉得我对数学的擅长和[TARGET]很像 比较冷静性格 神态也比较像 除了我脾气没他好不会憋着 最后酿成大祸。但是了解完演员本人我发现和本人戏外更像 都喜欢rap 鞋 粤语歌。",
+      "platform": "bilibili",
+      "author_hash": "10403bdf9456f02d688ec7ac",
+      "language": "zh",
+      "score": 0.71351147,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_256609de3c9d24bfb9fe",
+      "anonymous_id": "TARGET_D04",
+      "text": "怎么一个样，人狠话不多啊",
+      "platform": "bilibili",
+      "author_hash": "a3d1b9437a05364279295e8c",
+      "language": "zh",
+      "score": 0.7022034,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a6aba933e46ce613e08c",
+      "anonymous_id": "TARGET_D04",
+      "text": "他的性格跟我一个朋友一毛一样，跟这种人相处会很累，理性过头等于冷血",
+      "platform": "bilibili",
+      "author_hash": "2c1c3f00187d2e7eda16069d",
+      "language": "zh",
+      "score": 0.68729424,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2c9c5cc0c9d4c3e3c4d9",
+      "anonymous_id": "TARGET_D04",
+      "text": "三连了 讲的真好 人都是有a b面的 看看哪面在哪些人的影响下能发挥出来吧",
+      "platform": "bilibili",
+      "author_hash": "9bfb8062e60ee2bb9f13e8b7",
+      "language": "zh",
+      "score": 0.6545415,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_6633b26da1481d59575e",
+      "anonymous_id": "TARGET_D04",
+      "text": "挺搞笑的 救弟弟不能换个别的方式 敢敲诈杀人犯",
+      "platform": "bilibili",
+      "author_hash": "9b6ba8a663e555b355471b70",
+      "language": "zh",
+      "score": 0.6509999,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_2357e28a5695165e0149",
+      "anonymous_id": "TARGET_D04",
+      "text": "很讽刺，[TARGET]痛斥他的父母当年离婚是因为他们只在乎自己，他自己又何尝不是，但凡有一次真话、或者为他人着想，事情都不会发展到这一步",
+      "platform": "bilibili",
+      "author_hash": "245f91d133f5040b50a3cddf",
+      "language": "zh",
+      "score": 0.64744157,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_7f25691e884b0363865f",
+      "anonymous_id": "TARGET_D04",
+      "text": "谁还不是道貌岸然 虚与委蛇 心知肚明 装傻充愣",
+      "platform": "bilibili",
+      "author_hash": "620aaf25251ecc0be6278ec6",
+      "language": "zh",
+      "score": 0.59981334,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_6c4c8d135b82e61efe50",
+      "anonymous_id": "TARGET_D04",
+      "text": "后期的[TARGET]嘴里没一句真话，真的非常让我讨厌这个角色[笑哭]",
+      "platform": "bilibili",
+      "author_hash": "61e8fd52be395b99162192a8",
+      "language": "zh",
+      "score": 0.59040135,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    },
+    {
+      "comment_id": "ce_zhuchaoyang:bilibili_a20c3935c0682989595e",
+      "anonymous_id": "TARGET_D04",
+      "text": "他就在父亲和朋友之间，选择了父亲，你说这话不觉得好笑吗",
+      "platform": "bilibili",
+      "author_hash": "89d917c816f2d6d2f3ec4c60",
+      "language": "zh",
+      "score": 0.5885108,
+      "rank_sources": [
+        "exact_vector",
+        "cohere_rerank"
+      ]
+    }
+  ]
+}

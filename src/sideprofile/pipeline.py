@@ -14,7 +14,7 @@ from .anonymize import anonymize_text, find_identity_leaks
 from .bundle import verify_bundle_manifest
 from .corpus import CommentCorpus, load_character_catalog
 from .llm import LLMClient, MockLLMClient, ProviderSettings
-from .probes import select_probes
+from .probes import PROBES_BY_ID, select_probes
 from .profile import (
     build_person_model,
     cue_coverage,
@@ -22,11 +22,11 @@ from .profile import (
     render_person_model,
 )
 from .report import build_report
-from .retrieval import HybridRetriever
+from .retrieval import Retriever, build_retriever
 from .roleplay import generate_response, judge_response
 from .schema import BenchmarkExample, CharacterSpec, Cue, GenerationRecord, PersonModel, Probe
 
-SUPPORTED_CONDITIONS = ["none", "personality", "raw", "summary", "gold", "ours"]
+SUPPORTED_CONDITIONS = ["none", "personality", "summary", "gold", "ours"]
 
 
 @dataclass
@@ -43,17 +43,27 @@ class ProfileBuilder:
         self,
         corpus: CommentCorpus,
         llm: LLMClient | MockLLMClient,
-        retriever: HybridRetriever,
+        retriever: Retriever,
         *,
+        characters: dict[str, CharacterSpec] | None = None,
         include_synthetic: bool = False,
     ) -> None:
         self.corpus = corpus
         self.llm = llm
         self.retriever = retriever
+        self.characters = characters
         self.include_synthetic = include_synthetic
 
     def build(self, character_id: str, probes: list[Probe]) -> ProfileResult:
-        spec = self.corpus.get_character(character_id)
+        if self.characters is not None:
+            try:
+                spec = self.characters[character_id]
+            except KeyError as exc:
+                raise RuntimeError(
+                    f"frozen catalog is missing character {character_id}"
+                ) from exc
+        else:
+            spec = self.corpus.get_character(character_id)
         comments = self.corpus.comments_for(
             character_id, include_synthetic=self.include_synthetic
         )
@@ -111,17 +121,29 @@ def load_benchmark(path: str | Path) -> list[BenchmarkExample]:
     return examples
 
 
-def _unique_retrieved_text(result: ProfileResult) -> str:
-    seen = set()
-    rows = []
-    for probe_id in sorted(result.retrieval):
-        for item in result.retrieval[probe_id]:
-            if item["comment_id"] in seen:
-                continue
-            seen.add(item["comment_id"])
-            candidate = f"[{item['comment_id']}] {item['text']}"
-            rows.append(candidate)
-    return "\n".join(rows)
+def _probe_question(probe_id: str, language: str) -> str:
+    probe = PROBES_BY_ID[probe_id]
+    return probe.question_zh if language.startswith("zh") else probe.question_en
+
+
+def _probe_comments(items: list[dict]) -> list[dict[str, str]]:
+    return [
+        {
+            "comment_id": str(item["comment_id"]),
+            "platform": str(item.get("platform", "")),
+            "observer": str(item.get("author_hash", "")),
+            "text": str(item["text"]),
+        }
+        for item in items
+    ]
+
+
+def _mask_condition_output(text: str, *, condition: str, result: ProfileResult) -> str:
+    text = anonymize_text(text, result.character)
+    leaks = find_identity_leaks(text, result.character)
+    if leaks:
+        raise RuntimeError(f"{condition} payload leaked private identity strings: {leaks}")
+    return text
 
 
 def _condition_payload(
@@ -130,6 +152,8 @@ def _condition_payload(
     condition: str,
     result: ProfileResult,
 ) -> str:
+    if condition not in SUPPORTED_CONDITIONS:
+        raise ValueError(f"unknown condition: {condition}")
     if condition == "none":
         return ""
     if condition == "ours":
@@ -138,30 +162,65 @@ def _condition_payload(
         if not result.character.gold_profile:
             raise RuntimeError(f"gold condition requested but {result.character.character_id} has no gold profile")
         return anonymize_text(result.character.gold_profile, result.character)
-    raw = _unique_retrieved_text(result)
-    if condition == "raw":
-        return raw
-    if condition not in {"summary", "personality"}:
-        raise ValueError(f"unknown condition: {condition}")
-    instruction = (
-        "Summarize this anonymous person from the supplied third-party comments. Use only the "
-        "comments, preserve uncertainty, do not guess identity, and do not invent facts."
+    local_instruction = (
+        "Summarize what this probe's third-party comments support about the anonymous person in "
+        "relation to the supplied profiling question. Use only this probe's comments, preserve "
+        "uncertainty and disagreement, do not guess identity, and do not invent facts or restate "
+        "unrelated material."
         if condition == "summary"
-        else "Produce an anonymous Big Five personality description from the supplied third-party "
-        "comments. Cover Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism; "
-        "state uncertainty where evidence is insufficient. Do not add biography, motives, situation-"
-        "behavior rules, or identity guesses."
+        else "Extract only Big Five-relevant observations supported by this probe's third-party "
+        "comments about the anonymous person. Discuss only supported dimensions among Openness, "
+        "Conscientiousness, Extraversion, Agreeableness, and Neuroticism; preserve uncertainty and "
+        "disagreement, do not guess identity, and do not add biography or unsupported traits."
     )
+    aggregate_instruction = (
+        "Integrate the supplied per-probe summaries into one anonymous generic person summary. Use "
+        "only the supplied observations, preserve uncertainty, contradictions, and situational "
+        "differences, do not guess identity, and do not invent facts."
+        if condition == "summary"
+        else "Integrate the supplied per-probe observations into one anonymous Big Five personality "
+        "description covering Openness, Conscientiousness, Extraversion, Agreeableness, and "
+        "Neuroticism. Use only supplied observations, preserve uncertainty and contradictions, do "
+        "not guess identity, and do not add biography, motives, or unsupported traits."
+    )
+    observations = []
+    language = str(result.character.language)
+    for probe_id, items in result.retrieval.items():
+        local_text = llm.chat(
+            system=local_instruction,
+            user=json.dumps(
+                {
+                    "anonymous_id": result.character.anonymous_id,
+                    "probe_id": probe_id,
+                    "profiling_question": _probe_question(probe_id, language),
+                    "comments": _probe_comments(items),
+                },
+                ensure_ascii=False,
+            ),
+            agent=f"condition_{condition}:{probe_id}",
+        )
+        observations.append(
+            {
+                "probe_id": probe_id,
+                "observation": _mask_condition_output(
+                    local_text,
+                    condition=condition,
+                    result=result,
+                ),
+            }
+        )
     text = llm.chat(
-        system=instruction,
-        user=raw,
-        agent=f"condition_{condition}",
+        system=aggregate_instruction,
+        user=json.dumps(
+            {
+                "anonymous_id": result.character.anonymous_id,
+                "probe_observations": observations,
+            },
+            ensure_ascii=False,
+        ),
+        agent=f"condition_{condition}:aggregate",
     )
-    text = anonymize_text(text, result.character)
-    leaks = find_identity_leaks(text, result.character)
-    if leaks:
-        raise RuntimeError(f"{condition} payload leaked private identity strings: {leaks}")
-    return text
+    return _mask_condition_output(text, condition=condition, result=result)
 
 
 def load_config(path: str | Path) -> dict[str, Any]:
@@ -237,8 +296,9 @@ class ExperimentRunner:
         llm = LLMClient(settings, trace_path=run_dir / "trace.jsonl")
         retrieval_cfg = self.config.get("retrieval", {})
         vector_store_value = retrieval_cfg.get("vector_store")
-        retriever = HybridRetriever(
-            mode=retrieval_cfg.get("mode", "auto"),
+        env_file = _resolve(self.project_root, provider_cfg.get("env_file", ".env"))
+        retriever = build_retriever(
+            mode=str(retrieval_cfg.get("mode", "vector_rerank")),
             vector_store=(
                 str(
                     _resolve(
@@ -249,16 +309,15 @@ class ExperimentRunner:
                 if vector_store_value
                 else None
             ),
-            embedding_model_key=retrieval_cfg.get(
-                "embedding_model_key", "qwen3-embedding-0.6b"
+            embedding_model_key=str(
+                retrieval_cfg.get("embedding_model", "text-embedding-3-small")
             ),
-            reranker_model=(
-                os.path.expandvars(str(retrieval_cfg["reranker_model"]))
-                if retrieval_cfg.get("reranker_model")
-                else None
+            reranker_model=str(
+                retrieval_cfg.get("reranker_model", "Cohere-rerank-v4.0-pro")
             ),
-            bm25_top_k=int(retrieval_cfg.get("bm25_top_k", 20)),
-            dense_top_k=int(retrieval_cfg.get("dense_top_k", 20)),
+            env_file=str(env_file),
+            rerank_trace_path=str(run_dir / "rerank.trace.jsonl"),
+            candidate_top_k=int(retrieval_cfg.get("candidate_top_k", 20)),
             final_top_k=int(retrieval_cfg.get("final_top_k", 10)),
         )
         profiling_cfg = self.config.get("profiling", {})
@@ -281,10 +340,12 @@ class ExperimentRunner:
         if replicates < 1:
             raise ValueError("run.replicates must be at least 1")
         judge = bool(run_cfg.get("judge", True))
+        catalog = {
+            spec.character_id: spec for spec in load_character_catalog(catalog_path)
+        }
 
-        with CommentCorpus(db_path) as corpus:
+        with CommentCorpus(db_path, read_only=True) as corpus:
             corpus.initialize()
-            corpus.add_characters(load_character_catalog(catalog_path))
             coverage_cfg = data_cfg.get("coverage")
             coverage_audit = None
             if coverage_cfg:
@@ -306,6 +367,7 @@ class ExperimentRunner:
                 corpus,
                 llm,
                 retriever,
+                characters=catalog,
                 include_synthetic=include_synthetic,
             )
             manifest = {

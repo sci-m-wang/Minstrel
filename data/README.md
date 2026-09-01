@@ -7,7 +7,7 @@ This repository must remain private. It includes:
 - character catalogs and identity-masking aliases;
 - source feasibility, corpus coverage, import, experiment, and bundle inventories;
 - relevance decisions and rationales that do not reproduce source comment text;
-- the frozen Qwen3-Embedding-0.6B exact-cosine vector database;
+- the frozen `text-embedding-3-small` exact-cosine vector database and Cohere rerank provenance;
 - synthetic smoke fixtures.
 
 The repository excludes:
