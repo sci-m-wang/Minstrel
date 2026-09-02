@@ -3,11 +3,11 @@
 为保证另一端 Agent 可以在本仓库中零补丁执行，当前正式可执行范围固定为：
 
 - **Panel A / Panel D**：`Anonymous Vanilla / Personality Only / Generic Summary / Anonymous Gold Profile / Ours`，定位为本方法内部条件与消融子实验。Summary、Personality 和 Ours 复用每个 probe 各自的 Top-10；任何处理请求都不会合并 24 个 probe 的原始评论。Gold 使用 benchmark 官方 profile；Vanilla 不使用 persona 信息。条件共用 Actor 与 evaluator，使用模型/服务默认解码且不显式设置 seed。
-- **Panel B 暂移除**：AMADEUS 的官方数据、检索管线及可固定版本实现未随本项目提供，当前不进入默认实验网格或论文结果声明。
-- **Panel C 暂移除**：RoleGPT / RoleLLM、PersonaForge、CoSER 涉及外部代码、专用模型或训练产物，当前无法保证另一端 Agent 零补丁运行，故不进入默认实验网格或结果声明。
-- Panel B/C 可在未来获得并锁定官方仓库、模型权重、数据许可和复现实验版本后恢复；恢复前必须新增预检、适配器和端到端测试。
+- **Panel B 非阻断尝试**：在 Ours 核心预检通过后，使用可获得的 AMADEUS 官方代码、数据和模型原样尝试；缺失或失败如实记录，不阻断 Panel A/D。
+- **Panel C 非阻断尝试**：同样原样尝试 RoleGPT / RoleLLM、PersonaForge、CoSER；不得为可运行而修改、近似或替换方法，失败后继续其他方法和 Ours。
+- 只有固定官方仓库、模型权重、原生数据和官方指标均完整的成功运行才进入跨方法结果表；其余保留为 failed/unavailable 尝试记录。
 
-跨方法主实验对应 Panel B/C；当前尚未冻结可零补丁执行的官方外部方法，因此本仓库现阶段只执行 Panel A/D 内部子实验。本节覆盖下文旧版 Panel B/C 设计；下文相应内容仅作为未来扩展背景，不代表当前实现已支持。
+跨方法主实验对应 Panel B/C。当前仓库将其作为不阻断 Ours 的官方 baseline 尝试轨；是否能进入结果比较由每个方法的官方产物、固定版本、原生数据和官方评测是否完整决定。
 
 ---
 

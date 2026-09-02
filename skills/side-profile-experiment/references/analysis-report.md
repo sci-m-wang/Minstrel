@@ -39,9 +39,11 @@ interval over an unpaired test. Report absolute differences and uncertainty, not
 multiple metrics or ablations, identify the correction method or label exploratory analyses.
 
 Panel A addresses feasibility and reconstruction. Panel D tests Chinese and subtle-character
-generalization. Panels B/C and their AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER comparisons
-are outside the current executable scope and must not appear in result claims. Analyze iconicity and
-identity recoverability as planned, without redefining groups after inspecting scores.
+generalization. Report AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER in a separate external
+baseline section. Include scores only for attempt records with `eligible_for_comparison=true`;
+otherwise report the exact failed/unavailable status and reason. Never treat missing methods as zero
+or let their absence change the Panel A/D analysis. Analyze iconicity and identity recoverability as
+planned, without redefining groups after inspecting scores.
 
 ## Evidence audit
 
@@ -68,6 +70,8 @@ Produce a self-contained Markdown report with:
 9. Limitations: platform selection bias, social-perception bias, model judge limits, licensing, and
    benchmark contamination risk.
 10. Reproduction commands and immutable artifact paths.
+11. External baseline attempt ledger: source revision, native data/checkpoint, status, failure reason,
+    official metric, and comparison eligibility for every planned method.
 
 Never describe a smoke score as model quality, claim causality from an uncontrolled comparison, or
 replace a missing official score with the built-in GPT judge without an explicit auxiliary label.

@@ -213,7 +213,10 @@ def main() -> int:
             "active_panels": scope.get("active_panels"),
             "retained_conditions": scope.get("supported_conditions"),
             "internal_condition_definitions": scope.get("internal_condition_definitions"),
-            "removed_external_baselines": scope.get("removed_external_baselines"),
+            "external_baselines": scope.get("external_baselines"),
+            "external_baseline_attempt_policy": scope.get(
+                "external_baseline_attempt_policy"
+            ),
         },
         "model_registry": {
             "path": "offline/models.yaml",

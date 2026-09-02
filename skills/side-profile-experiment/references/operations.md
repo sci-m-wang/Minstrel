@@ -242,3 +242,13 @@ Do not analyze a run as research evidence unless its `status.json` is completed,
 true, bundle, vector-database, and prepared checksums pass, the frozen vector-recall/Cohere-rerank
 records are complete, all 24 probes
 were used, and the claimed official evaluator artifact exists.
+
+## Non-blocking external baseline lane
+
+After the core preflights pass and its compute is reserved, read `references/external-baselines.md`
+and attempt AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER from any official artifacts already
+supplied on the target. Use only spare capacity or run them after the core. Keep their environments,
+processes, logs, and outputs isolated from the frozen core. Missing assets, dependency failures, and
+runtime failures are recorded per method in `attempt-status.json` and do not block or invalidate
+Panel A/D. Never change a baseline to make it run and never replace a failed baseline with the
+internal synthetic smoke configuration.

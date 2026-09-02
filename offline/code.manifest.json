@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T14:48:31.283405+00:00",
+  "generated_at": "2026-09-02T12:54:16.777751+00:00",
   "project_root_marker": "pyproject.toml",
   "files": [
     {
       "path": "AGENTS.md",
-      "bytes": 1162,
-      "sha256": "99cbd6e8060f9dea2b42c0e945acd980c252fb34488fab01b4e8a70a2c92381e"
+      "bytes": 1361,
+      "sha256": "955114a21574762d2d5d94852f89c914ad26aeeebc792ee0be72a0a5a131e456"
     },
     {
       "path": "README.md",
-      "bytes": 4166,
-      "sha256": "1979846612124538558a1921527eded5643940cfeef491b3697d64110e7d86d4"
+      "bytes": 4272,
+      "sha256": "34902451ec7f4ac670279edc53229477387e05f4b9e0930c06469150666c9232"
     },
     {
       "path": "configs/baselines-smoke.yaml",
@@ -40,8 +40,8 @@
     },
     {
       "path": "configs/scope.yaml",
-      "bytes": 1345,
-      "sha256": "a957d47235a9db566842c328845d3b9b676280bab0be839fd9567c2b7d5093b8"
+      "bytes": 1553,
+      "sha256": "989dd5cd59c9f0e254d32399573f41e663b57ba4fc93c73ddc6a48f8de4397ad"
     },
     {
       "path": "configs/smoke.yaml",
@@ -60,8 +60,8 @@
     },
     {
       "path": "plan.md",
-      "bytes": 24589,
-      "sha256": "acba42b314bfd6029db6c1f56c57de26d01bd17a0c2d79c34d7759ee7d66b74b"
+      "bytes": 24524,
+      "sha256": "db0afda54e40003bbc7f3b5d17f462e49695fa93856477012897d2457d6ac046"
     },
     {
       "path": "pyproject.toml",
@@ -110,8 +110,8 @@
     },
     {
       "path": "scripts/build_experiment_audit.py",
-      "bytes": 10375,
-      "sha256": "89ef311c9f03da7099e870430febc9e55b6294fef2bccb049fc1fbec0fd341b0"
+      "bytes": 10484,
+      "sha256": "e28736101b2e4a2a5e2a9cdf8bbb8a29a0b31d6bcfcd02310bd73ea26963ad45"
     },
     {
       "path": "scripts/build_wheelhouse_manifest.py",
@@ -210,18 +210,18 @@
     },
     {
       "path": "skills/side-profile-experiment/SKILL.md",
-      "bytes": 9739,
-      "sha256": "eb276475fdd6825e216fccf4627e2c97de5713e7f4abe4413602dc13f93021b0"
+      "bytes": 10855,
+      "sha256": "77677920d421c6a10158143e3bca783a70270de4b76ca7101136d50ac5f8ffd6"
     },
     {
       "path": "skills/side-profile-experiment/agents/openai.yaml",
-      "bytes": 435,
-      "sha256": "abceaaf077f928eedff9d55869a1cbf8ca3e1b4df7ce5ec5ecc80e4623b8b72b"
+      "bytes": 431,
+      "sha256": "bce32dd72e0a9afdaa35433fd3a34a7e62f05f1bbb288213a731ba15852b5394"
     },
     {
       "path": "skills/side-profile-experiment/references/analysis-report.md",
-      "bytes": 3845,
-      "sha256": "49006936cf19ae54ae6e4a051c0ab6793f034f4a9f9f735face9650d4d9cf37e"
+      "bytes": 4188,
+      "sha256": "49519ff4ce077724a031d23f90e5d00d449ae69d140f2027c5e0b62d2b449d60"
     },
     {
       "path": "skills/side-profile-experiment/references/data-contract.md",
@@ -229,9 +229,14 @@
       "sha256": "3d1630bed40e0ceafead343b6d609a459449e4b1bd2576636289456cd83ac030"
     },
     {
+      "path": "skills/side-profile-experiment/references/external-baselines.md",
+      "bytes": 3761,
+      "sha256": "fb36e337d52206711a9cca4a133fbf1f395db6a7b31803014717335b268c83ec"
+    },
+    {
       "path": "skills/side-profile-experiment/references/operations.md",
-      "bytes": 12357,
-      "sha256": "2ed7fd49760e869ec2be1c8fa26abd0e25b4722e5586cc97655042c01de92ca5"
+      "bytes": 13030,
+      "sha256": "d159db138f994778b1fd35a550cf4de0349a27789131d6133e60a1ba4a29d79f"
     },
     {
       "path": "skills/side-profile-experiment/scripts/inspect_target.py",
@@ -367,6 +372,11 @@
       "path": "tests/test_corpus.py",
       "bytes": 2714,
       "sha256": "ba8ab6ddaa3be70083bc7b813503d6f7cd2dbc13c7bd8107541f39ea900a1963"
+    },
+    {
+      "path": "tests/test_external_baseline_policy.py",
+      "bytes": 1175,
+      "sha256": "13e9eb4f3ff6e603f866f1f443451a9d80e95350dd5dd55402fe5ab2441a68d1"
     },
     {
       "path": "tests/test_filter_comment_corpus.py",

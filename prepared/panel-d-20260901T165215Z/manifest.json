@@ -221,7 +221,9 @@
     ]
   },
   "input_bundle": "data/manifests/panel-d.json",
-  "input_bundle_sha256": "93dccf4e116a1a97cddf45666a9bee99cf8611a782e28e27b1aed06c0a28e2e2",
+  "input_bundle_sha256": "e8a34e6e5287221394b746914c47a192965ba2ef257a13970c4d7fdcb3f61b7b",
+  "preparation_source_bundle_sha256": "93dccf4e116a1a97cddf45666a9bee99cf8611a782e28e27b1aed06c0a28e2e2",
+  "metadata_refreeze_reason": "External-baseline Skill policy only; conditioning artifacts are unchanged.",
   "llm_usage": {
     "calls": 450,
     "prompt_tokens": 795998,

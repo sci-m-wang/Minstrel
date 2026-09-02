@@ -1,6 +1,6 @@
 ---
 name: side-profile-experiment
-description: Execute, audit, and analyze a locally frozen SideProfile identity-blind character-comment experiment on a GPU machine. Use for deployment, checksum preflight, 24-probe experiment runs, resumption, official evaluation, or evidence-backed reports. Never use it to collect, import, synthesize, repair, or rebuild the comment corpus or benchmark data.
+description: Use when deploying, auditing, executing, or reporting the frozen SideProfile experiment or its official external baseline comparisons on a GPU machine.
 ---
 
 # SideProfile Experiment
@@ -9,11 +9,13 @@ Operate a complete, frozen, read-only experimental input bundle through GPU exec
 reviewable result report. Treat `plan.md` as the design authority, the selected config as the frozen
 run specification, and `data.bundle_manifest` as the checksum authority.
 
-The executable scope is defined by `configs/scope.yaml`: Panels A/D and the five internal conditions
-`none`, `personality`, `summary`, `gold`, and `ours`. These are internal conditions and
-ablations, not the cross-method main experiment. AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER
-are removed until pinned external artifacts and tested adapters exist. Do not reintroduce or claim
-those baselines merely because they remain in the historical sections of `plan.md`.
+The hard-gated executable scope is defined by `configs/scope.yaml`: Panels A/D and the five Ours
+conditions `none`, `personality`, `summary`, `gold`, and `ours`. These are internal conditions and
+ablations, not external baselines. AMADEUS, RoleGPT/RoleLLM, PersonaForge, and CoSER form a separate
+best-effort external baseline lane. Reserve the resources required by the core, then attempt each
+available official implementation unchanged using only remaining capacity or after the core run. A
+baseline failure or missing artifact must be recorded and must not delay the core experiment, change
+its `research_valid` status, or be replaced by an approximation.
 
 ## Hard responsibility boundary
 
@@ -23,8 +25,9 @@ wheelhouse download, connected `text-embedding-3-small` exact-vector constructio
 `Cohere-rerank-v4.0-pro` candidate reranking, GPT-5.6 Sol conditioning preparation,
 prepared-directory freezing, config freezing, and local tests. The
 GPU-side Agent owns only offline environment installation from the supplied wheelhouse, frozen-input
-and prepared-directory verification, static Actor-input token audits, experiment execution, official
-evaluation, analysis, and reporting.
+and prepared-directory verification, static Actor-input token audits, core experiment execution,
+best-effort execution of already supplied official baseline artifacts, official evaluation, analysis,
+and reporting.
 
 On the GPU machine, never:
 
@@ -34,12 +37,15 @@ On the GPU machine, never:
 - run `prepare-conditionings`, read/copy a GPT `.env`, call the Profiler, or reconstruct any profile;
 - add, synthesize, translate, relabel, deduplicate, or delete comments;
 - edit the catalog, gold profiles, benchmark JSONL, config, executable scope, or bundle manifest;
-- replace a missing input, relax coverage, change a baseline, or substitute another retrieval method.
+- replace a missing input, relax coverage, change a baseline, or substitute another retrieval method;
+- make a baseline runnable by editing its method, prompts, data, profiles, checkpoints, or native
+  evaluation procedure.
 
-Installing declared dependencies only from the supplied offline wheelhouse is allowed. If any input,
-model, or wheel is missing, or a checksum/coverage check fails, stop before the first model call and
-report the exact failed check to the local preparation side. A preflight block means the bundle is
-incomplete or changed; it is a safety stop, not an instruction to repair data on the GPU host.
+Installing declared core dependencies only from the supplied offline wheelhouse is allowed. If any
+core input, model, or wheel is missing, or a checksum/coverage check fails, stop before the first core
+model call and report the exact failed check to the local preparation side. A core preflight block
+means the bundle is incomplete or changed; it is a safety stop, not an instruction to repair data on
+the GPU host. Missing optional baseline artifacts affect only that baseline's attempt status.
 
 ## Locate and preflight
 
@@ -69,6 +75,8 @@ Never display `.env` values. Never fix a data-side failure on this host.
 
 - For environment setup, deployment, smoke tests, full execution, artifact locations, or recovery,
   read [references/operations.md](references/operations.md).
+- For AMADEUS, RoleGPT/RoleLLM, PersonaForge, or CoSER discovery and best-effort execution, read
+  [references/external-baselines.md](references/external-baselines.md).
 - For scoring, aggregation, statistical comparison, interpretation, or a paper-ready report, read
   [references/analysis-report.md](references/analysis-report.md).
 
@@ -113,9 +121,14 @@ already have been completed locally before the bundle was frozen.
   the unmodified supplied profile.
 - Do not set or expose `temperature`, `top_p`, or API `seed`; use the model/vLLM/provider defaults for
   every condition. Repeated trials are independent replicates, not explicitly seeded generations.
-- Preserve every external comparison method exactly. If it cannot run from pinned official artifacts
-  without methodological substitutions, report it as unavailable; do not approximate or rewrite it
-  on the GPU host.
+- Preserve every external comparison method exactly. After the core preflights pass and its resources
+  are reserved, attempt every official baseline artifact present on the target, in an isolated
+  environment and output directory. Record `attempt-status.json` whether it completes, fails, or is
+  unavailable. Continue to the next baseline after a failure. Never approximate, rewrite, or silently
+  omit the attempt.
+- Keep baseline availability separate from core validity. Only a completed official baseline run with
+  pinned provenance, native inputs, and its official metric is eligible for a cross-method table.
+  Missing or failed baselines remain explicit unavailable/failed rows and do not invalidate Ours.
 - Treat the corpus, vector database, catalog, benchmark, config, scope file, and bundle manifest as
   immutable inputs.
 - Open frozen SQLite inputs through read-only immutable connections. A preflight or Actor-side read
@@ -129,8 +142,10 @@ already have been completed locally before the bundle was frozen.
 
 ## Finish criteria
 
-A completed panel has a verified prepared-conditioning directory; one completed actor directory per
-pre-registered actor; `generations.jsonl`; the applicable official evaluator artifact; and a final
+A completed core panel has a verified prepared-conditioning directory; one completed actor directory
+per pre-registered actor; `generations.jsonl`; the applicable official evaluator artifact; and a final
 report. Panel A must label General Response as pending human/GPT-4 pairwise evaluation when offline;
-Panel D must contain CharacterRM scores. Report exact paths, hashes, missing cells, and whether every
-run is `research_valid`. Do not claim benchmark results from a synthetic smoke run.
+Panel D must contain CharacterRM scores. The final report must also list one baseline attempt status
+for each planned external method. Report exact paths, hashes, missing cells, and whether every core
+run is `research_valid`. Do not claim benchmark results from a synthetic smoke run or a failed,
+modified, or provenance-unknown baseline.

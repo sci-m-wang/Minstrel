@@ -27,11 +27,12 @@ assets and an offline wheelhouse. It must not collect, import, synthesize, trans
 any experimental input. See
 `data/sources/feasibility.md` for the current platform-access audit.
 
-The executable scope is intentionally limited to Panels A and D with five conditions: `none`,
-`personality`, `summary`, `gold`, and `ours`. Summary, Personality, and Cue extraction process each
-probe's Top-10 independently before their condition-native aggregation. External AMADEUS, RoleGPT/RoleLLM,
-PersonaForge, and CoSER baselines are excluded until their official code, inputs, and model artifacts
-can be pinned and tested. See `configs/scope.yaml`.
+The hard-gated core scope is Panels A and D with five Ours conditions: `none`, `personality`,
+`summary`, `gold`, and `ours`. Summary, Personality, and Cue extraction process each probe's Top-10
+independently before their condition-native aggregation. AMADEUS, RoleGPT/RoleLLM, PersonaForge, and
+CoSER are attempted separately as best-effort official baselines. Missing or failed baseline artifacts
+are reported without blocking the core; no baseline is approximated or modified. See
+`configs/scope.yaml` and the SideProfile Skill's external-baseline reference.
 
 The frozen actor matrix contains only models whose pinned weights are present in the offline asset
 bundle. Llama-3.1-8B-Instruct is sourced specifically from the pinned ModelScope mirror rather than
