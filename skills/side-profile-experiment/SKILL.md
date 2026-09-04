@@ -1,6 +1,6 @@
 ---
 name: side-profile-experiment
-description: Use when deploying, auditing, executing, or reporting the frozen SideProfile experiment or its official external baseline comparisons on a GPU machine.
+description: Use when deploying, auditing, executing, reporting, or delivering the frozen SideProfile experiment or its official external baseline comparisons.
 ---
 
 # SideProfile Experiment
@@ -27,7 +27,10 @@ prepared-directory freezing, config freezing, and local tests. The
 GPU-side Agent owns only offline environment installation from the supplied wheelhouse, frozen-input
 and prepared-directory verification, static Actor-input token audits, core experiment execution,
 best-effort execution of already supplied official baseline artifacts, official evaluation, analysis,
-and reporting.
+reporting, and complete result delivery. The user-authorized delivery destination is
+`https://github.com/sci-m-wang/Minstrel`; verify it is private before uploading research artifacts.
+This permits result export only where target-site network rules allow it, not new experiment inputs
+or external model calls. On a disconnected compute host, use an approved connected transfer host.
 
 On the GPU machine, never:
 
@@ -79,6 +82,9 @@ Never display `.env` values. Never fix a data-side failure on this host.
   [references/external-baselines.md](references/external-baselines.md).
 - For scoring, aggregation, statistical comparison, interpretation, or a paper-ready report, read
   [references/analysis-report.md](references/analysis-report.md).
+- For returning results, recovering an existing result snapshot, or deciding whether handoff is
+  complete, read [references/result-delivery.md](references/result-delivery.md). This is mandatory
+  before the final experiment handoff, including failed or partial runs.
 
 Do not route GPU-side work to `references/data-contract.md`; that file documents work that must
 already have been completed locally before the bundle was frozen.
@@ -141,6 +147,12 @@ already have been completed locally before the bundle was frozen.
   and report the maximum observed tokens and minimum native context remaining by request stage.
 
 ## Finish criteria
+
+Computation completion and delivery completion are separate. A summary ZIP, S3 pointer, local commit,
+or successful model process does not satisfy result delivery. The execution-side Agent must preserve
+and push the detailed artifacts and exact executed source to the verified-private Minstrel repository,
+then verify the remote delivery as specified in `references/result-delivery.md`. Missing original
+files must be disclosed, never reconstructed by new model calls or invented from summaries.
 
 A completed core panel has a verified prepared-conditioning directory; one completed actor directory
 per pre-registered actor; `generations.jsonl`; the applicable official evaluator artifact; and a final

@@ -1,6 +1,10 @@
 # Offline GPU Deployment and Operation
 
 Read this reference for deployment, preflight, staged execution, official evaluation, or recovery.
+Before starting a new run, read [result-delivery.md](result-delivery.md) to arrange durable storage and
+an approved route for publishing detailed results; follow it again at final handoff. For delivery of
+an already completed run, use its existing artifacts and original manifests without restarting models
+or updating its frozen inputs to match newer delivery instructions.
 The connected preparation side has already supplied the repository, frozen data manifests, two
 checksum-verified GPT-5.6 Sol prepared-conditioning directories, model assets, and a Linux/Python 3.11
 wheelhouse. The GPU Agent must not use a network package index, Hugging Face Hub, or a GPT `.env`.

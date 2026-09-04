@@ -1,6 +1,8 @@
 # Analysis and Result Report
 
 Read this reference when analyzing completed runs or preparing a shareable result report.
+Before handing off that report, read [result-delivery.md](result-delivery.md) and push the complete
+underlying results and executed source. A report or aggregate table alone is not the deliverable.
 
 ## Eligibility gate
 
@@ -72,6 +74,9 @@ Produce a self-contained Markdown report with:
 10. Reproduction commands and immutable artifact paths.
 11. External baseline attempt ledger: source revision, native data/checkpoint, status, failure reason,
     official metric, and comparison eligibility for every planned method.
+12. Delivery receipt: verified-private repository, branch, remote commit SHA, artifact index and
+    checksum verification, exact executed-source location, and any missing original files. Keep
+    delivery completeness separate from computation status and `research_valid`.
 
 Never describe a smoke score as model quality, claim causality from an uncontrolled comparison, or
 replace a missing official score with the built-in GPT judge without an explicit auxiliary label.
