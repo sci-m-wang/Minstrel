@@ -6,6 +6,28 @@ contract to every configured panel, Actor, condition and replicate, including co
 partial runs and the available external-baseline artifacts. Do not deliver only selected examples
 or a lightweight review ZIP.
 
+## First decide whether this is delivery-only
+
+Before any new execution, inspect existing run directories, manifests/status files, artifact indexes
+and durable snapshots for the requested experiment. Match the recorded panel, Actor, conditions,
+replicates and input/prepared hashes; check actual files and record-level coverage, not merely a
+`completed` flag or directory name.
+
+- Already run and files complete: verify the existing originals, package them, and push directly.
+  Do not allocate GPUs, start model servers, install the inference environment, regenerate profiles,
+  rerun Actor answers, or repeat completed evaluation/analysis. A user-requested fresh independent
+  experiment is a different task; do not infer one from a delivery request.
+- Already run but files incomplete: recover genuine files from existing snapshots/backups first.
+  If recovery fails, upload the surviving evidence with an explicit missing-file list and partial
+  delivery status. Do not restart the experiment to fill these gaps without separate user direction.
+- No matching run found: report that fact. A delivery-only request does not authorize starting a new
+  experiment. New execution requires an actual execution request and the normal frozen-run preflights.
+
+Keep pending official evaluation labeled pending; it does not authorize new judge/model calls during
+delivery. Missing model weights or an expired GPU allocation do not prevent uploading already complete
+result files. Use the original run's recorded specification rather than refreezing it against this
+newer delivery policy.
+
 ## Preserve originals and establish what exists
 
 For a new run, retain each complete Actor request and raw response, usage, finish reason and errors

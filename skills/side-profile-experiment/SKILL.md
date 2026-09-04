@@ -52,6 +52,15 @@ the GPU host. Missing optional baseline artifacts affect only that baseline's at
 
 ## Locate and preflight
 
+First check whether the requested experiment has already run: inspect existing run manifests,
+directories and stored snapshots before installing dependencies, allocating a GPU or calling a model.
+If the matching runs and their detailed files are complete, proceed directly to verification and
+repository upload under [references/result-delivery.md](references/result-delivery.md). Do not rerun
+generation, evaluation or profiling just to deliver existing results. Delivery-only work does not
+require a live model service or new compute preflights; retain the original execution manifests.
+If files are missing, search existing backups and report the gaps rather than automatically rerunning.
+The setup and preflight steps below apply only when new execution is actually requested and needed.
+
 Before installing anything, read the target machine's applicable project/site rules and inventory its
 deployment contract. Confirm the available GPU types and allocation mechanism, GPU/account limits,
 Python/module policy, network policy, storage quotas and file-count rules, and the approved locations
