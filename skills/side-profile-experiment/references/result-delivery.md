@@ -18,10 +18,12 @@ replicates and input/prepared hashes; check actual files and record-level covera
   rerun Actor answers, or repeat completed evaluation/analysis. A user-requested fresh independent
   experiment is a different task; do not infer one from a delivery request.
 - Already run but files incomplete: recover genuine files from existing snapshots/backups first.
-  If recovery fails, upload the surviving evidence with an explicit missing-file list and partial
-  delivery status. Do not restart the experiment to fill these gaps without separate user direction.
-- No matching run found: report that fact. A delivery-only request does not authorize starting a new
-  experiment. New execution requires an actual execution request and the normal frozen-run preflights.
+  If no complete backup exists, record the missing originals and rerun each affected complete frozen
+  run unit under the normal preflights. Preserve any surviving old evidence, use a new run ID, rerun
+  its applicable official evaluation and aggregation, and deliver the replacement results. Do not
+  modify the design or regenerate only selected cells.
+- No matching run found: execute the requested frozen experiment under the normal preflights, then
+  evaluate, analyze and deliver it.
 
 Keep pending official evaluation labeled pending; it does not authorize new judge/model calls during
 delivery. Missing model weights or an expired GPU allocation do not prevent uploading already complete
@@ -40,9 +42,10 @@ before model calls; request any needed code change from the preparation side.
 For an existing run, inventory the original directories and stored snapshots before claiming that
 files were saved. Open the snapshot and verify its contents; a path, upload receipt or object size is
 not evidence that raw answers and traces are actually present. Recover from an available durable
-copy if the execution machine has been cleared. Do not rerun generation to replace lost originals,
-expand summaries into fabricated records, or label reconstructed requests as actual request traces.
-Deliver available evidence and list missing files explicitly.
+copy if the execution machine has been cleared. Do not expand summaries into fabricated records or
+label a replacement run as the recovered original.
+When no complete backup exists, preserve available evidence and then perform the explicitly required
+replacement execution above.
 
 Before releasing ephemeral storage, ensure the complete artifact set has a verified durable copy.
 An approved object-store snapshot may be an intermediate backup, but it does not replace the final

@@ -58,8 +58,9 @@ If the matching runs and their detailed files are complete, proceed directly to 
 repository upload under [references/result-delivery.md](references/result-delivery.md). Do not rerun
 generation, evaluation or profiling just to deliver existing results. Delivery-only work does not
 require a live model service or new compute preflights; retain the original execution manifests.
-If files are missing, search existing backups and report the gaps rather than automatically rerunning.
-The setup and preflight steps below apply only when new execution is actually requested and needed.
+If files are missing, search existing backups first. If no complete backup exists, disclose the loss
+and rerun the affected complete frozen run unit under the normal preflights, with a new run ID and
+without changing the design. The setup and preflight steps below apply to that replacement execution.
 
 Before installing anything, read the target machine's applicable project/site rules and inventory its
 deployment contract. Confirm the available GPU types and allocation mechanism, GPU/account limits,
@@ -161,7 +162,8 @@ Computation completion and delivery completion are separate. A summary ZIP, S3 p
 or successful model process does not satisfy result delivery. The execution-side Agent must preserve
 and push the detailed artifacts and exact executed source to the Minstrel repository,
 then verify the remote delivery as specified in `references/result-delivery.md`. Missing original
-files must be disclosed, never reconstructed by new model calls or invented from summaries.
+files must be disclosed; if no backup exists, replace them by rerunning the affected complete frozen
+run unit and label it as a new run, never as the recovered original. Never invent files from summaries.
 
 A completed core panel has a verified prepared-conditioning directory; one completed actor directory
 per pre-registered actor; `generations.jsonl`; the applicable official evaluator artifact; and a final
