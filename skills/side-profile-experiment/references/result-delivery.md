@@ -1,7 +1,7 @@
 # Complete Research Result Delivery
 
 The execution-side Agent owns delivery, not just computation. Push the detailed results to
-`https://github.com/sci-m-wang/Minstrel` after verifying that the destination is private. Apply this
+`https://github.com/sci-m-wang/Minstrel`. Apply this
 contract to every configured panel, Actor, condition and replicate, including completed, failed and
 partial runs and the available external-baseline artifacts. Do not deliver only selected examples
 or a lightweight review ZIP.
@@ -69,33 +69,28 @@ cleaned-up implementation, overwrite the original run manifests, or regenerate t
 manifests to make historical execution appear to use the latest Skill. Delivery-only instructions
 can be read in a separate checkout; they do not change the run's recorded execution revision.
 
-## Private-repository publication
+## Repository publication
 
-1. Verify the repository owner/name and current visibility immediately before staging a delivery.
-   Private status from an earlier task is not sufficient. If it is public or cannot be confirmed,
-   do not upload research artifacts; report the issue and request explicit user approval to make it
-   private. Keep delivery blocked until private status can be verified.
-   Do not automatically change visibility or upload first with a promise to make it private later.
-2. Use a separate delivery checkout and a new result branch. Preserve unrelated changes and existing
+1. Use a separate delivery checkout and a new result branch. Preserve unrelated changes and existing
    frozen artifacts. A suitable layout is `deliveries/<delivery-id>/runs/<original-run-id>/`,
    `analysis/`, `control/` and `executed-source/`. Record any path mapping. A reusable source commit
    is sufficient only if all actually executed files are retrievable there; otherwise include a
    source snapshot and patch. Do not force-push or rewrite existing history.
-3. Exclude model/checkpoint weights, environments, wheelhouses, caches, `.env` files, credentials,
+2. Exclude model/checkpoint weights, environments, wheelhouses, caches, `.env` files, credentials,
    authentication headers and author salts. Review staged paths and content without printing secrets.
    If an original trace contains a secret, retain the unmodified original securely outside Git,
    redact only that secret in an explicitly labeled delivery copy, and document the redaction without
    revealing its value. Do not use privacy review to shorten scientific inputs or answers.
-4. The project ignores `runs/`, `results/`, `reports/` and `*.log`. Do not mistake an ignored file for
+3. The project ignores `runs/`, `results/`, `reports/` and `*.log`. Do not mistake an ignored file for
    an uploaded file. Stage only the reviewed delivery paths (including explicitly approved ignored
    logs); never use a broad force-add of the whole workspace or relax global secret exclusions.
-5. Use Git LFS for files exceeding ordinary GitHub blob limits and push the actual LFS objects, not
+4. Use Git LFS for files exceeding ordinary GitHub blob limits and push the actual LFS objects, not
    just pointer files. Do not omit or truncate large traces. If LFS is unavailable, a lossless archive
    split within repository limits is acceptable when accompanied by part hashes and exact reassembly
    instructions; verify that the reassembled files match their originals. An external-storage link
    alone is not an alternative to the requested repository upload. Do not purchase storage or change
    account plans without approval; disclose any blocker and preserve the durable originals.
-6. Commit and push the reviewed delivery branch using the approved connected host. A disconnected
+5. Commit and push the reviewed delivery branch using the approved connected host. A disconnected
    GPU node must hand off the full artifacts through its authorized transfer route to a connected
    host that performs the push; do not ask it to bypass the offline policy. Do not fetch new models,
    call external inference APIs or regenerate data during delivery.
@@ -118,5 +113,5 @@ valid experiment as invalid solely because transfer failed.
 Return the repository URL, branch, pushed commit SHA, artifact-index path, executed-source path,
 remote verification result, missing-original-file list, computation status and `research_valid`.
 Declare delivery complete only when the required detailed artifacts are retrievable and verified in
-the private repository. A local commit, summary ZIP, S3 pointer or successful upload without readback
+the repository. A local commit, summary ZIP, S3 pointer or successful upload without readback
 does not satisfy this finish criterion.

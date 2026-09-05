@@ -28,7 +28,7 @@ GPU-side Agent owns only offline environment installation from the supplied whee
 and prepared-directory verification, static Actor-input token audits, core experiment execution,
 best-effort execution of already supplied official baseline artifacts, official evaluation, analysis,
 reporting, and complete result delivery. The user-authorized delivery destination is
-`https://github.com/sci-m-wang/Minstrel`; verify it is private before uploading research artifacts.
+`https://github.com/sci-m-wang/Minstrel`.
 This permits result export only where target-site network rules allow it, not new experiment inputs
 or external model calls. On a disconnected compute host, use an approved connected transfer host.
 
@@ -159,7 +159,7 @@ already have been completed locally before the bundle was frozen.
 
 Computation completion and delivery completion are separate. A summary ZIP, S3 pointer, local commit,
 or successful model process does not satisfy result delivery. The execution-side Agent must preserve
-and push the detailed artifacts and exact executed source to the verified-private Minstrel repository,
+and push the detailed artifacts and exact executed source to the Minstrel repository,
 then verify the remote delivery as specified in `references/result-delivery.md`. Missing original
 files must be disclosed, never reconstructed by new model calls or invented from summaries.
 

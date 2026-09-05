@@ -74,7 +74,7 @@ Produce a self-contained Markdown report with:
 10. Reproduction commands and immutable artifact paths.
 11. External baseline attempt ledger: source revision, native data/checkpoint, status, failure reason,
     official metric, and comparison eligibility for every planned method.
-12. Delivery receipt: verified-private repository, branch, remote commit SHA, artifact index and
+12. Delivery receipt: repository, branch, remote commit SHA, artifact index and
     checksum verification, exact executed-source location, and any missing original files. Keep
     delivery completeness separate from computation status and `research_valid`.
 
